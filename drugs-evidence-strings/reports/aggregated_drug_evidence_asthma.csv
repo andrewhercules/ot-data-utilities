@@ -1,0 +1,668 @@
+disease,drug,phase,status,target,num_ev_strings
+asthma,FORMOTEROL,3,Completed,ADRB2,74
+asthma,BUDESONIDE,3,Completed,NR3C1,67
+asthma,MONTELUKAST,4,n/a,CYSLTR1,63
+asthma,FLUTICASONE PROPIONATE,3,Completed,NR3C1,60
+asthma,FLUTICASONE PROPIONATE,4,Completed,NR3C1,56
+asthma,PREDNISONE,4,n/a,NR3C1,40
+asthma,ALBUTEROL,3,Completed,ADRB2,40
+asthma,SALMETEROL,4,Completed,ADRB2,39
+asthma,SALMETEROL,3,Completed,ADRB2,38
+asthma,MONTELUKAST,4,Completed,CYSLTR1,34
+asthma,MONTELUKAST,3,Completed,CYSLTR1,33
+asthma,FORMOTEROL,2,Completed,ADRB2,33
+asthma,FLUTICASONE PROPIONATE,2,Completed,NR3C1,32
+asthma,ALBUTEROL,2,Completed,ADRB2,30
+asthma,ALBUTEROL,4,n/a,ADRB2,29
+asthma,BUDESONIDE,4,Completed,NR3C1,27
+asthma,CICLESONIDE,3,Completed,NR3C1,24
+asthma,BECLOMETHASONE DIPROPIONATE,3,Completed,NR3C1,23
+asthma,OMALIZUMAB,4,Completed,IGHE,21
+asthma,FLUTICASONE PROPIONATE,1,Completed,NR3C1,21
+asthma,METHYLPREDNISOLONE,4,n/a,NR3C1,21
+asthma,FLUTICASONE FUROATE,3,Completed,NR3C1,20
+asthma,ALBUTEROL,4,Completed,ADRB2,20
+asthma,FORMOTEROL,4,Completed,ADRB2,19
+asthma,THEOPHYLLINE,4,n/a,PDE4B,19
+asthma,THEOPHYLLINE,4,n/a,PDE4C,19
+asthma,THEOPHYLLINE,4,n/a,PDE4D,19
+asthma,THEOPHYLLINE,4,n/a,ADORA3,19
+asthma,THEOPHYLLINE,4,n/a,ADORA2B,19
+asthma,THEOPHYLLINE,4,n/a,ADORA2A,19
+asthma,THEOPHYLLINE,4,n/a,PDE3B,19
+asthma,THEOPHYLLINE,4,n/a,PDE4A,19
+asthma,THEOPHYLLINE,4,n/a,ADORA1,19
+asthma,THEOPHYLLINE,4,n/a,PDE3A,19
+asthma,FLUTICASONE FUROATE,1,Completed,NR3C1,17
+asthma,OMALIZUMAB,3,Completed,IGHE,17
+asthma,MONTELUKAST,2,Completed,CYSLTR1,17
+asthma,BUDESONIDE,2,Completed,NR3C1,16
+asthma,EPINEPHRINE,4,n/a,ADRA1A,16
+asthma,EPINEPHRINE,4,n/a,ADRA1D,16
+asthma,EPINEPHRINE,4,n/a,ADRA2C,16
+asthma,EPINEPHRINE,4,n/a,ADRA2A,16
+asthma,EPINEPHRINE,4,n/a,ADRA2B,16
+asthma,EPINEPHRINE,4,n/a,ADRA1B,16
+asthma,EPINEPHRINE,4,n/a,ADRB1,16
+asthma,EPINEPHRINE,4,n/a,ADRB2,16
+asthma,EPINEPHRINE,4,n/a,ADRB3,16
+asthma,PREDNISOLONE,4,n/a,NR3C1,16
+asthma,BECLOMETHASONE DIPROPIONATE,2,Completed,NR3C1,15
+asthma,BUDESONIDE,4,n/a,NR3C1,15
+asthma,FLUTICASONE FUROATE,2,Completed,NR3C1,15
+asthma,BUDESONIDE,1,Completed,NR3C1,14
+asthma,TIOTROPIUM,3,Completed,CHRM3,14
+asthma,SALMETEROL,2,Completed,ADRB2,13
+asthma,SALMETEROL,1,Completed,ADRB2,13
+asthma,INDACATEROL,2,Completed,ADRB2,13
+asthma,BECLOMETHASONE DIPROPIONATE,4,Completed,NR3C1,12
+asthma,TERBUTALINE,4,n/a,ADRB2,12
+asthma,FORMOTEROL,1,Completed,ADRB2,12
+asthma,FLUTICASONE PROPIONATE,4,n/a,NR3C1,12
+asthma,VILANTEROL,3,Completed,ADRB2,12
+asthma,HYDROCORTISONE,4,n/a,NR3C1,11
+asthma,MOMETASONE FUROATE,2,Completed,NR3C1,11
+asthma,SALMETEROL,4,n/a,ADRB2,11
+asthma,TIOTROPIUM,2,Completed,CHRM3,10
+asthma,VILANTEROL,2,Completed,ADRB2,10
+asthma,TERBUTALINE,3,Completed,ADRB2,10
+asthma,MONTELUKAST,1,Completed,CYSLTR1,10
+asthma,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,10
+asthma,BENRALIZUMAB,3,Completed,IL5RA,9
+asthma,MEPOLIZUMAB,3,Completed,IL5,9
+asthma,MOMETASONE FUROATE,3,Completed,NR3C1,9
+asthma,FLUTICASONE PROPIONATE,3,Recruiting,NR3C1,9
+asthma,VILANTEROL,1,Completed,ADRB2,9
+asthma,FORMOTEROL,4,Unknown status,ADRB2,8
+asthma,PREDNISOLONE PHOSPHORIC ACID,4,n/a,NR3C1,8
+asthma,SALMETEROL,3,Recruiting,ADRB2,8
+asthma,ZAFIRLUKAST,4,n/a,CYSLTR1,8
+asthma,BUDESONIDE,4,Unknown status,NR3C1,7
+asthma,RESLIZUMAB,3,Completed,IL5,7
+asthma,LEVOSALBUTAMOL,3,Completed,ADRB2,7
+asthma,MOMETASONE FUROATE,4,Completed,NR3C1,7
+asthma,LEBRIKIZUMAB,2,Completed,IL13,7
+asthma,OMALIZUMAB,2,Completed,IGHE,6
+asthma,PREDNISONE,3,Completed,NR3C1,6
+asthma,FLUTICASONE PROPIONATE,4,Terminated,NR3C1,6
+asthma,IPRATROPIUM,4,Completed,CHRM3,6
+asthma,FIBOFLAPON,2,Completed,ALOX5AP,6
+asthma,LEVOSALBUTAMOL,2,Completed,ADRB2,6
+asthma,ROFLUMILAST,3,Completed,PDE4D,5
+asthma,ROFLUMILAST,3,Completed,PDE4A,5
+asthma,ROFLUMILAST,3,Completed,PDE4B,5
+asthma,BENRALIZUMAB,3,Recruiting,IL5RA,5
+asthma,ROFLUMILAST,3,Completed,PDE4C,5
+asthma,ALBUTEROL,1,Completed,ADRB2,5
+asthma,EPINEPHRINE,3,Completed,ADRA1D,4
+asthma,EPINEPHRINE,3,Completed,ADRA2A,4
+asthma,MEPOLIZUMAB,2,Completed,IL5,4
+asthma,EPINEPHRINE,3,Completed,ADRA1B,4
+asthma,EPINEPHRINE,3,Completed,ADRA2B,4
+asthma,EPINEPHRINE,3,Completed,ADRA2C,4
+asthma,EPINEPHRINE,3,Completed,ADRA1A,4
+asthma,ALBUTEROL,3,Terminated,ADRB2,4
+asthma,ALBUTEROL,3,Recruiting,ADRB2,4
+asthma,EPINEPHRINE,3,Completed,ADRB2,4
+asthma,LEBRIKIZUMAB,3,Completed,IL13,4
+asthma,PREDNISOLONE,3,Completed,NR3C1,4
+asthma,CICLESONIDE,4,Completed,NR3C1,4
+asthma,PREDNISONE,4,Completed,NR3C1,4
+asthma,EPINEPHRINE,3,Completed,ADRB1,4
+asthma,PREDNISOLONE,4,Completed,NR3C1,4
+asthma,BUDESONIDE,3,Recruiting,NR3C1,4
+asthma,FIBOFLAPON,1,Completed,ALOX5AP,4
+asthma,FEVIPIPRANT,2,Completed,PTGDR2,4
+asthma,TRALOKINUMAB,3,Completed,IL13,4
+asthma,BECLOMETHASONE DIPROPIONATE,4,n/a,NR3C1,4
+asthma,MONTELUKAST,0,Completed,CYSLTR1,4
+asthma,MOMETASONE FUROATE,4,n/a,NR3C1,4
+asthma,BENRALIZUMAB,2,Completed,IL5RA,4
+asthma,SALMETEROL,4,Terminated,ADRB2,4
+asthma,ARFORMOTEROL,2,Completed,ADRB2,4
+asthma,EPINEPHRINE,3,Completed,ADRB3,4
+asthma,OLODATEROL,2,Completed,ADRB2,4
+asthma,OC000459,2,Completed,PTGDR2,4
+asthma,ROFLUMILAST,2,Completed,PDE4A,3
+asthma,DUPILUMAB,2,Completed,IL4R,3
+asthma,FENOTEROL,3,Completed,ADRB2,3
+asthma,DUPILUMAB,3,Recruiting,IL4R,3
+asthma,PREDNISONE,3,Recruiting,NR3C1,3
+asthma,ENOKIZUMAB,2,Completed,IL9,3
+asthma,FORMOTEROL,4,n/a,ADRB2,3
+asthma,FORMOTEROL,4,Terminated,ADRB2,3
+asthma,FEVIPIPRANT,3,Recruiting,PTGDR2,3
+asthma,FORMOTEROL,3,Recruiting,ADRB2,3
+asthma,ROFLUMILAST,2,Completed,PDE4B,3
+asthma,ROFLUMILAST,2,Completed,PDE4C,3
+asthma,TACROLIMUS,2,Completed,FKBP1A,3
+asthma,FLUTICASONE PROPIONATE,3,Withdrawn,NR3C1,3
+asthma,ALBUTEROL,2,Withdrawn,ADRB2,3
+asthma,THEOPHYLLINE,3,Completed,ADORA1,3
+asthma,TRALOKINUMAB,2,Completed,IL13,3
+asthma,ALBUTEROL,3,"Active, not recruiting",ADRB2,3
+asthma,FEXOFENADINE,3,Completed,HRH1,3
+asthma,FLUTICASONE PROPIONATE,2,Terminated,NR3C1,3
+asthma,TRALOKINUMAB,1,Completed,IL13,3
+asthma,RESLIZUMAB,2,Completed,IL5,3
+asthma,ROFLUMILAST,2,Completed,PDE4D,3
+asthma,DEXAMETHASONE,4,n/a,NR3C1,3
+asthma,ALBUTEROL,4,Unknown status,ADRB2,3
+asthma,THEOPHYLLINE,3,Completed,ADORA2A,3
+asthma,THEOPHYLLINE,3,Completed,PDE4D,3
+asthma,THEOPHYLLINE,3,Completed,PDE4A,3
+asthma,THEOPHYLLINE,3,Completed,PDE4B,3
+asthma,THEOPHYLLINE,4,Completed,PDE3A,3
+asthma,THEOPHYLLINE,4,Completed,ADORA2B,3
+asthma,THEOPHYLLINE,3,Completed,PDE4C,3
+asthma,THEOPHYLLINE,4,Completed,ADORA2A,3
+asthma,IPRATROPIUM,3,Completed,CHRM3,3
+asthma,THEOPHYLLINE,3,Completed,PDE3B,3
+asthma,THEOPHYLLINE,4,Completed,ADORA1,3
+asthma,LEVOSALBUTAMOL,4,Completed,ADRB2,3
+asthma,MEPOLIZUMAB,3,Recruiting,IL5,3
+asthma,OMALIZUMAB,4,Unknown status,IGHE,3
+asthma,BUDESONIDE,4,Terminated,NR3C1,3
+asthma,BUDESONIDE,4,Withdrawn,NR3C1,3
+asthma,THEOPHYLLINE,4,Completed,PDE3B,3
+asthma,THEOPHYLLINE,4,Completed,ADORA3,3
+asthma,THEOPHYLLINE,4,Completed,PDE4A,3
+asthma,THEOPHYLLINE,4,Completed,PDE4C,3
+asthma,THEOPHYLLINE,3,Completed,PDE3A,3
+asthma,THEOPHYLLINE,4,Completed,PDE4D,3
+asthma,MOMETASONE FUROATE,4,Terminated,NR3C1,3
+asthma,THEOPHYLLINE,3,Completed,ADORA3,3
+asthma,THEOPHYLLINE,3,Completed,ADORA2B,3
+asthma,THEOPHYLLINE,4,Completed,PDE4B,3
+asthma,VILANTEROL,4,Completed,ADRB2,2
+asthma,AZD1981,2,Completed,PTGDR2,2
+asthma,MASITINIB,3,"Active, not recruiting",PDGFRA,2
+asthma,MASITINIB,3,"Active, not recruiting",PDGFRB,2
+asthma,ZILEUTON,4,Completed,ALOX5,2
+asthma,MONTELUKAST,2,Withdrawn,CYSLTR1,2
+asthma,VILANTEROL,3,Withdrawn,ADRB2,2
+asthma,MONTELUKAST,2,Unknown status,CYSLTR1,2
+asthma,METHACHOLINE,3,Completed,CHRM3,2
+asthma,NAVARIXIN,2,Completed,CXCR1,2
+asthma,METAPROTERENOL,4,n/a,ADRB2,2
+asthma,MK-1029,1,Completed,PTGDR2,2
+asthma,MK-1029,2,Completed,PTGDR2,2
+asthma,FEVIPIPRANT,3,"Active, not recruiting",PTGDR2,2
+asthma,NAVARIXIN,2,Completed,CXCR2,2
+asthma,ZILEUTON,2,Completed,ALOX5,2
+asthma,ALBUTEROL,3,Withdrawn,ADRB2,2
+asthma,UMECLIDINIUM,3,"Active, not recruiting",CHRM3,2
+asthma,FLUTICASONE FUROATE,4,n/a,NR3C1,2
+asthma,FLUTICASONE FUROATE,3,"Active, not recruiting",NR3C1,2
+asthma,MASITINIB,3,"Active, not recruiting",KIT,2
+asthma,ROSIGLITAZONE,2,Completed,PPARG,2
+asthma,INDACATEROL,3,Completed,ADRB2,2
+asthma,VILANTEROL,3,"Active, not recruiting",ADRB2,2
+asthma,INDACATEROL,1,Completed,ADRB2,2
+Status Asthmaticus,MONTELUKAST,2,Unknown status,CYSLTR1,2
+asthma,PREDNISONE,1,Completed,NR3C1,2
+asthma,PREDNISOLONE,3,Recruiting,NR3C1,2
+asthma,GLYCOPYRRONIUM,4,Completed,CHRM3,2
+asthma,GLYCOPYRRONIUM,4,Completed,CHRM1,2
+asthma,GLYCOPYRRONIUM,2,Completed,CHRM3,2
+asthma,GLYCOPYRRONIUM,2,Completed,CHRM1,2
+asthma,INTERFERON BETA-1A,2,Completed,IFNAR1,2
+asthma,INTERFERON BETA-1A,2,Completed,IFNAR2,2
+asthma,ABEDITEROL,1,Completed,ADRB2,2
+asthma,PROPRANOLOL,2,Completed,ADRB1,2
+asthma,PROPRANOLOL,2,Completed,ADRB2,2
+asthma,ADC3680,2,Completed,PTGDR2,2
+asthma,PREDNISOLONE,2,Completed,NR3C1,2
+asthma,PREDNISOLONE,1,Terminated,NR3C1,2
+asthma,PBF-680,2,Recruiting,ADORA1,2
+asthma,PBF-680,1,Completed,ADORA1,2
+asthma,QAX-576,1,Completed,IL13,2
+asthma,FLUTICASONE PROPIONATE,2,Recruiting,NR3C1,2
+asthma,QUILIZUMAB,2,Completed,IGHE,2
+asthma,LIGELIZUMAB,2,Terminated,IGHE,2
+asthma,INDACATEROL,4,Completed,ADRB2,2
+asthma,MASITINIB,3,"Active, not recruiting",FGFR3,2
+asthma,FLUTICASONE FUROATE,4,Completed,NR3C1,2
+asthma,FLUTICASONE FUROATE,3,Withdrawn,NR3C1,2
+asthma,AZD3199,2,Completed,ADRB2,2
+asthma,ZILEUTON,4,n/a,ALOX5,2
+asthma,EPINEPHRINE,1,Terminated,ADRA2C,2
+asthma,CHOLECALCIFEROL,2,Completed,VDR,2
+asthma,CORTISONE ACETATE,4,n/a,NR3C1,2
+asthma,CICLESONIDE,4,n/a,NR3C1,2
+asthma,BUDESONIDE,3,Terminated,NR3C1,2
+asthma,BUDESONIDE,3,Not yet recruiting,NR3C1,2
+asthma,TIOTROPIUM,4,Completed,CHRM3,2
+asthma,CHOLECALCIFEROL,3,Completed,VDR,2
+asthma,ASM-024,2,Completed,CHRM1,2
+asthma,THEOPHYLLINE,2,Completed,PDE4D,2
+asthma,EPINEPHRINE,1,Terminated,ADRA1A,2
+asthma,EPINEPHRINE,1,Terminated,ADRA1B,2
+asthma,EPINEPHRINE,1,Terminated,ADRA1D,2
+asthma,EPINEPHRINE,1,Terminated,ADRA2A,2
+asthma,EPINEPHRINE,1,Terminated,ADRA2B,2
+asthma,ASM-024,2,Completed,CHRM2,2
+asthma,DEXAMETHASONE,4,Completed,NR3C1,2
+asthma,BUDESONIDE,4,Recruiting,NR3C1,2
+asthma,CARBAMAZEPINE,4,Completed,SCN2A,2
+asthma,THEOPHYLLINE,2,Completed,PDE4C,2
+asthma,CARBAMAZEPINE,4,Completed,SCN1A,2
+asthma,CARBAMAZEPINE,4,Completed,SCN11A,2
+asthma,CARBAMAZEPINE,4,Completed,SCN10A,2
+asthma,THEOPHYLLINE,2,Completed,PDE4A,2
+asthma,THEOPHYLLINE,2,Completed,PDE4B,2
+asthma,THEOPHYLLINE,2,Completed,PDE3B,2
+asthma,DUPILUMAB,3,Completed,IL4R,2
+asthma,TEZEPELUMAB,3,Recruiting,TSLP,2
+asthma,THEOPHYLLINE,2,Completed,PDE3A,2
+asthma,THEOPHYLLINE,2,Completed,ADORA3,2
+asthma,THEOPHYLLINE,2,Completed,ADORA2B,2
+asthma,THEOPHYLLINE,2,Completed,ADORA2A,2
+asthma,THEOPHYLLINE,2,Completed,ADORA1,2
+asthma,ENOKIZUMAB,2,Terminated,IL9,2
+asthma,EPINEPHRINE,1,Terminated,ADRB1,2
+asthma,DUPILUMAB,2,"Active, not recruiting",IL4R,2
+asthma,EPINEPHRINE,1,Terminated,ADRB2,2
+asthma,ARFORMOTEROL,3,Completed,ADRB2,2
+asthma,EPINEPHRINE,1,Terminated,ADRB3,2
+asthma,BEDORADRINE,2,Completed,ADRB2,2
+asthma,CARBAMAZEPINE,4,Completed,SCN4A,2
+asthma,CARBAMAZEPINE,4,Completed,SCN5A,2
+asthma,ASM-024,2,Completed,CHRNA7,2
+asthma,ASM-024,2,Completed,CHRNB4,2
+asthma,ANRUKINZUMAB,2,Completed,IL13,2
+asthma,ANAKINRA,1,Enrolling by invitation,IL1R1,2
+asthma,BECLOMETHASONE DIPROPIONATE,3,Not yet recruiting,NR3C1,2
+asthma,AZD1981,1,Completed,PTGDR2,2
+asthma,ALBUTEROL,4,Withdrawn,ADRB2,2
+asthma,CARBAMAZEPINE,4,Completed,SCN7A,2
+asthma,CARBAMAZEPINE,4,Completed,SCN8A,2
+asthma,ERGOCALCIFEROL,2,Completed,VDR,2
+asthma,CARBAMAZEPINE,4,Completed,SCN9A,2
+asthma,BENRALIZUMAB,1,Completed,IL5RA,2
+asthma,SALMETEROL,4,Unknown status,ADRB2,2
+asthma,ASM-024,2,Completed,CHRNA3,2
+asthma,SENICAPOC,2,Completed,KCNN4,2
+asthma,ASM-024,2,Completed,CHRM3,2
+asthma,CARBAMAZEPINE,4,Completed,SCN3A,2
+asthma,SIMVASTATIN,3,Completed,HMGCR,2
+asthma,OXELUMAB,1,Completed,TNFSF4,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",ADORA3,1
+asthma,PBF-680,2,Completed,ADORA1,1
+asthma,OXCARBAZEPINE,4,Completed,SCN5A,1
+asthma,OMALIZUMAB,4,Terminated,IGHE,1
+asthma,OXCARBAZEPINE,4,Completed,SCN7A,1
+asthma,OXCARBAZEPINE,4,Completed,SCN4A,1
+asthma,OXCARBAZEPINE,4,Completed,SCN8A,1
+asthma,OXCARBAZEPINE,4,Completed,SCN9A,1
+asthma,PALIFERMIN,2,Completed,FGFR2,1
+asthma,PASCOLIZUMAB,2,Completed,IL4,1
+asthma,OXCARBAZEPINE,4,Completed,SCN11A,1
+asthma,OXCARBAZEPINE,4,Completed,SCN3A,1
+asthma,OMALIZUMAB,4,n/a,IGHE,1
+asthma,OXCARBAZEPINE,4,Completed,SCN10A,1
+asthma,OXCARBAZEPINE,4,Completed,SCN2A,1
+asthma,OXCARBAZEPINE,4,Completed,SCN1A,1
+asthma,OXELUMAB,2,Completed,TNFSF4,1
+asthma,SALMETEROL,1,Withdrawn,ADRB2,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",PDE4A,1
+asthma,OMALIZUMAB,4,Recruiting,IGHE,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",PDE3A,1
+asthma,NITRIC OXIDE,4,Completed,GUCY1B1,1
+asthma,NITRIC OXIDE,2,Completed,GUCY1B2,1
+asthma,NITRIC OXIDE,2,Completed,GUCY1B1,1
+asthma,VILANTEROL,4,n/a,ADRB2,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",PDE4D,1
+asthma,NAVARIXIN,2,Withdrawn,CXCR2,1
+asthma,ZILEUTON,1,Completed,ALOX5,1
+asthma,NAVARIXIN,2,Withdrawn,CXCR1,1
+asthma,TIOTROPIUM,1,Not yet recruiting,CHRM3,1
+asthma,TIOTROPIUM,1,Completed,CHRM3,1
+asthma,NADOLOL,2,Unknown status,ADRB2,1
+asthma,NADOLOL,2,Unknown status,ADRB1,1
+asthma,NADOLOL,1,Completed,ADRB2,1
+asthma,ZILEUTON,4,Terminated,ALOX5,1
+asthma,NADOLOL,1,Completed,ADRB1,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",PDE4C,1
+asthma,NITRIC OXIDE,4,Completed,GUCY1B2,1
+asthma,OC000459,1,Completed,PTGDR2,1
+asthma,OMALIZUMAB,2,Unknown status,IGHE,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",PDE3B,1
+asthma,OMALIZUMAB,4,Not yet recruiting,IGHE,1
+asthma,TIOTROPIUM,3,Withdrawn,CHRM3,1
+asthma,VILANTEROL,3,Recruiting,ADRB2,1
+asthma,TIOTROPIUM,3,Recruiting,CHRM3,1
+asthma,PF-03893787,1,Completed,HRH4,1
+asthma,OMALIZUMAB,2,Terminated,IGHE,1
+asthma,VILANTEROL,4,Withdrawn,ADRB2,1
+asthma,OMALIZUMAB,2,Recruiting,IGHE,1
+asthma,TIOTROPIUM,2,Recruiting,CHRM3,1
+asthma,OMALIZUMAB,1,Completed,IGHE,1
+asthma,OLODATEROL,4,Recruiting,ADRB2,1
+asthma,OLODATEROL,2,Withdrawn,ADRB2,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",PDE4B,1
+asthma,PF-03715455,2,Terminated,MAPK14,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",ADORA2A,1
+asthma,PHENYLPROPANOLAMINE,4,Unknown status,ADRA1A,1
+asthma,QAV680,2,Terminated,PTGDR2,1
+asthma,SITAXENTAN,2,Terminated,EDNRA,1
+asthma,RESLIZUMAB,2,Recruiting,IL5,1
+asthma,SITAXENTAN,2,Terminated,EDNRB,1
+asthma,R-343,2,Completed,SYK,1
+asthma,QAX-576,2,Completed,IL13,1
+asthma,UMECLIDINIUM,3,Withdrawn,CHRM3,1
+asthma,QAX-576,1,Withdrawn,IL13,1
+asthma,VALPROIC ACID,4,Completed,ALDH5A1,1
+asthma,RESLIZUMAB,3,Terminated,IL5,1
+asthma,TC-6987,2,Completed,CHRNA7,1
+asthma,QAV680,2,Completed,PTGDR2,1
+asthma,PROPRANOLOL,4,Completed,ADRB2,1
+asthma,VARENICLINE,4,Completed,CHRNA4,1
+asthma,TERBUTALINE,2,Completed,ADRB2,1
+asthma,TOREFORANT,2,Completed,HRH4,1
+asthma,PROPRANOLOL,4,Completed,ADRB1,1
+asthma,SIRUKUMAB,2,Withdrawn,IL6,1
+asthma,SIMVASTATIN,2,Withdrawn,HMGCR,1
+asthma,PHENYLPROPANOLAMINE,4,Unknown status,SLC6A2,1
+asthma,TRALOKINUMAB,2,Terminated,IL13,1
+asthma,SALMETEROL,1,"Active, not recruiting",ADRB2,1
+asthma,ROSUVASTATIN,1,Completed,HMGCR,1
+asthma,SALMETEROL,2,"Active, not recruiting",ADRB2,1
+asthma,ROSIGLITAZONE,1,Completed,PPARG,1
+asthma,SALMETEROL,2,Recruiting,ADRB2,1
+asthma,UMECLIDINIUM,2,Completed,CHRM3,1
+asthma,UMECLIDINIUM,1,Completed,CHRM3,1
+asthma,TRALOKINUMAB,1,Terminated,IL13,1
+asthma,SETIPIPRANT,2,Completed,PTGDR2,1
+asthma,SALMETEROL,3,"Active, not recruiting",ADRB2,1
+asthma,MONTELUKAST,4,Unknown status,CYSLTR1,1
+asthma,SALMETEROL,3,Unknown status,ADRB2,1
+asthma,SALMETEROL,3,Withdrawn,ADRB2,1
+asthma,SALMETEROL,4,"Active, not recruiting",ADRB2,1
+asthma,RESLIZUMAB,4,n/a,IL5,1
+asthma,SECUKINUMAB,2,Terminated,IL17A,1
+asthma,VARENICLINE,4,Completed,CHRNB2,1
+asthma,TERBUTALINE,4,Unknown status,ADRB2,1
+asthma,TIOTROPIUM,4,Withdrawn,CHRM3,1
+asthma,PHENYTOIN,4,Completed,SCN8A,1
+asthma,PREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",ADORA2B,1
+asthma,PRASUGREL,4,Completed,P2RY12,1
+asthma,PRASUGREL,2,Completed,P2RY12,1
+asthma,PIRBUTEROL,4,n/a,ADRB2,1
+asthma,PIOGLITAZONE,2,Completed,PPARG,1
+asthma,PHENYTOIN,4,Completed,SCN9A,1
+asthma,PHENYTOIN,4,Completed,SCN7A,1
+asthma,TEZEPELUMAB,1,Completed,TSLP,1
+asthma,PHENYTOIN,4,Completed,SCN5A,1
+asthma,PHENYTOIN,4,Completed,SCN4A,1
+asthma,PHENYTOIN,4,Completed,SCN3A,1
+asthma,PHENYTOIN,4,Completed,SCN2A,1
+asthma,PHENYTOIN,4,Completed,SCN1A,1
+asthma,PHENYTOIN,4,Completed,SCN11A,1
+asthma,PHENYTOIN,4,Completed,SCN10A,1
+asthma,UMECLIDINIUM,2,Withdrawn,CHRM3,1
+asthma,PREDNISOLONE,2,Recruiting,NR3C1,1
+asthma,THEOPHYLLINE,4,"Active, not recruiting",ADORA1,1
+asthma,PREDNISOLONE,2,Withdrawn,NR3C1,1
+asthma,VIDUPIPRANT,1,Completed,PTGDR,1
+asthma,TEZEPELUMAB,3,Enrolling by invitation,TSLP,1
+asthma,VIDUPIPRANT,1,Completed,PTGDR2,1
+asthma,PREDNISONE,4,Unknown status,NR3C1,1
+asthma,PREDNISONE,3,Not yet recruiting,NR3C1,1
+asthma,PREDNISONE,2,Withdrawn,NR3C1,1
+asthma,PREDNISONE,2,Unknown status,NR3C1,1
+asthma,PREDNISONE,2,Completed,NR3C1,1
+asthma,VIDUPIPRANT,2,Completed,PTGDR,1
+asthma,PREDNISONE,1,Not yet recruiting,NR3C1,1
+asthma,VIDUPIPRANT,2,Completed,PTGDR2,1
+asthma,PREDNISOLONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+asthma,PREDNISOLONE,4,Recruiting,NR3C1,1
+asthma,TIOTROPIUM,4,Recruiting,CHRM3,1
+asthma,PREDNISOLONE,3,Not yet recruiting,NR3C1,1
+asthma,RESLIZUMAB,4,Terminated,IL5,1
+Status Asthmaticus,ALBUTEROL,1,Recruiting,ADRB2,1
+asthma,MONTELUKAST,4,Terminated,CYSLTR1,1
+asthma,DUVELISIB,2,Completed,PIK3CG,1
+asthma,DUPILUMAB,3,Not yet recruiting,IL4R,1
+asthma,DUPILUMAB,2,Not yet recruiting,IL4R,1
+asthma,DUPILUMAB,1,Recruiting,IL4R,1
+asthma,DEXTROMETHORPHAN,4,Unknown status,SIGMAR1,1
+asthma,DEXTROMETHORPHAN,4,Unknown status,GRIN2A,1
+asthma,DEXAMETHASONE PHOSPHORIC ACID,3,Completed,NR3C1,1
+asthma,DEXAMETHASONE,3,Recruiting,NR3C1,1
+asthma,DEXAMETHASONE,3,Completed,NR3C1,1
+asthma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+asthma,DACLIZUMAB,2,Completed,IL2RA,1
+asthma,CLOPIDOGREL,2,Unknown status,P2RY12,1
+asthma,CICLESONIDE,4,Terminated,NR3C1,1
+asthma,CICLESONIDE,2,Completed,NR3C1,1
+asthma,CHOLECALCIFEROL,4,Terminated,VDR,1
+asthma,CHOLECALCIFEROL,3,"Active, not recruiting",VDR,1
+asthma,CHOLECALCIFEROL,2,Recruiting,VDR,1
+asthma,CHOLECALCIFEROL,2,"Active, not recruiting",VDR,1
+asthma,CHOLECALCIFEROL,1,Completed,VDR,1
+asthma,CHLORPHENIRAMINE,4,Unknown status,HRH1,1
+asthma,CARBIDOPA,1,Completed,DDC,1
+asthma,CALCITRIOL,4,Unknown status,VDR,1
+asthma,CALCIFEDIOL,4,Completed,VDR,1
+asthma,BUDESONIDE,3,Unknown status,NR3C1,1
+asthma,BUDESONIDE,2,Unknown status,NR3C1,1
+asthma,BRODALUMAB,2,Terminated,IL17RA,1
+asthma,BRODALUMAB,2,Completed,IL17RA,1
+asthma,BRODALUMAB,1,Withdrawn,IL17RA,1
+asthma,DUVELISIB,2,Completed,PIK3CD,1
+asthma,ECULIZUMAB,2,Completed,C5,1
+asthma,MONTELUKAST,4,Recruiting,CYSLTR1,1
+asthma,ENOKIZUMAB,1,Completed,IL9,1
+asthma,EPINEPHRINE,4,Completed,ADRB3,1
+asthma,EPINEPHRINE,4,Completed,ADRB2,1
+asthma,EPINEPHRINE,4,Completed,ADRB1,1
+asthma,EPINEPHRINE,4,Completed,ADRA2C,1
+asthma,EPINEPHRINE,4,Completed,ADRA2B,1
+asthma,EPINEPHRINE,4,Completed,ADRA2A,1
+asthma,EPINEPHRINE,4,Completed,ADRA1D,1
+asthma,EPINEPHRINE,4,Completed,ADRA1B,1
+asthma,EPINEPHRINE,4,Completed,ADRA1A,1
+asthma,EPINEPHRINE,2,Completed,ADRB3,1
+asthma,EPINEPHRINE,2,Completed,ADRB2,1
+asthma,EPINEPHRINE,2,Completed,ADRB1,1
+asthma,EPINEPHRINE,2,Completed,ADRA2C,1
+asthma,EPINEPHRINE,2,Completed,ADRA2B,1
+asthma,EPINEPHRINE,2,Completed,ADRA2A,1
+asthma,EPINEPHRINE,2,Completed,ADRA1D,1
+asthma,EPINEPHRINE,2,Completed,ADRA1B,1
+asthma,EPINEPHRINE,2,Completed,ADRA1A,1
+asthma,EPINEPHRINE,1,Completed,ADRB3,1
+asthma,EPINEPHRINE,1,Completed,ADRB2,1
+asthma,EPINEPHRINE,1,Completed,ADRB1,1
+asthma,EPINEPHRINE,1,Completed,ADRA2C,1
+asthma,EPINEPHRINE,1,Completed,ADRA2B,1
+asthma,EPINEPHRINE,1,Completed,ADRA2A,1
+asthma,EPINEPHRINE,1,Completed,ADRA1D,1
+asthma,EPINEPHRINE,1,Completed,ADRA1B,1
+asthma,EPINEPHRINE,1,Completed,ADRA1A,1
+asthma,BOSENTAN,2,Unknown status,EDNRB,1
+asthma,BOSENTAN,2,Unknown status,EDNRA,1
+asthma,BOSENTAN,2,Terminated,EDNRB,1
+asthma,BOSENTAN,2,Terminated,EDNRA,1
+asthma,AMBRISENTAN,2,Unknown status,EDNRA,1
+asthma,ALFACALCIDOL,4,Completed,VDR,1
+asthma,ALENDRONIC ACID,2,Completed,FDPS,1
+asthma,ALBUTEROL,4,Terminated,ADRB2,1
+asthma,ALBUTEROL,4,Not yet recruiting,ADRB2,1
+asthma,ALBUTEROL,3,Not yet recruiting,ADRB2,1
+asthma,ALBUTEROL,2,Recruiting,ADRB2,1
+asthma,ALBUTEROL,1,Recruiting,ADRB2,1
+asthma,ADALIMUMAB,2,Withdrawn,TNF,1
+asthma,ABEDITEROL,2,Completed,ADRB2,1
+asthma,ABATACEPT,2,Completed,CD86,1
+asthma,ABATACEPT,2,Completed,CD80,1
+Status Asthmaticus,TERBUTALINE,4,Completed,ADRB2,1
+Status Asthmaticus,PREDNISONE,4,Terminated,NR3C1,1
+Status Asthmaticus,KETAMINE,3,Not yet recruiting,GRIN3B,1
+Status Asthmaticus,KETAMINE,3,Not yet recruiting,GRIN3A,1
+Status Asthmaticus,KETAMINE,3,Not yet recruiting,GRIN2D,1
+Status Asthmaticus,KETAMINE,3,Not yet recruiting,GRIN2C,1
+Status Asthmaticus,KETAMINE,3,Not yet recruiting,GRIN2B,1
+Status Asthmaticus,KETAMINE,3,Not yet recruiting,GRIN2A,1
+Status Asthmaticus,KETAMINE,3,Not yet recruiting,GRIN1,1
+Status Asthmaticus,IPRATROPIUM,1,Recruiting,CHRM3,1
+Status Asthmaticus,DEXAMETHASONE,4,Terminated,NR3C1,1
+Status Asthmaticus,BUDESONIDE,2,Completed,NR3C1,1
+Status Asthmaticus,BEDORADRINE,2,Terminated,ADRB2,1
+Status Asthmaticus,ALBUTEROL,4,Recruiting,ADRB2,1
+Status Asthmaticus,ALBUTEROL,4,Not yet recruiting,ADRB2,1
+asthma,AMBRISENTAN,2,Unknown status,EDNRB,1
+asthma,AMELUBANT,2,Completed,LTB4R,1
+asthma,AMG-157,2,Completed,TSLP,1
+asthma,ASPIRIN,4,Completed,PTGS2,1
+asthma,BENRALIZUMAB,4,n/a,IL5RA,1
+asthma,BENRALIZUMAB,4,Not yet recruiting,IL5RA,1
+asthma,BENRALIZUMAB,3,Terminated,IL5RA,1
+asthma,BENRALIZUMAB,3,Not yet recruiting,IL5RA,1
+asthma,BENRALIZUMAB,3,"Active, not recruiting",IL5RA,1
+asthma,BENRALIZUMAB,2,Recruiting,IL5RA,1
+asthma,BECLOMETHASONE DIPROPIONATE,4,Unknown status,NR3C1,1
+asthma,BECLOMETHASONE DIPROPIONATE,3,Withdrawn,NR3C1,1
+asthma,BECLOMETHASONE DIPROPIONATE,3,Recruiting,NR3C1,1
+asthma,AZD-7624,2,Unknown status,MAPK14,1
+asthma,ATORVASTATIN,2,Terminated,HMGCR,1
+asthma,ATORVASTATIN,2,Completed,HMGCR,1
+asthma,ASPIRIN,4,Completed,PTGS1,1
+asthma,ANTIPYRINE,2,Unknown status,PTGS1,1
+asthma,ASPIRIN,3,Recruiting,PTGS2,1
+asthma,ASPIRIN,3,Recruiting,PTGS1,1
+asthma,ASPIRIN,1,Completed,PTGS2,1
+asthma,ASPIRIN,1,Completed,PTGS1,1
+asthma,ASM-024,1,Terminated,CHRNB4,1
+asthma,ASM-024,1,Terminated,CHRNA7,1
+asthma,ASM-024,1,Terminated,CHRNA3,1
+asthma,ASM-024,1,Terminated,CHRM3,1
+asthma,ASM-024,1,Terminated,CHRM2,1
+asthma,ASM-024,1,Terminated,CHRM1,1
+asthma,ARRY-502,2,Completed,PTGDR2,1
+asthma,ARFORMOTEROL,4,Terminated,ADRB2,1
+asthma,ERGOCALCIFEROL,1,Completed,VDR,1
+asthma,ERGOCALCIFEROL,2,Withdrawn,VDR,1
+asthma,ERGOCALCIFEROL,3,Completed,VDR,1
+asthma,KETOTIFEN,4,Completed,HRH1,1
+asthma,LOXAPINE,1,Completed,HTR2A,1
+asthma,LOXAPINE,1,Completed,DRD4,1
+asthma,LOXAPINE,1,Completed,DRD3,1
+asthma,LOXAPINE,1,Completed,DRD2,1
+asthma,LOVASTATIN,1,Withdrawn,HMGCR,1
+asthma,LORATADINE,3,Completed,HRH1,1
+asthma,LIGELIZUMAB,2,Completed,IGHE,1
+asthma,LIGELIZUMAB,1,Completed,IGHE,1
+asthma,LEVOSALBUTAMOL,4,Withdrawn,ADRB2,1
+asthma,LEVOSALBUTAMOL,4,Terminated,ADRB2,1
+asthma,LEVOSALBUTAMOL,3,Terminated,ADRB2,1
+asthma,LEVODOPA,1,Completed,DRD3,1
+asthma,LEVOCETIRIZINE,3,Terminated,HRH1,1
+asthma,LEBRIKIZUMAB,3,Withdrawn,IL13,1
+asthma,LAS190792,1,Completed,CHRM3,1
+asthma,LAS190792,1,Completed,ADRB2,1
+asthma,LANSOPRAZOLE,4,Unknown status,ATP4A,1
+asthma,LANSOPRAZOLE,4,Completed,ATP4A,1
+asthma,LAMOTRIGINE,4,Completed,SCN9A,1
+asthma,LAMOTRIGINE,4,Completed,SCN8A,1
+asthma,LAMOTRIGINE,4,Completed,SCN7A,1
+asthma,LAMOTRIGINE,4,Completed,SCN5A,1
+asthma,LAMOTRIGINE,4,Completed,SCN4A,1
+asthma,LAMOTRIGINE,4,Completed,SCN3A,1
+asthma,LAMOTRIGINE,4,Completed,SCN2A,1
+asthma,LAMOTRIGINE,4,Completed,SCN1A,1
+asthma,LAMOTRIGINE,4,Completed,SCN11A,1
+asthma,LOXAPINE,1,Completed,HTR2C,1
+asthma,MASITINIB,2,Completed,FGFR3,1
+asthma,MASITINIB,2,Completed,KIT,1
+asthma,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+asthma,MONTELUKAST,4,Not yet recruiting,CYSLTR1,1
+asthma,MONTELUKAST,4,"Active, not recruiting",CYSLTR1,1
+asthma,MONTELUKAST,3,Withdrawn,CYSLTR1,1
+asthma,MONTELUKAST,3,Unknown status,CYSLTR1,1
+asthma,MONTELUKAST,2,Terminated,CYSLTR1,1
+asthma,MONTELUKAST,2,Not yet recruiting,CYSLTR1,1
+asthma,MONTELUKAST,1,Unknown status,CYSLTR1,1
+asthma,MOMETASONE FUROATE,3,Withdrawn,NR3C1,1
+asthma,MOMETASONE FUROATE,1,Completed,NR3C1,1
+asthma,MOGAMULIZUMAB,1,Terminated,CCR4,1
+asthma,MK-1029,2,Terminated,PTGDR2,1
+asthma,METHYLPREDNISOLONE HEMISUCCINATE,4,n/a,NR3C1,1
+asthma,METHYLPREDNISOLONE,4,Unknown status,NR3C1,1
+asthma,MASITINIB,2,Completed,PDGFRA,1
+asthma,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+asthma,METHOTREXATE,3,Not yet recruiting,DHFR,1
+asthma,METHACHOLINE,4,Unknown status,CHRM3,1
+asthma,METHACHOLINE,4,Completed,CHRM3,1
+asthma,METHACHOLINE,3,Recruiting,CHRM3,1
+asthma,MEPOLIZUMAB,4,n/a,IL5,1
+asthma,MEPOLIZUMAB,4,Not yet recruiting,IL5,1
+asthma,MEPOLIZUMAB,4,Completed,IL5,1
+asthma,MEPOLIZUMAB,3,Terminated,IL5,1
+asthma,MEPOLIZUMAB,2,Recruiting,IL5,1
+asthma,MEPOLIZUMAB,1,Completed,IL5,1
+asthma,MASITINIB,2,Completed,PDGFRB,1
+Status Asthmaticus,ALBUTEROL,2,Terminated,ADRB2,1
+asthma,KETAMINE,2,Unknown status,GRIN3B,1
+asthma,ERGOCALCIFEROL,3,Not yet recruiting,VDR,1
+asthma,KETAMINE,2,Unknown status,GRIN3A,1
+asthma,FLUTICASONE PROPIONATE,4,Withdrawn,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,4,Unknown status,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,3,Unknown status,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,3,"Active, not recruiting",NR3C1,1
+asthma,FLUTICASONE PROPIONATE,2,Withdrawn,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,2,"Active, not recruiting",NR3C1,1
+asthma,FLUTICASONE PROPIONATE,1,Withdrawn,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,1,Recruiting,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,1,"Active, not recruiting",NR3C1,1
+asthma,FLUTICASONE FUROATE,4,Withdrawn,NR3C1,1
+asthma,FLUTICASONE FUROATE,4,Recruiting,NR3C1,1
+asthma,FLUTICASONE FUROATE,3,Recruiting,NR3C1,1
+asthma,FLUNISOLIDE,4,n/a,NR3C1,1
+asthma,FINGOLIMOD,2,Completed,S1PR5,1
+asthma,FINGOLIMOD,2,Completed,S1PR4,1
+asthma,FINGOLIMOD,2,Completed,S1PR3,1
+asthma,FINGOLIMOD,2,Completed,S1PR2,1
+asthma,FINGOLIMOD,2,Completed,S1PR1,1
+asthma,FIBOFLAPON,2,Withdrawn,ALOX5AP,1
+asthma,FIBOFLAPON,1,Withdrawn,ALOX5AP,1
+asthma,FEVIPIPRANT,2,Not yet recruiting,PTGDR2,1
+asthma,FENTANYL,2,Unknown status,OPRM1,1
+asthma,FENOTEROL,3,Terminated,ADRB2,1
+asthma,ETANERCEPT,2,Completed,TNF,1
+asthma,ESOMEPRAZOLE,2,Completed,ATP4A,1
+asthma,ERGOCALCIFEROL,4,Unknown status,VDR,1
+asthma,ERGOCALCIFEROL,4,Completed,VDR,1
+asthma,FORMOTEROL,2,Unknown status,ADRB2,1
+asthma,FORMOTEROL,3,Terminated,ADRB2,1
+asthma,FORMOTEROL,3,Withdrawn,ADRB2,1
+asthma,INDACATEROL,2,Recruiting,ADRB2,1
+asthma,KETAMINE,2,Unknown status,GRIN2D,1
+asthma,KETAMINE,2,Unknown status,GRIN2C,1
+asthma,KETAMINE,2,Unknown status,GRIN2B,1
+asthma,KETAMINE,2,Unknown status,GRIN2A,1
+asthma,KETAMINE,2,Unknown status,GRIN1,1
+asthma,IPRATROPIUM,4,Unknown status,CHRM3,1
+asthma,IPRATROPIUM,4,Terminated,CHRM3,1
+asthma,IPRATROPIUM,3,Terminated,CHRM3,1
+asthma,IPRATROPIUM,2,Completed,CHRM3,1
+asthma,INDOMETHACIN,1,Completed,PTGS2,1
+asthma,INDOMETHACIN,1,Completed,PTGS1,1
+asthma,INDACATEROL,2,Withdrawn,ADRB2,1
+asthma,IMATINIB,2,Completed,PDGFRB,1
+asthma,FORMOTEROL,4,Recruiting,ADRB2,1
+asthma,IMATINIB,2,Completed,KIT,1
+asthma,IMATINIB,2,Completed,ABL1,1
+asthma,ILOPROST,0,Completed,PTGIR,1
+asthma,HYDROCORTISONE HEMISUCCINATE,4,n/a,NR3C1,1
+asthma,HYDROCORTISONE,4,Completed,NR3C1,1
+asthma,HISTAMINE,1,Completed,HRH1,1
+asthma,GSK-2269557,1,Completed,PIK3CD,1
+asthma,GOLIMUMAB,2,Withdrawn,TNF,1
+asthma,GOLIMUMAB,2,Completed,TNF,1
+asthma,GEFAPIXANT,1,Completed,P2RX3,1
+asthma,GABAPENTIN,4,Completed,CACNA2D1,1
+asthma,FORMOTEROL,4,Withdrawn,ADRB2,1
+asthma,LAMOTRIGINE,4,Completed,SCN10A,1

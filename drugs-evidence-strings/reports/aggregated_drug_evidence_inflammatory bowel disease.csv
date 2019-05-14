@@ -1,0 +1,682 @@
+disease,drug,phase,status,target,num_ev_strings
+ulcerative colitis,PREDNISONE,4,n/a,NR3C1,44
+Crohn's disease,PREDNISONE,4,n/a,NR3C1,44
+ulcerative colitis,MESALAMINE,4,n/a,ALOX5,32
+ulcerative colitis,MESALAMINE,3,Completed,PTGS2,32
+ulcerative colitis,MESALAMINE,3,Completed,PTGS1,32
+ulcerative colitis,MESALAMINE,3,Completed,PPARG,32
+ulcerative colitis,MESALAMINE,4,n/a,PPARG,32
+ulcerative colitis,MESALAMINE,4,n/a,PTGS2,32
+ulcerative colitis,MESALAMINE,4,n/a,PTGS1,32
+ulcerative colitis,MESALAMINE,3,Completed,ALOX5,32
+ulcerative colitis,METHYLPREDNISOLONE,4,n/a,NR3C1,21
+Crohn's disease,METHYLPREDNISOLONE,4,n/a,NR3C1,21
+Crohn's disease,PREDNISOLONE,4,n/a,NR3C1,16
+Crohn's disease,ADALIMUMAB,3,Completed,TNF,16
+ulcerative colitis,PREDNISOLONE,4,n/a,NR3C1,16
+ulcerative colitis,HYDROCORTISONE,4,n/a,NR3C1,14
+Crohn's disease,INFLIXIMAB,3,Completed,TNF,11
+Crohn's disease,CERTOLIZUMAB PEGOL,3,Completed,TNF,10
+ulcerative colitis,BUDESONIDE,3,Completed,NR3C1,6
+ulcerative colitis,MESALAMINE,4,Completed,PTGS1,6
+ulcerative colitis,MESALAMINE,4,Completed,PTGS2,6
+ulcerative colitis,MESALAMINE,4,Completed,ALOX5,6
+ulcerative colitis,ADALIMUMAB,3,Completed,TNF,6
+ulcerative colitis,MESALAMINE,4,Completed,PPARG,6
+ulcerative colitis,VEDOLIZUMAB,4,Recruiting,ITGA4,5
+ulcerative colitis,VEDOLIZUMAB,3,Completed,ITGB7,5
+ulcerative colitis,VEDOLIZUMAB,3,Completed,ITGA4,5
+Crohn's disease,VEDOLIZUMAB,4,Recruiting,ITGA4,5
+Crohn's disease,VEDOLIZUMAB,4,Recruiting,ITGB7,5
+ulcerative colitis,INFLIXIMAB,3,Completed,TNF,5
+Crohn's disease,INFLIXIMAB,4,Completed,TNF,5
+Crohn's disease,AZATHIOPRINE,3,Completed,PPAT,5
+ulcerative colitis,VEDOLIZUMAB,4,Recruiting,ITGB7,5
+ulcerative colitis,MESALAMINE,3,Recruiting,ALOX5,4
+ulcerative colitis,MESALAMINE,3,Recruiting,PTGS1,4
+Crohn's disease,ADALIMUMAB,2,Completed,TNF,4
+Crohn's disease,USTEKINUMAB,3,Recruiting,IL12B,4
+Crohn's disease,CERTOLIZUMAB PEGOL,2,Completed,TNF,4
+ulcerative colitis,MESALAMINE,3,Recruiting,PTGS2,4
+Crohn's disease,MESALAMINE,3,Completed,PPARG,4
+Crohn's disease,MESALAMINE,3,Completed,ALOX5,4
+Crohn's disease,TOFACITINIB,2,Completed,JAK2,4
+Crohn's disease,BUDESONIDE,3,Completed,NR3C1,4
+Crohn's disease,MESALAMINE,3,Completed,PTGS1,4
+ulcerative colitis,MESALAMINE,3,Recruiting,PPARG,4
+Crohn's disease,TOFACITINIB,2,Completed,JAK3,4
+Crohn's disease,TOFACITINIB,2,Completed,TYK2,4
+Crohn's disease,VEDOLIZUMAB,3,Completed,ITGB7,4
+Crohn's disease,VEDOLIZUMAB,3,Completed,ITGA4,4
+Crohn's disease,MESALAMINE,3,Completed,PTGS2,4
+Crohn's disease,VEDOLIZUMAB,2,Recruiting,ITGB7,4
+Crohn's disease,VERCIRNON,1,Completed,CCR9,4
+ulcerative colitis,ETROLIZUMAB,3,Recruiting,ITGB7,4
+Crohn's disease,ADALIMUMAB,4,Recruiting,TNF,4
+ulcerative colitis,INFLIXIMAB,4,Recruiting,TNF,4
+Crohn's disease,VEDOLIZUMAB,2,Recruiting,ITGA4,4
+Crohn's disease,TOFACITINIB,2,Completed,JAK1,4
+ulcerative colitis,INTERFERON BETA-1A,2,Completed,IFNAR2,3
+Crohn's disease,NATALIZUMAB,3,Completed,ITGA4,3
+ulcerative colitis,INFLIXIMAB,4,Completed,TNF,3
+Crohn's disease,METHOTREXATE,4,Recruiting,DHFR,3
+ulcerative colitis,MESALAMINE,1,Completed,PTGS1,3
+ulcerative colitis,MESALAMINE,1,Completed,PPARG,3
+Crohn's disease,SEMAPIMOD,2,Completed,MAPK14,3
+ulcerative colitis,MESALAMINE,1,Completed,ALOX5,3
+ulcerative colitis,INTERFERON BETA-1A,2,Completed,IFNAR1,3
+ulcerative proctosigmoiditis,BUDESONIDE,3,Completed,NR3C1,3
+ulcerative colitis,TOFACITINIB,3,Completed,JAK1,3
+ulcerative colitis,VEDOLIZUMAB,2,Recruiting,ITGA4,3
+proctitis,BUDESONIDE,3,Completed,NR3C1,3
+ulcerative colitis,VISILIZUMAB,2,Terminated,CD3E,3
+Crohn's disease,ADALIMUMAB,4,Completed,TNF,3
+ulcerative colitis,ADALIMUMAB,3,Recruiting,TNF,3
+Crohn's disease,VERCIRNON,3,Terminated,CCR9,3
+ulcerative colitis,VEDOLIZUMAB,3,Recruiting,ITGB7,3
+ulcerative colitis,VEDOLIZUMAB,3,Recruiting,ITGA4,3
+ulcerative colitis,TOFACITINIB,3,Completed,JAK2,3
+ulcerative colitis,VEDOLIZUMAB,2,Recruiting,ITGB7,3
+Crohn's disease,INFLIXIMAB,4,Terminated,TNF,3
+Crohn's disease,AZATHIOPRINE,3,Unknown status,PPAT,3
+ulcerative colitis,MESALAMINE,1,Completed,PTGS2,3
+Crohn's disease,AZATHIOPRINE,4,Recruiting,PPAT,3
+ulcerative colitis,TOFACITINIB,3,Completed,JAK3,3
+ulcerative colitis,TOFACITINIB,3,Completed,TYK2,3
+Crohn's disease,BUDESONIDE,4,n/a,NR3C1,3
+Crohn's disease,BRIAKINUMAB,2,Terminated,IL12B,3
+Crohn's disease,BRIAKINUMAB,1,Completed,IL12B,3
+ulcerative colitis,MESALAMINE,3,Terminated,PTGS2,2
+ulcerative colitis,MESALAMINE,3,Terminated,ALOX5,2
+ulcerative colitis,MESALAMINE,2,Completed,ALOX5,2
+Crohn's disease,MESALAMINE,3,Terminated,ALOX5,2
+ulcerative colitis,MESALAMINE,2,Completed,PPARG,2
+ulcerative colitis,MESALAMINE,2,Completed,PTGS1,2
+ulcerative colitis,MESALAMINE,3,Terminated,PPARG,2
+ulcerative colitis,MESALAMINE,2,Completed,PTGS2,2
+Crohn's disease,MESALAMINE,3,Terminated,PPARG,2
+Crohn's disease,MESALAMINE,3,Terminated,PTGS1,2
+Crohn's disease,MESALAMINE,3,Terminated,PTGS2,2
+ulcerative colitis,MESALAMINE,2,Recruiting,ALOX5,2
+ulcerative colitis,MESALAMINE,2,Recruiting,PPARG,2
+ulcerative colitis,MESALAMINE,2,Recruiting,PTGS2,2
+ulcerative colitis,MESALAMINE,3,Terminated,PTGS1,2
+ulcerative colitis,MESALAMINE,2,Unknown status,PPARG,2
+ulcerative colitis,MESALAMINE,2,Unknown status,PTGS1,2
+Crohn's disease,METHOTREXATE,4,Completed,DHFR,2
+ulcerative colitis,MESALAMINE,2,Unknown status,PTGS2,2
+ulcerative colitis,MESALAMINE,2,Unknown status,ALOX5,2
+ulcerative colitis,ELDELUMAB,2,Completed,CXCL10,2
+Crohn's disease,NATALIZUMAB,2,Completed,ITGA4,2
+Crohn's disease,NATALIZUMAB,4,n/a,ITGA4,2
+Crohn's disease,USTEKINUMAB,3,Completed,IL12B,2
+ulcerative colitis,BALSALAZIDE,3,Completed,ALOX5,2
+ulcerative colitis,AZATHIOPRINE,4,Recruiting,PPAT,2
+ulcerative colitis,AZATHIOPRINE,3,Terminated,PPAT,2
+Crohn's disease,VEDOLIZUMAB,2,Completed,ITGA4,2
+Crohn's disease,VEDOLIZUMAB,2,Completed,ITGB7,2
+Crohn's disease,VEDOLIZUMAB,3,"Active, not recruiting",ITGA4,2
+Crohn's disease,VEDOLIZUMAB,3,"Active, not recruiting",ITGB7,2
+Crohn's disease,VEDOLIZUMAB,3,Recruiting,ITGA4,2
+Crohn's disease,VEDOLIZUMAB,3,Recruiting,ITGB7,2
+Crohn's disease,VEDOLIZUMAB,4,Completed,ITGA4,2
+Crohn's disease,VEDOLIZUMAB,4,Completed,ITGB7,2
+ulcerative colitis,ANDECALIXIMAB,1,Completed,MMP9,2
+Crohn's disease,VERCIRNON,2,Completed,CCR9,2
+Crohn's disease,VISILIZUMAB,2,Completed,CD3E,2
+ulcerative colitis,ABRILUMAB,2,Completed,ITGB7,2
+ulcerative colitis,ABRILUMAB,2,Completed,ITGA4,2
+proctitis,MESALAMINE,3,Terminated,PTGS2,2
+proctitis,MESALAMINE,3,Terminated,PTGS1,2
+proctitis,MESALAMINE,3,Terminated,PPARG,2
+proctitis,MESALAMINE,3,Terminated,ALOX5,2
+ulcerative colitis,BALSALAZIDE,3,Completed,PPARG,2
+Crohn's disease,USTEKINUMAB,2,Completed,IL12B,2
+ulcerative colitis,BALSALAZIDE,3,Completed,PTGS1,2
+ulcerative colitis,ETROLIZUMAB,2,Completed,ITGB7,2
+Crohn's disease,OMEPRAZOLE,1,Completed,ATP4A,2
+ulcerative colitis,INFLIXIMAB,3,Terminated,TNF,2
+ulcerative colitis,INFLIXIMAB,3,Recruiting,TNF,2
+ulcerative colitis,HYDROCORTISONE,4,Recruiting,NR3C1,2
+ulcerative colitis,GOLIMUMAB,4,Completed,TNF,2
+ulcerative colitis,GOLIMUMAB,3,Completed,TNF,2
+ulcerative colitis,GOLIMUMAB,2,Completed,TNF,2
+Crohn's disease,PF-00547659,2,Completed,MADCAM1,2
+Crohn's disease,PF-04236921,2,Completed,IL6,2
+Crohn's disease,PREDNISOLONE,4,Unknown status,NR3C1,2
+ulcerative colitis,BALSALAZIDE,3,Completed,PTGS2,2
+ulcerative colitis,ETRASIMOD,2,Completed,S1PR1,2
+Crohn's disease,MESALAMINE,2,Unknown status,PTGS1,2
+Crohn's disease,SARGRAMOSTIM,2,Terminated,CSF2RA,2
+Crohn's disease,SARGRAMOSTIM,3,Terminated,CSF2RA,2
+Crohn's disease,SECUKINUMAB,2,Terminated,IL17A,2
+ulcerative colitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+ulcerative colitis,DEXAMETHASONE,4,n/a,NR3C1,2
+Crohn's disease,TEDUGLUTIDE,2,Completed,GLP2R,2
+ulcerative colitis,BUDESONIDE,4,n/a,NR3C1,2
+Crohn's disease,MESALAMINE,2,Unknown status,PTGS2,2
+ulcerative colitis,MESALAMINE,2,Recruiting,PTGS1,2
+Crohn's disease,MESALAMINE,2,Unknown status,PPARG,2
+ulcerative colitis,PF-00547659,2,Completed,MADCAM1,2
+Crohn's disease,ETROLIZUMAB,3,Recruiting,ITGB7,2
+Crohn's disease,ERGOCALCIFEROL,4,Completed,VDR,2
+Crohn's disease,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+Crohn's disease,DEXAMETHASONE,4,n/a,NR3C1,2
+ulcerative colitis,TACROLIMUS,3,Completed,FKBP1A,2
+Crohn's disease,CHOLECALCIFEROL,3,Recruiting,VDR,2
+Crohn's disease,CERTOLIZUMAB PEGOL,4,Unknown status,TNF,2
+Crohn's disease,CERTOLIZUMAB PEGOL,3,Withdrawn,TNF,2
+Crohn's disease,MESALAMINE,2,Unknown status,ALOX5,2
+Crohn's disease,BRODALUMAB,2,Terminated,IL17RA,2
+ulcerative colitis,VATELIZUMAB,2,Terminated,ITGA2,2
+ulcerative colitis,VEDOLIZUMAB,2,Completed,ITGA4,2
+ulcerative colitis,VEDOLIZUMAB,2,Completed,ITGB7,2
+Crohn's disease,AZATHIOPRINE,4,Terminated,PPAT,2
+Crohn's disease,AZATHIOPRINE,4,Completed,PPAT,2
+Crohn's disease,AZATHIOPRINE,3,Terminated,PPAT,2
+Crohn's disease,AZATHIOPRINE,2,Terminated,PPAT,2
+Crohn's disease,AMISELIMOD,2,Completed,S1PR5,2
+Crohn's disease,AMISELIMOD,2,Completed,S1PR4,2
+Crohn's disease,AMISELIMOD,2,Completed,S1PR3,2
+Crohn's disease,AMISELIMOD,2,Completed,S1PR2,2
+Crohn's disease,AMISELIMOD,2,Completed,S1PR1,2
+Crohn's disease,AMINOSALICYLIC ACID,2,Terminated,PTGS2,2
+Crohn's disease,AMINOSALICYLIC ACID,2,Terminated,PTGS1,2
+Crohn's disease,ADALIMUMAB,3,"Active, not recruiting",TNF,2
+ulcerative colitis,PREDNISONE,4,Recruiting,NR3C1,2
+Crohn's disease,CERTOLIZUMAB PEGOL,3,Terminated,TNF,2
+Crohn's disease,INFLIXIMAB,4,Unknown status,TNF,2
+ulcerative colitis,METHOTREXATE,2,Completed,DHFR,2
+Crohn's disease,MERCAPTOPURINE,1,Completed,PPAT,2
+Crohn's disease,INFLIXIMAB,4,Recruiting,TNF,2
+Crohn's disease,INFLIXIMAB,2,Completed,TNF,2
+Crohn's disease,MERCAPTOPURINE,4,Recruiting,PPAT,2
+ulcerative colitis,METHYLPREDNISOLONE,4,Recruiting,NR3C1,2
+Crohn's disease,INFLIXIMAB,3,Terminated,TNF,2
+ulcerative colitis,MESALAMINE,4,Recruiting,PPARG,1
+ulcerative colitis,ASPIRIN,3,Completed,PTGS2,1
+ulcerative colitis,ANRUKINZUMAB,2,Completed,IL13,1
+ulcerative colitis,APREMILAST,2,"Active, not recruiting",PDE4A,1
+ulcerative colitis,MESALAMINE,3,Unknown status,ALOX5,1
+ulcerative colitis,APREMILAST,2,"Active, not recruiting",PDE4B,1
+ulcerative colitis,AZATHIOPRINE,3,Recruiting,PPAT,1
+ulcerative colitis,APREMILAST,2,"Active, not recruiting",PDE4C,1
+ulcerative colitis,VEDOLIZUMAB,4,"Active, not recruiting",ITGA4,1
+ulcerative colitis,MESALAMINE,3,Unknown status,PPARG,1
+ulcerative colitis,MESALAMINE,4,Recruiting,PTGS1,1
+ulcerative colitis,MESALAMINE,3,Unknown status,PTGS1,1
+ulcerative colitis,VEDOLIZUMAB,2,Withdrawn,ITGA4,1
+ulcerative colitis,VEDOLIZUMAB,2,Withdrawn,ITGB7,1
+ulcerative colitis,MESALAMINE,4,Recruiting,ALOX5,1
+ulcerative colitis,MESALAMINE,4,Recruiting,PTGS2,1
+ulcerative colitis,ASPIRIN,3,Completed,PTGS1,1
+ulcerative colitis,APREMILAST,2,"Active, not recruiting",PDE4D,1
+ulcerative colitis,MESALAMINE,3,"Active, not recruiting",PPARG,1
+ulcerative colitis,AZATHIOPRINE,4,Unknown status,PPAT,1
+ulcerative colitis,VEDOLIZUMAB,1,Completed,ITGB7,1
+ulcerative colitis,BASILIXIMAB,2,Terminated,IL2RA,1
+ulcerative colitis,CAFFEINE,4,Recruiting,ADORA2B,1
+ulcerative colitis,CAFFEINE,4,Recruiting,ADORA2A,1
+ulcerative colitis,CAFFEINE,4,Recruiting,ADORA1,1
+ulcerative colitis,TOFACITINIB,3,"Active, not recruiting",JAK2,1
+ulcerative colitis,BUDESONIDE,3,Recruiting,NR3C1,1
+ulcerative colitis,TOFACITINIB,3,"Active, not recruiting",JAK3,1
+ulcerative colitis,BUDESONIDE,2,Terminated,NR3C1,1
+ulcerative colitis,BUDESONIDE,2,Completed,NR3C1,1
+ulcerative colitis,BERTILIMUMAB,2,Recruiting,CCL11,1
+ulcerative colitis,BASILIXIMAB,2,Completed,IL2RA,1
+ulcerative colitis,VEDOLIZUMAB,1,Completed,ITGA4,1
+ulcerative colitis,TOFACITINIB,3,"Active, not recruiting",TYK2,1
+ulcerative colitis,TOFACITINIB,4,Recruiting,JAK1,1
+ulcerative colitis,TOFACITINIB,4,Recruiting,JAK2,1
+ulcerative colitis,TOFACITINIB,4,Recruiting,JAK3,1
+ulcerative colitis,TOFACITINIB,4,Recruiting,TYK2,1
+ulcerative colitis,TRALOKINUMAB,2,Completed,IL13,1
+ulcerative colitis,USTEKINUMAB,3,"Active, not recruiting",IL12B,1
+ulcerative colitis,VEDOLIZUMAB,0,Withdrawn,ITGA4,1
+ulcerative colitis,VEDOLIZUMAB,0,Withdrawn,ITGB7,1
+ulcerative colitis,ANDECALIXIMAB,2,Terminated,MMP9,1
+ulcerative colitis,AMINOSALICYLIC ACID,2,Completed,PTGS2,1
+ulcerative colitis,CANNABIDIOL,1,Completed,CNR1,1
+ulcerative colitis,ABRILUMAB,1,Completed,ITGA4,1
+ulcerative colitis,ABATACEPT,3,Completed,CD80,1
+small bowel Crohn's disease,FILGOTINIB,2,Recruiting,JAK1,1
+proctitis,SUCRALFATE,4,Completed,PGA5,1
+ulcerative colitis,VERCIRNON,2,Withdrawn,CCR9,1
+ulcerative colitis,VISILIZUMAB,1,Completed,CD3E,1
+ulcerative colitis,VISILIZUMAB,2,Completed,CD3E,1
+proctitis,MESALAMINE,2,Completed,PTGS2,1
+proctitis,MESALAMINE,2,Completed,PTGS1,1
+proctitis,MESALAMINE,2,Completed,PPARG,1
+proctitis,MESALAMINE,2,Completed,ALOX5,1
+ulcerative colitis,VISILIZUMAB,3,Withdrawn,CD3E,1
+proctitis,BUDESONIDE,2,Terminated,NR3C1,1
+proctitis,BUDESONIDE,2,Completed,NR3C1,1
+inflammatory bowel disease,VEDOLIZUMAB,1,Completed,ITGB7,1
+inflammatory bowel disease,VEDOLIZUMAB,1,Completed,ITGA4,1
+inflammatory bowel disease,ROSIGLITAZONE,4,Completed,PPARG,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRQ,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRP,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRG3,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRG2,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRG1,1
+ulcerative colitis,ABATACEPT,3,Completed,CD86,1
+ulcerative colitis,ABRILUMAB,1,Completed,ITGB7,1
+ulcerative colitis,AMINOSALICYLIC ACID,2,Completed,PTGS1,1
+ulcerative colitis,ABRILUMAB,1,Terminated,ITGA4,1
+ulcerative colitis,ALLOPURINOL,3,Recruiting,XDH,1
+ulcerative colitis,ALDESLEUKIN,1,Recruiting,IL2RB,1
+ulcerative colitis,MESALAMINE,3,Unknown status,PTGS2,1
+ulcerative colitis,VEDOLIZUMAB,4,"Active, not recruiting",ITGB7,1
+ulcerative colitis,ALDESLEUKIN,1,Recruiting,IL2RA,1
+ulcerative colitis,VEDOLIZUMAB,4,Completed,ITGA4,1
+ulcerative colitis,VEDOLIZUMAB,4,Completed,ITGB7,1
+ulcerative colitis,ADALIMUMAB,4,n/a,TNF,1
+ulcerative colitis,ADALIMUMAB,4,Unknown status,TNF,1
+ulcerative colitis,ADALIMUMAB,4,Terminated,TNF,1
+ulcerative colitis,ADALIMUMAB,4,Recruiting,TNF,1
+ulcerative colitis,ADALIMUMAB,4,"Active, not recruiting",TNF,1
+ulcerative colitis,ADALIMUMAB,3,Unknown status,TNF,1
+ulcerative colitis,VEDOLIZUMAB,4,Not yet recruiting,ITGA4,1
+ulcerative colitis,ADALIMUMAB,3,Enrolling by invitation,TNF,1
+ulcerative colitis,VEDOLIZUMAB,4,Not yet recruiting,ITGB7,1
+ulcerative colitis,ADALIMUMAB,3,"Active, not recruiting",TNF,1
+ulcerative colitis,ADALIMUMAB,1,Completed,TNF,1
+ulcerative colitis,VEDOLIZUMAB,4,n/a,ITGA4,1
+ulcerative colitis,VEDOLIZUMAB,4,n/a,ITGB7,1
+ulcerative colitis,ABRILUMAB,1,Terminated,ITGB7,1
+ulcerative colitis,CAFFEINE,4,Recruiting,ADORA3,1
+ulcerative colitis,CANNABIDIOL,2,Completed,CNR1,1
+ulcerative colitis,NALTREXONE,2,Withdrawn,OPRK1,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKCB,1
+ulcerative colitis,MERCAPTOPURINE,3,Recruiting,PPAT,1
+ulcerative colitis,LOSARTAN,4,Recruiting,AGTR1,1
+ulcerative colitis,KRP203,2,Terminated,S1PR1,1
+ulcerative colitis,ITACITINIB,2,Recruiting,JAK1,1
+ulcerative colitis,ROSIGLITAZONE,1,Unknown status,PPARG,1
+ulcerative colitis,ROSIGLITAZONE,2,Completed,PPARG,1
+ulcerative colitis,SOLCITINIB,1,Terminated,JAK1,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKCA,1
+ulcerative colitis,INFLIXIMAB,4,n/a,TNF,1
+ulcerative colitis,INFLIXIMAB,4,Unknown status,TNF,1
+ulcerative colitis,INFLIXIMAB,4,Terminated,TNF,1
+ulcerative colitis,MIDAZOLAM,4,Recruiting,GABRG2,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKCD,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKCE,1
+ulcerative colitis,INFLIXIMAB,4,Not yet recruiting,TNF,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKCG,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKCH,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKCI,1
+ulcerative colitis,MIDAZOLAM,4,Recruiting,GABRG3,1
+ulcerative colitis,INFLIXIMAB,1,Completed,TNF,1
+ulcerative colitis,INFLIXIMAB,1,"Active, not recruiting",TNF,1
+ulcerative colitis,HYDROCORTISONE HEMISUCCINATE,4,Recruiting,NR3C1,1
+ulcerative colitis,MUROMONAB-CD3,1,Completed,CD3E,1
+ulcerative colitis,RIVENPROST,2,Terminated,PTGER4,1
+ulcerative colitis,NALTREXONE,2,Withdrawn,OPRD1,1
+ulcerative colitis,RITUXIMAB,2,Completed,MS4A1,1
+ulcerative colitis,MESALAMINE,3,"Active, not recruiting",ALOX5,1
+ulcerative colitis,NALTREXONE,2,Withdrawn,OPRM1,1
+ulcerative colitis,OMEPRAZOLE,1,Completed,ATP4A,1
+ulcerative colitis,OMEPRAZOLE,4,Recruiting,ATP4A,1
+ulcerative colitis,MESALAMINE,3,"Active, not recruiting",PTGS1,1
+ulcerative colitis,PREDNISOLONE,3,Completed,NR3C1,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRD,1
+ulcerative colitis,PREDNISOLONE,3,Terminated,NR3C1,1
+ulcerative colitis,PREDNISOLONE,4,Recruiting,NR3C1,1
+ulcerative colitis,PREDNISONE,2,Recruiting,NR3C1,1
+ulcerative colitis,PREDNISONE,3,Recruiting,NR3C1,1
+ulcerative colitis,PREDNISONE,4,Completed,NR3C1,1
+ulcerative colitis,MESALAMINE,3,"Active, not recruiting",PTGS2,1
+ulcerative colitis,MESALAMINE,1,Terminated,PTGS2,1
+ulcerative colitis,MESALAMINE,1,Terminated,PTGS1,1
+ulcerative colitis,MESALAMINE,1,Terminated,PPARG,1
+ulcerative colitis,MESALAMINE,1,Terminated,ALOX5,1
+ulcerative colitis,MESALAMINE,1,Recruiting,PTGS2,1
+ulcerative colitis,MESALAMINE,1,Recruiting,PTGS1,1
+ulcerative colitis,MESALAMINE,1,Recruiting,PPARG,1
+ulcerative colitis,MESALAMINE,1,Recruiting,ALOX5,1
+ulcerative colitis,HYDROCORTISONE CYPIONATE,4,Recruiting,NR3C1,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKCQ,1
+ulcerative colitis,CERTOLIZUMAB PEGOL,2,"Active, not recruiting",TNF,1
+ulcerative colitis,DEXTROMETHORPHAN,4,Recruiting,SIGMAR1,1
+ulcerative colitis,ERGOCALCIFEROL,1,Withdrawn,VDR,1
+ulcerative colitis,MIDAZOLAM,4,Recruiting,GABRA2,1
+ulcerative colitis,ELUBRIXIN,2,Terminated,CXCR2,1
+ulcerative colitis,THALIDOMIDE,3,Completed,DDB1,1
+ulcerative colitis,ELDELUMAB,1,Completed,CXCL10,1
+ulcerative colitis,DOXYCYCLINE,2,Recruiting,MMP8,1
+ulcerative colitis,DOXYCYCLINE,2,Recruiting,MMP7,1
+ulcerative colitis,DOXYCYCLINE,2,Recruiting,MMP13,1
+ulcerative colitis,DOXYCYCLINE,2,Recruiting,MMP1,1
+ulcerative colitis,MIDAZOLAM,4,Recruiting,GABRA1,1
+ulcerative colitis,THALIDOMIDE,3,Completed,RBX1,1
+ulcerative colitis,HYDROCORTISONE,2,Terminated,NR3C1,1
+ulcerative colitis,TOFACITINIB,1,Completed,JAK1,1
+ulcerative colitis,TOFACITINIB,1,Completed,JAK2,1
+ulcerative colitis,DEXTROMETHORPHAN,4,Recruiting,GRIN2A,1
+ulcerative colitis,TOFACITINIB,1,Completed,JAK3,1
+ulcerative colitis,TOFACITINIB,1,Completed,TYK2,1
+ulcerative colitis,DEXAMETHASONE,2,Unknown status,NR3C1,1
+ulcerative colitis,DACLIZUMAB,2,Completed,IL2RA,1
+ulcerative colitis,CYCLOSPORINE,4,Completed,PPIA,1
+ulcerative colitis,TOFACITINIB,3,"Active, not recruiting",JAK1,1
+ulcerative colitis,CHOLECALCIFEROL,3,Recruiting,VDR,1
+ulcerative colitis,THALIDOMIDE,3,Completed,CUL4A,1
+ulcerative colitis,ETROLIZUMAB,1,Completed,ITGB7,1
+ulcerative colitis,ETROLIZUMAB,1,Recruiting,ITGB7,1
+ulcerative colitis,MIDAZOLAM,4,Recruiting,GABRA3,1
+ulcerative colitis,GUSELKUMAB,2,Recruiting,IL23A,1
+ulcerative colitis,GOLIMUMAB,4,n/a,TNF,1
+ulcerative colitis,GOLIMUMAB,4,Unknown status,TNF,1
+ulcerative colitis,GOLIMUMAB,4,Recruiting,TNF,1
+ulcerative colitis,GOLIMUMAB,4,Not yet recruiting,TNF,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKCZ,1
+ulcerative colitis,GOLIMUMAB,3,Recruiting,TNF,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKD1,1
+ulcerative colitis,GOLIMUMAB,2,Terminated,TNF,1
+ulcerative colitis,GOLIMUMAB,2,Recruiting,TNF,1
+ulcerative colitis,SOTRASTAURIN,2,Completed,PRKD3,1
+ulcerative colitis,GOLIMUMAB,1,"Active, not recruiting",TNF,1
+ulcerative colitis,FILGOTINIB,3,Recruiting,JAK1,1
+ulcerative colitis,FILGOTINIB,3,Enrolling by invitation,JAK1,1
+ulcerative colitis,MIDAZOLAM,4,Recruiting,GABRG1,1
+ulcerative colitis,MIDAZOLAM,4,Recruiting,GABRA5,1
+ulcerative colitis,FILGOTINIB,2,Recruiting,JAK1,1
+ulcerative colitis,TACROLIMUS,3,Recruiting,FKBP1A,1
+ulcerative colitis,ETROLIZUMAB,3,"Active, not recruiting",ITGB7,1
+ulcerative colitis,TACROLIMUS,4,Completed,FKBP1A,1
+ulcerative colitis,THALIDOMIDE,3,Completed,CRBN,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRE,1
+Crohn's disease,ABATACEPT,3,Terminated,CD80,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRB3,1
+Crohn's disease,FILGOTINIB,2,Recruiting,JAK1,1
+Crohn's disease,GSK-1070806,1,Not yet recruiting,IL18,1
+Crohn's disease,GUSELKUMAB,3,Recruiting,IL23A,1
+Crohn's disease,HYDROXYCHLOROQUINE,2,Recruiting,TLR7,1
+Crohn's disease,HYDROXYCHLOROQUINE,2,Recruiting,TLR9,1
+Crohn's disease,INFLIXIMAB,1,"Active, not recruiting",TNF,1
+Crohn's disease,INFLIXIMAB,3,Recruiting,TNF,1
+Crohn's disease,INFLIXIMAB,3,Unknown status,TNF,1
+Crohn's disease,INFLIXIMAB,4,"Active, not recruiting",TNF,1
+Crohn's disease,INFLIXIMAB,4,n/a,TNF,1
+Crohn's disease,INTERFERON BETA-1A,2,Terminated,IFNAR1,1
+Crohn's disease,INTERFERON BETA-1A,2,Terminated,IFNAR2,1
+Crohn's disease,LENALIDOMIDE,2,Completed,CRBN,1
+Crohn's disease,LENALIDOMIDE,2,Completed,CUL4A,1
+Crohn's disease,LENALIDOMIDE,2,Completed,DDB1,1
+Crohn's disease,LENALIDOMIDE,2,Completed,RBX1,1
+Crohn's disease,FORALUMAB,1,Completed,CD3G,1
+Crohn's disease,FORALUMAB,1,Completed,CD3E,1
+Crohn's disease,FORALUMAB,1,Completed,CD3D,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",POLD2,1
+Crohn's disease,FILGOTINIB,3,Recruiting,JAK1,1
+Crohn's disease,FILGRASTIM,1,Completed,CSF3R,1
+Crohn's disease,FILGRASTIM,1,Recruiting,CSF3R,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",POLA1,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",POLA2,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",POLD1,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",POLD3,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",RRM1,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",POLD4,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",POLE,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",POLE2,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",POLE3,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",PRIM1,1
+Crohn's disease,FLUDARABINE PHOSPHATE,2,"Active, not recruiting",PRIM2,1
+Crohn's disease,LOSARTAN,4,Recruiting,AGTR1,1
+Crohn's disease,MECASERMIN,2,Terminated,IGF1R,1
+Crohn's disease,MERCAPTOPURINE,1,Terminated,PPAT,1
+Crohn's disease,MIDAZOLAM,1,Completed,GABRG3,1
+Crohn's disease,MIDAZOLAM,1,Completed,GABRA1,1
+Crohn's disease,MIDAZOLAM,1,Completed,GABRA2,1
+Crohn's disease,MIDAZOLAM,1,Completed,GABRA3,1
+Crohn's disease,MIDAZOLAM,1,Completed,GABRA5,1
+Crohn's disease,MIDAZOLAM,1,Completed,GABRG1,1
+Crohn's disease,MIDAZOLAM,1,Completed,GABRG2,1
+Crohn's disease,MIDAZOLAM,1,Recruiting,GABRA1,1
+Crohn's disease,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+Crohn's disease,MIDAZOLAM,1,Recruiting,GABRA2,1
+Crohn's disease,MIDAZOLAM,1,Recruiting,GABRA3,1
+Crohn's disease,MIDAZOLAM,1,Recruiting,GABRA5,1
+Crohn's disease,MIDAZOLAM,1,Recruiting,GABRG1,1
+Crohn's disease,MIDAZOLAM,1,Recruiting,GABRG2,1
+Crohn's disease,MIDAZOLAM,1,Recruiting,GABRG3,1
+Crohn's disease,METHYLPREDNISOLONE,4,Withdrawn,NR3C1,1
+Crohn's disease,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+Crohn's disease,MERCAPTOPURINE,3,Unknown status,PPAT,1
+Crohn's disease,MESALAMINE,4,Recruiting,PTGS1,1
+Crohn's disease,MESALAMINE,4,Completed,ALOX5,1
+Crohn's disease,MESALAMINE,4,Completed,PPARG,1
+Crohn's disease,MESALAMINE,4,Completed,PTGS1,1
+Crohn's disease,MESALAMINE,4,Completed,PTGS2,1
+Crohn's disease,MESALAMINE,4,Recruiting,ALOX5,1
+Crohn's disease,MESALAMINE,4,Recruiting,PPARG,1
+Crohn's disease,MESALAMINE,4,Recruiting,PTGS2,1
+Crohn's disease,METHOTREXATE,4,Terminated,DHFR,1
+Crohn's disease,MESALAMINE,4,Terminated,ALOX5,1
+Crohn's disease,MESALAMINE,4,Terminated,PPARG,1
+Crohn's disease,MESALAMINE,4,Terminated,PTGS1,1
+Crohn's disease,MESALAMINE,4,Terminated,PTGS2,1
+Crohn's disease,METHOTREXATE,3,Completed,DHFR,1
+Crohn's disease,METHOTREXATE,3,Recruiting,DHFR,1
+Crohn's disease,FILGOTINIB,3,Enrolling by invitation,JAK1,1
+Crohn's disease,FILGOTINIB,2,Completed,JAK1,1
+Crohn's disease,MIDAZOLAM,4,Recruiting,GABRA2,1
+Crohn's disease,ETROLIZUMAB,1,Recruiting,ITGB7,1
+Crohn's disease,AMISELIMOD,1,Completed,S1PR5,1
+Crohn's disease,ANDECALIXIMAB,2,Terminated,MMP9,1
+Crohn's disease,ATORVASTATIN,2,Completed,HMGCR,1
+Crohn's disease,AZATHIOPRINE,3,Recruiting,PPAT,1
+Crohn's disease,AZATHIOPRINE,4,"Active, not recruiting",PPAT,1
+Crohn's disease,AZATHIOPRINE,4,Withdrawn,PPAT,1
+Crohn's disease,BRAZIKUMAB,2,Completed,IL23A,1
+Crohn's disease,BRAZIKUMAB,2,Recruiting,IL23A,1
+Crohn's disease,BRAZIKUMAB,2,Terminated,IL23A,1
+Crohn's disease,BRIAKINUMAB,1,Completed,IL12A,1
+Crohn's disease,BRIAKINUMAB,1,Completed,IL23A,1
+Crohn's disease,BRIAKINUMAB,2,Terminated,IL12A,1
+Crohn's disease,BRIAKINUMAB,2,Terminated,IL23A,1
+Crohn's disease,BUDESONIDE,2,Completed,NR3C1,1
+Crohn's disease,BUDESONIDE,2,Recruiting,NR3C1,1
+Crohn's disease,AMISELIMOD,1,Completed,S1PR4,1
+Crohn's disease,AMISELIMOD,1,Completed,S1PR3,1
+Crohn's disease,AMISELIMOD,1,Completed,S1PR2,1
+Crohn's disease,ADALIMUMAB,3,Terminated,TNF,1
+Crohn's disease,ABRILUMAB,1,Completed,ITGA4,1
+Crohn's disease,ABRILUMAB,1,Completed,ITGB7,1
+Crohn's disease,ABRILUMAB,2,Completed,ITGA4,1
+Crohn's disease,ABRILUMAB,2,Completed,ITGB7,1
+Crohn's disease,ADALIMUMAB,2,Recruiting,TNF,1
+Crohn's disease,ADALIMUMAB,3,Recruiting,TNF,1
+Crohn's disease,ADALIMUMAB,3,Unknown status,TNF,1
+Crohn's disease,AMISELIMOD,1,Completed,S1PR1,1
+Crohn's disease,ADALIMUMAB,3,Withdrawn,TNF,1
+Crohn's disease,ADALIMUMAB,4,Terminated,TNF,1
+Crohn's disease,ADALIMUMAB,4,Unknown status,TNF,1
+Crohn's disease,ALDESLEUKIN,2,Withdrawn,IL2RA,1
+Crohn's disease,ALDESLEUKIN,2,Withdrawn,IL2RB,1
+Crohn's disease,ALEMTUZUMAB,1,Recruiting,CD52,1
+Crohn's disease,BUDESONIDE,4,Completed,NR3C1,1
+Crohn's disease,BUPROPION,2,Completed,SLC6A2,1
+Crohn's disease,BUPROPION,2,Completed,SLC6A3,1
+Crohn's disease,DEXTROMETHORPHAN,4,Recruiting,GRIN2A,1
+Crohn's disease,CHOLECALCIFEROL,4,Withdrawn,VDR,1
+Crohn's disease,CLAZAKIZUMAB,2,Terminated,IL6,1
+Crohn's disease,DENOSUMAB,1,Completed,TNFSF11,1
+Crohn's disease,DEXAMETHASONE,3,Terminated,NR3C1,1
+Crohn's disease,DEXTROMETHORPHAN,1,Recruiting,GRIN2A,1
+Crohn's disease,DEXTROMETHORPHAN,1,Recruiting,SIGMAR1,1
+Crohn's disease,DEXTROMETHORPHAN,4,Recruiting,SIGMAR1,1
+Crohn's disease,CHOLECALCIFEROL,2,Not yet recruiting,VDR,1
+Crohn's disease,DOXYCYCLINE,2,Recruiting,MMP1,1
+Crohn's disease,DOXYCYCLINE,2,Recruiting,MMP13,1
+Crohn's disease,DOXYCYCLINE,2,Recruiting,MMP7,1
+Crohn's disease,DOXYCYCLINE,2,Recruiting,MMP8,1
+Crohn's disease,ELDELUMAB,2,Completed,CXCL10,1
+Crohn's disease,ERGOCALCIFEROL,2,Unknown status,VDR,1
+Crohn's disease,CHOLECALCIFEROL,4,Completed,VDR,1
+Crohn's disease,CHOLECALCIFEROL,2,Completed,VDR,1
+Crohn's disease,CAFFEINE,1,Recruiting,ADORA1,1
+Crohn's disease,CAFFEINE,4,Recruiting,ADORA3,1
+Crohn's disease,CAFFEINE,1,Recruiting,ADORA2A,1
+Crohn's disease,CAFFEINE,1,Recruiting,ADORA2B,1
+Crohn's disease,CAFFEINE,1,Recruiting,ADORA3,1
+Crohn's disease,CAFFEINE,4,Recruiting,ADORA1,1
+Crohn's disease,CAFFEINE,4,Recruiting,ADORA2A,1
+Crohn's disease,CAFFEINE,4,Recruiting,ADORA2B,1
+Crohn's disease,CALCITRIOL,1,Completed,VDR,1
+Crohn's disease,CERTOLIZUMAB PEGOL,4,n/a,TNF,1
+Crohn's disease,CANNABIDIOL,1,Completed,CNR1,1
+Crohn's disease,CANNABIDIOL,1,Unknown status,CNR1,1
+Crohn's disease,CELECOXIB,4,Terminated,PTGS2,1
+Crohn's disease,CERTOLIZUMAB PEGOL,2,Terminated,TNF,1
+Crohn's disease,CERTOLIZUMAB PEGOL,3,Unknown status,TNF,1
+Crohn's disease,CERTOLIZUMAB PEGOL,4,Terminated,TNF,1
+Crohn's disease,MIDAZOLAM,4,Recruiting,GABRA1,1
+Crohn's disease,MIDAZOLAM,4,Recruiting,GABRA3,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRB2,1
+Crohn's disease,THALIDOMIDE,2,Completed,DDB1,1
+Crohn's disease,VEDOLIZUMAB,4,"Active, not recruiting",ITGB7,1
+Crohn's disease,VEDOLIZUMAB,4,Terminated,ITGA4,1
+Crohn's disease,VEDOLIZUMAB,4,Terminated,ITGB7,1
+Crohn's disease,VEDOLIZUMAB,4,Withdrawn,ITGA4,1
+Crohn's disease,VEDOLIZUMAB,4,Withdrawn,ITGB7,1
+Crohn's disease,VEDOLIZUMAB,4,n/a,ITGA4,1
+Crohn's disease,VEDOLIZUMAB,4,n/a,ITGB7,1
+Crohn's disease,VERAPAMIL,1,Completed,CACNA1C,1
+Crohn's disease,ABATACEPT,3,Terminated,CD86,1
+Crohn's disease,VERAPAMIL,1,Completed,CACNA1F,1
+Crohn's disease,VERAPAMIL,1,Completed,CACNA1S,1
+Crohn's disease,VERCIRNON,3,Completed,CCR9,1
+Crohn's disease,VORINOSTAT,1,Recruiting,HDAC1,1
+Crohn's disease,VORINOSTAT,1,Recruiting,HDAC2,1
+Crohn's disease,VORINOSTAT,1,Recruiting,HDAC3,1
+Crohn's disease,VEDOLIZUMAB,4,"Active, not recruiting",ITGA4,1
+Crohn's disease,VEDOLIZUMAB,2,Withdrawn,ITGB7,1
+Crohn's disease,VEDOLIZUMAB,2,Withdrawn,ITGA4,1
+Crohn's disease,THALIDOMIDE,3,Recruiting,DDB1,1
+Crohn's disease,THALIDOMIDE,3,Completed,CRBN,1
+Crohn's disease,THALIDOMIDE,3,Completed,CUL4A,1
+Crohn's disease,THALIDOMIDE,3,Completed,DDB1,1
+Crohn's disease,THALIDOMIDE,3,Completed,RBX1,1
+Crohn's disease,THALIDOMIDE,3,Recruiting,CRBN,1
+Crohn's disease,THALIDOMIDE,3,Recruiting,CUL4A,1
+Crohn's disease,THALIDOMIDE,3,Recruiting,RBX1,1
+Crohn's disease,VEDOLIZUMAB,1,Completed,ITGB7,1
+Crohn's disease,USTEKINUMAB,1,"Active, not recruiting",IL12B,1
+Crohn's disease,USTEKINUMAB,1,Recruiting,IL12B,1
+Crohn's disease,USTEKINUMAB,2,Recruiting,IL12B,1
+Crohn's disease,VEDOLIZUMAB,0,"Active, not recruiting",ITGA4,1
+Crohn's disease,VEDOLIZUMAB,0,"Active, not recruiting",ITGB7,1
+Crohn's disease,VEDOLIZUMAB,1,Completed,ITGA4,1
+Crohn's disease,VORINOSTAT,1,Recruiting,HDAC6,1
+Crohn's disease,WARFARIN,1,Recruiting,VKORC1,1
+inflammatory bowel disease,ALLOPURINOL,1,Completed,XDH,1
+inflammatory bowel disease,PREDNISONE,4,Completed,NR3C1,1
+inflammatory bowel disease,MIDAZOLAM,4,Completed,GABRA3,1
+inflammatory bowel disease,MIDAZOLAM,4,Completed,GABRA5,1
+inflammatory bowel disease,MIDAZOLAM,4,Completed,GABRG1,1
+inflammatory bowel disease,MIDAZOLAM,4,Completed,GABRG2,1
+inflammatory bowel disease,MIDAZOLAM,4,Completed,GABRG3,1
+inflammatory bowel disease,OMEPRAZOLE,4,Completed,ATP4A,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRA1,1
+inflammatory bowel disease,MIDAZOLAM,4,Completed,GABRA1,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRA2,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRA3,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRA4,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRA5,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRA6,1
+inflammatory bowel disease,PROPOFOL,4,Completed,GABRB1,1
+inflammatory bowel disease,MIDAZOLAM,4,Completed,GABRA2,1
+inflammatory bowel disease,INFLIXIMAB,4,Unknown status,TNF,1
+inflammatory bowel disease,AMISELIMOD,1,Completed,S1PR1,1
+inflammatory bowel disease,CELECOXIB,4,Completed,PTGS2,1
+inflammatory bowel disease,AMISELIMOD,1,Completed,S1PR2,1
+inflammatory bowel disease,AMISELIMOD,1,Completed,S1PR3,1
+inflammatory bowel disease,AMISELIMOD,1,Completed,S1PR4,1
+inflammatory bowel disease,AMISELIMOD,1,Completed,S1PR5,1
+inflammatory bowel disease,AZATHIOPRINE,1,Completed,PPAT,1
+inflammatory bowel disease,AZATHIOPRINE,4,Recruiting,PPAT,1
+inflammatory bowel disease,ERGOCALCIFEROL,1,Completed,VDR,1
+inflammatory bowel disease,INFLIXIMAB,4,"Active, not recruiting",TNF,1
+inflammatory bowel disease,ETRASIMOD,2,Terminated,S1PR1,1
+inflammatory bowel disease,FENTANYL,4,Completed,OPRM1,1
+inflammatory bowel disease,GSK-1070806,1,Completed,IL18,1
+inflammatory bowel disease,IBUPROFEN,4,Completed,PTGS1,1
+inflammatory bowel disease,IBUPROFEN,4,Completed,PTGS2,1
+inflammatory bowel disease,INFLIXIMAB,3,Withdrawn,TNF,1
+Crohn's disease,THALIDOMIDE,2,Completed,RBX1,1
+Crohn's disease,THALIDOMIDE,2,Completed,CUL4A,1
+Crohn's disease,MIDAZOLAM,4,Recruiting,GABRA5,1
+Crohn's disease,THALIDOMIDE,2,Completed,CRBN,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",ADORA2A,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",ADORA2B,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE10A,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE1A,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE1B,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE1C,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE2A,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE3A,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE3B,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE4A,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE4B,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE4C,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE4D,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE5A,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE6A,1
+Crohn's disease,OMEPRAZOLE,4,Recruiting,ATP4A,1
+Crohn's disease,OMEPRAZOLE,1,Recruiting,ATP4A,1
+Crohn's disease,OLOKIZUMAB,2,Withdrawn,IL6,1
+Crohn's disease,MYCOPHENOLIC ACID,2,"Active, not recruiting",IMPDH2,1
+Crohn's disease,MIDAZOLAM,4,Recruiting,GABRG1,1
+Crohn's disease,MIDAZOLAM,4,Recruiting,GABRG2,1
+Crohn's disease,MIDAZOLAM,4,Recruiting,GABRG3,1
+Crohn's disease,MYCOPHENOLATE MOFETIL,2,"Active, not recruiting",IMPDH1,1
+Crohn's disease,MYCOPHENOLATE MOFETIL,2,"Active, not recruiting",IMPDH2,1
+Crohn's disease,MYCOPHENOLIC ACID,2,"Active, not recruiting",IMPDH1,1
+Crohn's disease,NALTREXONE,2,Completed,OPRD1,1
+Crohn's disease,NATALIZUMAB,4,Withdrawn,ITGA4,1
+Crohn's disease,NALTREXONE,2,Completed,OPRK1,1
+Crohn's disease,NALTREXONE,2,Completed,OPRM1,1
+Crohn's disease,NALTREXONE,2,Withdrawn,OPRD1,1
+Crohn's disease,NALTREXONE,2,Withdrawn,OPRK1,1
+Crohn's disease,NALTREXONE,2,Withdrawn,OPRM1,1
+Crohn's disease,NATALIZUMAB,4,Completed,ITGA4,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE6B,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE6C,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE6D,1
+Crohn's disease,SOMATROPIN,2,Completed,GHR,1
+Crohn's disease,ROSUVASTATIN,1,Completed,HMGCR,1
+Crohn's disease,SARGRAMOSTIM,1,Terminated,CSF2RA,1
+Crohn's disease,SARGRAMOSTIM,2,Completed,CSF2RA,1
+Crohn's disease,SARGRAMOSTIM,3,Completed,CSF2RA,1
+Crohn's disease,SEMAPIMOD,2,Terminated,MAPK14,1
+Crohn's disease,SIROLIMUS,4,Recruiting,FKBP1A,1
+Crohn's disease,SOMATROPIN,2,Withdrawn,GHR,1
+Crohn's disease,QAX-576,2,Completed,IL13,1
+Crohn's disease,TACROLIMUS,2,"Active, not recruiting",FKBP1A,1
+Crohn's disease,TACROLIMUS,2,Completed,FKBP1A,1
+Crohn's disease,THALIDOMIDE,0,Unknown status,CRBN,1
+Crohn's disease,THALIDOMIDE,0,Unknown status,CUL4A,1
+Crohn's disease,THALIDOMIDE,0,Unknown status,DDB1,1
+Crohn's disease,THALIDOMIDE,0,Unknown status,RBX1,1
+Crohn's disease,RITUXIMAB,1,Recruiting,MS4A1,1
+Crohn's disease,PROMETHAZINE,2,"Active, not recruiting",HRH1,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE6G,1
+Crohn's disease,PIOGLITAZONE,1,Completed,PPARG,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE6H,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE7A,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE7B,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE8A,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE8B,1
+Crohn's disease,PENTOXIFYLLINE,0,"Active, not recruiting",PDE9A,1
+Crohn's disease,PREDNISOLONE,3,Terminated,NR3C1,1
+Crohn's disease,PRINABEREL,1,Completed,ESR2,1
+Crohn's disease,PREDNISOLONE,4,"Active, not recruiting",NR3C1,1
+Crohn's disease,PREDNISOLONE,4,Terminated,NR3C1,1
+Crohn's disease,PREDNISONE,2,Completed,NR3C1,1
+Crohn's disease,PREDNISONE,3,Completed,NR3C1,1
+Crohn's disease,PREDNISONE,4,Recruiting,NR3C1,1
+Crohn's disease,PREDNISONE,4,Terminated,NR3C1,1
+Crohn's disease,VERAPAMIL,1,Completed,CACNA1D,1

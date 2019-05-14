@@ -1,0 +1,1603 @@
+disease,drug,phase,status,target,num_ev_strings
+pain,ACETAMINOPHEN,4,n/a,TRPV1,465
+pain,ACETAMINOPHEN,4,n/a,PTGS1,464
+pain,ACETAMINOPHEN,4,n/a,PTGS2,457
+pain,ACETAMINOPHEN,4,n/a,FAAH,457
+pain,HYDROCODONE,4,n/a,OPRK1,296
+pain,HYDROCODONE,4,n/a,OPRD1,295
+pain,HYDROCODONE,4,n/a,OPRM1,292
+pain,IBUPROFEN,4,n/a,PTGS2,195
+pain,IBUPROFEN,4,n/a,PTGS1,195
+pain,OXYCODONE,4,n/a,OPRM1,190
+pain,TRAMADOL,4,n/a,OPRM1,164
+pain,CODEINE,4,n/a,OPRM1,99
+pain,CODEINE,4,n/a,OPRD1,99
+pain,CODEINE,4,n/a,OPRK1,97
+pain,MORPHINE,4,n/a,OPRM1,88
+pain,ACETAMINOPHEN,4,Completed,TRPV1,58
+pain,ACETAMINOPHEN,4,Completed,PTGS2,58
+pain,ACETAMINOPHEN,4,Completed,FAAH,58
+pain,BUPIVACAINE,4,Completed,SCN4A,58
+pain,ACETAMINOPHEN,4,Completed,PTGS1,57
+pain,KETOROLAC,4,n/a,PTGS1,53
+pain,KETOROLAC,4,n/a,PTGS2,52
+pain,MORPHINE,4,Completed,OPRM1,49
+pain,ROPIVACAINE,4,Completed,SCN2A,47
+pain,ROPIVACAINE,4,Completed,SCN9A,47
+pain,ROPIVACAINE,4,Completed,SCN8A,47
+neuropathic pain,PREGABALIN,4,n/a,CACNA2D1,47
+pain,ROPIVACAINE,4,Completed,SCN4A,47
+pain,ROPIVACAINE,4,Completed,SCN3A,47
+pain,ROPIVACAINE,4,Completed,SCN5A,47
+pain,ROPIVACAINE,4,Completed,SCN10A,47
+pain,ROPIVACAINE,4,Completed,SCN11A,46
+pain,ROPIVACAINE,4,Completed,SCN1A,46
+pain,FENTANYL,4,n/a,OPRM1,46
+pain,ROPIVACAINE,4,Completed,SCN7A,45
+pain,CELECOXIB,4,n/a,PTGS2,42
+pain,LIDOCAINE,4,Completed,SCN1A,40
+pain,LIDOCAINE,4,Completed,SCN2A,40
+pain,LIDOCAINE,4,Completed,SCN3A,40
+pain,LIDOCAINE,4,Completed,SCN8A,40
+pain,LIDOCAINE,4,Completed,SCN9A,40
+pain,LIDOCAINE,4,Completed,SCN7A,39
+pain,LIDOCAINE,4,Completed,SCN4A,38
+pain,LIDOCAINE,4,Completed,SCN5A,38
+pain,LIDOCAINE,4,Completed,SCN11A,38
+pain,LIDOCAINE,4,Completed,SCN10A,36
+pain,LIDOCAINE,4,n/a,SCN3A,35
+pain,LIDOCAINE,4,n/a,SCN2A,35
+pain,LIDOCAINE,4,n/a,SCN8A,35
+pain,LIDOCAINE,4,n/a,SCN1A,34
+pain,LIDOCAINE,4,n/a,SCN11A,34
+pain,LIDOCAINE,4,n/a,SCN9A,34
+pain,LIDOCAINE,4,n/a,SCN10A,34
+pain,LIDOCAINE,4,n/a,SCN7A,33
+pain,LIDOCAINE,4,n/a,SCN4A,33
+pain,LIDOCAINE,4,n/a,SCN5A,32
+pain,FENTANYL,4,Completed,OPRM1,31
+pain,NAPROXEN,4,n/a,PTGS1,30
+pain,NAPROXEN,4,n/a,PTGS2,29
+pain,DICLOFENAC,4,n/a,PTGS1,28
+pain,IBUPROFEN,4,Completed,PTGS2,28
+pain,DICLOFENAC,4,n/a,PTGS2,28
+pain,IBUPROFEN,4,Completed,PTGS1,28
+pain,OXYMORPHONE,4,n/a,OPRD1,27
+pain,BUPIVACAINE,4,n/a,SCN4A,27
+pain,OXYMORPHONE,4,n/a,OPRK1,26
+pain,OXYMORPHONE,4,n/a,OPRM1,26
+pain,CAPSAICIN,4,n/a,TRPV1,24
+pain,BUPIVACAINE,4,Recruiting,SCN4A,23
+pain,METHADONE,4,n/a,OPRM1,23
+pain,MENTHOL,4,n/a,TRPA1,22
+pain,MENTHOL,4,n/a,TRPM8,21
+pain,MEPERIDINE,4,n/a,OPRM1,21
+pain,KETOROLAC,4,Completed,PTGS2,21
+pain,KETAMINE,4,Completed,GRIN3B,20
+pain,KETAMINE,4,Completed,GRIN2B,20
+pain,KETOROLAC,4,Completed,PTGS1,20
+pain,KETAMINE,4,Completed,GRIN3A,20
+pain,KETAMINE,4,Completed,GRIN2A,20
+pain,KETAMINE,4,Completed,GRIN2C,19
+pain,KETAMINE,4,Completed,GRIN1,19
+pain,KETAMINE,4,Completed,GRIN2D,18
+pain,HYDROMORPHONE,4,Completed,OPRM1,18
+pain,DEXMEDETOMIDINE,4,Completed,ADRA2A,17
+pain,DEXMEDETOMIDINE,4,Completed,ADRA2B,17
+pain,TRAMADOL,4,Completed,OPRM1,17
+pain,DEXMEDETOMIDINE,4,Completed,ADRA2C,17
+pain,ROPIVACAINE,4,Recruiting,SCN4A,16
+pain,DEXAMETHASONE,4,Completed,NR3C1,16
+pain,ROPIVACAINE,4,Recruiting,SCN1A,16
+pain,ROPIVACAINE,4,Recruiting,SCN2A,16
+pain,ROPIVACAINE,4,Recruiting,SCN3A,16
+pain,ROPIVACAINE,4,Recruiting,SCN8A,16
+pain,ROPIVACAINE,4,Recruiting,SCN5A,16
+pain,EPINEPHRINE,4,Completed,ADRA1D,15
+pain,EPINEPHRINE,4,Completed,ADRA2C,15
+pain,ROPIVACAINE,4,Recruiting,SCN9A,15
+pain,EPINEPHRINE,4,Completed,ADRB3,15
+pain,ROPIVACAINE,4,Recruiting,SCN7A,15
+pain,EPINEPHRINE,4,Completed,ADRB2,15
+pain,EPINEPHRINE,4,Completed,ADRA2A,15
+pain,PROPOXYPHENE,4,n/a,OPRM1,15
+pain,EPINEPHRINE,4,Completed,ADRA1B,15
+pain,ROPIVACAINE,4,Recruiting,SCN11A,15
+pain,EPINEPHRINE,4,Completed,ADRB1,15
+pain,EPINEPHRINE,4,Completed,ADRA1A,15
+pain,PRILOCAINE,4,n/a,SCN8A,14
+pain,EPINEPHRINE,4,Completed,ADRA2B,14
+pain,PRILOCAINE,4,n/a,SCN9A,14
+pain,PRILOCAINE,4,n/a,SCN4A,14
+pain,TAPENTADOL,4,n/a,SLC6A2,14
+pain,PRILOCAINE,4,n/a,SCN5A,14
+pain,TAPENTADOL,4,n/a,OPRM1,14
+pain,LIDOCAINE,4,Recruiting,SCN2A,14
+pain,PREGABALIN,4,Completed,CACNA2D1,14
+pain,PRILOCAINE,4,n/a,SCN10A,14
+pain,LIDOCAINE,4,Recruiting,SCN3A,14
+pain,LIDOCAINE,4,Recruiting,SCN4A,14
+pain,LIDOCAINE,4,Recruiting,SCN5A,14
+pain,LIDOCAINE,4,Recruiting,SCN7A,14
+pain,LIDOCAINE,4,Recruiting,SCN8A,14
+pain,ROPIVACAINE,4,Recruiting,SCN10A,14
+pain,LIDOCAINE,4,Recruiting,SCN9A,14
+pain,LIDOCAINE,4,Recruiting,SCN1A,14
+pain,PRILOCAINE,4,n/a,SCN2A,14
+pain,PRILOCAINE,4,n/a,SCN3A,14
+pain,PRILOCAINE,4,n/a,SCN1A,14
+pain,PRILOCAINE,4,n/a,SCN11A,13
+pain,HYDROMORPHONE,4,n/a,OPRM1,13
+pain,OXYCODONE,4,Completed,OPRM1,13
+pain,LIDOCAINE,4,Recruiting,SCN10A,13
+pain,PRILOCAINE,4,n/a,SCN7A,13
+pain,LIDOCAINE,4,Recruiting,SCN11A,13
+pain,PENTAZOCINE,4,n/a,SIGMAR1,12
+pain,ROPIVACAINE,4,Unknown status,SCN5A,12
+pain,GABAPENTIN,4,Completed,CACNA2D1,12
+pain,LEVOBUPIVACAINE,4,Completed,SCN4A,12
+pain,ASPIRIN,4,n/a,PTGS2,12
+pain,ASPIRIN,4,n/a,PTGS1,12
+pain,ROPIVACAINE,4,Unknown status,SCN1A,12
+pain,ROPIVACAINE,4,Unknown status,SCN2A,12
+pain,ROPIVACAINE,4,Unknown status,SCN3A,12
+pain,ROPIVACAINE,4,Unknown status,SCN4A,12
+pain,ROPIVACAINE,4,Unknown status,SCN8A,12
+pain,ROPIVACAINE,4,Unknown status,SCN10A,12
+pain,ROPIVACAINE,4,Unknown status,SCN7A,11
+pain,ROPIVACAINE,4,Unknown status,SCN9A,11
+pain,ACETAMINOPHEN,4,Unknown status,FAAH,11
+pain,ROPIVACAINE,4,Unknown status,SCN11A,11
+pain,ACETAMINOPHEN,4,Unknown status,PTGS2,11
+pain,BUPIVACAINE,4,Unknown status,SCN4A,11
+pain,ACETAMINOPHEN,4,Unknown status,PTGS1,10
+pain,ACETAMINOPHEN,4,Unknown status,TRPV1,10
+pain,EPINEPHRINE,4,n/a,ADRB1,10
+pain,ROPIVACAINE,4,n/a,SCN7A,10
+pain,ROPIVACAINE,4,n/a,SCN8A,10
+pain,ROPIVACAINE,4,n/a,SCN1A,10
+pain,ROPIVACAINE,4,n/a,SCN2A,10
+pain,EPINEPHRINE,4,n/a,ADRA1D,10
+pain,ROPIVACAINE,4,n/a,SCN3A,10
+pain,ROPIVACAINE,4,n/a,SCN4A,10
+pain,ROPIVACAINE,4,n/a,SCN5A,10
+pain,ROPIVACAINE,4,n/a,SCN10A,10
+pain,ROPIVACAINE,4,n/a,SCN11A,10
+pain,EPINEPHRINE,4,n/a,ADRA1B,10
+pain,EPINEPHRINE,4,n/a,ADRA2B,10
+pain,EPINEPHRINE,4,n/a,ADRA2C,10
+pain,BUPIVACAINE,4,Terminated,SCN4A,10
+pain,EPINEPHRINE,4,n/a,ADRB3,10
+pain,EPINEPHRINE,4,n/a,ADRA1A,10
+pain,REMIFENTANIL,4,Completed,OPRM1,10
+pain,EPINEPHRINE,4,n/a,ADRA2A,9
+pain,MORPHINE,4,Terminated,OPRM1,9
+pain,ACETAMINOPHEN,4,Recruiting,PTGS1,9
+pain,MORPHINE,4,Unknown status,OPRM1,9
+pain,ACETAMINOPHEN,4,Recruiting,PTGS2,9
+pain,NALOXONE,4,n/a,OPRK1,9
+pain,ROPIVACAINE,4,n/a,SCN9A,9
+pain,EPINEPHRINE,4,n/a,ADRB2,9
+pain,SUFENTANIL,4,Completed,OPRM1,9
+pain,NALOXONE,4,n/a,OPRM1,9
+pain,ACETAMINOPHEN,4,Recruiting,TRPV1,8
+pain,ACETAMINOPHEN,4,Recruiting,FAAH,8
+pain,NALOXONE,4,n/a,OPRD1,8
+pain,ACETAMINOPHEN,4,Terminated,FAAH,8
+pain,KETAMINE,4,Recruiting,GRIN2D,8
+pain,LIDOCAINE,4,Unknown status,SCN11A,8
+pain,LIDOCAINE,4,Unknown status,SCN3A,8
+pain,LIDOCAINE,4,Unknown status,SCN4A,8
+pain,LIDOCAINE,4,Unknown status,SCN7A,8
+pain,LIDOCAINE,4,Unknown status,SCN8A,8
+pain,KETAMINE,4,Recruiting,GRIN3B,8
+pain,LIDOCAINE,4,Unknown status,SCN9A,8
+pain,ACETAMINOPHEN,4,Terminated,PTGS2,8
+pain,KETAMINE,4,Recruiting,GRIN3A,8
+pain,ACETAMINOPHEN,4,Terminated,TRPV1,8
+pain,LIDOCAINE,4,Unknown status,SCN2A,8
+pain,KETAMINE,4,Recruiting,GRIN2C,8
+pain,DEXAMETHASONE,4,Recruiting,NR3C1,8
+pain,KETAMINE,4,Recruiting,GRIN2B,8
+pain,KETAMINE,4,Recruiting,GRIN2A,8
+pain,KETAMINE,4,Recruiting,GRIN1,8
+pain,ACETAMINOPHEN,4,Terminated,PTGS1,8
+pain,ETORICOXIB,4,Completed,PTGS2,7
+pain,FENTANYL,4,Recruiting,OPRM1,7
+pain,LIDOCAINE,4,Unknown status,SCN10A,7
+pain,FENTANYL,4,Terminated,OPRM1,7
+pain,MORPHINE,4,Recruiting,OPRM1,7
+pain,LIDOCAINE,4,Unknown status,SCN1A,7
+pain,DIHYDROCODEINE,4,n/a,OPRM1,7
+pain,LIDOCAINE,4,Unknown status,SCN5A,7
+pain,DEXKETOPROFEN,4,Completed,PTGS2,6
+pain,LIDOCAINE,4,Not yet recruiting,SCN3A,6
+pain,CODEINE,4,Completed,OPRM1,6
+pain,CAFFEINE,4,n/a,ADORA2B,6
+pain,CAFFEINE,4,n/a,ADORA2A,6
+pain,CODEINE,4,Completed,OPRK1,6
+pain,CODEINE,4,Completed,OPRD1,6
+pain,CAFFEINE,4,n/a,ADORA1,6
+pain,CLONIDINE,4,Completed,ADRA2C,6
+pain,LIDOCAINE,4,Not yet recruiting,SCN10A,6
+pain,LIDOCAINE,4,Not yet recruiting,SCN4A,6
+pain,LIDOCAINE,4,Not yet recruiting,SCN5A,6
+pain,LIDOCAINE,4,Not yet recruiting,SCN7A,6
+pain,LIDOCAINE,4,Not yet recruiting,SCN8A,6
+pain,LIDOCAINE,4,Not yet recruiting,SCN9A,6
+pain,OXYCODONE,4,Recruiting,OPRM1,6
+pain,CLONIDINE,4,Completed,ADRA2B,6
+pain,BUPIVACAINE,4,Not yet recruiting,SCN4A,6
+pain,BUPIVACAINE,4,"Active, not recruiting",SCN4A,6
+pain,CLONIDINE,4,Completed,ADRA2A,6
+pain,GABAPENTIN,4,Recruiting,CACNA2D1,6
+pain,LIDOCAINE,4,Not yet recruiting,SCN11A,6
+pain,IBUPROFEN,4,Recruiting,PTGS1,6
+pain,NALBUPHINE,4,n/a,OPRK1,6
+pain,IBUPROFEN,4,Recruiting,PTGS2,6
+pain,NALBUPHINE,4,n/a,OPRD1,6
+pain,NALBUPHINE,4,n/a,OPRM1,6
+pain,DEXAMETHASONE,4,Terminated,NR3C1,5
+pain,PARECOXIB,4,Completed,PTGS2,5
+pain,DEXMEDETOMIDINE,4,Unknown status,ADRA2B,5
+pain,NICOTINE,4,Completed,CHRNB2,5
+pain,NICOTINE,4,Completed,CHRNA4,5
+pain,KETOPROFEN,4,n/a,PTGS2,5
+pain,LIDOCAINE,4,Not yet recruiting,SCN1A,5
+pain,KETOPROFEN,4,n/a,PTGS1,5
+pain,OXYCODONE,4,Unknown status,OPRM1,5
+pain,CAFFEINE,4,n/a,ADORA3,5
+pain,LIDOCAINE,4,Not yet recruiting,SCN2A,5
+chronic pain,FENTANYL,4,Completed,OPRM1,5
+pain,DEXKETOPROFEN,4,Completed,PTGS1,5
+pain,MORPHINE,4,Not yet recruiting,OPRM1,5
+pain,PROPOFOL,4,Completed,GABRA1,4
+pain,LIDOCAINE,4,Terminated,SCN9A,4
+pain,TETRACAINE,4,Completed,SCN10A,4
+pain,ACETAMINOPHEN,4,Not yet recruiting,PTGS2,4
+pain,LIDOCAINE,4,Terminated,SCN7A,4
+pain,TETRACAINE,4,Completed,SCN11A,4
+pain,MEPIVACAINE,4,Completed,SCN3A,4
+pain,LIDOCAINE,4,Terminated,SCN4A,4
+pain,DICLOFENAC,4,Completed,PTGS2,4
+pain,DICLOFENAC,4,Completed,PTGS1,4
+pain,MEPIVACAINE,4,Completed,SCN4A,4
+pain,TETRACAINE,4,Completed,SCN2A,4
+pain,KETAMINE,4,Withdrawn,GRIN2C,4
+pain,LIDOCAINE,4,Terminated,SCN3A,4
+pain,LIDOCAINE,4,Terminated,SCN2A,4
+pain,LIDOCAINE,4,Terminated,SCN1A,4
+pain,LIDOCAINE,4,Terminated,SCN11A,4
+pain,TETRACAINE,4,Completed,SCN1A,4
+pain,ROPIVACAINE,4,Not yet recruiting,SCN4A,4
+pain,TETRACAINE,4,Completed,SCN3A,4
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN3A,4
+pain,MEPIVACAINE,4,Completed,SCN10A,4
+pain,MEPERIDINE,4,Completed,OPRM1,4
+pain,MEPIVACAINE,4,Completed,SCN2A,4
+pain,ACETAMINOPHEN,4,Not yet recruiting,TRPV1,4
+pain,TETRACAINE,4,Completed,SCN8A,4
+pain,TETRACAINE,4,Completed,SCN7A,4
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN10A,4
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN1A,4
+pain,TETRACAINE,4,Completed,SCN5A,4
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN2A,4
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN4A,4
+pain,TETRACAINE,4,Completed,SCN4A,4
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN7A,4
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN9A,4
+pain,ROPIVACAINE,4,Not yet recruiting,SCN10A,4
+pain,ROPIVACAINE,4,Not yet recruiting,SCN1A,4
+pain,ROPIVACAINE,4,Not yet recruiting,SCN2A,4
+pain,ROPIVACAINE,4,Not yet recruiting,SCN3A,4
+pain,ACETAMINOPHEN,4,Not yet recruiting,PTGS1,4
+pain,ROPIVACAINE,4,Not yet recruiting,SCN5A,4
+pain,ROPIVACAINE,4,Not yet recruiting,SCN8A,4
+pain,ROPIVACAINE,4,Not yet recruiting,SCN9A,4
+pain,LIDOCAINE,4,Terminated,SCN10A,4
+pain,DEXKETOPROFEN,4,Unknown status,PTGS1,4
+pain,ACETAMINOPHEN,4,Not yet recruiting,FAAH,4
+pain,PROPOFOL,4,Completed,GABRG1,4
+pain,MEPIVACAINE,4,Completed,SCN5A,4
+pain,BUPRENORPHINE,4,n/a,OPRK1,4
+pain,BUPRENORPHINE,4,n/a,OPRM1,4
+pain,PROPOFOL,4,Completed,GABRP,4
+pain,KETAMINE,4,Withdrawn,GRIN1,4
+pain,KETAMINE,4,Withdrawn,GRIN2A,4
+pain,KETAMINE,4,Withdrawn,GRIN2B,4
+pain,DEXMEDETOMIDINE,4,Unknown status,ADRA2C,4
+chronic pain,METHADONE,4,Completed,OPRM1,4
+pain,DEXMEDETOMIDINE,4,Unknown status,ADRA2A,4
+pain,BUPRENORPHINE,4,Completed,OPRK1,4
+pain,PROPOFOL,4,Completed,GABRG2,4
+chronic pain,MORPHINE,4,Completed,OPRM1,4
+pain,PROPOFOL,4,Completed,GABRG3,4
+pain,KETAMINE,4,Withdrawn,GRIN3B,4
+pain,NAPROXEN,4,Completed,PTGS2,4
+pain,NAPROXEN,4,Completed,PTGS1,4
+pain,KETAMINE,4,Withdrawn,GRIN3A,4
+pain,DEXKETOPROFEN,4,Unknown status,PTGS2,4
+pain,KETAMINE,4,Withdrawn,GRIN2D,4
+pain,BUPRENORPHINE,4,Completed,OPRM1,4
+pain,PROPOFOL,4,Completed,GABRQ,4
+pain,PROPOFOL,4,Completed,GABRE,4
+pain,MEPIVACAINE,4,Completed,SCN8A,4
+pain,MEPIVACAINE,4,Completed,SCN7A,4
+pain,MEPIVACAINE,4,Completed,SCN1A,4
+pain,ROPIVACAINE,4,Withdrawn,SCN10A,4
+pain,ROPIVACAINE,4,Withdrawn,SCN11A,4
+pain,ROPIVACAINE,4,Withdrawn,SCN1A,4
+pain,ROPIVACAINE,4,Withdrawn,SCN2A,4
+pain,ROPIVACAINE,4,Withdrawn,SCN4A,4
+pain,ROPIVACAINE,4,Withdrawn,SCN5A,4
+pain,ROPIVACAINE,4,Withdrawn,SCN7A,4
+pain,ROPIVACAINE,4,Withdrawn,SCN8A,4
+pain,PROPOFOL,4,Completed,GABRD,4
+pain,ROPIVACAINE,4,Withdrawn,SCN9A,4
+pain,PROPOFOL,4,Completed,GABRA2,4
+pain,PROPOFOL,4,Completed,GABRA3,4
+pain,PROPOFOL,4,Completed,GABRA4,4
+pain,PROPOFOL,4,Completed,GABRA5,4
+pain,PROPOFOL,4,Completed,GABRA6,4
+pain,MEPIVACAINE,4,Completed,SCN9A,4
+pain,PROPOFOL,4,Completed,GABRB2,4
+pain,PROPOFOL,4,Completed,GABRB3,4
+pain,MEPIVACAINE,4,Completed,SCN11A,4
+pain,PROPOFOL,4,Unknown status,GABRB2,3
+pain,PROPOFOL,4,Unknown status,GABRB3,3
+pain,PROPOFOL,4,Unknown status,GABRG1,3
+pain,PROPOFOL,4,Unknown status,GABRB1,3
+pain,DICLOFENAC,4,Terminated,PTGS1,3
+pain,PROPOFOL,4,Unknown status,GABRD,3
+pain,DICLOFENAC,4,Terminated,PTGS2,3
+pain,ACETAMINOPHEN,4,Withdrawn,FAAH,3
+pain,BUPIVACAINE,4,Withdrawn,SCN4A,3
+pain,PROPOFOL,4,Completed,GABRB1,3
+neuropathic pain,TAPENTADOL,4,n/a,SLC6A2,3
+neuropathic pain,TAPENTADOL,4,n/a,OPRM1,3
+pain,DEXMEDETOMIDINE,4,Recruiting,ADRA2A,3
+pain,DEXMEDETOMIDINE,4,Recruiting,ADRA2B,3
+pain,DEXMEDETOMIDINE,4,Recruiting,ADRA2C,3
+pain,CLONIDINE,4,Recruiting,ADRA2C,3
+neuropathic pain,PREGABALIN,4,Completed,CACNA2D1,3
+pain,CLONIDINE,4,Recruiting,ADRA2B,3
+pain,CLONIDINE,4,Recruiting,ADRA2A,3
+pain,DEXAMETHASONE,4,Unknown status,NR3C1,3
+pain,PROPOFOL,4,Unknown status,GABRA6,3
+pain,ACETAMINOPHEN,4,Withdrawn,TRPV1,3
+pain,ACETAMINOPHEN,4,Withdrawn,PTGS2,3
+pain,ACETAMINOPHEN,4,Withdrawn,PTGS1,3
+pain,OXYCODONE,4,Not yet recruiting,OPRM1,3
+pain,PROPOFOL,4,Unknown status,GABRA1,3
+pain,PROPOFOL,4,Unknown status,GABRA2,3
+pain,PROPOFOL,4,Unknown status,GABRA3,3
+pain,PROPOFOL,4,Unknown status,GABRA4,3
+pain,PROPOFOL,4,Unknown status,GABRA5,3
+pain,PROPOFOL,4,Unknown status,GABRE,3
+pain,KETAMINE,4,Terminated,GRIN3B,3
+pain,PROPOFOL,4,Unknown status,GABRG2,3
+pain,NAPROXEN,4,Unknown status,PTGS1,3
+pain,TETRACAINE,4,n/a,SCN2A,3
+pain,TETRACAINE,4,n/a,SCN1A,3
+pain,TETRACAINE,4,n/a,SCN11A,3
+pain,TETRACAINE,4,n/a,SCN10A,3
+pain,KETAMINE,4,Terminated,GRIN2C,3
+pain,KETAMINE,4,Terminated,GRIN2B,3
+pain,KETAMINE,4,Terminated,GRIN2A,3
+pain,KETAMINE,4,Terminated,GRIN1,3
+pain,NALBUPHINE,4,Recruiting,OPRD1,3
+pain,NALBUPHINE,4,Recruiting,OPRK1,3
+pain,NALBUPHINE,4,Recruiting,OPRM1,3
+pain,TETRACAINE,4,Completed,SCN9A,3
+pain,SUFENTANIL,4,Recruiting,OPRM1,3
+pain,HYDROCODONE,4,Completed,OPRM1,3
+pain,HYDROCODONE,4,Completed,OPRK1,3
+chronic pain,MORPHINE,4,Recruiting,OPRM1,3
+pain,HYDROCODONE,4,Completed,OPRD1,3
+pain,TETRACAINE,4,n/a,SCN3A,3
+pain,PROPOFOL,4,Unknown status,GABRG3,3
+pain,TETRACAINE,4,n/a,SCN5A,3
+pain,KETOROLAC,4,Unknown status,PTGS1,3
+pain,LUMIRACOXIB,4,Completed,PTGS2,3
+pain,TRIAMCINOLONE ACETONIDE,4,n/a,NR3C1,3
+pain,TRAMADOL,4,Unknown status,OPRM1,3
+pain,TRAMADOL,4,Recruiting,OPRM1,3
+pain,LIDOCAINE,4,Terminated,SCN5A,3
+pain,LEVOBUPIVACAINE,4,Unknown status,SCN4A,3
+pain,KETOROLAC,4,Unknown status,PTGS2,3
+pain,KETAMINE,4,Unknown status,GRIN3B,3
+pain,TETRACAINE,4,n/a,SCN7A,3
+pain,KETAMINE,4,Unknown status,GRIN2D,3
+pain,KETAMINE,4,Unknown status,GRIN2C,3
+pain,KETAMINE,4,Unknown status,GRIN2B,3
+pain,KETAMINE,4,Unknown status,GRIN2A,3
+pain,KETAMINE,4,Unknown status,GRIN1,3
+pain,TETRACAINE,4,n/a,SCN9A,3
+pain,KETAMINE,4,Terminated,GRIN2D,3
+pain,GABAPENTIN,4,Terminated,CACNA2D1,3
+pain,TETRACAINE,4,n/a,SCN4A,3
+pain,CELECOXIB,4,Completed,PTGS2,3
+pain,ONDANSETRON,4,Completed,HTR3A,3
+pain,ROPIVACAINE,4,Terminated,SCN9A,3
+pain,ROPIVACAINE,4,Terminated,SCN8A,3
+pain,ROPIVACAINE,4,Terminated,SCN7A,3
+pain,ROPIVACAINE,4,Terminated,SCN5A,3
+pain,ROPIVACAINE,4,Terminated,SCN3A,3
+pain,ROPIVACAINE,4,Terminated,SCN1A,3
+pain,PROPOFOL,4,Unknown status,GABRP,3
+pain,ROPIVACAINE,4,Terminated,SCN10A,3
+pain,ROPIVACAINE,4,Not yet recruiting,SCN7A,3
+pain,ROPIVACAINE,4,Not yet recruiting,SCN11A,3
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN8A,3
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN5A,3
+pain,ROPIVACAINE,4,Enrolling by invitation,SCN11A,3
+pain,EPINEPHRINE,4,Recruiting,ADRB3,3
+pain,EPINEPHRINE,4,Recruiting,ADRA2C,3
+pain,EPINEPHRINE,4,Recruiting,ADRA2A,3
+pain,PROPOFOL,4,Unknown status,GABRQ,3
+pain,EPINEPHRINE,4,Recruiting,ADRA1D,3
+pain,REMIFENTANIL,4,Terminated,OPRM1,3
+pain,EPINEPHRINE,4,Recruiting,ADRA1A,3
+pain,EPINEPHRINE,4,Recruiting,ADRA1B,3
+pain,ROPIVACAINE,4,Withdrawn,SCN3A,3
+pain,ROPIVACAINE,4,Terminated,SCN2A,3
+pain,FLURBIPROFEN,4,Completed,PTGS2,3
+pain,FLURBIPROFEN,4,Completed,PTGS1,3
+pain,NAPROXEN,4,Unknown status,PTGS2,3
+pain,FENTANYL,4,Withdrawn,OPRM1,3
+pain,FENTANYL,4,Unknown status,OPRM1,3
+pain,METHOXYFLURANE,4,Completed,GABRP,2
+pain,CHLOROPROCAINE,4,Completed,SCN8A,2
+pain,CHLOROPROCAINE,4,Completed,SCN3A,2
+pain,CHLOROPROCAINE,4,Completed,SCN4A,2
+pain,LIDOCAINE,4,Withdrawn,SCN4A,2
+pain,LIDOCAINE,4,Withdrawn,SCN3A,2
+pain,CHLOROPROCAINE,4,Completed,SCN5A,2
+pain,CHLOROPROCAINE,4,Completed,SCN7A,2
+pain,LIDOCAINE,4,Withdrawn,SCN2A,2
+pain,CHLOROPROCAINE,4,Completed,SCN9A,2
+pain,LIDOCAINE,4,Withdrawn,SCN5A,2
+pain,LIDOCAINE,4,Withdrawn,SCN1A,2
+pain,METHOXYFLURANE,4,Completed,GABRA5,2
+pain,METHOXYFLURANE,4,Completed,GABRA4,2
+pain,METHADONE,4,Recruiting,OPRM1,2
+pain,LIDOCAINE,4,Withdrawn,SCN11A,2
+pain,LIDOCAINE,4,Terminated,SCN8A,2
+pain,METHOXYFLURANE,4,Completed,GABRA1,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN9A,2
+pain,METHOXYFLURANE,4,Completed,GABRA6,2
+pain,LIDOCAINE,4,Withdrawn,SCN8A,2
+pain,LIDOCAINE,4,Withdrawn,SCN7A,2
+pain,METHOXYFLURANE,4,Completed,GABRE,2
+pain,METHOXYFLURANE,4,Completed,GABRG3,2
+pain,METHOXYFLURANE,4,Completed,GABRQ,2
+pain,METHOXYFLURANE,4,Completed,GLRA1,2
+pain,CHLOROPROCAINE,4,Completed,SCN1A,2
+pain,CHLOROPROCAINE,4,Completed,SCN11A,2
+pain,METHOXYFLURANE,4,Completed,GABRG2,2
+pain,METHOXYFLURANE,4,Completed,GABRG1,2
+pain,CHLOROPROCAINE,4,Completed,SCN10A,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN7A,2
+pain,MEPERIDINE,4,Unknown status,OPRM1,2
+pain,CELECOXIB,4,Withdrawn,PTGS2,2
+pain,METHOXYFLURANE,4,Completed,GABRD,2
+pain,METHOXYFLURANE,4,Completed,GABRB3,2
+pain,CELECOXIB,4,Recruiting,PTGS2,2
+pain,METHOXYFLURANE,4,Completed,GABRB2,2
+pain,CHLOROPROCAINE,4,Completed,SCN2A,2
+pain,METHOXYFLURANE,4,Completed,GABRB1,2
+pain,LIDOCAINE,4,Withdrawn,SCN9A,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN8A,2
+pain,FLURBIPROFEN,4,Unknown status,PTGS1,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN5A,2
+pain,HYDROCODONE,4,Recruiting,OPRK1,2
+pain,ONABOTULINUMTOXINA,4,Recruiting,SNAP25,2
+pain,IBUPROFEN,4,Not yet recruiting,PTGS2,2
+pain,IBUPROFEN,4,Not yet recruiting,PTGS1,2
+pain,DEXMEDETOMIDINE,4,Withdrawn,ADRA2C,2
+pain,HYDROMORPHONE,4,Terminated,OPRM1,2
+pain,DEXMEDETOMIDINE,4,Withdrawn,ADRA2B,2
+pain,HYDROMORPHONE,4,"Active, not recruiting",OPRM1,2
+pain,NALOXONE,4,Terminated,OPRD1,2
+pain,DEXAMETHASONE,4,Withdrawn,NR3C1,2
+pain,HYDROCODONE,4,Recruiting,OPRD1,2
+pain,MORPHINE,4,Enrolling by invitation,OPRM1,2
+pain,NALOXONE,4,Terminated,OPRK1,2
+pain,NALOXONE,4,Terminated,OPRM1,2
+pain,DEXMEDETOMIDINE,4,Withdrawn,ADRA2A,2
+pain,NALTREXONE,4,n/a,OPRD1,2
+pain,NALTREXONE,4,n/a,OPRK1,2
+pain,NALTREXONE,4,n/a,OPRM1,2
+pain,GABAPENTIN,4,Withdrawn,CACNA2D1,2
+pain,GABAPENTIN,4,Unknown status,CACNA2D1,2
+pain,PARECOXIB,4,Terminated,PTGS2,2
+pain,ETORICOXIB,4,Terminated,PTGS2,2
+pain,DICLOFENAC,4,Recruiting,PTGS1,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN4A,2
+pain,KETOROLAC,4,"Active, not recruiting",PTGS2,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN3A,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN2A,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN1A,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN11A,2
+pain,LIDOCAINE,4,"Active, not recruiting",SCN10A,2
+pain,LEVOBUPIVACAINE,4,Terminated,SCN4A,2
+pain,EPINEPHRINE,4,Recruiting,ADRA2B,2
+pain,FLURBIPROFEN,4,Unknown status,PTGS2,2
+pain,KETOROLAC,4,Recruiting,PTGS1,2
+pain,CODEINE,4,Unknown status,OPRD1,2
+pain,KETAMINE,4,Terminated,GRIN3A,2
+pain,CODEINE,4,Unknown status,OPRK1,2
+pain,CODEINE,4,Unknown status,OPRM1,2
+pain,KETOROLAC,4,"Active, not recruiting",PTGS1,2
+pain,KETOPROFEN,4,Completed,PTGS2,2
+pain,KETOPROFEN,4,Completed,PTGS1,2
+pain,KETAMINE,4,Unknown status,GRIN3A,2
+pain,DICLOFENAC,4,Recruiting,PTGS2,2
+pain,EPINEPHRINE,4,Recruiting,ADRB1,2
+pain,EPINEPHRINE,4,Recruiting,ADRB2,2
+pain,KETOROLAC,4,Recruiting,PTGS2,2
+pain,METHOXYFLURANE,4,Completed,GABRA2,2
+pain,PROPOFOL,4,Terminated,GABRD,2
+pain,PROPOFOL,4,Terminated,GABRA4,2
+pain,PROPOFOL,4,Terminated,GABRG3,2
+pain,PROPOFOL,4,Terminated,GABRG2,2
+pain,PROPOFOL,4,Terminated,GABRG1,2
+chronic pain,KETAMINE,4,Completed,GRIN2D,2
+pain,PROPOFOL,4,Terminated,GABRE,2
+chronic pain,KETAMINE,4,Completed,GRIN2C,2
+abdominal pain,LIDOCAINE,4,Completed,SCN10A,2
+pain,PROPOFOL,4,Terminated,GABRB3,2
+chronic pain,KETAMINE,4,Completed,GRIN2B,2
+pain,PROPOFOL,4,Terminated,GABRB1,2
+pain,TETRACAINE,4,Terminated,SCN5A,2
+chronic pain,KETAMINE,4,Completed,GRIN1,2
+pain,PROPOFOL,4,Terminated,GABRA6,2
+pain,PROPOFOL,4,Terminated,GABRA5,2
+pain,PROPOFOL,4,Terminated,GABRA3,2
+pain,PROPOFOL,4,Terminated,GABRQ,2
+pain,PROPOFOL,4,Terminated,GABRA2,2
+pain,PROPOFOL,4,Terminated,GABRA1,2
+pain,PROPOFOL,4,Recruiting,GABRQ,2
+pain,PROPOFOL,4,Recruiting,GABRP,2
+pain,PROPOFOL,4,Recruiting,GABRG3,2
+pain,PROPOFOL,4,Recruiting,GABRG2,2
+pain,PROPOFOL,4,Recruiting,GABRG1,2
+pain,TETRACAINE,4,Terminated,SCN7A,2
+pain,PROPOFOL,4,Recruiting,GABRE,2
+neuropathic pain,TAPENTADOL,4,Completed,OPRM1,2
+neuropathic pain,TAPENTADOL,4,Completed,SLC6A2,2
+pain,TETRACAINE,4,Terminated,SCN8A,2
+pain,ROFECOXIB,4,Terminated,PTGS2,2
+pain,TETRACAINE,4,Terminated,SCN9A,2
+pain,PROPOFOL,4,Terminated,GABRP,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN9A,2
+pain,PROPOFOL,4,Recruiting,GABRB2,2
+pain,TETRACAINE,4,Terminated,SCN11A,2
+pain,VALDECOXIB,4,Completed,PTGS2,2
+pain,VALDECOXIB,4,Terminated,PTGS2,2
+pain,ROPIVACAINE,4,Terminated,SCN11A,2
+Renal Colic,KETOROLAC,4,Unknown status,PTGS1,2
+pain,ROPIVACAINE,4,Terminated,SCN4A,2
+Renal Colic,MORPHINE,4,Completed,OPRM1,2
+Renal Colic,MORPHINE,4,Unknown status,OPRM1,2
+neuropathic pain,GABAPENTIN,4,Terminated,CACNA2D1,2
+pain,SUFENTANIL,4,Unknown status,OPRM1,2
+pain,TETRACAINE,4,Terminated,SCN10A,2
+pain,ROCURONIUM,4,Completed,CHRNE,2
+pain,ROCURONIUM,4,Completed,CHRND,2
+pain,ROCURONIUM,4,Completed,CHRNB1,2
+pain,ROCURONIUM,4,Completed,CHRNA1,2
+pain,TETRACAINE,4,Terminated,SCN1A,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN8A,2
+pain,TETRACAINE,4,Terminated,SCN2A,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN10A,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN11A,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN1A,2
+pain,SUFENTANIL,4,Terminated,OPRM1,2
+pain,TETRACAINE,4,Terminated,SCN3A,2
+pain,TETRACAINE,4,Terminated,SCN4A,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN2A,2
+chronic pain,KETAMINE,4,Completed,GRIN3B,2
+chronic pain,KETAMINE,4,Completed,GRIN3A,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN3A,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN4A,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN5A,2
+neuropathic pain,LIDOCAINE,4,Completed,SCN7A,2
+pain,PROPOFOL,4,Recruiting,GABRB3,2
+pain,PROPOFOL,4,Recruiting,GABRD,2
+pain,PROPOFOL,4,Recruiting,GABRB1,2
+chronic pain,TOLTERODINE,4,Completed,CHRM3,2
+pain,ARTICAINE,4,Completed,SCN5A,2
+pain,ARTICAINE,4,Completed,SCN7A,2
+pain,ARTICAINE,4,Completed,SCN8A,2
+pain,ARTICAINE,4,Completed,SCN9A,2
+abdominal pain,LIDOCAINE,4,Completed,SCN7A,2
+abdominal pain,LIDOCAINE,4,Completed,SCN8A,2
+abdominal pain,LIDOCAINE,4,Completed,SCN9A,2
+pain,SUFENTANIL,4,Not yet recruiting,OPRM1,2
+pain,ACETAMINOPHEN,4,Enrolling by invitation,FAAH,2
+pain,TETRACAINE,4,n/a,SCN8A,2
+pain,METHOXYFLURANE,4,Completed,GABRA3,2
+chronic pain,AMITRIPTYLINE,4,Completed,SLC6A4,2
+chronic pain,AMITRIPTYLINE,4,Completed,SLC6A2,2
+pain,ASPIRIN,4,Completed,PTGS1,2
+pain,ASPIRIN,4,Completed,PTGS2,2
+chronic pain,ACETAMINOPHEN,4,Completed,FAAH,2
+pain,BUPRENORPHINE,4,Terminated,OPRK1,2
+pain,BUPRENORPHINE,4,Terminated,OPRM1,2
+pain,BUTORPHANOL,4,Completed,OPRK1,2
+pain,BUTORPHANOL,4,Completed,OPRM1,2
+chronic pain,ACETAMINOPHEN,4,Completed,TRPV1,2
+chronic pain,ACETAMINOPHEN,4,Completed,PTGS2,2
+chronic pain,ACETAMINOPHEN,4,Completed,PTGS1,2
+chronic pain,TOLTERODINE,4,Completed,CHRM2,2
+neuropathic pain,CAPSAICIN,4,n/a,TRPV1,2
+abdominal pain,LIDOCAINE,4,Completed,SCN5A,2
+pain,ARTICAINE,4,Completed,SCN1A,2
+pain,PROPOFOL,4,Recruiting,GABRA2,2
+pain,PROPOFOL,4,Recruiting,GABRA1,2
+pain,ARTICAINE,4,Completed,SCN10A,2
+pain,ARTICAINE,4,Completed,SCN11A,2
+chronic pain,HYDROCODONE,4,Completed,OPRD1,2
+chronic pain,HYDROCODONE,4,Completed,OPRK1,2
+pain,PROPOFOL,4,Recruiting,GABRA5,2
+pain,PROPOFOL,4,Recruiting,GABRA4,2
+pain,ACETAMINOPHEN,4,Enrolling by invitation,TRPV1,2
+pain,ACETAMINOPHEN,4,Enrolling by invitation,PTGS2,2
+pain,PROPOFOL,4,Recruiting,GABRA6,2
+pain,ACETAMINOPHEN,4,Enrolling by invitation,PTGS1,2
+chronic pain,HYDROCODONE,4,Completed,OPRM1,2
+abdominal pain,LIDOCAINE,4,Completed,SCN4A,2
+abdominal pain,LIDOCAINE,4,Completed,SCN3A,2
+pain,ARTICAINE,4,Completed,SCN4A,2
+pain,ARTICAINE,4,Completed,SCN3A,2
+pain,ARTICAINE,4,Completed,SCN2A,2
+abdominal pain,LIDOCAINE,4,Completed,SCN2A,2
+abdominal pain,LIDOCAINE,4,Completed,SCN1A,2
+abdominal pain,LIDOCAINE,4,Completed,SCN11A,2
+pain,PROPOFOL,4,Recruiting,GABRA3,2
+pain,MIDAZOLAM,4,Not yet recruiting,GABRA5,1
+pain,MIDAZOLAM,4,Not yet recruiting,GABRG1,1
+pain,TOPIRAMATE,4,Unknown status,GABRD,1
+pain,TOPIRAMATE,4,Unknown status,GABRB3,1
+pain,TOPIRAMATE,4,Unknown status,GABRB2,1
+pain,TOPIRAMATE,4,Unknown status,GRIA3,1
+pain,TOPIRAMATE,4,Unknown status,GABRQ,1
+pain,TOPIRAMATE,4,Unknown status,GRIA2,1
+pain,TOPIRAMATE,4,Unknown status,GRIA1,1
+pain,TOPIRAMATE,4,Unknown status,GABRP,1
+pain,TOPIRAMATE,4,Unknown status,GABRG3,1
+pain,TOPIRAMATE,4,Unknown status,GABRG2,1
+pain,MIDAZOLAM,4,Not yet recruiting,GABRA3,1
+pain,MIDAZOLAM,4,Not yet recruiting,GABRA2,1
+pain,TOPIRAMATE,4,Unknown status,GABRG1,1
+pain,TOPIRAMATE,4,Unknown status,GABRE,1
+pain,METHOXYFLURANE,4,n/a,GABRG3,1
+pain,METHOXYFLURANE,4,n/a,GABRP,1
+pain,METHOXYFLURANE,4,n/a,GABRQ,1
+pain,METHOXYFLURANE,4,n/a,GLRA1,1
+pain,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+pain,MIDAZOLAM,4,Not yet recruiting,GABRA1,1
+pain,PROMETHAZINE,4,n/a,HRH1,1
+pain,TOPIRAMATE,4,Unknown status,GABRB1,1
+pain,MIDAZOLAM,4,Recruiting,GABRA5,1
+pain,MIDAZOLAM,4,Recruiting,GABRA2,1
+pain,MIDAZOLAM,4,Recruiting,GABRA3,1
+pain,TOPIRAMATE,4,Terminated,GRIK3,1
+pain,TOPIRAMATE,4,Terminated,GRIK2,1
+pain,TOPIRAMATE,4,Terminated,GRIK1,1
+pain,TOPIRAMATE,4,Terminated,GRIA4,1
+pain,TOPIRAMATE,4,Terminated,GRIA3,1
+pain,TOPIRAMATE,4,Terminated,GRIA2,1
+pain,MIDAZOLAM,4,Recruiting,GABRG1,1
+pain,MIDAZOLAM,4,Not yet recruiting,GABRG3,1
+pain,MIDAZOLAM,4,Recruiting,GABRG2,1
+pain,MIDAZOLAM,4,Recruiting,GABRG3,1
+pain,TOPIRAMATE,4,Terminated,GRIA1,1
+pain,TOPIRAMATE,4,Terminated,GABRQ,1
+pain,TOPIRAMATE,4,Terminated,GABRP,1
+pain,TOPIRAMATE,4,Terminated,GABRG3,1
+pain,TOPIRAMATE,4,Terminated,GABRG2,1
+pain,MIDAZOLAM,4,Unknown status,GABRA1,1
+pain,MIDAZOLAM,4,Recruiting,GABRA1,1
+pain,TOPIRAMATE,4,Terminated,GRIK4,1
+pain,TOPIRAMATE,4,Unknown status,GABRA6,1
+pain,TOPIRAMATE,4,Terminated,SCN7A,1
+pain,TOPIRAMATE,4,Unknown status,GABRA5,1
+pain,TOPIRAMATE,4,Unknown status,GABRA4,1
+pain,TOPIRAMATE,4,Unknown status,GABRA3,1
+pain,TOPIRAMATE,4,Unknown status,GABRA2,1
+pain,TOPIRAMATE,4,Unknown status,GABRA1,1
+pain,TOPIRAMATE,4,Unknown status,CA4,1
+pain,TOPIRAMATE,4,Terminated,SCN9A,1
+pain,TOPIRAMATE,4,Terminated,SCN8A,1
+pain,TOPIRAMATE,4,Terminated,SCN5A,1
+pain,MIDAZOLAM,4,Not yet recruiting,GABRG2,1
+pain,TOPIRAMATE,4,Terminated,SCN4A,1
+pain,TOPIRAMATE,4,Terminated,SCN3A,1
+pain,TOPIRAMATE,4,Unknown status,GRIK1,1
+pain,TOPIRAMATE,4,Terminated,SCN2A,1
+pain,TOPIRAMATE,4,Terminated,SCN1A,1
+pain,TOPIRAMATE,4,Terminated,SCN11A,1
+pain,TOPIRAMATE,4,Terminated,SCN10A,1
+pain,TOPIRAMATE,4,Terminated,GRIK5,1
+pain,TOPIRAMATE,4,Unknown status,GRIA4,1
+pain,TRIAMCINOLONE,4,Recruiting,NR3C1,1
+pain,TOPIRAMATE,4,Unknown status,GRIK2,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRA2,1
+shoulder pain,PROPOFOL,4,Completed,GABRA3,1
+shoulder pain,PROPOFOL,4,Completed,GABRA2,1
+shoulder pain,PROPOFOL,4,Completed,GABRA1,1
+shoulder pain,PARECOXIB,4,Completed,PTGS2,1
+shoulder pain,MILNACIPRAN,4,Completed,SLC6A4,1
+shoulder pain,MILNACIPRAN,4,Completed,SLC6A2,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN9A,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN8A,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRA1,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRA3,1
+shoulder pain,PROPOFOL,4,Completed,GABRA5,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRA4,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRA5,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRA6,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRB1,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRB2,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRB3,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRD,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRE,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN7A,1
+shoulder pain,PROPOFOL,4,Completed,GABRA4,1
+shoulder pain,PROPOFOL,4,Completed,GABRA6,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRG2,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN11A,1
+shoulder pain,TRAMADOL,4,Completed,OPRM1,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN9A,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN8A,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN7A,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN5A,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN4A,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN3A,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN2A,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN1A,1
+shoulder pain,ROPIVACAINE,4,Unknown status,SCN10A,1
+shoulder pain,PROPOFOL,4,Completed,GABRB1,1
+shoulder pain,PROPOFOL,4,Completed,GABRQ,1
+shoulder pain,PROPOFOL,4,Completed,GABRP,1
+shoulder pain,PROPOFOL,4,Completed,GABRG3,1
+shoulder pain,PROPOFOL,4,Completed,GABRG2,1
+shoulder pain,PROPOFOL,4,Completed,GABRG1,1
+shoulder pain,PROPOFOL,4,Completed,GABRE,1
+shoulder pain,PROPOFOL,4,Completed,GABRD,1
+shoulder pain,PROPOFOL,4,Completed,GABRB3,1
+shoulder pain,PROPOFOL,4,Completed,GABRB2,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRG1,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRG3,1
+pain,TOPIRAMATE,4,Unknown status,GRIK3,1
+pain,METHOXYFLURANE,4,n/a,GABRB2,1
+pain,TOPIRAMATE,4,Unknown status,SCN8A,1
+pain,TOPIRAMATE,4,Unknown status,SCN7A,1
+pain,TOPIRAMATE,4,Unknown status,SCN5A,1
+pain,TOPIRAMATE,4,Unknown status,SCN4A,1
+pain,METHOXYFLURANE,4,n/a,GABRA3,1
+pain,METHOXYFLURANE,4,n/a,GABRA4,1
+pain,METHOXYFLURANE,4,n/a,GABRA5,1
+pain,METHOXYFLURANE,4,n/a,GABRA6,1
+pain,METHOXYFLURANE,4,n/a,GABRB1,1
+pain,METHOXYFLURANE,4,n/a,GABRD,1
+pain,TRAMADOL,4,Enrolling by invitation,OPRM1,1
+pain,METHOXYFLURANE,4,n/a,GABRE,1
+pain,METHOXYFLURANE,4,n/a,GABRG1,1
+pain,TOPIRAMATE,4,Unknown status,SCN3A,1
+pain,TOPIRAMATE,4,Unknown status,SCN2A,1
+pain,TOPIRAMATE,4,Unknown status,SCN1A,1
+pain,TOPIRAMATE,4,Unknown status,SCN11A,1
+pain,TOPIRAMATE,4,Unknown status,SCN10A,1
+pain,TOPIRAMATE,4,Unknown status,GRIK5,1
+pain,TOPIRAMATE,4,Unknown status,GRIK4,1
+pain,TOPIRAMATE,4,Unknown status,SCN9A,1
+pain,TRAMADOL,4,Not yet recruiting,OPRM1,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRP,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN10A,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GABRQ,1
+pain,METHOXYFLURANE,4,Not yet recruiting,GLRA1,1
+pain,METHOXYFLURANE,4,n/a,GABRA1,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN5A,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN4A,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN3A,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN2A,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN1A,1
+shoulder pain,LIDOCAINE,4,Terminated,SCN11A,1
+shoulder pain,DEXMEDETOMIDINE,4,Completed,ADRA2C,1
+pain,TRAMADOL,4,Terminated,OPRM1,1
+shoulder pain,DEXMEDETOMIDINE,4,Completed,ADRA2B,1
+shoulder pain,DEXMEDETOMIDINE,4,Completed,ADRA2A,1
+shoulder pain,BUPIVACAINE,4,Terminated,SCN4A,1
+shoulder pain,BUPIVACAINE,4,Not yet recruiting,SCN4A,1
+pain,ZOLMITRIPTAN,4,Not yet recruiting,HTR1D,1
+pain,ZOLMITRIPTAN,4,Not yet recruiting,HTR1B,1
+pain,ZICONOTIDE ACETATE,4,n/a,CACNA1B,1
+pain,MIDAZOLAM,4,Unknown status,GABRA3,1
+pain,METHOXYFLURANE,4,n/a,GABRA2,1
+pain,MIDAZOLAM,4,Unknown status,GABRA2,1
+pain,NALBUPHINE,4,Completed,OPRK1,1
+pain,MIDAZOLAM,4,Unknown status,GABRA5,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRB3,1
+pain,ORPHENADRINE,4,n/a,SCN3A,1
+pain,ROFECOXIB,4,Completed,PTGS2,1
+pain,ROCURONIUM,4,Not yet recruiting,CHRNG,1
+pain,ROCURONIUM,4,Not yet recruiting,CHRNE,1
+pain,ROCURONIUM,4,Not yet recruiting,CHRND,1
+pain,ROCURONIUM,4,Not yet recruiting,CHRNB1,1
+pain,ROCURONIUM,4,Not yet recruiting,CHRNA1,1
+pain,ROCURONIUM,4,Completed,CHRNG,1
+pain,REMIFENTANIL,4,Unknown status,OPRM1,1
+pain,REMIFENTANIL,4,Recruiting,OPRM1,1
+pain,PSEUDOEPHEDRINE,4,n/a,SLC6A2,1
+pain,ORPHENADRINE,4,n/a,SCN4A,1
+pain,ORPHENADRINE,4,n/a,SCN5A,1
+pain,ORPHENADRINE,4,n/a,SCN7A,1
+pain,ORPHENADRINE,4,n/a,SCN8A,1
+pain,ORPHENADRINE,4,n/a,SCN9A,1
+pain,ORPHENADRINE,4,n/a,SLC6A2,1
+pain,OXYCODONE,4,"Active, not recruiting",OPRM1,1
+pain,OXYCODONE,4,Terminated,OPRM1,1
+pain,ORPHENADRINE,4,n/a,SCN2A,1
+pain,ORPHENADRINE,4,n/a,SCN1A,1
+pain,ORPHENADRINE,4,n/a,SCN11A,1
+pain,ORPHENADRINE,4,n/a,GRIN2C,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRB1,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRA6,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRA5,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRA4,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRA3,1
+pain,ORPHENADRINE,4,n/a,GRIN1,1
+pain,ORPHENADRINE,4,n/a,GRIN2A,1
+pain,ORPHENADRINE,4,n/a,GRIN2B,1
+pain,ORPHENADRINE,4,n/a,GRIN2D,1
+pain,ORPHENADRINE,4,n/a,SCN10A,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRA2,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRA1,1
+pain,SCOPOLAMINE,4,Recruiting,CHRM1,1
+pain,SCOPOLAMINE,4,Not yet recruiting,CHRM1,1
+pain,SCOPOLAMINE,4,Completed,CHRM1,1
+pain,ORPHENADRINE,4,n/a,GRIN3A,1
+pain,ORPHENADRINE,4,n/a,GRIN3B,1
+pain,ORPHENADRINE,4,n/a,HRH1,1
+pain,OXYCODONE,4,Withdrawn,OPRM1,1
+pain,PROPOFOL,4,Terminated,GABRB2,1
+pain,PALONOSETRON,4,Completed,HTR3A,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRG1,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN3A,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN4A,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN5A,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN7A,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN8A,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN9A,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRG3,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRG2,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRD,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN1A,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRB3,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRB2,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRB1,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRA6,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRA5,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRA4,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRA3,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRA2,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN2A,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN11A,1
+pain,PANTOPRAZOLE,4,Unknown status,ATP4A,1
+pain,PRILOCAINE,4,Completed,SCN1A,1
+pain,PARECOXIB,4,Withdrawn,PTGS2,1
+pain,PENTAZOCINE,4,Completed,SIGMAR1,1
+pain,PREDNISOLONE,4,Completed,NR3C1,1
+pain,PREGABALIN,4,"Active, not recruiting",CACNA2D1,1
+pain,PREGABALIN,4,Enrolling by invitation,CACNA2D1,1
+pain,PREGABALIN,4,Terminated,CACNA2D1,1
+pain,PRILOCAINE,4,Completed,SCN10A,1
+pain,PRILOCAINE,4,Completed,SCN11A,1
+pain,PRILOCAINE,4,Completed,SCN2A,1
+pain,PRILOCAINE,4,Not yet recruiting,SCN10A,1
+pain,PRILOCAINE,4,Completed,SCN3A,1
+pain,PRILOCAINE,4,Completed,SCN4A,1
+pain,PRILOCAINE,4,Completed,SCN5A,1
+pain,PRILOCAINE,4,Completed,SCN7A,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRQ,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRP,1
+pain,PRILOCAINE,4,Completed,SCN8A,1
+pain,PRILOCAINE,4,Completed,SCN9A,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRB2,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRD,1
+pain,TOPIRAMATE,4,Terminated,GABRG1,1
+pain,ONABOTULINUMTOXINA,4,Not yet recruiting,SNAP25,1
+pain,MIDAZOLAM,4,Unknown status,GABRG2,1
+pain,MIDAZOLAM,4,Unknown status,GABRG3,1
+pain,MILNACIPRAN,4,Completed,SLC6A2,1
+pain,MILNACIPRAN,4,Completed,SLC6A4,1
+pain,MORPHINE,4,"Active, not recruiting",OPRM1,1
+pain,NALBUPHINE,4,Completed,OPRD1,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRA1,1
+pain,NALBUPHINE,4,Completed,OPRM1,1
+pain,TETRACAINE,4,Suspended,SCN9A,1
+pain,NALBUPHINE,4,Unknown status,OPRD1,1
+pain,NALBUPHINE,4,Unknown status,OPRK1,1
+pain,NALBUPHINE,4,Unknown status,OPRM1,1
+pain,TETRACAINE,4,Suspended,SCN8A,1
+pain,TETRACAINE,4,Suspended,SCN7A,1
+pain,TETRACAINE,4,Suspended,SCN5A,1
+pain,TETRACAINE,4,Suspended,SCN4A,1
+pain,TETRACAINE,4,Suspended,SCN3A,1
+pain,TETRACAINE,4,Suspended,SCN2A,1
+pain,TETRACAINE,4,Suspended,SCN1A,1
+pain,TETRACAINE,4,Unknown status,SCN10A,1
+pain,TETRACAINE,4,Unknown status,SCN11A,1
+pain,TETRACAINE,4,Unknown status,SCN1A,1
+pain,TOPIRAMATE,4,Terminated,GABRA1,1
+pain,TOPIRAMATE,4,Terminated,GABRE,1
+pain,TOPIRAMATE,4,Terminated,GABRD,1
+pain,TOPIRAMATE,4,Terminated,GABRB3,1
+pain,TOPIRAMATE,4,Terminated,GABRB2,1
+pain,TOPIRAMATE,4,Terminated,GABRB1,1
+pain,TOPIRAMATE,4,Terminated,GABRA6,1
+pain,TOPIRAMATE,4,Terminated,GABRA5,1
+pain,TOPIRAMATE,4,Terminated,GABRA3,1
+pain,TOPIRAMATE,4,Terminated,CA4,1
+pain,TETRACAINE,4,Unknown status,SCN2A,1
+pain,MIDAZOLAM,4,Unknown status,GABRG1,1
+pain,TOPIRAMATE,4,Terminated,CA2,1
+pain,TETRACAINE,4,Unknown status,SCN9A,1
+pain,TETRACAINE,4,Unknown status,SCN8A,1
+pain,TETRACAINE,4,Unknown status,SCN7A,1
+pain,TETRACAINE,4,Unknown status,SCN5A,1
+pain,TETRACAINE,4,Unknown status,SCN4A,1
+pain,TETRACAINE,4,Unknown status,SCN3A,1
+pain,TETRACAINE,4,Suspended,SCN10A,1
+pain,TERBUTALINE,4,Unknown status,ADRB2,1
+pain,NALOXEGOL,4,Recruiting,OPRM1,1
+pain,SEVOFLURANE,4,"Active, not recruiting",KCNK10,1
+pain,SEVOFLURANE,4,Recruiting,GABRA3,1
+pain,SEVOFLURANE,4,Recruiting,GABRA2,1
+pain,SEVOFLURANE,4,Recruiting,GABRA1,1
+pain,SEVOFLURANE,4,"Active, not recruiting",KCNK9,1
+pain,NAPROXEN,4,Enrolling by invitation,PTGS2,1
+pain,SEVOFLURANE,4,"Active, not recruiting",KCNK3,1
+pain,SEVOFLURANE,4,"Active, not recruiting",KCNK2,1
+pain,SEVOFLURANE,4,"Active, not recruiting",KCNK18,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GLRA1,1
+pain,SEVOFLURANE,4,Recruiting,GABRA5,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRQ,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRP,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRG3,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRG2,1
+pain,NEPAFENAC,4,Unknown status,PTGS1,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRG1,1
+pain,SEVOFLURANE,4,"Active, not recruiting",GABRE,1
+pain,OMEPRAZOLE,4,Completed,ATP4A,1
+pain,SEVOFLURANE,4,Recruiting,GABRA4,1
+pain,SEVOFLURANE,4,Recruiting,GABRA6,1
+pain,SUMATRIPTAN,4,Unknown status,HTR1B,1
+pain,SEVOFLURANE,4,Recruiting,GLRA1,1
+pain,NALOXONE,4,Completed,OPRD1,1
+pain,NALOXONE,4,Completed,OPRK1,1
+pain,NALOXONE,4,Completed,OPRM1,1
+pain,SEVOFLURANE,4,Recruiting,KCNK9,1
+pain,SEVOFLURANE,4,Recruiting,KCNK3,1
+pain,SEVOFLURANE,4,Recruiting,KCNK2,1
+pain,SEVOFLURANE,4,Recruiting,KCNK18,1
+pain,SEVOFLURANE,4,Recruiting,KCNK10,1
+pain,SEVOFLURANE,4,Recruiting,GABRQ,1
+pain,SEVOFLURANE,4,Recruiting,GABRB1,1
+pain,SEVOFLURANE,4,Recruiting,GABRP,1
+pain,SEVOFLURANE,4,Recruiting,GABRG3,1
+pain,SEVOFLURANE,4,Recruiting,GABRG2,1
+pain,SEVOFLURANE,4,Recruiting,GABRG1,1
+pain,SEVOFLURANE,4,Recruiting,GABRE,1
+pain,SEVOFLURANE,4,Recruiting,GABRD,1
+pain,SEVOFLURANE,4,Recruiting,GABRB3,1
+pain,SEVOFLURANE,4,Recruiting,GABRB2,1
+pain,PROPOFOL,4,"Active, not recruiting",GABRE,1
+Mastodynia,ACETAMINOPHEN,4,Completed,FAAH,1
+pain,METHADONE,4,Completed,OPRM1,1
+chronic pain,NALOXONE,4,Withdrawn,OPRK1,1
+chronic pain,NALOXONE,4,Completed,OPRM1,1
+chronic pain,NALOXONE,4,Completed,OPRK1,1
+chronic pain,NALOXONE,4,Completed,OPRD1,1
+chronic pain,MORPHINE,4,Terminated,OPRM1,1
+chronic pain,MORPHINE,4,Suspended,OPRM1,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN9A,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN8A,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN7A,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN5A,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN4A,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN3A,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN2A,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN1A,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN11A,1
+chronic pain,LIDOCAINE,4,Withdrawn,SCN10A,1
+chronic pain,NALOXONE,4,Withdrawn,OPRD1,1
+chronic pain,NALOXONE,4,Withdrawn,OPRM1,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN8A,1
+chronic pain,NALTREXONE,4,Terminated,OPRD1,1
+chronic pain,TRIAMCINOLONE,4,Withdrawn,NR3C1,1
+chronic pain,SUFENTANIL,4,Completed,OPRM1,1
+chronic pain,REMIFENTANIL,4,Completed,OPRM1,1
+chronic pain,PREGABALIN,4,Withdrawn,CACNA2D1,1
+chronic pain,PREGABALIN,4,Completed,CACNA2D1,1
+chronic pain,OXYMORPHONE,4,Completed,OPRM1,1
+chronic pain,OXYMORPHONE,4,Completed,OPRK1,1
+chronic pain,OXYMORPHONE,4,Completed,OPRD1,1
+chronic pain,OXYCODONE,4,Withdrawn,OPRM1,1
+chronic pain,OXYCODONE,4,Terminated,OPRM1,1
+chronic pain,OXYCODONE,4,Suspended,OPRM1,1
+chronic pain,OXYCODONE,4,Completed,OPRM1,1
+chronic pain,ONDANSETRON,4,Completed,HTR3A,1
+chronic pain,NALTREXONE,4,Terminated,OPRM1,1
+chronic pain,NALTREXONE,4,Terminated,OPRK1,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN9A,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN7A,1
+facial pain,DEXAMETHASONE,4,Completed,NR3C1,1
+chronic pain,KETAMINE,4,Unknown status,GRIN3B,1
+chronic pain,KETAMINE,4,Unknown status,GRIN2D,1
+chronic pain,KETAMINE,4,Unknown status,GRIN2C,1
+chronic pain,KETAMINE,4,Unknown status,GRIN2B,1
+chronic pain,KETAMINE,4,Unknown status,GRIN2A,1
+chronic pain,KETAMINE,4,Unknown status,GRIN1,1
+chronic pain,KETAMINE,4,Recruiting,GRIN3B,1
+chronic pain,KETAMINE,4,Recruiting,GRIN3A,1
+chronic pain,KETAMINE,4,Recruiting,GRIN2D,1
+chronic pain,KETAMINE,4,Recruiting,GRIN2C,1
+chronic pain,KETAMINE,4,Recruiting,GRIN2B,1
+chronic pain,KETAMINE,4,Recruiting,GRIN2A,1
+chronic pain,KETAMINE,4,Recruiting,GRIN1,1
+chronic pain,KETAMINE,4,Completed,GRIN2A,1
+chronic pain,IBUPROFEN,4,Unknown status,PTGS2,1
+chronic pain,IBUPROFEN,4,Unknown status,PTGS1,1
+chronic pain,KETAMINE,4,Unknown status,GRIN3A,1
+chronic pain,KETOROLAC,4,Unknown status,PTGS1,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN5A,1
+chronic pain,KETOROLAC,4,Unknown status,PTGS2,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN4A,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN3A,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN2A,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN1A,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN11A,1
+chronic pain,LIDOCAINE,4,Recruiting,SCN10A,1
+chronic pain,LIDOCAINE,4,Completed,SCN9A,1
+chronic pain,LIDOCAINE,4,Completed,SCN8A,1
+chronic pain,LIDOCAINE,4,Completed,SCN7A,1
+chronic pain,LIDOCAINE,4,Completed,SCN5A,1
+chronic pain,LIDOCAINE,4,Completed,SCN4A,1
+chronic pain,LIDOCAINE,4,Completed,SCN3A,1
+chronic pain,LIDOCAINE,4,Completed,SCN2A,1
+chronic pain,LIDOCAINE,4,Completed,SCN1A,1
+chronic pain,LIDOCAINE,4,Completed,SCN11A,1
+facial pain,BUPIVACAINE,4,Completed,SCN4A,1
+facial pain,GABAPENTIN,4,Unknown status,CACNA2D1,1
+pain,METHADONE,4,"Active, not recruiting",OPRM1,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN8A,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN5A,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN4A,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN3A,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN2A,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN1A,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN11A,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN10A,1
+neck pain,LIDOCAINE,4,Completed,SCN9A,1
+neck pain,LIDOCAINE,4,Completed,SCN8A,1
+neck pain,LIDOCAINE,4,Completed,SCN7A,1
+neck pain,LIDOCAINE,4,Completed,SCN5A,1
+neck pain,LIDOCAINE,4,Completed,SCN4A,1
+neck pain,LIDOCAINE,4,Completed,SCN3A,1
+neck pain,LIDOCAINE,4,Completed,SCN2A,1
+neck pain,LIDOCAINE,4,Completed,SCN1A,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN7A,1
+neck pain,LIDOCAINE,4,Withdrawn,SCN9A,1
+neck pain,LIDOCAINE,4,Completed,SCN10A,1
+neck pain,TRAMADOL,4,Completed,OPRM1,1
+neuropathic pain,BUPIVACAINE,4,Recruiting,SCN4A,1
+neuropathic pain,BUPIVACAINE,4,Not yet recruiting,SCN4A,1
+neuropathic pain,AMITRIPTYLINE,4,Terminated,SLC6A4,1
+neuropathic pain,AMITRIPTYLINE,4,Terminated,SLC6A2,1
+neuropathic pain,AMITRIPTYLINE,4,Completed,SLC6A4,1
+neuropathic pain,AMITRIPTYLINE,4,Completed,SLC6A2,1
+neuropathic pain,ACETAMINOPHEN,4,Recruiting,TRPV1,1
+neuropathic pain,ACETAMINOPHEN,4,Recruiting,PTGS2,1
+neuropathic pain,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+neuropathic pain,ACETAMINOPHEN,4,Recruiting,FAAH,1
+neuropathic pain,ACETAMINOPHEN,4,Not yet recruiting,TRPV1,1
+neuropathic pain,ACETAMINOPHEN,4,Not yet recruiting,PTGS2,1
+neuropathic pain,ACETAMINOPHEN,4,Not yet recruiting,PTGS1,1
+neuropathic pain,ACETAMINOPHEN,4,Not yet recruiting,FAAH,1
+neck pain,TRIAMCINOLONE,4,Completed,NR3C1,1
+neck pain,LIDOCAINE,4,Completed,SCN11A,1
+neck pain,DICLOFENAC,4,Completed,PTGS2,1
+facial pain,TRIAMCINOLONE,4,Completed,NR3C1,1
+hip pain,ROPIVACAINE,4,Completed,SCN4A,1
+hip pain,ROPIVACAINE,4,Completed,SCN2A,1
+hip pain,ROPIVACAINE,4,Completed,SCN1A,1
+hip pain,ROPIVACAINE,4,Completed,SCN11A,1
+hip pain,ROPIVACAINE,4,Completed,SCN10A,1
+hip pain,LIDOCAINE,4,Completed,SCN9A,1
+hip pain,LIDOCAINE,4,Completed,SCN8A,1
+hip pain,LIDOCAINE,4,Completed,SCN7A,1
+hip pain,LIDOCAINE,4,Completed,SCN5A,1
+hip pain,LIDOCAINE,4,Completed,SCN4A,1
+hip pain,LIDOCAINE,4,Completed,SCN3A,1
+hip pain,LIDOCAINE,4,Completed,SCN2A,1
+hip pain,LIDOCAINE,4,Completed,SCN1A,1
+hip pain,LIDOCAINE,4,Completed,SCN11A,1
+hip pain,LIDOCAINE,4,Completed,SCN10A,1
+hip pain,BUPIVACAINE,4,Completed,SCN4A,1
+hip pain,ROPIVACAINE,4,Completed,SCN3A,1
+hip pain,ROPIVACAINE,4,Completed,SCN7A,1
+neck pain,DICLOFENAC,4,Completed,PTGS1,1
+hip pain,ROPIVACAINE,4,Completed,SCN8A,1
+neck pain,BETAMETHASONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+neck pain,AMITRIPTYLINE,4,Completed,SLC6A4,1
+neck pain,AMITRIPTYLINE,4,Completed,SLC6A2,1
+knee pain,ROPIVACAINE,4,Completed,SCN9A,1
+knee pain,ROPIVACAINE,4,Completed,SCN8A,1
+knee pain,ROPIVACAINE,4,Completed,SCN7A,1
+knee pain,ROPIVACAINE,4,Completed,SCN5A,1
+knee pain,ROPIVACAINE,4,Completed,SCN4A,1
+knee pain,ROPIVACAINE,4,Completed,SCN3A,1
+knee pain,ROPIVACAINE,4,Completed,SCN1A,1
+knee pain,ROPIVACAINE,4,Completed,SCN11A,1
+knee pain,ROPIVACAINE,4,Completed,SCN10A,1
+knee pain,KETOROLAC,4,Withdrawn,PTGS2,1
+knee pain,KETOROLAC,4,Withdrawn,PTGS1,1
+hip pain,ROPIVACAINE,4,Completed,SCN9A,1
+chronic pain,HYDROMORPHONE,4,Completed,OPRM1,1
+chronic pain,GUANFACINE,4,Recruiting,ADRA2C,1
+chronic pain,GUANFACINE,4,Recruiting,ADRA2B,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN5A,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN3A,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN2A,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN1A,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN11A,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN10A,1
+Renal Colic,KETOROLAC,4,Unknown status,PTGS2,1
+Renal Colic,KETOROLAC,4,Recruiting,PTGS2,1
+Renal Colic,KETOROLAC,4,Recruiting,PTGS1,1
+Renal Colic,KETOPROFEN,4,Suspended,PTGS2,1
+Renal Colic,KETOPROFEN,4,Suspended,PTGS1,1
+Renal Colic,KETOPROFEN,4,Completed,PTGS2,1
+Renal Colic,KETOPROFEN,4,Completed,PTGS1,1
+Renal Colic,DICLOFENAC,4,Not yet recruiting,PTGS2,1
+Renal Colic,DICLOFENAC,4,Not yet recruiting,PTGS1,1
+Renal Colic,DEXKETOPROFEN,4,Completed,PTGS2,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN4A,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN7A,1
+Renal Colic,BUPRENORPHINE,4,Completed,OPRM1,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN8A,1
+back pain,BETAMETHASONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+back pain,ALENDRONIC ACID,4,Terminated,FDPS,1
+back pain,ACETAMINOPHEN,4,Terminated,TRPV1,1
+back pain,ACETAMINOPHEN,4,Terminated,PTGS2,1
+back pain,ACETAMINOPHEN,4,Terminated,PTGS1,1
+back pain,ACETAMINOPHEN,4,Terminated,FAAH,1
+abdominal pain,PREGABALIN,4,Terminated,CACNA2D1,1
+abdominal pain,MORPHINE,4,Completed,OPRM1,1
+abdominal pain,HYDROMORPHONE,4,Completed,OPRM1,1
+Renal Colic,TAMSULOSIN,4,Unknown status,ADRA1D,1
+Renal Colic,TAMSULOSIN,4,Unknown status,ADRA1B,1
+Renal Colic,TAMSULOSIN,4,Unknown status,ADRA1A,1
+Renal Colic,PARECOXIB,4,Completed,PTGS2,1
+Renal Colic,MORPHINE,4,Not yet recruiting,OPRM1,1
+Renal Colic,LIDOCAINE,4,Recruiting,SCN9A,1
+Renal Colic,DEXKETOPROFEN,4,Completed,PTGS1,1
+Renal Colic,BUPRENORPHINE,4,Completed,OPRK1,1
+chronic pain,GUANFACINE,4,Recruiting,ADRA2A,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN1A,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN10A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN9A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN8A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN7A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN5A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN4A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN3A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN2A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN1A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN11A,1
+Mastodynia,LIDOCAINE,4,Completed,SCN10A,1
+Mastodynia,IBUPROFEN,4,Completed,PTGS2,1
+Mastodynia,IBUPROFEN,4,Completed,PTGS1,1
+Mastodynia,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+Mastodynia,ACETAMINOPHEN,4,Completed,TRPV1,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN11A,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN2A,1
+Renal Colic,ALFUZOSIN,4,Unknown status,ADRA1D,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN3A,1
+Renal Colic,ALFUZOSIN,4,Unknown status,ADRA1B,1
+Renal Colic,ALFUZOSIN,4,Unknown status,ADRA1A,1
+Renal Colic,ACETAMINOPHEN,4,Suspended,TRPV1,1
+Renal Colic,ACETAMINOPHEN,4,Suspended,PTGS2,1
+Renal Colic,ACETAMINOPHEN,4,Suspended,PTGS1,1
+Renal Colic,ACETAMINOPHEN,4,Suspended,FAAH,1
+Renal Colic,ACETAMINOPHEN,4,Completed,TRPV1,1
+Renal Colic,ACETAMINOPHEN,4,Completed,PTGS2,1
+Renal Colic,ACETAMINOPHEN,4,Completed,PTGS1,1
+Renal Colic,ACETAMINOPHEN,4,Completed,FAAH,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN9A,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN8A,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN7A,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN5A,1
+Mastodynia,ROPIVACAINE,4,Not yet recruiting,SCN4A,1
+back pain,BUPRENORPHINE,4,Completed,OPRK1,1
+back pain,BUPRENORPHINE,4,Completed,OPRM1,1
+back pain,CARBIDOPA,4,Completed,DDC,1
+chronic pain,CODEINE,4,Withdrawn,OPRM1,1
+chronic pain,CODEINE,4,Withdrawn,OPRD1,1
+chronic pain,CANNABIDIOL,4,Recruiting,CNR1,1
+chronic pain,BUPRENORPHINE,4,Suspended,OPRM1,1
+chronic pain,BUPRENORPHINE,4,Suspended,OPRK1,1
+chronic pain,BUPIVACAINE,4,Completed,SCN4A,1
+chronic pain,BETAMETHASONE,4,Recruiting,NR3C1,1
+chronic pain,ACETAMINOPHEN,4,Withdrawn,TRPV1,1
+chronic pain,ACETAMINOPHEN,4,Withdrawn,PTGS2,1
+chronic pain,ACETAMINOPHEN,4,Withdrawn,PTGS1,1
+chronic pain,ACETAMINOPHEN,4,Withdrawn,FAAH,1
+chest pain,GABAPENTIN,4,Completed,CACNA2D1,1
+chest pain,DRONABINOL,4,Completed,CNR1,1
+chest pain,DICLOFENAC,4,Completed,PTGS2,1
+chest pain,DICLOFENAC,4,Completed,PTGS1,1
+chest pain,CITALOPRAM,4,Terminated,SLC6A4,1
+chronic pain,CODEINE,4,Withdrawn,OPRK1,1
+chronic pain,DESIPRAMINE,4,Recruiting,SLC6A2,1
+back pain,FLURBIPROFEN,4,Recruiting,PTGS1,1
+chronic pain,DEXAMETHASONE,4,Completed,NR3C1,1
+chronic pain,FENTANYL,4,Suspended,OPRM1,1
+chronic pain,DULOXETINE,4,Terminated,SLC6A4,1
+chronic pain,DULOXETINE,4,Terminated,SLC6A2,1
+chronic pain,DULOXETINE,4,Recruiting,SLC6A4,1
+chronic pain,DULOXETINE,4,Recruiting,SLC6A2,1
+chronic pain,DRONABINOL,4,Recruiting,CNR1,1
+chronic pain,DEXMEDETOMIDINE,4,Recruiting,ADRA2C,1
+chronic pain,DEXMEDETOMIDINE,4,Recruiting,ADRA2B,1
+chronic pain,DEXMEDETOMIDINE,4,Recruiting,ADRA2A,1
+chronic pain,DEXMEDETOMIDINE,4,Not yet recruiting,ADRA2C,1
+chronic pain,DEXMEDETOMIDINE,4,Not yet recruiting,ADRA2B,1
+chronic pain,DEXMEDETOMIDINE,4,Not yet recruiting,ADRA2A,1
+chronic pain,DEXMEDETOMIDINE,4,Completed,ADRA2C,1
+chronic pain,DEXMEDETOMIDINE,4,Completed,ADRA2B,1
+chronic pain,DEXMEDETOMIDINE,4,Completed,ADRA2A,1
+chest pain,BUPIVACAINE,4,Unknown status,SCN4A,1
+back pain,TRAMADOL,4,Terminated,OPRM1,1
+back pain,TRAMADOL,4,Completed,OPRM1,1
+back pain,TAPENTADOL,4,Withdrawn,SLC6A2,1
+back pain,LIDOCAINE,4,Recruiting,SCN11A,1
+back pain,LIDOCAINE,4,Recruiting,SCN10A,1
+back pain,LIDOCAINE,4,Completed,SCN9A,1
+back pain,LIDOCAINE,4,Completed,SCN8A,1
+back pain,LIDOCAINE,4,Completed,SCN7A,1
+back pain,LIDOCAINE,4,Completed,SCN5A,1
+back pain,LIDOCAINE,4,Completed,SCN4A,1
+back pain,LIDOCAINE,4,Completed,SCN3A,1
+back pain,LIDOCAINE,4,Completed,SCN2A,1
+back pain,LIDOCAINE,4,Completed,SCN1A,1
+back pain,LIDOCAINE,4,Completed,SCN10A,1
+back pain,LEVODOPA,4,Completed,DRD3,1
+back pain,IBUPROFEN,4,Completed,PTGS2,1
+back pain,IBUPROFEN,4,Completed,PTGS1,1
+back pain,FLURBIPROFEN,4,Recruiting,PTGS2,1
+back pain,LIDOCAINE,4,Recruiting,SCN1A,1
+back pain,LIDOCAINE,4,Recruiting,SCN2A,1
+back pain,LIDOCAINE,4,Recruiting,SCN3A,1
+back pain,NAPROXEN,4,Completed,PTGS1,1
+back pain,TAPENTADOL,4,Withdrawn,OPRM1,1
+back pain,TAPENTADOL,4,Completed,SLC6A2,1
+back pain,TAPENTADOL,4,Completed,OPRM1,1
+back pain,PARATHYROID HORMONE,4,Terminated,PTH1R,1
+back pain,OXYCODONE,4,Completed,OPRM1,1
+back pain,NAPROXEN,4,Completed,PTGS2,1
+back pain,NALOXONE,4,Completed,OPRM1,1
+back pain,LIDOCAINE,4,Recruiting,SCN4A,1
+back pain,NALOXONE,4,Completed,OPRK1,1
+back pain,NALOXONE,4,Completed,OPRD1,1
+back pain,LIDOCAINE,4,Recruiting,SCN9A,1
+back pain,LIDOCAINE,4,Recruiting,SCN8A,1
+back pain,LIDOCAINE,4,Recruiting,SCN7A,1
+back pain,LIDOCAINE,4,Recruiting,SCN5A,1
+neuropathic pain,BUPRENORPHINE,4,Completed,OPRK1,1
+neuropathic pain,BUPRENORPHINE,4,Completed,OPRM1,1
+neuropathic pain,CAPSAICIN,4,Recruiting,TRPV1,1
+pain,HYDROCODONE,4,Recruiting,OPRM1,1
+pain,HYDROCODONE,4,Not yet recruiting,OPRK1,1
+pain,HYDROCODONE,4,Not yet recruiting,OPRD1,1
+pain,HALOPERIDOL,4,Unknown status,HTR2A,1
+pain,HALOPERIDOL,4,Unknown status,DRD4,1
+pain,HALOPERIDOL,4,Unknown status,DRD3,1
+pain,HALOPERIDOL,4,Unknown status,DRD2,1
+pain,GRANISETRON,4,Completed,HTR3A,1
+pain,GLAFENINE,4,n/a,PTGS2,1
+pain,GLAFENINE,4,n/a,PTGS1,1
+pain,GABAPENTIN,4,Not yet recruiting,CACNA2D1,1
+pain,GABAPENTIN,4,Enrolling by invitation,CACNA2D1,1
+pain,FLAVOXATE,4,Completed,PDE8B,1
+pain,FLAVOXATE,4,Completed,PDE8A,1
+pain,FLAVOXATE,4,Completed,PDE7B,1
+pain,FLAVOXATE,4,Completed,PDE7A,1
+pain,HYDROCODONE,4,Not yet recruiting,OPRM1,1
+pain,HYDROMORPHONE,4,Not yet recruiting,OPRM1,1
+pain,FLAVOXATE,4,Completed,PDE4C,1
+pain,HYDROMORPHONE,4,Recruiting,OPRM1,1
+pain,KETAMINE,4,"Active, not recruiting",GRIN2B,1
+pain,KETAMINE,4,"Active, not recruiting",GRIN2A,1
+pain,KETAMINE,4,"Active, not recruiting",GRIN1,1
+pain,INDOMETHACIN,4,n/a,PTGS2,1
+pain,INDOMETHACIN,4,n/a,PTGS1,1
+pain,INDOMETHACIN,4,Completed,PTGS2,1
+pain,INDOMETHACIN,4,Completed,PTGS1,1
+pain,IBUPROFEN,4,Unknown status,PTGS2,1
+pain,IBUPROFEN,4,Unknown status,PTGS1,1
+pain,IBUPROFEN,4,Terminated,PTGS2,1
+pain,IBUPROFEN,4,Terminated,PTGS1,1
+pain,IBUPROFEN,4,"Active, not recruiting",PTGS2,1
+pain,IBUPROFEN,4,"Active, not recruiting",PTGS1,1
+pain,HYDROXYZINE,4,Completed,HRH1,1
+pain,HYDROMORPHONE,4,Unknown status,OPRM1,1
+pain,FLAVOXATE,4,Completed,PDE4D,1
+pain,FLAVOXATE,4,Completed,PDE4B,1
+pain,DEXMEDETOMIDINE,4,Not yet recruiting,ADRA2B,1
+pain,DILTIAZEM,4,Completed,CACNA1F,1
+pain,DILTIAZEM,4,Completed,CACNA1C,1
+pain,DIHYDROCODEINE,4,Completed,OPRM1,1
+pain,DIFLUNISAL,4,n/a,PTGS2,1
+pain,DIFLUNISAL,4,n/a,PTGS1,1
+pain,DEZOCINE,4,n/a,OPRM1,1
+pain,DEZOCINE,4,n/a,OPRK1,1
+pain,DEZOCINE,4,Unknown status,OPRM1,1
+pain,DEZOCINE,4,Unknown status,OPRK1,1
+pain,DEXTROMORAMIDE,4,n/a,OPRM1,1
+pain,DEXTROMORAMIDE,4,n/a,OPRK1,1
+pain,DEXTROMORAMIDE,4,n/a,OPRD1,1
+pain,DEXTROMETHORPHAN,4,Unknown status,SIGMAR1,1
+pain,DEXTROMETHORPHAN,4,Unknown status,GRIN2A,1
+pain,DEXTROMETHORPHAN,4,Completed,SIGMAR1,1
+pain,DEXTROMETHORPHAN,4,Completed,GRIN2A,1
+pain,DILTIAZEM,4,Completed,CACNA1D,1
+pain,DILTIAZEM,4,Completed,CACNA1S,1
+pain,FLAVOXATE,4,Completed,PDE4A,1
+pain,DIPHENHYDRAMINE,4,Completed,HRH1,1
+pain,FENTANYL,4,Not yet recruiting,OPRM1,1
+pain,ETORICOXIB,4,Unknown status,PTGS2,1
+pain,ETODOLAC,4,n/a,PTGS2,1
+pain,ESMOLOL,4,Completed,ADRB2,1
+pain,ESMOLOL,4,Completed,ADRB1,1
+pain,ESCITALOPRAM,4,Completed,SLC6A4,1
+pain,ERGOCALCIFEROL,4,Unknown status,VDR,1
+pain,EPINEPHRINE,4,Suspended,ADRB3,1
+pain,EPINEPHRINE,4,Suspended,ADRB2,1
+pain,EPINEPHRINE,4,Suspended,ADRB1,1
+pain,EPINEPHRINE,4,Suspended,ADRA2C,1
+pain,EPINEPHRINE,4,Suspended,ADRA2B,1
+pain,EPINEPHRINE,4,Suspended,ADRA2A,1
+pain,EPINEPHRINE,4,Suspended,ADRA1B,1
+pain,EPINEPHRINE,4,Suspended,ADRA1A,1
+pain,KETAMINE,4,"Active, not recruiting",GRIN2C,1
+pain,KETAMINE,4,"Active, not recruiting",GRIN2D,1
+pain,KETAMINE,4,"Active, not recruiting",GRIN3A,1
+pain,MEMANTINE,4,Terminated,GRIN3A,1
+pain,MEMANTINE,4,Terminated,GRIN2C,1
+pain,MEMANTINE,4,Terminated,GRIN2B,1
+pain,MEMANTINE,4,Terminated,GRIN2A,1
+pain,MEMANTINE,4,Terminated,GRIN1,1
+pain,LORAZEPAM,4,Recruiting,GABRG3,1
+pain,LORAZEPAM,4,Recruiting,GABRG2,1
+pain,LORAZEPAM,4,Recruiting,GABRG1,1
+pain,LORAZEPAM,4,Recruiting,GABRA5,1
+pain,LORAZEPAM,4,Recruiting,GABRA3,1
+pain,LORAZEPAM,4,Recruiting,GABRA2,1
+pain,LORAZEPAM,4,Recruiting,GABRA1,1
+pain,LIDOCAINE,4,Withdrawn,SCN10A,1
+pain,LIDOCAINE,4,Suspended,SCN9A,1
+pain,LIDOCAINE,4,Suspended,SCN8A,1
+pain,LIDOCAINE,4,Suspended,SCN7A,1
+pain,MEMANTINE,4,Terminated,GRIN2D,1
+pain,MEMANTINE,4,Terminated,GRIN3B,1
+pain,KETAMINE,4,"Active, not recruiting",GRIN3B,1
+pain,MEMANTINE,4,Unknown status,GRIN1,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN9A,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN8A,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN7A,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN5A,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN4A,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN3A,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN2A,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN1A,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN11A,1
+pain,MEPIVACAINE,4,Not yet recruiting,SCN10A,1
+pain,MEMANTINE,4,Unknown status,GRIN3B,1
+pain,MEMANTINE,4,Unknown status,GRIN3A,1
+pain,MEMANTINE,4,Unknown status,GRIN2D,1
+pain,MEMANTINE,4,Unknown status,GRIN2C,1
+pain,MEMANTINE,4,Unknown status,GRIN2B,1
+pain,LIDOCAINE,4,Suspended,SCN4A,1
+pain,LIDOCAINE,4,Suspended,SCN3A,1
+pain,LIDOCAINE,4,Suspended,SCN2A,1
+pain,LIDOCAINE,4,Suspended,SCN1A,1
+pain,KETOROLAC,4,Not yet recruiting,PTGS1,1
+pain,KETOROLAC,4,Enrolling by invitation,PTGS2,1
+pain,KETOROLAC,4,Enrolling by invitation,PTGS1,1
+pain,KETOPROFEN,4,Terminated,PTGS2,1
+pain,KETOPROFEN,4,Terminated,PTGS1,1
+pain,KETOPROFEN,4,Not yet recruiting,PTGS2,1
+pain,KETOPROFEN,4,Not yet recruiting,PTGS1,1
+Mastodynia,ACETAMINOPHEN,4,Completed,PTGS1,1
+pain,KETAMINE,4,Not yet recruiting,GRIN3B,1
+pain,KETAMINE,4,Not yet recruiting,GRIN3A,1
+pain,KETAMINE,4,Not yet recruiting,GRIN2D,1
+pain,KETAMINE,4,Not yet recruiting,GRIN2C,1
+pain,KETAMINE,4,Not yet recruiting,GRIN2B,1
+pain,KETAMINE,4,Not yet recruiting,GRIN2A,1
+pain,KETAMINE,4,Not yet recruiting,GRIN1,1
+pain,KETOROLAC,4,Not yet recruiting,PTGS2,1
+pain,LANSOPRAZOLE,4,Terminated,ATP4A,1
+pain,LEVETIRACETAM,4,Completed,CACNA1B,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN4A,1
+pain,LIDOCAINE,4,Suspended,SCN11A,1
+pain,LIDOCAINE,4,Suspended,SCN10A,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN9A,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN8A,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN7A,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN5A,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN3A,1
+pain,LEVETIRACETAM,4,Completed,SV2A,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN2A,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN1A,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN11A,1
+pain,LIDOCAINE,4,Enrolling by invitation,SCN10A,1
+pain,LEVOBUPIVACAINE,4,Suspended,SCN4A,1
+pain,LEVOBUPIVACAINE,4,"Active, not recruiting",SCN4A,1
+pain,DEXMEDETOMIDINE,4,Not yet recruiting,ADRA2C,1
+pain,DEXMEDETOMIDINE,4,Not yet recruiting,ADRA2A,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN10A,1
+neuropathic pain,OXYCODONE,4,Completed,OPRM1,1
+neuropathic pain,NALOXONE,4,Completed,OPRK1,1
+neuropathic pain,NALOXONE,4,Completed,OPRD1,1
+neuropathic pain,MORPHINE,4,Terminated,OPRM1,1
+neuropathic pain,MORPHINE,4,Recruiting,OPRM1,1
+neuropathic pain,METHADONE,4,Terminated,OPRM1,1
+neuropathic pain,METHADONE,4,Completed,OPRM1,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN9A,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN8A,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN7A,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN5A,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN4A,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN3A,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN2A,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN1A,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN11A,1
+neuropathic pain,NALOXONE,4,Completed,OPRM1,1
+neuropathic pain,PREGABALIN,4,Recruiting,CACNA2D1,1
+neuropathic pain,KETOPROFEN,4,Recruiting,PTGS2,1
+neuropathic pain,RANOLAZINE,4,Terminated,SCN4A,1
+pain,ACETAMINOPHEN,4,"Active, not recruiting",TRPV1,1
+pain,ACETAMINOPHEN,4,"Active, not recruiting",PTGS2,1
+pain,ACETAMINOPHEN,4,"Active, not recruiting",PTGS1,1
+pain,ACETAMINOPHEN,4,"Active, not recruiting",FAAH,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN9A,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN8A,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN7A,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN5A,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN4A,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN3A,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN2A,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN1A,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN11A,1
+neuropathic pain,ROPIVACAINE,4,Not yet recruiting,SCN10A,1
+neuropathic pain,RANOLAZINE,4,Terminated,SCN5A,1
+neuropathic pain,LIDOCAINE,4,Recruiting,SCN10A,1
+neuropathic pain,KETOPROFEN,4,Recruiting,PTGS1,1
+pain,DEXMEDETOMIDINE,4,"Active, not recruiting",ADRA2C,1
+neuropathic pain,DULOXETINE,4,Unknown status,SLC6A4,1
+neuropathic pain,DULOXETINE,4,Terminated,SLC6A4,1
+neuropathic pain,DULOXETINE,4,Terminated,SLC6A2,1
+neuropathic pain,DULOXETINE,4,Completed,SLC6A4,1
+neuropathic pain,DULOXETINE,4,Completed,SLC6A2,1
+neuropathic pain,DONEPEZIL,4,Terminated,ACHE,1
+neuropathic pain,DONEPEZIL,4,"Active, not recruiting",ACHE,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN9A,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN8A,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN7A,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN5A,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN4A,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN3A,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN2A,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN1A,1
+neuropathic pain,CARBAMAZEPINE,4,Completed,SCN11A,1
+neuropathic pain,DULOXETINE,4,Unknown status,SLC6A2,1
+neuropathic pain,GABAPENTIN,4,Completed,CACNA2D1,1
+neuropathic pain,KETOPROFEN,4,Not yet recruiting,PTGS2,1
+neuropathic pain,HYDROMORPHONE,4,Completed,OPRM1,1
+neuropathic pain,KETOPROFEN,4,Not yet recruiting,PTGS1,1
+neuropathic pain,KETAMINE,4,Recruiting,GRIN3B,1
+neuropathic pain,KETAMINE,4,Recruiting,GRIN3A,1
+neuropathic pain,KETAMINE,4,Recruiting,GRIN2D,1
+neuropathic pain,KETAMINE,4,Recruiting,GRIN2C,1
+neuropathic pain,KETAMINE,4,Recruiting,GRIN2B,1
+neuropathic pain,KETAMINE,4,Recruiting,GRIN2A,1
+neuropathic pain,KETAMINE,4,Recruiting,GRIN1,1
+neuropathic pain,KETAMINE,4,Completed,GRIN3B,1
+neuropathic pain,KETAMINE,4,Completed,GRIN3A,1
+neuropathic pain,KETAMINE,4,Completed,GRIN2D,1
+neuropathic pain,KETAMINE,4,Completed,GRIN2C,1
+neuropathic pain,KETAMINE,4,Completed,GRIN2B,1
+neuropathic pain,KETAMINE,4,Completed,GRIN2A,1
+neuropathic pain,KETAMINE,4,Completed,GRIN1,1
+pain,ALFENTANIL,4,Unknown status,OPRM1,1
+pain,ALMOTRIPTAN,4,Unknown status,HTR1B,1
+pain,ALMOTRIPTAN,4,Unknown status,HTR1D,1
+pain,CISATRACURIUM,4,Unknown status,CHRNB1,1
+pain,CHLORZOXAZONE,4,Completed,KCNN4,1
+pain,CHLOROTRIANISENE,4,Completed,ESR2,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN9A,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN8A,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN7A,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN5A,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN4A,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN3A,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN2A,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN1A,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN11A,1
+pain,CHLOROPROCAINE,4,Unknown status,SCN10A,1
+pain,CELECOXIB,4,Unknown status,PTGS2,1
+pain,CELECOXIB,4,Terminated,PTGS2,1
+pain,CELECOXIB,4,Not yet recruiting,PTGS2,1
+pain,CISATRACURIUM,4,Unknown status,CHRNA1,1
+pain,CISATRACURIUM,4,Unknown status,CHRND,1
+pain,ALMOTRIPTAN,4,Unknown status,HTR1F,1
+pain,CISATRACURIUM,4,Unknown status,CHRNE,1
+pain,DEXMEDETOMIDINE,4,"Active, not recruiting",ADRA2B,1
+pain,DEXMEDETOMIDINE,4,"Active, not recruiting",ADRA2A,1
+pain,DEXAMETHASONE PHOSPHORIC ACID,4,Recruiting,NR3C1,1
+pain,DEXAMETHASONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+pain,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+pain,CODEINE,4,Recruiting,OPRM1,1
+pain,CODEINE,4,Recruiting,OPRK1,1
+pain,CODEINE,4,Recruiting,OPRD1,1
+pain,CLONIDINE,4,Withdrawn,ADRA2C,1
+pain,CLONIDINE,4,Withdrawn,ADRA2B,1
+pain,CLONIDINE,4,Withdrawn,ADRA2A,1
+pain,CLONIDINE,4,Unknown status,ADRA2C,1
+pain,CLONIDINE,4,Unknown status,ADRA2B,1
+pain,CLONIDINE,4,Unknown status,ADRA2A,1
+pain,CISATRACURIUM,4,Unknown status,CHRNG,1
+pain,CELECOXIB,4,Enrolling by invitation,PTGS2,1
+pain,CAPSAICIN,4,Completed,TRPV1,1
+pain,CALCITONIN,4,Terminated,CALCR,1
+pain,CAFFEINE,4,Terminated,ADORA3,1
+pain,ARTICAINE,4,Not yet recruiting,SCN7A,1
+pain,ARTICAINE,4,Not yet recruiting,SCN5A,1
+pain,ARTICAINE,4,Not yet recruiting,SCN4A,1
+pain,ARTICAINE,4,Not yet recruiting,SCN3A,1
+pain,ARTICAINE,4,Not yet recruiting,SCN2A,1
+pain,ARTICAINE,4,Not yet recruiting,SCN1A,1
+pain,ARTICAINE,4,Not yet recruiting,SCN11A,1
+pain,ARTICAINE,4,Not yet recruiting,SCN10A,1
+pain,AMITRIPTYLINE,4,Unknown status,SLC6A4,1
+pain,AMITRIPTYLINE,4,Unknown status,SLC6A2,1
+pain,AMITRIPTYLINE,4,Completed,SLC6A4,1
+pain,AMITRIPTYLINE,4,Completed,SLC6A2,1
+pain,ALVIMOPAN,4,Withdrawn,OPRM1,1
+pain,ALOXIPRIN,4,n/a,PTGS2,1
+pain,ALOXIPRIN,4,n/a,PTGS1,1
+pain,ARTICAINE,4,Not yet recruiting,SCN8A,1
+pain,ARTICAINE,4,Not yet recruiting,SCN9A,1
+pain,ARTICAINE,4,Terminated,SCN10A,1
+pain,ARTICAINE,4,Terminated,SCN9A,1
+pain,CAFFEINE,4,Terminated,ADORA2B,1
+pain,CAFFEINE,4,Terminated,ADORA1,1
+pain,BUTORPHANOL,4,n/a,OPRM1,1
+pain,BUPIVACAINE,4,Suspended,SCN4A,1
+pain,BENZYDAMINE,4,Completed,PTGS2,1
+pain,BENZYDAMINE,4,Completed,PTGS1,1
+pain,ARTICAINE,4,Terminated,SCN8A,1
+pain,ARTICAINE,4,Terminated,SCN11A,1
+pain,ARTICAINE,4,Terminated,SCN7A,1
+pain,ARTICAINE,4,Terminated,SCN5A,1
+pain,ARTICAINE,4,Terminated,SCN4A,1
+pain,ARTICAINE,4,Terminated,SCN3A,1
+pain,ARTICAINE,4,Terminated,SCN2A,1
+pain,ARTICAINE,4,Terminated,SCN1A,1
+shoulder pain,TRIAMCINOLONE ACETONIDE,4,Terminated,NR3C1,1

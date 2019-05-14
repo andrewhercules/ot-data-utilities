@@ -1,0 +1,1370 @@
+disease,drug,phase,status,target,num_ev_strings
+multiple sclerosis,PREDNISONE,4,n/a,NR3C1,57
+multiple sclerosis,METHYLPREDNISOLONE,4,n/a,NR3C1,26
+multiple sclerosis,INTERFERON BETA-1A,3,Completed,IFNAR1,13
+multiple sclerosis,INTERFERON BETA-1A,3,Completed,IFNAR2,13
+multiple sclerosis,INTERFERON BETA-1A,4,Completed,IFNAR1,12
+multiple sclerosis,INTERFERON BETA-1A,4,Completed,IFNAR2,12
+multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,4,n/a,NR3C1,10
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,4,Completed,IFNAR2,10
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,4,Completed,IFNAR1,10
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH3,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH4,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH5,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH6,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH7,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH8,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ5,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ2,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ3,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ4,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS2,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS3,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNV1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH2,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNV2,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG4,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG3,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA2,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA3,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA4,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA5,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA6,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA7,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNB1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNB2,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC2,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC3,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC4,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND2,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND3,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNF1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG1,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG2,8
+multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA10,8
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Completed,S1PR5,8
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Completed,S1PR4,8
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Completed,S1PR3,8
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Completed,S1PR2,8
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Completed,S1PR1,8
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Completed,IFNAR2,7
+multiple sclerosis,INTERFERON BETA-1A,2,Completed,IFNAR1,7
+multiple sclerosis,INTERFERON BETA-1A,2,Completed,IFNAR2,7
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Completed,IFNAR1,7
+multiple sclerosis,FINGOLIMOD,3,Completed,S1PR1,7
+multiple sclerosis,FINGOLIMOD,3,Completed,S1PR5,7
+multiple sclerosis,FINGOLIMOD,3,Completed,S1PR4,7
+multiple sclerosis,FINGOLIMOD,3,Completed,S1PR2,7
+multiple sclerosis,FINGOLIMOD,3,Completed,S1PR3,7
+multiple sclerosis,TERIFLUNOMIDE,3,Completed,DHODH,6
+multiple sclerosis,TERIFLUNOMIDE,2,Completed,DHODH,6
+multiple sclerosis,TERIFLUNOMIDE,3,"Active, not recruiting",DHODH,6
+multiple sclerosis,FINGOLIMOD,4,Completed,S1PR1,6
+multiple sclerosis,FINGOLIMOD,4,Completed,S1PR2,6
+multiple sclerosis,FINGOLIMOD,4,Completed,S1PR3,6
+multiple sclerosis,FINGOLIMOD,4,Completed,S1PR4,6
+multiple sclerosis,FINGOLIMOD,4,Completed,S1PR5,6
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA3,5
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,4,Completed,NR3C1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA4,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA5,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA2,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA10,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA7,5
+multiple sclerosis,INTERFERON BETA-1A,4,n/a,IFNAR2,5
+multiple sclerosis,INTERFERON BETA-1A,4,n/a,IFNAR1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA6,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH4,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNB1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNB2,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH5,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH6,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH7,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH8,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ2,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ3,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ4,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ5,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNS1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNS2,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNS3,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNV1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNV2,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH2,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH3,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCND2,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG2,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCND1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC4,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCND3,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC3,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNF1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG1,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG3,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG4,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC2,5
+multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC1,5
+multiple sclerosis,INTERFERON BETA-1B,2,Completed,IFNAR2,4
+multiple sclerosis,INTERFERON BETA-1A,3,"Active, not recruiting",IFNAR2,4
+multiple sclerosis,INTERFERON BETA-1A,3,"Active, not recruiting",IFNAR1,4
+multiple sclerosis,INTERFERON BETA-1B,2,Completed,IFNAR1,4
+multiple sclerosis,FIRATEGRAST,2,Completed,ITGA4,4
+multiple sclerosis,FINGOLIMOD,2,Completed,S1PR4,4
+relapsing-remitting multiple sclerosis,DACLIZUMAB,2,Completed,IL2RA,4
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,3,Completed,KEAP1,4
+multiple sclerosis,FINGOLIMOD,2,Completed,S1PR5,4
+multiple sclerosis,INTERFERON BETA-1A,1,Completed,IFNAR1,4
+relapsing-remitting multiple sclerosis,ALEMTUZUMAB,3,Completed,CD52,4
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,4,Completed,KEAP1,4
+multiple sclerosis,FINGOLIMOD,2,Completed,S1PR1,4
+multiple sclerosis,FINGOLIMOD,2,Completed,S1PR2,4
+multiple sclerosis,FINGOLIMOD,2,Completed,S1PR3,4
+relapsing-remitting multiple sclerosis,NATALIZUMAB,2,Completed,ITGA4,4
+multiple sclerosis,INTERFERON BETA-1A,1,Completed,IFNAR2,4
+multiple sclerosis,RITUXIMAB,2,Completed,MS4A1,4
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,2,Completed,IFNAR2,3
+relapsing-remitting multiple sclerosis,AMISELIMOD,1,Completed,S1PR5,3
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,4,Completed,IFNAR1,3
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,3,Completed,IFNAR2,3
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,3,Completed,IFNAR1,3
+relapsing-remitting multiple sclerosis,AMISELIMOD,1,Completed,S1PR4,3
+relapsing-remitting multiple sclerosis,AMISELIMOD,1,Completed,S1PR3,3
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,2,Completed,IFNAR2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNV2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNV1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNS3,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNS2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNS1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNQ5,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNQ4,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNQ3,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNQ2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNQ1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNH8,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNH7,3
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,4,Completed,IFNAR2,3
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,4,Terminated,IFNAR1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNH5,3
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,4,Withdrawn,KEAP1,3
+multiple sclerosis,AMANTADINE,3,Recruiting,GRIN1,3
+multiple sclerosis,AMANTADINE,3,Recruiting,GRIN2A,3
+multiple sclerosis,AMANTADINE,3,Recruiting,GRIN2B,3
+multiple sclerosis,AMANTADINE,3,Recruiting,GRIN2C,3
+multiple sclerosis,AMANTADINE,3,Recruiting,GRIN2D,3
+multiple sclerosis,AMANTADINE,3,Recruiting,GRIN3A,3
+multiple sclerosis,AMANTADINE,3,Recruiting,GRIN3B,3
+multiple sclerosis,OCRELIZUMAB,3,Recruiting,MS4A1,3
+multiple sclerosis,INTERFERON BETA-1B,4,n/a,IFNAR1,3
+multiple sclerosis,DIMETHYL FUMARATE,4,Completed,KEAP1,3
+multiple sclerosis,INTERFERON BETA-1B,4,n/a,IFNAR2,3
+multiple sclerosis,BRIAKINUMAB,2,Completed,IL12B,3
+multiple sclerosis,INTERFERON BETA-1A,2,Unknown status,IFNAR2,3
+multiple sclerosis,INTERFERON BETA-1A,2,Unknown status,IFNAR1,3
+relapsing-remitting multiple sclerosis,NATALIZUMAB,4,Completed,ITGA4,3
+relapsing-remitting multiple sclerosis,NATALIZUMAB,3,Completed,ITGA4,3
+multiple sclerosis,PEGINTERFERON BETA-1A,3,Completed,IFNAR2,3
+multiple sclerosis,PEGINTERFERON BETA-1A,3,Completed,IFNAR1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNH6,3
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,4,Terminated,IFNAR2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNH4,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNB1,3
+multiple sclerosis,NATALIZUMAB,4,Completed,ITGA4,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNH3,3
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,2,Completed,IFNAR1,3
+relapsing-remitting multiple sclerosis,AMISELIMOD,1,Completed,S1PR2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNA1,3
+relapsing-remitting multiple sclerosis,AMISELIMOD,1,Completed,S1PR1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNA10,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNA2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNA3,3
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,2,Completed,IFNAR1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNA4,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNA5,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNA6,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNA7,3
+multiple sclerosis,CORTICOTROPIN,4,Recruiting,MC2R,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNB2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCND1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNH2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNH1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNG4,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNG3,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNG2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNG1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNF1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNC1,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCND2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCND3,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNC4,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNC2,3
+multiple sclerosis,DALFAMPRIDINE,2,Completed,KCNC3,3
+multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR3,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,1,Completed,S1PR1,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,4,Terminated,IFNAR1,2
+relapsing-remitting multiple sclerosis,SIPONIMOD,2,Completed,S1PR1,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,4,Recruiting,IFNAR2,2
+multiple sclerosis,INTERFERON BETA-1B,4,Completed,IFNAR2,2
+multiple sclerosis,INTERFERON BETA-1B,4,Completed,IFNAR1,2
+multiple sclerosis,OFATUMUMAB,2,Completed,MS4A1,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,4,Recruiting,IFNAR1,2
+multiple sclerosis,OCRELIZUMAB,3,"Active, not recruiting",MS4A1,2
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,3,Recruiting,KEAP1,2
+multiple sclerosis,ALEMTUZUMAB,1,Unknown status,CD52,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,1,Completed,S1PR2,2
+relapsing-remitting multiple sclerosis,DACLIZUMAB,3,Completed,IL2RA,2
+multiple sclerosis,INTERFERON BETA-1B,3,Completed,IFNAR1,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,1,Completed,IFNAR1,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,1,Completed,IFNAR2,2
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,2,Completed,KEAP1,2
+multiple sclerosis,INTERFERON BETA-1B,3,Completed,IFNAR2,2
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,3,"Active, not recruiting",KEAP1,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,2,"Active, not recruiting",IFNAR1,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,2,"Active, not recruiting",IFNAR2,2
+multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR5,2
+multiple sclerosis,SIMVASTATIN,4,Completed,HMGCR,2
+multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR1,2
+multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR2,2
+multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR4,2
+multiple sclerosis,CHOLECALCIFEROL,1,Completed,VDR,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,1,Completed,S1PR3,2
+multiple sclerosis,PEGINTERFERON BETA-1A,4,Withdrawn,IFNAR2,2
+relapsing-remitting multiple sclerosis,FIRATEGRAST,1,Completed,ITGA4,2
+multiple sclerosis,FIRATEGRAST,2,Completed,ITGB1,2
+relapsing-remitting multiple sclerosis,AMISELIMOD,2,Completed,S1PR1,2
+relapsing-remitting multiple sclerosis,AMISELIMOD,2,Completed,S1PR2,2
+relapsing-remitting multiple sclerosis,AMISELIMOD,2,Completed,S1PR3,2
+relapsing-remitting multiple sclerosis,AMISELIMOD,2,Completed,S1PR4,2
+relapsing-remitting multiple sclerosis,AMISELIMOD,2,Completed,S1PR5,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Terminated,S1PR5,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Terminated,S1PR4,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Terminated,S1PR3,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Terminated,S1PR2,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Terminated,S1PR1,2
+relapsing-remitting multiple sclerosis,ATORVASTATIN,2,Completed,HMGCR,2
+multiple sclerosis,METHYLPREDNISOLONE,1,Completed,NR3C1,2
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,2,Completed,NR3C1,2
+multiple sclerosis,METHYLPREDNISOLONE,4,Completed,NR3C1,2
+relapsing-remitting multiple sclerosis,CHOLECALCIFEROL,1,Completed,VDR,2
+relapsing-remitting multiple sclerosis,NATALIZUMAB,1,Completed,ITGA4,2
+relapsing-remitting multiple sclerosis,NATALIZUMAB,3,Terminated,ITGA4,2
+relapsing-remitting multiple sclerosis,OCRELIZUMAB,3,"Active, not recruiting",MS4A1,2
+multiple sclerosis,FILGRASTIM,1,Completed,CSF3R,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,1,Completed,S1PR5,2
+relapsing-remitting multiple sclerosis,FINGOLIMOD,1,Completed,S1PR4,2
+multiple sclerosis,MYCOPHENOLATE MOFETIL,2,Completed,IMPDH1,2
+multiple sclerosis,MYCOPHENOLATE MOFETIL,2,Completed,IMPDH2,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,4,Withdrawn,IFNAR2,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,4,Withdrawn,IFNAR1,2
+multiple sclerosis,PEGINTERFERON BETA-1A,4,Withdrawn,IFNAR1,2
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,4,Terminated,IFNAR2,2
+multiple sclerosis,ALEMTUZUMAB,3,Recruiting,CD52,2
+multiple sclerosis,NATALIZUMAB,2,Completed,ITGA4,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNQ3,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNH4,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCND2,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCND3,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNF1,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNG1,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNG2,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNG3,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNG4,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNH1,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNH2,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNH3,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNH5,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNV2,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNH6,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNH7,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNH8,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNQ1,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNQ2,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNQ4,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNQ5,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNS1,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNS2,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNS3,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCND1,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNC4,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNC3,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNC2,2
+multiple sclerosis,CHOLECALCIFEROL,2,Completed,VDR,2
+multiple sclerosis,CHOLECALCIFEROL,2,Terminated,VDR,2
+neuromyelitis optica,SATRALIZUMAB,3,"Active, not recruiting",IL6R,2
+multiple sclerosis,NATALIZUMAB,4,n/a,ITGA4,2
+multiple sclerosis,NATALIZUMAB,4,Unknown status,ITGA4,2
+multiple sclerosis,CORTICOTROPIN,2,Terminated,MC2R,2
+relapsing-remitting multiple sclerosis,VATELIZUMAB,2,Terminated,ITGA2,2
+neuromyelitis optica,SATRALIZUMAB,3,"Active, not recruiting",IL6ST,2
+multiple sclerosis,DACLIZUMAB,2,Completed,IL2RA,2
+relapsing-remitting multiple sclerosis,SIPONIMOD,2,Completed,S1PR5,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNA1,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNA10,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNA2,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNA3,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNA4,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNA5,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNA6,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNA7,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNB1,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNB2,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNC1,2
+multiple sclerosis,DALFAMPRIDINE,2,Unknown status,KCNV1,2
+multiple sclerosis,FIRATEGRAST,2,Completed,ITGB7,2
+multiple sclerosis,ATORVASTATIN,2,Completed,HMGCR,2
+multiple sclerosis,ALEMTUZUMAB,4,Recruiting,CD52,2
+multiple sclerosis,BACLOFEN,3,Completed,GABBR1,2
+multiple sclerosis,ARBACLOFEN PLACARBIL,3,Completed,GABBR2,2
+multiple sclerosis,ARBACLOFEN PLACARBIL,3,Completed,GABBR1,2
+multiple sclerosis,BACLOFEN,3,Completed,GABBR2,2
+multiple sclerosis,UBLITUXIMAB,3,"Active, not recruiting",MS4A1,2
+multiple sclerosis,ATACICEPT,2,Terminated,TNFSF13B,2
+multiple sclerosis,ATACICEPT,2,Terminated,TNFSF13,2
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA4,1
+multiple sclerosis,SELURAMPANEL,2,Withdrawn,GRIK2,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA3,1
+multiple sclerosis,SELURAMPANEL,2,Withdrawn,GRIA1,1
+multiple sclerosis,SECUKINUMAB,2,Terminated,IL17A,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA5,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA10,1
+multiple sclerosis,SELURAMPANEL,2,Withdrawn,GRIK3,1
+multiple sclerosis,SELURAMPANEL,2,Withdrawn,GRIK4,1
+multiple sclerosis,SELURAMPANEL,2,Withdrawn,GRIK5,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA6,1
+multiple sclerosis,SIPONIMOD,3,Not yet recruiting,S1PR1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA7,1
+relapsing-remitting multiple sclerosis,DACLIZUMAB,1,Completed,IL2RA,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA2,1
+multiple sclerosis,RITUXIMAB,1,Terminated,MS4A1,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN9A,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN11A,1
+multiple sclerosis,SELURAMPANEL,2,Withdrawn,GRIA4,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC2,1
+relapsing-remitting multiple sclerosis,ACETAMINOPHEN,4,Completed,PTGS2,1
+relapsing-remitting multiple sclerosis,ACETAMINOPHEN,4,Completed,TRPV1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC1,1
+relapsing-remitting multiple sclerosis,DACLIZUMAB,4,n/a,IL2RA,1
+relapsing-remitting multiple sclerosis,ALEMTUZUMAB,2,Completed,CD52,1
+relapsing-remitting multiple sclerosis,ALEMTUZUMAB,4,"Active, not recruiting",CD52,1
+multiple sclerosis,SECUKINUMAB,2,Completed,IL17A,1
+relapsing-remitting multiple sclerosis,ALEMTUZUMAB,4,Completed,CD52,1
+relapsing-remitting multiple sclerosis,ALEMTUZUMAB,4,Recruiting,CD52,1
+relapsing-remitting multiple sclerosis,DACLIZUMAB,3,Terminated,IL2RA,1
+multiple sclerosis,SELURAMPANEL,2,Withdrawn,GRIA2,1
+multiple sclerosis,SELURAMPANEL,2,Withdrawn,GRIK1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA1,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN8A,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,PRIM2,1
+multiple sclerosis,TACROLIMUS,2,Unknown status,FKBP1A,1
+multiple sclerosis,SIPONIMOD,3,Not yet recruiting,S1PR5,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNB2,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,POLE2,1
+multiple sclerosis,SELURAMPANEL,2,Withdrawn,GRIA3,1
+relapsing-remitting multiple sclerosis,CORTICOTROPIN,3,"Active, not recruiting",MC2R,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNB1,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,POLA1,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,POLA2,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,POLD1,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,POLD2,1
+relapsing-remitting multiple sclerosis,CHOLECALCIFEROL,3,Recruiting,VDR,1
+multiple sclerosis,RITUXIMAB,3,Recruiting,MS4A1,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,POLD3,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,POLD4,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,POLE,1
+multiple sclerosis,TERIFLUNOMIDE,4,Completed,DHODH,1
+multiple sclerosis,TERIFLUNOMIDE,4,Not yet recruiting,DHODH,1
+multiple sclerosis,TERIFLUNOMIDE,4,n/a,DHODH,1
+relapsing-remitting multiple sclerosis,CLEMASTINE,2,Completed,HRH1,1
+relapsing-remitting multiple sclerosis,CETIRIZINE,4,Completed,HRH1,1
+multiple sclerosis,RITUXIMAB,4,Completed,MS4A1,1
+relapsing-remitting multiple sclerosis,CAFFEINE,3,Completed,ADORA2A,1
+multiple sclerosis,RITUXIMAB,2,Not yet recruiting,MS4A1,1
+multiple sclerosis,TERIFLUNOMIDE,1,Completed,DHODH,1
+relapsing-remitting multiple sclerosis,ASPIRIN,4,Completed,PTGS1,1
+relapsing-remitting multiple sclerosis,ASPIRIN,4,Completed,PTGS2,1
+multiple sclerosis,TERIFLUNOMIDE,3,Recruiting,DHODH,1
+relapsing-remitting multiple sclerosis,CAFFEINE,3,Completed,ADORA1,1
+multiple sclerosis,TERIFLUNOMIDE,3,Terminated,DHODH,1
+multiple sclerosis,TERIFLUNOMIDE,4,"Active, not recruiting",DHODH,1
+relapsing-remitting multiple sclerosis,CARMUSTINE,2,Completed,GSR,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN10A,1
+multiple sclerosis,TESTOSTERONE,2,Withdrawn,AR,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,PRIM1,1
+multiple sclerosis,TESTOSTERONE,2,Not yet recruiting,AR,1
+relapsing-remitting multiple sclerosis,CAFFEINE,3,Completed,ADORA2B,1
+relapsing-remitting multiple sclerosis,CYTARABINE,2,Completed,POLE3,1
+relapsing-remitting multiple sclerosis,CAFFEINE,3,Completed,ADORA3,1
+relapsing-remitting multiple sclerosis,ACETAMINOPHEN,4,Completed,PTGS1,1
+neuromyelitis optica,RITUXIMAB,1,Completed,MS4A1,1
+relapsing-remitting multiple sclerosis,ACETAMINOPHEN,4,Completed,FAAH,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRG2,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN11A,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN10A,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GRIK5,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GRIK4,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GRIK3,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GRIK2,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GRIK1,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GRIA4,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GRIA3,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GRIA2,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GRIA1,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRQ,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRP,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRG3,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRG1,1
+relapsing-remitting multiple sclerosis,ABATACEPT,2,Completed,CD86,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRE,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRD,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRB3,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRB2,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRB1,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRA6,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRA5,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRA4,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRA3,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRA2,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,GABRA1,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,CA4,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,CA2,1
+neuromyelitis optica,UBLITUXIMAB,1,"Active, not recruiting",MS4A1,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN1A,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN2A,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN3A,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN4A,1
+neuromyelitis optica,RITUXIMAB,2,Completed,MS4A1,1
+neuromyelitis optica,RITUXIMAB,2,Recruiting,MS4A1,1
+neuromyelitis optica,TOCILIZUMAB,1,Completed,IL6R,1
+neuromyelitis optica,TOCILIZUMAB,2,"Active, not recruiting",IL6R,1
+neuromyelitis optica,RITUXIMAB,1,"Active, not recruiting",MS4A1,1
+neuromyelitis optica,PREDNISONE,4,Unknown status,NR3C1,1
+neuromyelitis optica,MYCOPHENOLATE MOFETIL,4,Unknown status,IMPDH2,1
+neuromyelitis optica,MYCOPHENOLATE MOFETIL,4,Unknown status,IMPDH1,1
+neuromyelitis optica,MITOXANTRONE,4,Unknown status,TOP2A,1
+neuromyelitis optica,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+neuromyelitis optica,METHYLPREDNISOLONE,1,Unknown status,NR3C1,1
+neuromyelitis optica,METHYLPREDNISOLONE,1,"Active, not recruiting",NR3C1,1
+neuromyelitis optica,INEBILIZUMAB,2,"Active, not recruiting",CD19,1
+neuromyelitis optica,FILGRASTIM,2,Recruiting,CSF3R,1
+neuromyelitis optica,FILGRASTIM,1,"Active, not recruiting",CSF3R,1
+neuromyelitis optica,ECULIZUMAB,3,Completed,C5,1
+neuromyelitis optica,ECULIZUMAB,3,"Active, not recruiting",C5,1
+neuromyelitis optica,ECULIZUMAB,1,Completed,C5,1
+neuromyelitis optica,CETIRIZINE,1,Completed,HRH1,1
+neuromyelitis optica,BORTEZOMIB,2,Completed,PSMB5,1
+neuromyelitis optica,BEVACIZUMAB,1,Completed,VEGFA,1
+neuromyelitis optica,AZATHIOPRINE,2,Completed,PPAT,1
+neuromyelitis optica,AZATHIOPRINE,2,"Active, not recruiting",PPAT,1
+multiple sclerosis,USTEKINUMAB,2,Completed,IL12B,1
+multiple sclerosis,UBLITUXIMAB,2,"Active, not recruiting",MS4A1,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN9A,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN8A,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN7A,1
+multiple sclerosis,TOPIRAMATE,2,Unknown status,SCN5A,1
+primary progressive multiple sclerosis,CORTICOTROPIN,2,Recruiting,MC2R,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA1,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA10,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ2,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ4,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ5,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNS1,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNS2,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNS3,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNV1,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNV2,1
+primary progressive multiple sclerosis,DIMETHYL FUMARATE,2,"Active, not recruiting",KEAP1,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Completed,S1PR1,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Completed,S1PR2,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Completed,S1PR3,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Completed,S1PR4,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Completed,S1PR5,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR1,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR2,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR3,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN4A,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN3A,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR4,1
+primary progressive multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR5,1
+primary progressive multiple sclerosis,NATALIZUMAB,2,Completed,ITGA4,1
+primary progressive multiple sclerosis,NORETHINDRONE,2,Recruiting,PGR,1
+primary progressive multiple sclerosis,OCRELIZUMAB,3,Recruiting,MS4A1,1
+primary progressive multiple sclerosis,RITUXIMAB,1,Completed,MS4A1,1
+relapsing-remitting multiple sclerosis,ABATACEPT,1,Completed,CD80,1
+relapsing-remitting multiple sclerosis,ABATACEPT,1,Completed,CD86,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN2A,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN1A,1
+relapsing-remitting multiple sclerosis,ABATACEPT,2,Completed,CD80,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ3,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ1,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA2,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH8,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA3,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA4,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA5,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA6,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA7,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNB1,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNB2,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC1,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC2,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC3,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC4,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCND1,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCND2,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCND3,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNF1,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG1,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN9A,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG3,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN8A,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG4,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN7A,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH1,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH2,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH3,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH4,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH5,1
+multiple sclerosis,TETRACAINE,4,Completed,SCN5A,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH6,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH7,1
+primary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG2,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,2,Recruiting,IFNAR1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH6,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNF1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH5,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH7,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH8,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ5,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNV1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNV2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA10,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA4,1
+relapsing-remitting multiple sclerosis,UBLITUXIMAB,2,Enrolling by invitation,MS4A1,1
+relapsing-remitting multiple sclerosis,PIOGLITAZONE,1,Completed,PPARG,1
+relapsing-remitting multiple sclerosis,PRAVASTATIN,3,Completed,HMGCR,1
+relapsing-remitting multiple sclerosis,PREDNISOLONE PHOSPHORIC ACID,2,Terminated,NR3C1,1
+relapsing-remitting multiple sclerosis,PREDNISONE,2,Completed,NR3C1,1
+relapsing-remitting multiple sclerosis,PREDNISONE,4,Terminated,NR3C1,1
+relapsing-remitting multiple sclerosis,RANITIDINE,4,Completed,HRH2,1
+relapsing-remitting multiple sclerosis,RITUXIMAB,3,"Active, not recruiting",MS4A1,1
+relapsing-remitting multiple sclerosis,SECUKINUMAB,2,Completed,IL17A,1
+relapsing-remitting multiple sclerosis,SIMVASTATIN,3,Completed,HMGCR,1
+relapsing-remitting multiple sclerosis,SIMVASTATIN,3,Unknown status,HMGCR,1
+relapsing-remitting multiple sclerosis,SIMVASTATIN,3,Withdrawn,HMGCR,1
+relapsing-remitting multiple sclerosis,SIROLIMUS,1,Terminated,FKBP1A,1
+relapsing-remitting multiple sclerosis,TABALUMAB,2,Completed,TNFSF13B,1
+relapsing-remitting multiple sclerosis,TEMSIROLIMUS,2,Completed,FKBP1A,1
+relapsing-remitting multiple sclerosis,WARFARIN,3,Completed,VKORC1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNB2,1
+secondary progressive multiple sclerosis,AMILORIDE,2,"Active, not recruiting",SCNN1A,1
+secondary progressive multiple sclerosis,BAMINERCEPT,1,Withdrawn,LTA,1
+secondary progressive multiple sclerosis,BAMINERCEPT,1,Withdrawn,LTB,1
+secondary progressive multiple sclerosis,BAMINERCEPT,1,Withdrawn,TNFSF14,1
+secondary progressive multiple sclerosis,CORTICOTROPIN,2,Recruiting,MC2R,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA10,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA5,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA6,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA7,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNB1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA5,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC4,1
+secondary progressive multiple sclerosis,NATALIZUMAB,3,Terminated,ITGA4,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN10A,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN11A,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN1A,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN2A,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN3A,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN4A,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN5A,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN7A,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN8A,1
+secondary progressive multiple sclerosis,LAMOTRIGINE,2,Completed,SCN9A,1
+secondary progressive multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,1,Suspended,NR3C1,1
+secondary progressive multiple sclerosis,MITOXANTRONE,3,Terminated,TOP2A,1
+secondary progressive multiple sclerosis,NATALIZUMAB,1,Completed,ITGA4,1
+secondary progressive multiple sclerosis,NATALIZUMAB,2,Completed,ITGA4,1
+secondary progressive multiple sclerosis,NORETHINDRONE,2,Recruiting,PGR,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNV2,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN10A,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN11A,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN1A,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN2A,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN3A,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN4A,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN5A,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN7A,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN8A,1
+secondary progressive multiple sclerosis,RILUZOLE,2,"Active, not recruiting",SCN9A,1
+secondary progressive multiple sclerosis,RITUXIMAB,1,Completed,MS4A1,1
+secondary progressive multiple sclerosis,SIMVASTATIN,2,Completed,HMGCR,1
+secondary progressive multiple sclerosis,SIMVASTATIN,3,Recruiting,HMGCR,1
+secondary progressive multiple sclerosis,SIPONIMOD,3,"Active, not recruiting",S1PR1,1
+secondary progressive multiple sclerosis,FLUOXETINE,2,"Active, not recruiting",SLC6A4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNV1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA6,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNA7,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNB1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNB2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNC4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCND1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCND2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCND3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNF1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNG3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNS3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH5,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH6,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH7,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNH8,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ2,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ3,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ4,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNQ5,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNS1,1
+secondary progressive multiple sclerosis,DALFAMPRIDINE,4,Completed,KCNS2,1
+relapsing-remitting multiple sclerosis,PEGINTERFERON BETA-1A,4,Recruiting,IFNAR2,1
+relapsing-remitting multiple sclerosis,PEGINTERFERON BETA-1A,4,Recruiting,IFNAR1,1
+relapsing-remitting multiple sclerosis,PEGINTERFERON BETA-1A,3,Withdrawn,IFNAR2,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Completed,S1PR4,1
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,4,Terminated,KEAP1,1
+relapsing-remitting multiple sclerosis,DONEPEZIL,4,Completed,ACHE,1
+relapsing-remitting multiple sclerosis,ESOMEPRAZOLE,4,Completed,ATP4A,1
+relapsing-remitting multiple sclerosis,ETOPOSIDE,2,Completed,TOP2A,1
+relapsing-remitting multiple sclerosis,ETOPOSIDE,2,Completed,TOP2B,1
+relapsing-remitting multiple sclerosis,FILGRASTIM,3,Recruiting,CSF3R,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,2,Recruiting,S1PR1,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,2,Recruiting,S1PR2,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,2,Recruiting,S1PR3,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,2,Recruiting,S1PR4,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,2,Recruiting,S1PR5,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Completed,S1PR1,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Completed,S1PR2,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Completed,S1PR3,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Completed,S1PR5,1
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,4,"Active, not recruiting",KEAP1,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR1,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR2,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR3,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR4,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,3,Terminated,S1PR5,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR1,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR2,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR3,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR4,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Recruiting,S1PR5,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Unknown status,S1PR1,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Unknown status,S1PR2,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Unknown status,S1PR3,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Unknown status,S1PR4,1
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,4,Recruiting,KEAP1,1
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,3,Withdrawn,KEAP1,1
+relapsing-remitting multiple sclerosis,PEGINTERFERON BETA-1A,3,Withdrawn,IFNAR1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH7,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND2,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND3,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNF1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG2,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG3,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG4,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH2,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH3,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH4,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH5,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH6,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH8,1
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,2,Recruiting,KEAP1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ2,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ3,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ4,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ5,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS2,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS3,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNV1,1
+relapsing-remitting multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNV2,1
+relapsing-remitting multiple sclerosis,DEXAMETHASONE PHOSPHORIC ACID,1,Withdrawn,NR3C1,1
+relapsing-remitting multiple sclerosis,DEXTROMETHORPHAN,3,Completed,GRIN2A,1
+relapsing-remitting multiple sclerosis,DEXTROMETHORPHAN,3,Completed,SIGMAR1,1
+relapsing-remitting multiple sclerosis,DIMETHYL FUMARATE,2,"Active, not recruiting",KEAP1,1
+relapsing-remitting multiple sclerosis,FINGOLIMOD,4,Unknown status,S1PR5,1
+relapsing-remitting multiple sclerosis,FIRATEGRAST,1,Completed,ITGB1,1
+relapsing-remitting multiple sclerosis,FIRATEGRAST,1,Completed,ITGB7,1
+relapsing-remitting multiple sclerosis,MIDAZOLAM,3,Completed,GABRA5,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN8A,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN9A,1
+relapsing-remitting multiple sclerosis,LIOTHYRONINE,1,Completed,THRA,1
+relapsing-remitting multiple sclerosis,LIOTHYRONINE,1,Completed,THRB,1
+relapsing-remitting multiple sclerosis,LOPERAMIDE,4,Terminated,OPRM1,1
+relapsing-remitting multiple sclerosis,METHOTREXATE,4,Completed,DHFR,1
+relapsing-remitting multiple sclerosis,METHYLPHENIDATE,1,Unknown status,SLC6A2,1
+relapsing-remitting multiple sclerosis,METHYLPHENIDATE,1,Unknown status,SLC6A3,1
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,3,Recruiting,NR3C1,1
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,3,Unknown status,NR3C1,1
+relapsing-remitting multiple sclerosis,MIDAZOLAM,3,Completed,GABRA1,1
+relapsing-remitting multiple sclerosis,MIDAZOLAM,3,Completed,GABRA2,1
+relapsing-remitting multiple sclerosis,MIDAZOLAM,3,Completed,GABRA3,1
+relapsing-remitting multiple sclerosis,MIDAZOLAM,3,Completed,GABRG1,1
+relapsing-remitting multiple sclerosis,GSK239512,2,Completed,HRH3,1
+relapsing-remitting multiple sclerosis,MIDAZOLAM,3,Completed,GABRG2,1
+relapsing-remitting multiple sclerosis,MIDAZOLAM,3,Completed,GABRG3,1
+relapsing-remitting multiple sclerosis,MITOXANTRONE,2,Terminated,TOP2A,1
+relapsing-remitting multiple sclerosis,NATALIZUMAB,3,Recruiting,ITGA4,1
+relapsing-remitting multiple sclerosis,NATALIZUMAB,4,Terminated,ITGA4,1
+relapsing-remitting multiple sclerosis,NATALIZUMAB,4,Unknown status,ITGA4,1
+relapsing-remitting multiple sclerosis,NATALIZUMAB,4,Withdrawn,ITGA4,1
+relapsing-remitting multiple sclerosis,NORETHINDRONE,2,Recruiting,PGR,1
+relapsing-remitting multiple sclerosis,OCRELIZUMAB,2,"Active, not recruiting",MS4A1,1
+relapsing-remitting multiple sclerosis,OCRELIZUMAB,3,Recruiting,MS4A1,1
+relapsing-remitting multiple sclerosis,OCRELIZUMAB,4,n/a,MS4A1,1
+relapsing-remitting multiple sclerosis,OMEPRAZOLE,3,Completed,ATP4A,1
+relapsing-remitting multiple sclerosis,OPICINUMAB,1,Completed,LINGO1,1
+relapsing-remitting multiple sclerosis,OZANEZUMAB,1,Terminated,RTN4,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN7A,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN5A,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN4A,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN3A,1
+relapsing-remitting multiple sclerosis,GUANABENZ,1,Terminated,ADRA2A,1
+relapsing-remitting multiple sclerosis,GUANABENZ,1,Terminated,ADRA2B,1
+relapsing-remitting multiple sclerosis,GUANABENZ,1,Terminated,ADRA2C,1
+relapsing-remitting multiple sclerosis,IBUPROFEN,4,Completed,PTGS1,1
+relapsing-remitting multiple sclerosis,IBUPROFEN,4,Completed,PTGS2,1
+relapsing-remitting multiple sclerosis,INSULIN HUMAN,1,Recruiting,INSR,1
+relapsing-remitting multiple sclerosis,INT131,2,Completed,PPARG,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,1,Unknown status,IFNAR1,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,1,Unknown status,IFNAR2,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN5A,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,2,Recruiting,IFNAR2,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,2,Withdrawn,IFNAR1,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,2,Withdrawn,IFNAR2,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Not yet recruiting,IFNAR1,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Not yet recruiting,IFNAR2,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Recruiting,IFNAR1,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Recruiting,IFNAR2,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Terminated,IFNAR1,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Terminated,IFNAR2,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Withdrawn,IFNAR1,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1A,3,Withdrawn,IFNAR2,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,2,Recruiting,IFNAR1,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,2,Recruiting,IFNAR2,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,4,Recruiting,IFNAR1,1
+relapsing-remitting multiple sclerosis,INTERFERON BETA-1B,4,Recruiting,IFNAR2,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN10A,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN11A,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN1A,1
+relapsing-remitting multiple sclerosis,LAMOTRIGINE,2,Unknown status,SCN2A,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN7A,1
+chronic progressive multiple sclerosis,CORTICOTROPIN,2,Recruiting,MC2R,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN4A,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNG2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNH4,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNH3,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNH2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNH1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNG4,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNG3,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNG1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNH6,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNF1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCND3,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCND2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCND1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNC4,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNC3,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNH5,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNH7,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN3A,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNS3,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNA3,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNA2,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNA10,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNA1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNV2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNV1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNS2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNH8,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNS1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNQ5,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNQ4,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNQ3,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNQ2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNQ1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNC2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNC1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNB2,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNH3,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNQ1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNH8,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNH7,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNH6,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNH5,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNH4,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNH2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNB1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNH1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNG4,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNG3,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNG2,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNG1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNF1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNQ2,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNQ3,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNQ4,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNQ5,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNS1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNS2,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNS3,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNV1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNV2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNA1,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNA10,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNA2,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNA3,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNA4,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNA5,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNA6,1
+multiple sclerosis,DALFAMPRIDINE,4,Unknown status,KCNA7,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNA4,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNA5,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNA6,1
+multiple sclerosis,DIMETHYL FUMARATE,4,"Active, not recruiting",KEAP1,1
+multiple sclerosis,DOXYCYCLINE,4,Completed,MMP13,1
+multiple sclerosis,DOXYCYCLINE,4,Completed,MMP1,1
+multiple sclerosis,DONEPEZIL,3,Withdrawn,ACHE,1
+multiple sclerosis,DIMETHYL FUMARATE,4,n/a,KEAP1,1
+multiple sclerosis,DIMETHYL FUMARATE,4,Terminated,KEAP1,1
+multiple sclerosis,DIMETHYL FUMARATE,4,Recruiting,KEAP1,1
+multiple sclerosis,DIMETHYL FUMARATE,3,Terminated,KEAP1,1
+multiple sclerosis,DEXCHLORPHENIRAMINE,3,Recruiting,HRH1,1
+multiple sclerosis,DIMETHYL FUMARATE,2,Completed,KEAP1,1
+multiple sclerosis,DIMETHYL FUMARATE,2,"Active, not recruiting",KEAP1,1
+multiple sclerosis,DEXTROMETHORPHAN,3,Completed,SIGMAR1,1
+multiple sclerosis,DEXTROMETHORPHAN,3,Completed,GRIN2A,1
+multiple sclerosis,DEXTROAMPHETAMINE,2,Recruiting,SLC6A3,1
+multiple sclerosis,DEXTROAMPHETAMINE,2,Recruiting,SLC6A2,1
+multiple sclerosis,DOXYCYCLINE,4,Completed,MMP7,1
+multiple sclerosis,DOXYCYCLINE,4,Completed,MMP8,1
+multiple sclerosis,DRONABINOL,1,Terminated,CNR1,1
+multiple sclerosis,DULOXETINE,2,Completed,SLC6A2,1
+multiple sclerosis,DULOXETINE,2,Completed,SLC6A4,1
+multiple sclerosis,DULOXETINE,3,Completed,SLC6A2,1
+multiple sclerosis,DULOXETINE,3,Completed,SLC6A4,1
+multiple sclerosis,ERGOCALCIFEROL,3,Recruiting,VDR,1
+multiple sclerosis,ERGOCALCIFEROL,3,Unknown status,VDR,1
+multiple sclerosis,ESTRADIOL,3,Unknown status,ESR1,1
+multiple sclerosis,FINGOLIMOD,2,"Active, not recruiting",S1PR1,1
+multiple sclerosis,FINGOLIMOD,2,"Active, not recruiting",S1PR2,1
+multiple sclerosis,FINGOLIMOD,2,"Active, not recruiting",S1PR3,1
+multiple sclerosis,FINGOLIMOD,2,"Active, not recruiting",S1PR4,1
+multiple sclerosis,FINGOLIMOD,2,"Active, not recruiting",S1PR5,1
+multiple sclerosis,FINGOLIMOD,2,Terminated,S1PR1,1
+multiple sclerosis,FINGOLIMOD,2,Terminated,S1PR2,1
+multiple sclerosis,DEXTROAMPHETAMINE,2,Recruiting,SLC18A2,1
+multiple sclerosis,DEXCHLORPHENIRAMINE,1,"Active, not recruiting",HRH1,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNA7,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCND2,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNG4,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNG3,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNG2,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNG1,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNF1,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCND3,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCND1,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNV2,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNC4,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNC3,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNC2,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNC1,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNB2,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNB1,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNH1,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNH2,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNH3,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNH4,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNH5,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNH6,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNH7,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNH8,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNQ1,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNQ2,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNQ3,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNQ4,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNQ5,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNS1,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNS2,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNS3,1
+multiple sclerosis,DALFAMPRIDINE,4,n/a,KCNV1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCND3,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCND2,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCND1,1
+chronic progressive multiple sclerosis,FINGOLIMOD,1,Completed,S1PR3,1
+chronic progressive multiple sclerosis,LIOTHYRONINE,1,Completed,THRA,1
+chronic progressive multiple sclerosis,INSULIN HUMAN,1,Recruiting,INSR,1
+chronic progressive multiple sclerosis,HYDROXYCHLOROQUINE,2,Recruiting,TLR9,1
+chronic progressive multiple sclerosis,HYDROXYCHLOROQUINE,2,Recruiting,TLR7,1
+chronic progressive multiple sclerosis,FINGOLIMOD,1,Completed,S1PR5,1
+chronic progressive multiple sclerosis,FINGOLIMOD,1,Completed,S1PR4,1
+chronic progressive multiple sclerosis,FINGOLIMOD,1,Completed,S1PR2,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ5,1
+chronic progressive multiple sclerosis,FINGOLIMOD,1,Completed,S1PR1,1
+chronic progressive multiple sclerosis,DIMETHYL FUMARATE,3,Terminated,KEAP1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNV2,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNV1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS3,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS2,1
+chronic progressive multiple sclerosis,LIOTHYRONINE,1,Completed,THRB,1
+chronic progressive multiple sclerosis,MASITINIB,3,"Active, not recruiting",FGFR3,1
+chronic progressive multiple sclerosis,MASITINIB,3,"Active, not recruiting",KIT,1
+chronic progressive multiple sclerosis,MASITINIB,3,"Active, not recruiting",PDGFRA,1
+chronic progressive multiple sclerosis,MASITINIB,3,"Active, not recruiting",PDGFRB,1
+chronic progressive multiple sclerosis,METHYLPHENIDATE,1,Unknown status,SLC6A2,1
+chronic progressive multiple sclerosis,METHYLPHENIDATE,1,Unknown status,SLC6A3,1
+chronic progressive multiple sclerosis,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+chronic progressive multiple sclerosis,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+chronic progressive multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,3,Completed,NR3C1,1
+chronic progressive multiple sclerosis,OCRELIZUMAB,3,"Active, not recruiting",MS4A1,1
+chronic progressive multiple sclerosis,OCRELIZUMAB,3,Recruiting,MS4A1,1
+chronic progressive multiple sclerosis,OCRELIZUMAB,4,n/a,MS4A1,1
+chronic progressive multiple sclerosis,RITUXIMAB,2,Unknown status,MS4A1,1
+multiple sclerosis,ABATACEPT,2,Terminated,CD80,1
+multiple sclerosis,ABATACEPT,2,Terminated,CD86,1
+multiple sclerosis,ACETAMINOPHEN,1,"Active, not recruiting",FAAH,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNS1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ4,1
+multiple sclerosis,ACETAMINOPHEN,1,"Active, not recruiting",PTGS2,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNB1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC4,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC3,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC2,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNC1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNB2,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA7,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ3,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA6,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA5,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA4,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA3,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA2,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA10,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND2,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCND3,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNF1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG2,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG3,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNG4,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH2,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH3,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH4,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH5,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH6,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH7,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNH8,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ1,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNQ2,1
+multiple sclerosis,ACETAMINOPHEN,1,"Active, not recruiting",PTGS1,1
+multiple sclerosis,ACETAMINOPHEN,1,"Active, not recruiting",TRPV1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNC4,1
+multiple sclerosis,CHOLECALCIFEROL,2,Unknown status,VDR,1
+multiple sclerosis,CORTICOTROPIN,4,Completed,MC2R,1
+multiple sclerosis,CORTICOTROPIN,3,Completed,MC2R,1
+multiple sclerosis,CORTICOTROPIN,1,Completed,MC2R,1
+multiple sclerosis,CHOLECALCIFEROL,4,Unknown status,VDR,1
+multiple sclerosis,CHOLECALCIFEROL,4,Terminated,VDR,1
+multiple sclerosis,CHOLECALCIFEROL,4,Completed,VDR,1
+multiple sclerosis,CETIRIZINE,4,Completed,HRH1,1
+multiple sclerosis,BACLOFEN,4,n/a,GABBR1,1
+multiple sclerosis,CARBIDOPA,1,Recruiting,DDC,1
+multiple sclerosis,BRIMONIDINE,4,Withdrawn,ADRA2C,1
+multiple sclerosis,BRIMONIDINE,4,Withdrawn,ADRA2B,1
+multiple sclerosis,BRIMONIDINE,4,Withdrawn,ADRA2A,1
+multiple sclerosis,BRIAKINUMAB,2,Completed,IL23A,1
+multiple sclerosis,BRIAKINUMAB,2,Completed,IL12A,1
+multiple sclerosis,CORTICOTROPIN,4,Not yet recruiting,MC2R,1
+multiple sclerosis,CORTICOTROPIN,4,Terminated,MC2R,1
+multiple sclerosis,CORTICOTROPIN,4,n/a,MC2R,1
+multiple sclerosis,DACLIZUMAB,3,Terminated,IL2RA,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNA1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNA10,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNA2,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNA3,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNA4,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNA5,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNA6,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNA7,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNB1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNB2,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNC1,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNC2,1
+multiple sclerosis,DALFAMPRIDINE,4,Recruiting,KCNC3,1
+multiple sclerosis,BACLOFEN,4,n/a,GABBR2,1
+multiple sclerosis,ASPIRIN,1,Not yet recruiting,PTGS2,1
+multiple sclerosis,ACETAMINOPHEN,1,Not yet recruiting,FAAH,1
+multiple sclerosis,ACETAMINOPHEN,4,Recruiting,FAAH,1
+multiple sclerosis,ACETAZOLAMIDE,2,Not yet recruiting,CA2,1
+multiple sclerosis,ACETAZOLAMIDE,2,Not yet recruiting,CA12,1
+multiple sclerosis,ACETAZOLAMIDE,2,Not yet recruiting,CA1,1
+multiple sclerosis,ACETAMINOPHEN,4,Recruiting,TRPV1,1
+multiple sclerosis,ACETAMINOPHEN,4,Recruiting,PTGS2,1
+multiple sclerosis,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+multiple sclerosis,ACETAMINOPHEN,3,Recruiting,TRPV1,1
+multiple sclerosis,ASPIRIN,1,Not yet recruiting,PTGS1,1
+multiple sclerosis,ACETAMINOPHEN,3,Recruiting,PTGS2,1
+multiple sclerosis,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+multiple sclerosis,ACETAMINOPHEN,3,Recruiting,FAAH,1
+multiple sclerosis,ACETAMINOPHEN,1,Not yet recruiting,TRPV1,1
+multiple sclerosis,ACETAMINOPHEN,1,Not yet recruiting,PTGS2,1
+multiple sclerosis,ACETAMINOPHEN,1,Not yet recruiting,PTGS1,1
+multiple sclerosis,ACETAZOLAMIDE,2,Not yet recruiting,CA4,1
+multiple sclerosis,ALEMTUZUMAB,1,"Active, not recruiting",CD52,1
+multiple sclerosis,ALEMTUZUMAB,2,Terminated,CD52,1
+multiple sclerosis,ALEMTUZUMAB,3,Unknown status,CD52,1
+multiple sclerosis,ALEMTUZUMAB,4,Completed,CD52,1
+multiple sclerosis,ALEMTUZUMAB,4,n/a,CD52,1
+multiple sclerosis,ALFUZOSIN,2,Terminated,ADRA1A,1
+multiple sclerosis,ALFUZOSIN,2,Terminated,ADRA1B,1
+multiple sclerosis,ALFUZOSIN,2,Terminated,ADRA1D,1
+multiple sclerosis,AMANTADINE,2,Completed,GRIN1,1
+multiple sclerosis,AMANTADINE,2,Completed,GRIN2A,1
+multiple sclerosis,AMANTADINE,2,Completed,GRIN2B,1
+multiple sclerosis,AMANTADINE,2,Completed,GRIN2C,1
+multiple sclerosis,AMANTADINE,2,Completed,GRIN2D,1
+multiple sclerosis,AMANTADINE,2,Completed,GRIN3A,1
+multiple sclerosis,AMANTADINE,2,Completed,GRIN3B,1
+multiple sclerosis,ARMODAFINIL,2,Completed,SLC6A3,1
+multiple sclerosis,FINGOLIMOD,2,Terminated,S1PR3,1
+multiple sclerosis,FINGOLIMOD,2,Terminated,S1PR4,1
+multiple sclerosis,FINGOLIMOD,2,Terminated,S1PR5,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNC4,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNG2,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNG1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNF1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCND3,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCND2,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCND1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNC3,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNA4,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNC2,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNC1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNB2,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNB1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNA7,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNA6,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNG3,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNG4,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNH1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNH2,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNH3,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNH4,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNH5,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNH6,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNH7,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNH8,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNQ1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNQ2,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNQ3,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNQ4,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNQ5,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNS1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNS2,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNA5,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNA3,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNV1,1
+multiple sclerosis,MITOXANTRONE,3,"Active, not recruiting",TOP2A,1
+multiple sclerosis,MOR-103,1,Completed,CSF2,1
+multiple sclerosis,MONTELUKAST,4,Completed,CYSLTR1,1
+multiple sclerosis,MONTELUKAST,1,Recruiting,CYSLTR1,1
+multiple sclerosis,MODAFINIL,4,Recruiting,SLC6A3,1
+multiple sclerosis,MODAFINIL,3,Recruiting,SLC6A3,1
+multiple sclerosis,MLN-1202,2,Completed,CCR2,1
+multiple sclerosis,MITOXANTRONE,2,Unknown status,TOP2A,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNA2,1
+multiple sclerosis,MITOXANTRONE,2,"Active, not recruiting",TOP2A,1
+multiple sclerosis,MIRABEGRON,4,Recruiting,ADRB3,1
+multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,1,Terminated,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,4,Unknown status,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,4,Recruiting,NR3C1,1
+multiple sclerosis,MYCOPHENOLATE MOFETIL,0,Completed,IMPDH1,1
+multiple sclerosis,MYCOPHENOLATE MOFETIL,0,Completed,IMPDH2,1
+multiple sclerosis,NABILONE,4,Completed,CNR1,1
+multiple sclerosis,NALTREXONE,3,Completed,OPRD1,1
+multiple sclerosis,NALTREXONE,3,Completed,OPRK1,1
+multiple sclerosis,NALTREXONE,3,Completed,OPRM1,1
+multiple sclerosis,NAPROXEN,3,Completed,PTGS1,1
+multiple sclerosis,NAPROXEN,3,Completed,PTGS2,1
+multiple sclerosis,NATALIZUMAB,0,Completed,ITGA4,1
+multiple sclerosis,NATALIZUMAB,2,"Active, not recruiting",ITGA4,1
+chronic progressive multiple sclerosis,DALFAMPRIDINE,3,Completed,KCNA1,1
+multiple sclerosis,NATALIZUMAB,2,Terminated,ITGA4,1
+multiple sclerosis,NATALIZUMAB,3,Completed,ITGA4,1
+multiple sclerosis,NATALIZUMAB,4,"Active, not recruiting",ITGA4,1
+multiple sclerosis,NATALIZUMAB,4,Terminated,ITGA4,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNA1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNA10,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNS3,1
+multiple sclerosis,NERISPIRDINE,2,Completed,KCNV2,1
+multiple sclerosis,METHYLPREDNISOLONE,3,Recruiting,NR3C1,1
+multiple sclerosis,PONESIMOD,2,Completed,S1PR1,1
+multiple sclerosis,QUETIAPINE,1,Recruiting,DRD2,1
+multiple sclerosis,PREDNISONE,4,Terminated,NR3C1,1
+multiple sclerosis,PREDNISONE,4,Recruiting,NR3C1,1
+multiple sclerosis,PREDNISONE,1,Completed,NR3C1,1
+multiple sclerosis,PREDNISOLONE,4,n/a,NR3C1,1
+multiple sclerosis,PREDNISOLONE,3,Recruiting,NR3C1,1
+multiple sclerosis,PONESIMOD,2,"Active, not recruiting",S1PR1,1
+multiple sclerosis,PEGINTERFERON BETA-1A,4,Completed,IFNAR1,1
+multiple sclerosis,PIOGLITAZONE,1,Recruiting,PPARG,1
+multiple sclerosis,PHENYLEPHRINE,4,Terminated,ADRA1D,1
+multiple sclerosis,PHENYLEPHRINE,4,Terminated,ADRA1B,1
+multiple sclerosis,PHENYLEPHRINE,4,Terminated,ADRA1A,1
+multiple sclerosis,PEGINTERFERON BETA-1A,4,n/a,IFNAR2,1
+multiple sclerosis,PEGINTERFERON BETA-1A,4,n/a,IFNAR1,1
+multiple sclerosis,QUETIAPINE,1,Recruiting,HTR2A,1
+multiple sclerosis,QUETIAPINE,1,Recruiting,HTR2C,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN10A,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN11A,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN1A,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN2A,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN3A,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN4A,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN5A,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN7A,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN8A,1
+multiple sclerosis,QUINIDINE,3,Completed,SCN9A,1
+multiple sclerosis,RANITIDINE,3,Recruiting,HRH2,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN10A,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN11A,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN1A,1
+multiple sclerosis,RILUZOLE,2,Completed,SCN2A,1
+multiple sclerosis,PEGINTERFERON BETA-1A,4,Completed,IFNAR2,1
+multiple sclerosis,PEGINTERFERON BETA-1A,1,Completed,IFNAR2,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN10A,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN8A,1
+multiple sclerosis,OFATUMUMAB,3,Recruiting,MS4A1,1
+multiple sclerosis,OFATUMUMAB,3,"Active, not recruiting",MS4A1,1
+multiple sclerosis,OFATUMUMAB,2,Recruiting,MS4A1,1
+multiple sclerosis,OCRELIZUMAB,4,Recruiting,MS4A1,1
+multiple sclerosis,OCRELIZUMAB,4,Not yet recruiting,MS4A1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN9A,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN7A,1
+multiple sclerosis,PEGINTERFERON BETA-1A,1,Completed,IFNAR1,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN5A,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN4A,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN3A,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN2A,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN1A,1
+multiple sclerosis,NERISPIRDINE,2,Completed,SCN11A,1
+multiple sclerosis,ONABOTULINUMTOXINA,3,Completed,SNAP25,1
+multiple sclerosis,OPICINUMAB,1,Completed,LINGO1,1
+multiple sclerosis,OPICINUMAB,2,"Active, not recruiting",LINGO1,1
+multiple sclerosis,OPICINUMAB,2,Completed,LINGO1,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN10A,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN11A,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN1A,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN2A,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN3A,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN4A,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN5A,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN7A,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN8A,1
+multiple sclerosis,OXCARBAZEPINE,2,Completed,SCN9A,1
+multiple sclerosis,OZANEZUMAB,1,Terminated,RTN4,1
+multiple sclerosis,PALIFERMIN,1,Unknown status,FGFR2,1
+multiple sclerosis,PANTOPRAZOLE,1,Completed,ATP4A,1
+multiple sclerosis,METHYLPREDNISOLONE,3,Terminated,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Withdrawn,NR3C1,1
+multiple sclerosis,FINGOLIMOD,3,"Active, not recruiting",S1PR1,1
+multiple sclerosis,INEBILIZUMAB,1,Completed,CD19,1
+multiple sclerosis,INTERFERON BETA-1A,3,Terminated,IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1A,3,Terminated,IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1A,2,"Active, not recruiting",IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1A,2,"Active, not recruiting",IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1A,0,Completed,IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1A,0,Completed,IFNAR1,1
+multiple sclerosis,IMATINIB,2,Recruiting,PDGFRB,1
+multiple sclerosis,HISTAMINE,2,Withdrawn,HRH1,1
+multiple sclerosis,IMATINIB,2,Recruiting,KIT,1
+multiple sclerosis,IMATINIB,2,Recruiting,ABL1,1
+multiple sclerosis,IBUPROFEN,3,Completed,PTGS2,1
+multiple sclerosis,IBUPROFEN,3,Completed,PTGS1,1
+multiple sclerosis,HYDROXYUREA,2,Terminated,RRM2,1
+multiple sclerosis,HYDROXYCHLOROQUINE,1,Recruiting,TLR9,1
+multiple sclerosis,INTERFERON BETA-1A,4,Terminated,IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1A,4,Terminated,IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1A,4,Withdrawn,IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1A,4,Withdrawn,IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1B,1,Completed,IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1B,1,Completed,IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1B,2,"Active, not recruiting",IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1B,2,"Active, not recruiting",IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1B,2,Terminated,IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1B,2,Terminated,IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1B,2,Unknown status,IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1B,2,Unknown status,IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1B,3,Withdrawn,IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1B,3,Withdrawn,IFNAR2,1
+multiple sclerosis,INTERFERON BETA-1B,4,Unknown status,IFNAR1,1
+multiple sclerosis,INTERFERON BETA-1B,4,Unknown status,IFNAR2,1
+multiple sclerosis,ISOXSUPRINE,1,Recruiting,ADRA1A,1
+multiple sclerosis,HYDROXYCHLOROQUINE,1,Recruiting,TLR7,1
+multiple sclerosis,GSK239512,1,Completed,HRH3,1
+multiple sclerosis,ISOXSUPRINE,1,Recruiting,ADRA1D,1
+multiple sclerosis,FINGOLIMOD,3,Withdrawn,S1PR4,1
+multiple sclerosis,FINGOLIMOD,4,Withdrawn,S1PR5,1
+multiple sclerosis,FINGOLIMOD,4,Withdrawn,S1PR4,1
+multiple sclerosis,FINGOLIMOD,4,Withdrawn,S1PR3,1
+multiple sclerosis,FINGOLIMOD,4,Withdrawn,S1PR2,1
+multiple sclerosis,FINGOLIMOD,4,Withdrawn,S1PR1,1
+multiple sclerosis,FINGOLIMOD,3,Withdrawn,S1PR5,1
+multiple sclerosis,FINGOLIMOD,3,Withdrawn,S1PR3,1
+multiple sclerosis,GABAPENTIN,2,Completed,CACNA2D1,1
+multiple sclerosis,FINGOLIMOD,3,Withdrawn,S1PR2,1
+multiple sclerosis,FINGOLIMOD,3,Withdrawn,S1PR1,1
+multiple sclerosis,FINGOLIMOD,3,"Active, not recruiting",S1PR5,1
+multiple sclerosis,FINGOLIMOD,3,"Active, not recruiting",S1PR4,1
+multiple sclerosis,FINGOLIMOD,3,"Active, not recruiting",S1PR3,1
+multiple sclerosis,FINGOLIMOD,3,"Active, not recruiting",S1PR2,1
+multiple sclerosis,FINGOLIMOD,4,n/a,S1PR1,1
+multiple sclerosis,FINGOLIMOD,4,n/a,S1PR2,1
+multiple sclerosis,FINGOLIMOD,4,n/a,S1PR3,1
+multiple sclerosis,FINGOLIMOD,4,n/a,S1PR4,1
+multiple sclerosis,FINGOLIMOD,4,n/a,S1PR5,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,POLA1,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,POLA2,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,POLD1,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,POLD2,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,POLD3,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,POLD4,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,POLE,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,POLE2,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,POLE3,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,PRIM1,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,PRIM2,1
+multiple sclerosis,FLUDARABINE PHOSPHATE,2,Terminated,RRM1,1
+multiple sclerosis,ISOXSUPRINE,1,Recruiting,ADRA1B,1
+multiple sclerosis,ISOXSUPRINE,1,Recruiting,ADRB2,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+multiple sclerosis,MEMANTINE,3,Completed,GRIN2B,1
+multiple sclerosis,MEMANTINE,4,Completed,GRIN2A,1
+multiple sclerosis,MEMANTINE,4,Completed,GRIN1,1
+multiple sclerosis,MEMANTINE,3,Completed,GRIN3B,1
+multiple sclerosis,MEMANTINE,3,Completed,GRIN3A,1
+multiple sclerosis,MEMANTINE,3,Completed,GRIN2D,1
+multiple sclerosis,MEMANTINE,3,Completed,GRIN2C,1
+multiple sclerosis,MEMANTINE,3,Completed,GRIN2A,1
+multiple sclerosis,MEMANTINE,2,Terminated,GRIN1,1
+multiple sclerosis,MEMANTINE,3,Completed,GRIN1,1
+multiple sclerosis,MEMANTINE,2,Terminated,GRIN3B,1
+multiple sclerosis,MEMANTINE,2,Terminated,GRIN3A,1
+multiple sclerosis,MEMANTINE,2,Terminated,GRIN2D,1
+multiple sclerosis,MEMANTINE,2,Terminated,GRIN2C,1
+multiple sclerosis,MEMANTINE,2,Terminated,GRIN2B,1
+multiple sclerosis,MEMANTINE,4,Completed,GRIN2B,1
+multiple sclerosis,MEMANTINE,4,Completed,GRIN2C,1
+multiple sclerosis,MEMANTINE,4,Completed,GRIN2D,1
+multiple sclerosis,MEMANTINE,4,Completed,GRIN3A,1
+multiple sclerosis,MEMANTINE,4,Completed,GRIN3B,1
+multiple sclerosis,METHOTREXATE,0,Unknown status,DHFR,1
+multiple sclerosis,METHOTREXATE,4,Completed,DHFR,1
+multiple sclerosis,METHYLPHENIDATE,2,Completed,SLC6A2,1
+multiple sclerosis,METHYLPHENIDATE,2,Completed,SLC6A3,1
+multiple sclerosis,METHYLPHENIDATE,2,Unknown status,SLC6A2,1
+multiple sclerosis,METHYLPHENIDATE,2,Unknown status,SLC6A3,1
+multiple sclerosis,METHYLPHENIDATE,3,Recruiting,SLC6A2,1
+multiple sclerosis,METHYLPHENIDATE,3,Recruiting,SLC6A3,1
+multiple sclerosis,METHYLPREDNISOLONE,1,"Active, not recruiting",NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Enrolling by invitation,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+multiple sclerosis,MEMANTINE,2,Terminated,GRIN2A,1
+multiple sclerosis,MEMANTINE,2,Completed,GRIN3B,1
+multiple sclerosis,LEVETIRACETAM,4,Completed,CACNA1B,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN5A,1
+multiple sclerosis,LISDEXAMFETAMINE,2,Completed,SLC18A2,1
+multiple sclerosis,LIOTHYRONINE,1,Completed,THRB,1
+multiple sclerosis,LIOTHYRONINE,1,Completed,THRA,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN9A,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN8A,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN7A,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN4A,1
+multiple sclerosis,MEMANTINE,2,Completed,GRIN3A,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN3A,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN2A,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN1A,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN11A,1
+multiple sclerosis,LIDOCAINE,4,Completed,SCN10A,1
+multiple sclerosis,LEVETIRACETAM,4,Completed,SV2A,1
+multiple sclerosis,LISDEXAMFETAMINE,2,Completed,SLC6A2,1
+multiple sclerosis,LISDEXAMFETAMINE,2,Completed,SLC6A3,1
+multiple sclerosis,LITHIUM CARBONATE,1,Completed,GSK3A,1
+multiple sclerosis,LITHIUM CARBONATE,1,Completed,GSK3B,1
+multiple sclerosis,LITHIUM CARBONATE,1,Completed,IMPA1,1
+multiple sclerosis,LORATADINE,1,"Active, not recruiting",HRH1,1
+multiple sclerosis,LOSARTAN,1,Recruiting,AGTR1,1
+multiple sclerosis,MASITINIB,2,Completed,FGFR3,1
+multiple sclerosis,MASITINIB,2,Completed,KIT,1
+multiple sclerosis,MASITINIB,2,Completed,PDGFRA,1
+multiple sclerosis,MASITINIB,2,Completed,PDGFRB,1
+multiple sclerosis,MECASERMIN,2,Completed,IGF1R,1
+multiple sclerosis,MEMANTINE,2,Completed,GRIN1,1
+multiple sclerosis,MEMANTINE,2,Completed,GRIN2A,1
+multiple sclerosis,MEMANTINE,2,Completed,GRIN2B,1
+multiple sclerosis,MEMANTINE,2,Completed,GRIN2C,1
+multiple sclerosis,MEMANTINE,2,Completed,GRIN2D,1
+secondary progressive multiple sclerosis,SIPONIMOD,3,"Active, not recruiting",S1PR5,1
