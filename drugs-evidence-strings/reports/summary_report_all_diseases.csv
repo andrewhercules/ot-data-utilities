@@ -1,0 +1,6 @@
+disease,efo_id,evidence_strings_API,evidence_strings_aggregated,evidence_strings_all_in_ES,percentage_difference
+pain,EFO_0003843,10000,1602,15151,-83.98
+asthma,EFO_0000270,2587,667,2587,-74.217
+kidney disease,EFO_0003086,7304,4345,7304,-40.512
+multiple sclerosis,EFO_0003885,2431,1369,2431,-43.686
+inflammatory bowel disease,EFO_0003767,1437,681,1437,-52.61
