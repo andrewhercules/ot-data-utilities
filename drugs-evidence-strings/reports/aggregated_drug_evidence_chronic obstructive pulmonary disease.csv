@@ -1,0 +1,582 @@
+disease,drug,phase,status,target,num_ev_strings
+chronic obstructive pulmonary disease,TIOTROPIUM,3,Completed,CHRM3,94
+chronic obstructive pulmonary disease,TIOTROPIUM,4,Completed,CHRM3,51
+chronic obstructive pulmonary disease,FORMOTEROL,3,Completed,ADRB2,51
+chronic obstructive pulmonary disease,TIOTROPIUM,2,Completed,CHRM3,35
+chronic obstructive pulmonary disease,SALMETEROL,3,Completed,ADRB2,35
+chronic obstructive pulmonary disease,INDACATEROL,3,Completed,ADRB2,33
+chronic obstructive pulmonary disease,VILANTEROL,3,Completed,ADRB2,32
+chronic obstructive pulmonary disease,SALMETEROL,4,Completed,ADRB2,32
+chronic obstructive pulmonary disease,IPRATROPIUM,4,n/a,CHRM3,30
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Completed,NR3C1,28
+chronic obstructive pulmonary disease,FORMOTEROL,2,Completed,ADRB2,27
+chronic obstructive pulmonary disease,UMECLIDINIUM,3,Completed,CHRM3,26
+chronic obstructive pulmonary disease,OLODATEROL,3,Completed,ADRB2,25
+chronic obstructive pulmonary disease,FORMOTEROL,4,Completed,ADRB2,23
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,3,Completed,NR3C1,23
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,3,Completed,NR3C1,22
+chronic obstructive pulmonary disease,ACLIDINIUM,3,Completed,CHRM3,18
+chronic obstructive pulmonary disease,SALMETEROL,2,Completed,ADRB2,17
+chronic obstructive pulmonary disease,BUDESONIDE,4,Completed,NR3C1,17
+chronic obstructive pulmonary disease,IPRATROPIUM,3,Completed,CHRM3,17
+chronic obstructive pulmonary disease,ALBUTEROL,3,Completed,ADRB2,15
+chronic obstructive pulmonary disease,ROFLUMILAST,3,Completed,PDE4A,15
+chronic obstructive pulmonary disease,ROFLUMILAST,3,Completed,PDE4B,15
+chronic obstructive pulmonary disease,ROFLUMILAST,3,Completed,PDE4D,15
+chronic obstructive pulmonary disease,ROFLUMILAST,3,Completed,PDE4C,15
+chronic obstructive pulmonary disease,VILANTEROL,1,Completed,ADRB2,14
+chronic obstructive pulmonary disease,INDACATEROL,4,Completed,ADRB2,14
+chronic obstructive pulmonary disease,BUDESONIDE,3,Completed,NR3C1,14
+chronic obstructive pulmonary disease,ALBUTEROL,4,Completed,ADRB2,13
+chronic obstructive pulmonary disease,ALBUTEROL,4,n/a,ADRB2,13
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,3,Completed,CHRM1,12
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,3,Completed,CHRM3,12
+chronic obstructive pulmonary disease,TIOTROPIUM,1,Completed,CHRM3,12
+chronic obstructive pulmonary disease,IPRATROPIUM,4,Completed,CHRM3,11
+chronic obstructive pulmonary disease,INDACATEROL,2,Completed,ADRB2,11
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,1,Completed,CHRM3,11
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,1,Completed,CHRM1,11
+chronic obstructive pulmonary disease,UMECLIDINIUM,1,Completed,CHRM3,11
+chronic obstructive pulmonary disease,FORMOTEROL,1,Completed,ADRB2,10
+chronic obstructive pulmonary disease,SALMETEROL,4,n/a,ADRB2,10
+chronic obstructive pulmonary disease,VILANTEROL,2,Completed,ADRB2,8
+chronic obstructive pulmonary disease,PREDNISOLONE PHOSPHORIC ACID,4,n/a,NR3C1,8
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,n/a,NR3C1,8
+chronic obstructive pulmonary disease,ACLIDINIUM,2,Completed,CHRM3,8
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,2,Completed,NR3C1,7
+chronic obstructive pulmonary disease,BATEFENTEROL,1,Completed,ADRB2,7
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,2,Completed,CHRM1,7
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,2,Completed,CHRM3,7
+chronic obstructive pulmonary disease,IPRATROPIUM,2,Completed,CHRM3,7
+chronic obstructive pulmonary disease,BATEFENTEROL,1,Completed,CHRM2,7
+chronic obstructive pulmonary disease,BATEFENTEROL,1,Completed,CHRM3,7
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,4,Completed,CHRM1,7
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,4,Completed,CHRM3,7
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,3,Completed,NR3C1,7
+chronic obstructive pulmonary disease,DAROTROPIUM,1,Completed,CHRM2,6
+chronic obstructive pulmonary disease,DAROTROPIUM,1,Completed,CHRM3,6
+chronic obstructive pulmonary disease,DAROTROPIUM,1,Completed,CHRM4,6
+chronic obstructive pulmonary disease,DAROTROPIUM,1,Completed,CHRM1,6
+chronic obstructive pulmonary disease,DAROTROPIUM,1,Completed,CHRM5,6
+chronic obstructive pulmonary disease,OLODATEROL,2,Completed,ADRB2,6
+chronic obstructive pulmonary disease,TIOTROPIUM,4,Recruiting,CHRM3,6
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Unknown status,NR3C1,6
+chronic obstructive pulmonary disease,ACETAZOLAMIDE,4,Recruiting,CA1,6
+chronic obstructive pulmonary disease,ACETAZOLAMIDE,4,Recruiting,CA12,6
+chronic obstructive pulmonary disease,ACETAZOLAMIDE,4,Recruiting,CA2,6
+chronic obstructive pulmonary disease,ACETAZOLAMIDE,4,Recruiting,CA4,6
+chronic obstructive pulmonary disease,ACLIDINIUM,4,Completed,CHRM3,6
+chronic obstructive pulmonary disease,BATEFENTEROL,2,Completed,ADRB2,5
+chronic obstructive pulmonary disease,ROFLUMILAST,4,Completed,PDE4C,5
+chronic obstructive pulmonary disease,GSK-2269557,1,Completed,PIK3CD,5
+chronic obstructive pulmonary disease,BATEFENTEROL,2,Completed,CHRM3,5
+chronic obstructive pulmonary disease,BATEFENTEROL,2,Completed,CHRM2,5
+chronic obstructive pulmonary disease,UMECLIDINIUM,2,Completed,CHRM3,5
+chronic obstructive pulmonary disease,LOSMAPIMOD,2,Completed,MAPK11,5
+chronic obstructive pulmonary disease,ROFLUMILAST,4,Completed,PDE4D,5
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,1,Completed,NR3C1,5
+chronic obstructive pulmonary disease,SALMETEROL,4,Unknown status,ADRB2,5
+chronic obstructive pulmonary disease,ROFLUMILAST,4,Completed,PDE4B,5
+chronic obstructive pulmonary disease,ROFLUMILAST,4,Completed,PDE4A,5
+chronic obstructive pulmonary disease,DANIRIXIN,1,Completed,CXCR2,5
+chronic obstructive pulmonary disease,OLODATEROL,1,Completed,ADRB2,5
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,1,Completed,NR3C1,5
+chronic obstructive pulmonary disease,LOSMAPIMOD,2,Completed,MAPK14,5
+chronic obstructive pulmonary disease,ALBUTEROL,2,Completed,ADRB2,5
+chronic obstructive pulmonary disease,BUDESONIDE,2,Completed,NR3C1,5
+chronic obstructive pulmonary disease,BUDESONIDE,1,Completed,NR3C1,4
+chronic obstructive pulmonary disease,DAROTROPIUM,2,Completed,CHRM3,4
+chronic obstructive pulmonary disease,DAROTROPIUM,2,Completed,CHRM2,4
+chronic obstructive pulmonary disease,DAROTROPIUM,2,Completed,CHRM5,4
+chronic obstructive pulmonary disease,OLODATEROL,4,Completed,ADRB2,4
+chronic obstructive pulmonary disease,DAROTROPIUM,2,Completed,CHRM1,4
+chronic obstructive pulmonary disease,PREDNISOLONE,1,Completed,NR3C1,4
+chronic obstructive pulmonary disease,DAROTROPIUM,2,Completed,CHRM4,4
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,3,Unknown status,NR3C1,4
+chronic obstructive pulmonary disease,GSK-2269557,2,Completed,PIK3CD,4
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,2,Completed,NR3C1,4
+chronic obstructive pulmonary disease,ARFORMOTEROL,3,Completed,ADRB2,4
+chronic obstructive pulmonary disease,TIOTROPIUM,4,Terminated,CHRM3,4
+chronic obstructive pulmonary disease,SALMETEROL,3,Withdrawn,ADRB2,4
+chronic obstructive pulmonary disease,ARFORMOTEROL,2,Completed,ADRB2,4
+chronic obstructive pulmonary disease,SALMETEROL,1,Completed,ADRB2,4
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,3,Withdrawn,NR3C1,4
+chronic obstructive pulmonary disease,SALMETEROL,3,Unknown status,ADRB2,4
+chronic obstructive pulmonary disease,PH-797804,2,Completed,MAPK14,3
+chronic obstructive pulmonary disease,ELUBRIXIN,1,Completed,CXCR2,3
+chronic obstructive pulmonary disease,INDACATEROL,1,Completed,ADRB2,3
+chronic obstructive pulmonary disease,FORMOTEROL,4,n/a,ADRB2,3
+chronic obstructive pulmonary disease,FORMOTEROL,4,Recruiting,ADRB2,3
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Recruiting,NR3C1,3
+chronic obstructive pulmonary disease,CARMOTEROL,2,Completed,ADRB2,3
+chronic obstructive pulmonary disease,BUDESONIDE,4,Recruiting,NR3C1,3
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,4,Recruiting,NR3C1,3
+chronic obstructive pulmonary disease,SALMETEROL,4,Recruiting,ADRB2,3
+chronic obstructive pulmonary disease,TIOTROPIUM,4,"Active, not recruiting",CHRM3,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,PDE4A,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,PDE3B,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,PDE3A,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,PDE4B,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,PDE4C,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,PDE4D,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,ADORA3,3
+chronic obstructive pulmonary disease,ARFORMOTEROL,4,Completed,ADRB2,3
+chronic obstructive pulmonary disease,TIOTROPIUM,4,Unknown status,CHRM3,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,ADORA2B,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,ADORA2A,3
+chronic obstructive pulmonary disease,THEOPHYLLINE,4,Completed,ADORA1,3
+chronic obstructive pulmonary disease,ACETAZOLAMIDE,4,Completed,CA4,3
+chronic obstructive pulmonary disease,ACETAZOLAMIDE,4,Completed,CA2,3
+chronic obstructive pulmonary disease,ACETAZOLAMIDE,4,Completed,CA12,3
+chronic obstructive pulmonary disease,ACETAZOLAMIDE,4,Completed,CA1,3
+chronic bronchitis,FORMOTEROL,4,n/a,ADRB2,3
+chronic obstructive pulmonary disease,VILANTEROL,4,Recruiting,ADRB2,3
+chronic bronchitis,IPRATROPIUM,4,n/a,CHRM3,2
+chronic obstructive pulmonary disease,ALBUTEROL,4,"Active, not recruiting",ADRB2,2
+chronic obstructive pulmonary disease,FORMOTEROL,3,Recruiting,ADRB2,2
+chronic obstructive pulmonary disease,ALBUTEROL,3,Recruiting,ADRB2,2
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Terminated,PDE4B,2
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Terminated,PDE4C,2
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Terminated,PDE4D,2
+chronic obstructive pulmonary disease,TIOTROPIUM,4,n/a,CHRM3,2
+chronic obstructive pulmonary disease,VILANTEROL,4,"Active, not recruiting",ADRB2,2
+chronic obstructive pulmonary disease,TIOTROPIUM,4,Withdrawn,CHRM3,2
+chronic obstructive pulmonary disease,PREDNISOLONE,4,Completed,NR3C1,2
+chronic obstructive pulmonary disease,PREDNISOLONE,3,Completed,NR3C1,2
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Terminated,NR3C1,2
+chronic obstructive pulmonary disease,FORMOTEROL,3,Unknown status,ADRB2,2
+chronic obstructive pulmonary disease,ALBUTEROL,4,Recruiting,ADRB2,2
+chronic obstructive pulmonary disease,AMELUBANT,2,Completed,LTB4R,2
+chronic obstructive pulmonary disease,NAVARIXIN,2,Terminated,CXCR1,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,PDE3A,2
+chronic obstructive pulmonary disease,NAVARIXIN,2,Terminated,CXCR2,2
+chronic obstructive pulmonary disease,TIOTROPIUM,3,Terminated,CHRM3,2
+chronic obstructive pulmonary disease,OMEPRAZOLE,1,Completed,ATP4A,2
+chronic bronchitis,FLUTICASONE PROPIONATE,4,Completed,NR3C1,2
+chronic obstructive pulmonary disease,VILANTEROL,4,n/a,ADRB2,2
+chronic obstructive pulmonary disease,MEPOLIZUMAB,3,Completed,IL5,2
+chronic bronchitis,ARFORMOTEROL,3,Completed,ADRB2,2
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,4,"Active, not recruiting",NR3C1,2
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Terminated,PDE4A,2
+chronic obstructive pulmonary disease,FORMOTEROL,4,"Active, not recruiting",ADRB2,2
+chronic bronchitis,SALMETEROL,3,Completed,ADRB2,2
+chronic obstructive pulmonary disease,FORMOTEROL,4,Withdrawn,ADRB2,2
+chronic obstructive pulmonary disease,IPRATROPIUM,1,Completed,CHRM3,2
+chronic obstructive pulmonary disease,PROPRANOLOL,1,Completed,ADRB2,2
+chronic obstructive pulmonary disease,MOMETASONE FUROATE,3,Completed,NR3C1,2
+chronic obstructive pulmonary disease,MILVETEROL,2,Completed,ADRB2,2
+chronic obstructive pulmonary disease,INDACATEROL,4,Withdrawn,ADRB2,2
+chronic obstructive pulmonary disease,INDACATEROL,4,Recruiting,ADRB2,2
+chronic obstructive pulmonary disease,UMECLIDINIUM,4,n/a,CHRM3,2
+chronic obstructive pulmonary disease,ROFLUMILAST,1,Completed,PDE4A,2
+chronic obstructive pulmonary disease,UMECLIDINIUM,4,Recruiting,CHRM3,2
+chronic bronchitis,TIOTROPIUM,4,n/a,CHRM3,2
+chronic obstructive pulmonary disease,ROFLUMILAST,1,Completed,PDE4B,2
+chronic obstructive pulmonary disease,ROFLUMILAST,1,Completed,PDE4C,2
+chronic obstructive pulmonary disease,ROFLUMILAST,1,Completed,PDE4D,2
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Completed,PDE4A,2
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Completed,PDE4B,2
+chronic obstructive pulmonary disease,UMECLIDINIUM,4,"Active, not recruiting",CHRM3,2
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,4,Recruiting,CHRM3,2
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,4,Recruiting,CHRM1,2
+chronic obstructive pulmonary disease,PROPRANOLOL,1,Completed,ADRB1,2
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Completed,PDE4C,2
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Completed,PDE4D,2
+chronic obstructive pulmonary disease,PREDNISONE,4,Completed,NR3C1,2
+chronic obstructive pulmonary disease,PREDNISONE,2,Completed,NR3C1,2
+chronic obstructive pulmonary disease,ACLIDINIUM,4,Recruiting,CHRM3,2
+chronic obstructive pulmonary disease,ALBUTEROL,1,Completed,ADRB2,2
+chronic obstructive pulmonary disease,AZD-7624,1,Completed,MAPK14,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,PDE3B,2
+chronic obstructive pulmonary disease,AZD1981,2,Completed,PTGDR2,2
+chronic obstructive pulmonary disease,DEXAMETHASONE,4,Completed,NR3C1,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,PDE4A,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,PDE3B,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,PDE3A,2
+chronic obstructive pulmonary disease,BEDORADRINE,1,Completed,ADRB2,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,ADORA3,2
+chronic obstructive pulmonary disease,BENRALIZUMAB,3,Completed,IL5RA,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,ADORA2B,2
+chronic obstructive pulmonary disease,BIMOSIAMOSE,2,Completed,SELE,2
+chronic obstructive pulmonary disease,AZD2423,2,Completed,CCR2,2
+chronic obstructive pulmonary disease,DANIRIXIN,2,Terminated,CXCR2,2
+chronic obstructive pulmonary disease,DANIRIXIN,2,Completed,CXCR2,2
+chronic obstructive pulmonary disease,BIMOSIAMOSE,2,Completed,SELP,2
+chronic obstructive pulmonary disease,CYCLOSPORINE,1,Completed,PPIA,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,ADORA2A,2
+chronic obstructive pulmonary disease,SALMETEROL,4,Terminated,ADRB2,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,ADORA1,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,PDE4D,2
+chronic obstructive pulmonary disease,SIMVASTATIN,3,Completed,HMGCR,2
+chronic obstructive pulmonary disease,TERBUTALINE,3,Completed,ADRB2,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,PDE4C,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,ADORA1,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,ADORA2A,2
+chronic obstructive pulmonary disease,BUDESONIDE,4,Unknown status,NR3C1,2
+chronic obstructive pulmonary disease,BUDESONIDE,4,Terminated,NR3C1,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,PDE4B,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,PDE4A,2
+chronic obstructive pulmonary disease,BUDESONIDE,4,"Active, not recruiting",NR3C1,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,ADORA2B,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,2,Completed,ADORA3,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,PDE4B,2
+chronic obstructive pulmonary disease,BIMOSIAMOSE,2,Completed,SELL,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,PDE4C,2
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,1,Completed,NR3C1,2
+chronic obstructive pulmonary disease,ROFLUMILAST,4,Unknown status,PDE4A,2
+chronic obstructive pulmonary disease,FENOTEROL,3,Terminated,ADRB2,2
+chronic obstructive pulmonary disease,DILMAPIMOD,1,Completed,MAPK14,2
+chronic obstructive pulmonary disease,FENOTEROL,3,Completed,ADRB2,2
+chronic obstructive pulmonary disease,ROFLUMILAST,4,Unknown status,PDE4B,2
+chronic obstructive pulmonary disease,ROFLUMILAST,4,Unknown status,PDE4D,2
+chronic obstructive pulmonary disease,ROFLUMILAST,4,Unknown status,PDE4C,2
+chronic obstructive pulmonary disease,SALMETEROL,3,Terminated,ADRB2,2
+chronic obstructive pulmonary disease,THEOPHYLLINE,3,Completed,PDE4D,2
+chronic obstructive pulmonary disease,MORPHINE,4,Recruiting,OPRM1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB11,1
+chronic obstructive pulmonary disease,MORPHINE,4,Not yet recruiting,OPRM1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA9,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB2,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB10,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA3,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB3,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB4,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB5,1
+chronic obstructive pulmonary disease,NAVARIXIN,1,Terminated,CXCR1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA2,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFV3,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFAB1,1
+chronic obstructive pulmonary disease,NAVARIXIN,1,Terminated,CXCR2,1
+chronic obstructive pulmonary disease,MORPHINE,3,Unknown status,OPRM1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFAF1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFAF2,1
+chronic obstructive pulmonary disease,NICOTINE,2,Recruiting,CHRNA4,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFAF3,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFAF4,1
+chronic obstructive pulmonary disease,NICOTINE,2,Recruiting,CHRNB2,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA13,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB6,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB9,1
+chronic obstructive pulmonary disease,MORPHINE,2,Completed,OPRM1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB7,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE HEMISUCCINATE,4,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,METOPROLOL,3,Recruiting,ADRB1,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+chronic obstructive pulmonary disease,METOPROLOL,4,Recruiting,ADRB1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA7,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA6,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFS2,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA5,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFS3,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFS4,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFS5,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE,4,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA4L2,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFS6,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFS7,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFS8,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFV1,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE,4,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFV2,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA4,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFS1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFC2,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFC1,1
+chronic obstructive pulmonary disease,METOPROLOL,4,Unknown status,ADRB1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA8,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFB8,1
+chronic bronchitis,ABX-IL8,2,Completed,CXCL8,1
+chronic obstructive pulmonary disease,ROFLUMILAST,4,n/a,PDE4A,1
+chronic obstructive pulmonary disease,OLODATEROL,4,"Active, not recruiting",ADRB2,1
+chronic obstructive pulmonary disease,TICAGRELOR,2,Completed,P2RY12,1
+chronic obstructive pulmonary disease,SIMVASTATIN,1,Completed,HMGCR,1
+chronic obstructive pulmonary disease,SIMVASTATIN,3,Terminated,HMGCR,1
+chronic obstructive pulmonary disease,SIMVASTATIN,4,Completed,HMGCR,1
+chronic obstructive pulmonary disease,TEMAZEPAM,3,Completed,GABRA1,1
+chronic obstructive pulmonary disease,TEMAZEPAM,3,Completed,GABRA2,1
+chronic obstructive pulmonary disease,TEMAZEPAM,3,Completed,GABRA3,1
+chronic obstructive pulmonary disease,TEMAZEPAM,3,Completed,GABRA5,1
+chronic obstructive pulmonary disease,TEMAZEPAM,3,Completed,GABRG1,1
+chronic obstructive pulmonary disease,TEMAZEPAM,3,Completed,GABRG2,1
+chronic obstructive pulmonary disease,TEMAZEPAM,3,Completed,GABRG3,1
+chronic obstructive pulmonary disease,TERBUTALINE,4,Completed,ADRB2,1
+chronic obstructive pulmonary disease,TESAMORELIN,2,Terminated,GHRHR,1
+chronic obstructive pulmonary disease,TESTOSTERONE ENANTHATE,2,Not yet recruiting,AR,1
+chronic obstructive pulmonary disease,TIOTROPIUM,2,Terminated,CHRM3,1
+chronic obstructive pulmonary disease,SALMETEROL,4,Not yet recruiting,ADRB2,1
+chronic obstructive pulmonary disease,TIOTROPIUM,2,Withdrawn,CHRM3,1
+chronic obstructive pulmonary disease,TIOTROPIUM,3,Recruiting,CHRM3,1
+chronic obstructive pulmonary disease,TIOTROPIUM,3,Withdrawn,CHRM3,1
+chronic obstructive pulmonary disease,TREPROSTINIL,2,Recruiting,PTGIR,1
+chronic obstructive pulmonary disease,TRIAMCINOLONE,3,Completed,NR3C1,1
+chronic obstructive pulmonary disease,TROSPIUM,1,Completed,CHRM2,1
+chronic obstructive pulmonary disease,TROSPIUM,1,Completed,CHRM3,1
+chronic obstructive pulmonary disease,UK432097,2,Terminated,ADORA2A,1
+chronic obstructive pulmonary disease,UMECLIDINIUM,3,Withdrawn,CHRM3,1
+chronic obstructive pulmonary disease,UMECLIDINIUM,4,Completed,CHRM3,1
+chronic obstructive pulmonary disease,VILANTEROL,3,Withdrawn,ADRB2,1
+chronic obstructive pulmonary disease,VILANTEROL,4,Completed,ADRB2,1
+chronic obstructive pulmonary disease,XEN-D0501,2,Completed,TRPV1,1
+chronic obstructive pulmonary disease,SAPROPTERIN,2,Enrolling by invitation,PAH,1
+chronic obstructive pulmonary disease,SALMETEROL,4,"Active, not recruiting",ADRB2,1
+chronic obstructive pulmonary disease,OLODATEROL,4,Recruiting,ADRB2,1
+chronic obstructive pulmonary disease,RAMELTEON,4,Completed,MTNR1B,1
+chronic obstructive pulmonary disease,OLODATEROL,4,n/a,ADRB2,1
+chronic obstructive pulmonary disease,OMALIZUMAB,2,Withdrawn,IGHE,1
+chronic obstructive pulmonary disease,PF-03715455,1,Completed,MAPK14,1
+chronic obstructive pulmonary disease,PF-03715455,2,Terminated,MAPK14,1
+chronic obstructive pulmonary disease,PH-797804,1,Completed,MAPK14,1
+chronic obstructive pulmonary disease,PREDNISOLONE,2,Completed,NR3C1,1
+chronic obstructive pulmonary disease,PREDNISONE,3,Completed,NR3C1,1
+chronic obstructive pulmonary disease,PREDNISONE,4,"Active, not recruiting",NR3C1,1
+chronic obstructive pulmonary disease,PREDNISONE,4,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,QBW251,2,Completed,CFTR,1
+chronic obstructive pulmonary disease,RAMELTEON,2,Completed,MTNR1A,1
+chronic obstructive pulmonary disease,RAMELTEON,2,Completed,MTNR1B,1
+chronic obstructive pulmonary disease,RAMELTEON,4,Completed,MTNR1A,1
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Recruiting,PDE4A,1
+chronic obstructive pulmonary disease,SALMETEROL,3,Recruiting,ADRB2,1
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Recruiting,PDE4B,1
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Recruiting,PDE4C,1
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Recruiting,PDE4D,1
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Unknown status,PDE4A,1
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Unknown status,PDE4B,1
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Unknown status,PDE4C,1
+chronic obstructive pulmonary disease,ROFLUMILAST,2,Unknown status,PDE4D,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA11,1
+chronic obstructive pulmonary disease,ROFLUMILAST,4,n/a,PDE4B,1
+chronic obstructive pulmonary disease,ROFLUMILAST,4,n/a,PDE4C,1
+chronic obstructive pulmonary disease,ROFLUMILAST,4,n/a,PDE4D,1
+chronic obstructive pulmonary disease,ROSUVASTATIN,2,Completed,HMGCR,1
+chronic obstructive pulmonary disease,SALMETEROL,2,Withdrawn,ADRB2,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA12,1
+chronic obstructive pulmonary disease,MEGESTROL ACETATE,2,Completed,PGR,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA10,1
+chronic obstructive pulmonary disease,BIMAGRUMAB,2,Completed,ACVR2B,1
+chronic obstructive pulmonary disease,CHOLECALCIFEROL,2,Completed,VDR,1
+chronic obstructive pulmonary disease,CHOLECALCIFEROL,1,Completed,VDR,1
+chronic obstructive pulmonary disease,CELIPROLOL,4,Recruiting,ADRB2,1
+chronic obstructive pulmonary disease,CELIPROLOL,4,Recruiting,ADRB1,1
+chronic obstructive pulmonary disease,CELIPROLOL,4,Recruiting,ADRA2C,1
+chronic obstructive pulmonary disease,CELIPROLOL,4,Recruiting,ADRA2B,1
+chronic obstructive pulmonary disease,CELIPROLOL,4,Recruiting,ADRA2A,1
+chronic obstructive pulmonary disease,CARVEDILOL,4,Completed,ADRB3,1
+chronic obstructive pulmonary disease,CARVEDILOL,4,Completed,ADRB2,1
+chronic obstructive pulmonary disease,CARVEDILOL,4,Completed,ADRB1,1
+chronic obstructive pulmonary disease,CARVEDILOL,4,Completed,ADRA1D,1
+chronic obstructive pulmonary disease,CARVEDILOL,4,Completed,ADRA1B,1
+chronic obstructive pulmonary disease,CARVEDILOL,4,Completed,ADRA1A,1
+chronic obstructive pulmonary disease,CARMOTEROL,1,Completed,ADRB2,1
+chronic obstructive pulmonary disease,CANAKINUMAB,1,Completed,IL1B,1
+chronic obstructive pulmonary disease,BUDESONIDE,4,n/a,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,3,Unknown status,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,3,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,3,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,2,Unknown status,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,2,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,0,Completed,NR3C1,1
+chronic obstructive pulmonary disease,BOSENTAN,2,Unknown status,EDNRB,1
+chronic obstructive pulmonary disease,BOSENTAN,2,Unknown status,EDNRA,1
+chronic obstructive pulmonary disease,BISOPROLOL,4,Recruiting,ADRB1,1
+chronic obstructive pulmonary disease,CHOLECALCIFEROL,2,Enrolling by invitation,VDR,1
+chronic obstructive pulmonary disease,CHOLECALCIFEROL,2,Recruiting,VDR,1
+chronic obstructive pulmonary disease,CHOLECALCIFEROL,3,Completed,VDR,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,4,Completed,MMP1,1
+chronic obstructive pulmonary disease,FEVIPIPRANT,2,Not yet recruiting,PTGDR2,1
+chronic obstructive pulmonary disease,FENTANYL,4,Recruiting,OPRM1,1
+chronic obstructive pulmonary disease,FENTANYL,4,Not yet recruiting,OPRM1,1
+chronic obstructive pulmonary disease,ETANERCEPT,2,Completed,TNF,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,4,Withdrawn,MMP8,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,4,Withdrawn,MMP7,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,4,Withdrawn,MMP13,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,4,Withdrawn,MMP1,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,4,Completed,MMP8,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,4,Completed,MMP7,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,4,Completed,MMP13,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,3,Unknown status,MMP8,1
+chronic obstructive pulmonary disease,CHOLECALCIFEROL,4,Withdrawn,VDR,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,3,Unknown status,MMP7,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,3,Unknown status,MMP13,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,3,Unknown status,MMP1,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,3,Completed,MMP8,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,3,Completed,MMP7,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,3,Completed,MMP13,1
+chronic obstructive pulmonary disease,DOXYCYCLINE,3,Completed,MMP1,1
+chronic obstructive pulmonary disease,DNK333,1,Completed,TACR1,1
+chronic obstructive pulmonary disease,DILMAPIMOD,2,Completed,MAPK14,1
+chronic obstructive pulmonary disease,CIMETIDINE,1,Completed,HRH2,1
+chronic obstructive pulmonary disease,CICLESONIDE,2,Completed,NR3C1,1
+chronic obstructive pulmonary disease,BISOPROLOL,4,Completed,ADRB1,1
+chronic obstructive pulmonary disease,BENRALIZUMAB,2,Completed,IL5RA,1
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,4,Completed,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Withdrawn,NR3C1,1
+chronic obstructive pulmonary disease,ALBUTEROL,3,Withdrawn,ADRB2,1
+chronic obstructive pulmonary disease,ALBUTEROL,3,Unknown status,ADRB2,1
+chronic obstructive pulmonary disease,ALBUTEROL,3,Terminated,ADRB2,1
+chronic obstructive pulmonary disease,ALBUTEROL,2,Terminated,ADRB2,1
+chronic obstructive pulmonary disease,ALBUTEROL,2,"Active, not recruiting",ADRB2,1
+chronic obstructive pulmonary disease,ACLIDINIUM,4,n/a,CHRM3,1
+chronic obstructive pulmonary disease,ACLIDINIUM,4,Withdrawn,CHRM3,1
+chronic obstructive pulmonary disease,ACLIDINIUM,3,Recruiting,CHRM3,1
+chronic obstructive pulmonary disease,ACLIDINIUM,2,Terminated,CHRM3,1
+chronic obstructive pulmonary disease,ACLIDINIUM,1,Not yet recruiting,CHRM3,1
+chronic obstructive pulmonary disease,ABEDITEROL,2,Completed,ADRB2,1
+chronic bronchitis,VILANTEROL,4,n/a,ADRB2,1
+chronic bronchitis,UMECLIDINIUM,4,n/a,CHRM3,1
+chronic bronchitis,TIOTROPIUM,4,Completed,CHRM3,1
+chronic bronchitis,TIOTROPIUM,0,Completed,CHRM3,1
+chronic bronchitis,SALMETEROL,4,n/a,ADRB2,1
+chronic bronchitis,SALMETEROL,4,Unknown status,ADRB2,1
+chronic bronchitis,IVACAFTOR,4,Not yet recruiting,CFTR,1
+chronic bronchitis,IVACAFTOR,2,Recruiting,CFTR,1
+chronic bronchitis,INDACATEROL,4,n/a,ADRB2,1
+chronic bronchitis,FORMOTEROL,4,Withdrawn,ADRB2,1
+chronic bronchitis,FORMOTEROL,4,Completed,ADRB2,1
+chronic bronchitis,FLUTICASONE PROPIONATE,4,n/a,NR3C1,1
+chronic bronchitis,BUDESONIDE,4,n/a,NR3C1,1
+chronic bronchitis,ARFORMOTEROL,4,Unknown status,ADRB2,1
+chronic obstructive pulmonary disease,ALBUTEROL,4,Terminated,ADRB2,1
+chronic obstructive pulmonary disease,ANDECALIXIMAB,1,Completed,MMP9,1
+chronic obstructive pulmonary disease,ARFORMOTEROL,4,Recruiting,ADRB2,1
+chronic obstructive pulmonary disease,AZD-7624,2,Completed,MAPK14,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Unknown status,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Completed,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,3,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,AZD8683,2,Terminated,CHRM3,1
+chronic obstructive pulmonary disease,AZD8683,2,Completed,CHRM3,1
+chronic obstructive pulmonary disease,AZD8683,1,Terminated,CHRM3,1
+chronic obstructive pulmonary disease,AZD4818,2,Completed,CCR1,1
+chronic obstructive pulmonary disease,AZD3199,2,Completed,ADRB2,1
+chronic obstructive pulmonary disease,AZD3199,1,Completed,ADRB2,1
+chronic obstructive pulmonary disease,ATORVASTATIN,4,Completed,HMGCR,1
+chronic obstructive pulmonary disease,ARFORMOTEROL,4,Terminated,ADRB2,1
+chronic obstructive pulmonary disease,ASPIRIN,2,Unknown status,PTGS2,1
+chronic obstructive pulmonary disease,ASPIRIN,2,Unknown status,PTGS1,1
+chronic obstructive pulmonary disease,ASPIRIN,2,Completed,PTGS2,1
+chronic obstructive pulmonary disease,ASPIRIN,2,Completed,PTGS1,1
+chronic obstructive pulmonary disease,ASM-024,2,Completed,CHRNB4,1
+chronic obstructive pulmonary disease,ASM-024,2,Completed,CHRNA7,1
+chronic obstructive pulmonary disease,ASM-024,2,Completed,CHRNA3,1
+chronic obstructive pulmonary disease,ASM-024,2,Completed,CHRM3,1
+chronic obstructive pulmonary disease,ASM-024,2,Completed,CHRM2,1
+chronic obstructive pulmonary disease,ASM-024,2,Completed,CHRM1,1
+chronic obstructive pulmonary disease,ARFORMOTEROL,4,n/a,ADRB2,1
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,3,Withdrawn,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,4,n/a,NR3C1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,NDUFA1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,MT-ND4,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB2,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB11,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB10,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFAF4,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFAF3,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFAF2,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFAF1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFAB1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA9,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA8,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA7,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA6,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA5,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA4L2,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA4,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA3,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA2,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA13,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA12,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA11,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA10,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFA1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,MT-ND6,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,MT-ND5,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB3,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB4,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB5,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFS8,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,MT-ND6,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,MT-ND5,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,MT-ND4L,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,MT-ND4,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,MT-ND3,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,MT-ND2,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,MT-ND1,1
+chronic obstructive pulmonary disease,METFORMIN,4,Completed,GPD2,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFV3,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFV2,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFV1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFS7,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB6,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFS6,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFS5,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFS4,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFS3,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFS2,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFS1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFC2,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFC1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB9,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB8,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,NDUFB7,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,MT-ND4L,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,MT-ND3,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,2,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,MT-ND2,1
+chronic obstructive pulmonary disease,INFLIXIMAB,3,Completed,TNF,1
+chronic obstructive pulmonary disease,INDACATEROL,4,n/a,ADRB2,1
+chronic obstructive pulmonary disease,INDACATEROL,4,Unknown status,ADRB2,1
+chronic obstructive pulmonary disease,INDACATEROL,3,Recruiting,ADRB2,1
+chronic obstructive pulmonary disease,IMD-1041,2,Unknown status,IKBKB,1
+chronic obstructive pulmonary disease,ILOPROST,4,Unknown status,PTGIR,1
+chronic obstructive pulmonary disease,ILOPROST,2,Completed,PTGIR,1
+chronic obstructive pulmonary disease,GSK159802,1,Completed,ADRB2,1
+chronic obstructive pulmonary disease,GSK-610677,1,Completed,MAPK14,1
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,3,Recruiting,CHRM3,1
+chronic obstructive pulmonary disease,GLYCOPYRRONIUM,3,Recruiting,CHRM1,1
+chronic obstructive pulmonary disease,FOSINOPRIL,4,Completed,ACE,1
+chronic obstructive pulmonary disease,FORMOTEROL,4,Unknown status,ADRB2,1
+chronic obstructive pulmonary disease,FORMOTEROL,4,Terminated,ADRB2,1
+chronic obstructive pulmonary disease,FORMOTEROL,3,Withdrawn,ADRB2,1
+chronic obstructive pulmonary disease,FORMOTEROL,3,Terminated,ADRB2,1
+chronic obstructive pulmonary disease,FORMOTEROL,2,Withdrawn,ADRB2,1
+chronic obstructive pulmonary disease,FORMOTEROL,2,Terminated,ADRB2,1
+chronic obstructive pulmonary disease,FORMOTEROL,2,Recruiting,ADRB2,1
+chronic obstructive pulmonary disease,FORMOTEROL,0,Completed,ADRB2,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Not yet recruiting,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,"Active, not recruiting",NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,3,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,2,Withdrawn,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,2,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,INSULIN HUMAN,1,Completed,INSR,1
+chronic obstructive pulmonary disease,INTERFERON BETA-1A,2,Recruiting,IFNAR1,1
+chronic obstructive pulmonary disease,INTERFERON BETA-1A,2,Recruiting,IFNAR2,1
+chronic obstructive pulmonary disease,LIRAGLUTIDE,4,Recruiting,GLP1R,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,MT-ND1,1
+chronic obstructive pulmonary disease,METFORMIN,0,Not yet recruiting,GPD2,1
+chronic bronchitis,ACLIDINIUM,4,n/a,CHRM3,1
+chronic obstructive pulmonary disease,LOXAPINE,1,Completed,HTR2C,1
+chronic obstructive pulmonary disease,LOXAPINE,1,Completed,HTR2A,1
+chronic obstructive pulmonary disease,LOXAPINE,1,Completed,DRD4,1
+chronic obstructive pulmonary disease,LOXAPINE,1,Completed,DRD3,1
+chronic obstructive pulmonary disease,LOXAPINE,1,Completed,DRD2,1
+chronic obstructive pulmonary disease,LOVASTATIN,2,Completed,HMGCR,1
+chronic obstructive pulmonary disease,LOSMAPIMOD,1,Completed,MAPK14,1
+chronic obstructive pulmonary disease,LOSMAPIMOD,1,Completed,MAPK11,1
+chronic obstructive pulmonary disease,LEBRIKIZUMAB,2,Completed,IL13,1
+chronic obstructive pulmonary disease,IPRATROPIUM,4,Recruiting,CHRM3,1
+chronic obstructive pulmonary disease,LAS190792,1,Completed,CHRM3,1
+chronic obstructive pulmonary disease,LAS190792,1,Completed,ADRB2,1
+chronic obstructive pulmonary disease,KETAMINE,4,Completed,GRIN3B,1
+chronic obstructive pulmonary disease,KETAMINE,4,Completed,GRIN3A,1
+chronic obstructive pulmonary disease,KETAMINE,4,Completed,GRIN2D,1
+chronic obstructive pulmonary disease,KETAMINE,4,Completed,GRIN2C,1
+chronic obstructive pulmonary disease,KETAMINE,4,Completed,GRIN2B,1
+chronic obstructive pulmonary disease,KETAMINE,4,Completed,GRIN2A,1
+chronic obstructive pulmonary disease,KETAMINE,4,Completed,GRIN1,1
+chronic obstructive pulmonary disease,IVACAFTOR,0,Completed,CFTR,1
+chronic obstructive pulmonary disease,IVABRADINE,4,Completed,HCN4,1
+chronic obstructive pulmonary disease,ZILEUTON,3,Terminated,ALOX5,1
