@@ -1,3 +1,2 @@
 disease,efo_id,evidence_strings_aggregated,evidence_strings_all,evidence_strings_api_response,percentage_difference
-breast carcinoma,EFO_0000305,5623,19440,19440,-71.075
-diabetes mellitus,EFO_0000400,4942,46053,46053,-89.269
+lung carcinoma,EFO_0001071,6907,21366,21366,-67.673

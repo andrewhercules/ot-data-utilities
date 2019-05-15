@@ -1,0 +1,2744 @@
+disease,drug,phase,status,target,num_ev_strings
+nephrotic syndrome,PREDNISONE,4,n/a,NR3C1,108
+autoimmune thrombocytopenic purpura,PREDNISONE,4,n/a,NR3C1,105
+multiple myeloma,DEXAMETHASONE,2,Completed,NR3C1,88
+pneumonia,PREDNISONE,4,n/a,NR3C1,71
+asthma,BUDESONIDE,3,Completed,NR3C1,67
+asthma,FLUTICASONE PROPIONATE,3,Completed,NR3C1,60
+multiple myeloma,DEXAMETHASONE,2,Recruiting,NR3C1,59
+multiple sclerosis,PREDNISONE,4,n/a,NR3C1,57
+asthma,FLUTICASONE PROPIONATE,4,Completed,NR3C1,56
+multiple myeloma,DEXAMETHASONE,1,Completed,NR3C1,50
+inflammation,DEXAMETHASONE,4,n/a,NR3C1,49
+multiple myeloma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,46
+multiple myeloma,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,45
+ulcerative colitis,PREDNISONE,4,n/a,NR3C1,44
+rheumatoid arthritis,PREDNISONE,4,n/a,NR3C1,44
+Crohn's disease,PREDNISONE,4,n/a,NR3C1,44
+Sarcoidosis,PREDNISONE,4,n/a,NR3C1,41
+multiple myeloma,DEXAMETHASONE,3,Completed,NR3C1,41
+subacute thyroiditis,PREDNISONE,4,n/a,NR3C1,40
+asthma,PREDNISONE,4,n/a,NR3C1,40
+lymphoma,PREDNISONE,2,Completed,NR3C1,39
+prostate carcinoma,PREDNISONE,2,Completed,NR3C1,32
+asthma,FLUTICASONE PROPIONATE,2,Completed,NR3C1,32
+multiple myeloma,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,28
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Completed,NR3C1,28
+asthma,BUDESONIDE,4,Completed,NR3C1,27
+multiple myeloma,DEXAMETHASONE,1,Recruiting,NR3C1,27
+inflammation,HYDROCORTISONE,4,n/a,NR3C1,27
+lymphoma,DEXAMETHASONE,2,Completed,NR3C1,27
+multiple sclerosis,METHYLPREDNISOLONE,4,n/a,NR3C1,26
+lymphoma,PREDNISONE,3,Completed,NR3C1,26
+rheumatoid arthritis,METHYLPREDNISOLONE,4,n/a,NR3C1,25
+asthma,CICLESONIDE,3,Completed,NR3C1,24
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,3,Completed,NR3C1,23
+asthma,BECLOMETHASONE DIPROPIONATE,3,Completed,NR3C1,23
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,3,Completed,NR3C1,22
+multiple myeloma,DEXAMETHASONE,3,Recruiting,NR3C1,22
+pneumonia,METHYLPREDNISOLONE,4,n/a,NR3C1,22
+inflammation,METHYLPREDNISOLONE,4,n/a,NR3C1,21
+Crohn's disease,METHYLPREDNISOLONE,4,n/a,NR3C1,21
+asthma,FLUTICASONE PROPIONATE,1,Completed,NR3C1,21
+frozen shoulder,METHYLPREDNISOLONE,4,n/a,NR3C1,21
+asthma,METHYLPREDNISOLONE,4,n/a,NR3C1,21
+ulcerative colitis,METHYLPREDNISOLONE,4,n/a,NR3C1,21
+inflammation,PREDNISOLONE ACETATE,4,n/a,NR3C1,21
+osteoarthritis,METHYLPREDNISOLONE,4,n/a,NR3C1,21
+asthma,FLUTICASONE FUROATE,3,Completed,NR3C1,20
+allergic rhinitis,FLUTICASONE PROPIONATE,4,n/a,NR3C1,20
+psoriasis,CLOBETASOL PROPIONATE,4,n/a,NR3C1,19
+multiple myeloma,DEXAMETHASONE,2,Terminated,NR3C1,19
+multiple myeloma,DEXAMETHASONE,2,Withdrawn,NR3C1,19
+prostate carcinoma,PREDNISONE,2,Recruiting,NR3C1,19
+prostate carcinoma,PREDNISONE,3,Completed,NR3C1,18
+multiple myeloma,DEXAMETHASONE,1,Terminated,NR3C1,18
+juvenile idiopathic arthritis,PREDNISOLONE,4,n/a,NR3C1,17
+lymphoma,PREDNISOLONE,4,n/a,NR3C1,17
+asthma,FLUTICASONE FUROATE,1,Completed,NR3C1,17
+chronic obstructive pulmonary disease,BUDESONIDE,4,Completed,NR3C1,17
+Chemotherapy-induced nausea and vomiting,DEXAMETHASONE,3,Completed,NR3C1,17
+nephrotic syndrome,PREDNISOLONE,4,n/a,NR3C1,16
+ulcerative colitis,PREDNISOLONE,4,n/a,NR3C1,16
+asthma,PREDNISOLONE,4,n/a,NR3C1,16
+atopic eczema,PREDNISOLONE,4,n/a,NR3C1,16
+rheumatoid arthritis,PREDNISOLONE,4,n/a,NR3C1,16
+Sarcoidosis,PREDNISOLONE,4,n/a,NR3C1,16
+Crohn's disease,PREDNISOLONE,4,n/a,NR3C1,16
+asthma,BUDESONIDE,2,Completed,NR3C1,16
+pain,DEXAMETHASONE,4,Completed,NR3C1,16
+prostate carcinoma,PREDNISONE,1,Completed,NR3C1,15
+asthma,BUDESONIDE,4,n/a,NR3C1,15
+asthma,BECLOMETHASONE DIPROPIONATE,2,Completed,NR3C1,15
+multiple myeloma,DEXAMETHASONE,2,Not yet recruiting,NR3C1,15
+seasonal allergic rhinitis,CICLESONIDE,3,Completed,NR3C1,15
+asthma,FLUTICASONE FUROATE,2,Completed,NR3C1,15
+leukemia,DEXAMETHASONE,3,Completed,NR3C1,15
+ulcerative colitis,HYDROCORTISONE,4,n/a,NR3C1,14
+leukemia,DEXAMETHASONE,2,Completed,NR3C1,14
+asthma,BUDESONIDE,1,Completed,NR3C1,14
+multiple myeloma,PREDNISONE,2,Completed,NR3C1,14
+"Rhinitis, Allergic, Perennial",CICLESONIDE,3,Completed,NR3C1,14
+chronic obstructive pulmonary disease,BUDESONIDE,3,Completed,NR3C1,14
+lymphoma,PREDNISONE,1,Completed,NR3C1,13
+skin disease,FLUTICASONE PROPIONATE,4,n/a,NR3C1,12
+diffuse large B-cell lymphoma,PREDNISONE,2,Completed,NR3C1,12
+"Rhinitis, Allergic, Perennial",MOMETASONE FUROATE,3,Completed,NR3C1,12
+prostate carcinoma,PREDNISONE,2,"Active, not recruiting",NR3C1,12
+asthma,FLUTICASONE PROPIONATE,4,n/a,NR3C1,12
+asthma,BECLOMETHASONE DIPROPIONATE,4,Completed,NR3C1,12
+psoriasis,CLOBETASOL PROPIONATE,4,Completed,NR3C1,12
+asthma,MOMETASONE FUROATE,2,Completed,NR3C1,11
+multiple myeloma,PREDNISONE,3,Completed,NR3C1,11
+post operative nausea and vomiting,DEXAMETHASONE,4,Completed,NR3C1,11
+multiple myeloma,DEXAMETHASONE,2,Unknown status,NR3C1,11
+leukemia,PREDNISONE,2,Completed,NR3C1,11
+leukemia,PREDNISONE,3,Completed,NR3C1,11
+asthma,HYDROCORTISONE,4,n/a,NR3C1,11
+"Rhinitis, Allergic, Perennial",FLUTICASONE FUROATE,3,Completed,NR3C1,11
+seasonal allergic rhinitis,MOMETASONE FUROATE,3,Completed,NR3C1,10
+infection,BETAMETHASONE DIPROPIONATE,4,n/a,NR3C1,10
+multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,4,n/a,NR3C1,10
+lymphoma,PREDNISONE,2,Unknown status,NR3C1,10
+asthma,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,10
+lymphoma,PREDNISONE,2,"Active, not recruiting",NR3C1,10
+rheumatoid arthritis,METHYLPREDNISOLONE HEMISUCCINATE,4,n/a,NR3C1,10
+lymphoma,PREDNISONE,3,"Active, not recruiting",NR3C1,9
+lymphoma,DEXAMETHASONE,3,Unknown status,NR3C1,9
+seasonal allergic rhinitis,FLUTICASONE PROPIONATE,3,Completed,NR3C1,9
+pneumonia,HYDROCORTISONE,4,n/a,NR3C1,9
+asthma,MOMETASONE FUROATE,3,Completed,NR3C1,9
+asthma,FLUTICASONE PROPIONATE,3,Recruiting,NR3C1,9
+multiple myeloma,DEXAMETHASONE,1,Unknown status,NR3C1,9
+leukemia,HYDROCORTISONE,2,Completed,NR3C1,9
+acute lymphoblastic leukemia,DEXAMETHASONE,1,Recruiting,NR3C1,9
+multiple myeloma,PREDNISONE,1,Completed,NR3C1,9
+prostate adenocarcinoma,PREDNISONE,2,Completed,NR3C1,9
+idiopathic pulmonary fibrosis,PREDNISOLONE PHOSPHORIC ACID,4,n/a,NR3C1,8
+leukemia,METHYLPREDNISOLONE,2,Completed,NR3C1,8
+chronic obstructive pulmonary disease,PREDNISOLONE PHOSPHORIC ACID,4,n/a,NR3C1,8
+pain,DEXAMETHASONE,4,Recruiting,NR3C1,8
+diffuse large B-cell lymphoma,PREDNISONE,3,Recruiting,NR3C1,8
+leukemia,DEXAMETHASONE,2,Recruiting,NR3C1,8
+asthma,PREDNISOLONE PHOSPHORIC ACID,4,n/a,NR3C1,8
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,n/a,NR3C1,8
+lymphoma,PREDNISONE,3,Unknown status,NR3C1,8
+acute lymphoblastic leukemia,DEXAMETHASONE,3,Recruiting,NR3C1,7
+asthma,BUDESONIDE,4,Unknown status,NR3C1,7
+multiple myeloma,DEXAMETHASONE,3,Terminated,NR3C1,7
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,2,Completed,NR3C1,7
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,4,n/a,NR3C1,7
+leukemia,DEXAMETHASONE,4,n/a,NR3C1,7
+acute lymphoblastic leukemia,DEXAMETHASONE,2,Recruiting,NR3C1,7
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,3,Completed,NR3C1,7
+seasonal allergic rhinitis,FLUTICASONE FUROATE,3,Completed,NR3C1,7
+multiple myeloma,DEXAMETHASONE,3,Unknown status,NR3C1,7
+psoriasis vulgaris,BETAMETHASONE DIPROPIONATE,2,Completed,NR3C1,7
+acute lymphoblastic leukemia,DEXAMETHASONE,2,Completed,NR3C1,7
+acute lymphoblastic leukemia,PREDNISONE,2,Recruiting,NR3C1,7
+lymphoma,DEXAMETHASONE,4,n/a,NR3C1,7
+acute lymphoblastic leukemia,DEXAMETHASONE,4,Completed,NR3C1,7
+lymphoma,DEXAMETHASONE,1,Completed,NR3C1,7
+asthma,MOMETASONE FUROATE,4,Completed,NR3C1,7
+eosinophilic pneumonia,PREDNISOLONE,4,n/a,NR3C1,7
+multiple myeloma,DEXAMETHASONE,1,Withdrawn,NR3C1,7
+diffuse large B-cell lymphoma,PREDNISONE,1,Recruiting,NR3C1,7
+leukemia,PREDNISONE,2,Recruiting,NR3C1,6
+psoriasis,BETAMETHASONE DIPROPIONATE,3,Completed,NR3C1,6
+cataract,PREDNISOLONE ACETATE,4,Completed,NR3C1,6
+prostate carcinoma,DEXAMETHASONE,2,Completed,NR3C1,6
+seasonal allergic rhinitis,FLUTICASONE FUROATE,4,Completed,NR3C1,6
+allergic conjunctivitis,PREDNISOLONE ACETATE,4,n/a,NR3C1,6
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,3,Completed,NR3C1,6
+asthma,FLUTICASONE PROPIONATE,4,Terminated,NR3C1,6
+acute lymphoblastic leukemia,DEXAMETHASONE,4,Unknown status,NR3C1,6
+lymphoma,PREDNISONE,2,Terminated,NR3C1,6
+prostate adenocarcinoma,PREDNISONE,2,"Active, not recruiting",NR3C1,6
+diffuse large B-cell lymphoma,PREDNISONE,2,Recruiting,NR3C1,6
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Unknown status,NR3C1,6
+lymphoma,DEXAMETHASONE,2,Recruiting,NR3C1,6
+psoriasis vulgaris,BETAMETHASONE DIPROPIONATE,1,Completed,NR3C1,6
+lymphoma,DEXAMETHASONE,3,Completed,NR3C1,6
+ulcerative colitis,BUDESONIDE,3,Completed,NR3C1,6
+acute lymphoblastic leukemia,DEXAMETHASONE,1,Completed,NR3C1,6
+lymphoma,PREDNISOLONE,3,Completed,NR3C1,6
+asthma,PREDNISONE,3,Completed,NR3C1,6
+inflammation,DIFLUPREDNATE,3,Completed,NR3C1,6
+atopic eczema,FLUTICASONE PROPIONATE,4,Completed,NR3C1,5
+allergic conjunctivitis,DEXAMETHASONE,4,n/a,NR3C1,5
+inflammation,LOTEPREDNOL ETABONATE,4,n/a,NR3C1,5
+multiple myeloma,PREDNISONE,3,"Active, not recruiting",NR3C1,5
+Nasal Cavity Polyp,MOMETASONE FUROATE,3,Completed,NR3C1,5
+diffuse large B-cell lymphoma,PREDNISONE,2,Terminated,NR3C1,5
+atopic eczema,FLUTICASONE PROPIONATE,4,n/a,NR3C1,5
+skin disease,MOMETASONE FUROATE,4,n/a,NR3C1,5
+rheumatoid arthritis,PREDNISONE,2,Completed,NR3C1,5
+chronic obstructive pulmonary disease,BUDESONIDE,2,Completed,NR3C1,5
+prostate carcinoma,PREDNISONE,2,Terminated,NR3C1,5
+leukemia,PREDNISONE,1,Completed,NR3C1,5
+diabetic macular edema,DEXAMETHASONE,2,Completed,NR3C1,5
+chronic lymphocytic leukemia,DEXAMETHASONE,2,Completed,NR3C1,5
+atopic eczema,HYDROCORTISONE BUTYRATE,4,n/a,NR3C1,5
+eosinophilic esophagitis,BUDESONIDE,2,Completed,NR3C1,5
+rheumatoid arthritis,PREDNISOLONE,2,Completed,NR3C1,5
+allergic rhinitis,BECLOMETHASONE DIPROPIONATE,4,n/a,NR3C1,5
+allergic rhinitis,MOMETASONE FUROATE,3,Completed,NR3C1,5
+cancer,DEXAMETHASONE,4,n/a,NR3C1,5
+lymphoma,HYDROCORTISONE,2,Completed,NR3C1,5
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,4,Completed,NR3C1,5
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,1,Completed,NR3C1,5
+systemic lupus erythematosus,PREDNISONE,2,Completed,NR3C1,5
+"Rhinitis, Allergic, Perennial",FLUTICASONE FUROATE,4,Completed,NR3C1,5
+pain,DEXAMETHASONE,4,Terminated,NR3C1,5
+diffuse large B-cell lymphoma,DEXAMETHASONE,2,Recruiting,NR3C1,5
+lymphoma,METHYLPREDNISOLONE,2,Completed,NR3C1,5
+psoriasis,HALOBETASOL PROPIONATE,2,Completed,NR3C1,5
+pain,DEXAMETHASONE,3,Completed,NR3C1,5
+allergic rhinitis,BUDESONIDE,4,n/a,NR3C1,5
+psoriasis vulgaris,BETAMETHASONE,2,Completed,NR3C1,5
+leukemia,HYDROCORTISONE,3,Completed,NR3C1,5
+diffuse large B-cell lymphoma,PREDNISONE,2,"Active, not recruiting",NR3C1,5
+osteoarthritis,TRIAMCINOLONE ACETONIDE,4,n/a,NR3C1,5
+pneumonia,DEXAMETHASONE,4,n/a,NR3C1,5
+diabetic macular edema,TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,5
+posterior uveitis,DEXAMETHASONE,4,n/a,NR3C1,5
+prostate carcinoma,PREDNISOLONE,2,Completed,NR3C1,5
+unipolar depression,MIFEPRISTONE,3,Completed,NR3C1,5
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,1,Completed,NR3C1,5
+prostate adenocarcinoma,PREDNISONE,3,Completed,NR3C1,5
+rheumatoid arthritis,METHYLPREDNISOLONE,4,Completed,NR3C1,5
+lymphoma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,5
+lymphoma,PREDNISOLONE,2,Completed,NR3C1,5
+acute lymphoblastic leukemia,PREDNISONE,4,Completed,NR3C1,4
+acute lymphoblastic leukemia,PREDNISONE,2,Completed,NR3C1,4
+prostate carcinoma,PREDNISONE,1,Recruiting,NR3C1,4
+neoplasm,DEXAMETHASONE,1,Completed,NR3C1,4
+"Lymphoma, AIDS-Related",PREDNISONE,2,Completed,NR3C1,4
+seasonal allergic rhinitis,FLUTICASONE PROPIONATE,4,Completed,NR3C1,4
+prostate carcinoma,HYDROCORTISONE,3,Completed,NR3C1,4
+prostate carcinoma,PREDNISONE,1,Terminated,NR3C1,4
+eosinophilic esophagitis,FLUTICASONE PROPIONATE,2,Completed,NR3C1,4
+seasonal allergic rhinitis,FLUTICASONE PROPIONATE,2,Completed,NR3C1,4
+acute lymphoblastic leukemia,PREDNISOLONE,4,Completed,NR3C1,4
+diffuse large B-cell lymphoma,PREDNISONE,2,Unknown status,NR3C1,4
+prostate adenocarcinoma,PREDNISONE,1,Completed,NR3C1,4
+acute lymphoblastic leukemia,DEXAMETHASONE,2,Terminated,NR3C1,4
+diffuse large B-cell lymphoma,PREDNISONE,3,Completed,NR3C1,4
+asthma,PREDNISOLONE,3,Completed,NR3C1,4
+multiple myeloma,DEXAMETHASONE,1,Suspended,NR3C1,4
+multiple myeloma,DEXAMETHASONE,1,Not yet recruiting,NR3C1,4
+allergic rhinitis,MOMETASONE FUROATE,4,Completed,NR3C1,4
+psoriasis vulgaris,BETAMETHASONE,3,Completed,NR3C1,4
+allergic rhinitis,FLUTICASONE PROPIONATE,4,Completed,NR3C1,4
+"Rhinitis, Allergic, Perennial",FLUTICASONE PROPIONATE,4,Completed,NR3C1,4
+allergic rhinitis,FLUTICASONE PROPIONATE,1,Completed,NR3C1,4
+allergic rhinitis,FLUTICASONE FUROATE,4,n/a,NR3C1,4
+allergic rhinitis,CICLESONIDE,4,n/a,NR3C1,4
+"Rhinitis, Allergic, Perennial",BECLOMETHASONE DIPROPIONATE,3,Completed,NR3C1,4
+myelodysplastic syndrome,METHYLPREDNISOLONE,2,Completed,NR3C1,4
+diabetic macular edema,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,4
+diabetic macular edema,TRIAMCINOLONE,2,Completed,NR3C1,4
+multiple myeloma,DEXAMETHASONE,3,Not yet recruiting,NR3C1,4
+rheumatoid arthritis,METHYLPREDNISOLONE,3,Completed,NR3C1,4
+asthma,BECLOMETHASONE DIPROPIONATE,4,n/a,NR3C1,4
+psoriasis,CLOBETASOL PROPIONATE,3,Completed,NR3C1,4
+multiple myeloma,PREDNISONE,3,Unknown status,NR3C1,4
+asthma,BUDESONIDE,3,Recruiting,NR3C1,4
+multiple myeloma,PREDNISONE,2,"Active, not recruiting",NR3C1,4
+psoriasis,BETAMETHASONE,1,Completed,NR3C1,4
+prostate carcinoma,PREDNISONE,3,Terminated,NR3C1,4
+rheumatoid arthritis,PREDNISONE,4,Completed,NR3C1,4
+asthma,CICLESONIDE,4,Completed,NR3C1,4
+diabetic macular edema,DEXAMETHASONE,3,Completed,NR3C1,4
+asthma,MOMETASONE FUROATE,4,n/a,NR3C1,4
+prostate carcinoma,PREDNISONE,2,Withdrawn,NR3C1,4
+asthma,PREDNISONE,4,Completed,NR3C1,4
+leukemia,DEXAMETHASONE,2,Unknown status,NR3C1,4
+Crohn's disease,BUDESONIDE,3,Completed,NR3C1,4
+leukemia,DEXAMETHASONE,1,Completed,NR3C1,4
+non-small cell lung carcinoma,DEXAMETHASONE,2,Completed,NR3C1,4
+non-Hodgkins lymphoma,DEXAMETHASONE,2,Completed,NR3C1,4
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,2,Completed,NR3C1,4
+lymphoma,PREDNISOLONE,3,Unknown status,NR3C1,4
+chronic obstructive pulmonary disease,BUDESONIDE,1,Completed,NR3C1,4
+lymphoma,DEXAMETHASONE,2,Unknown status,NR3C1,4
+lymphoma,DEXAMETHASONE,2,Withdrawn,NR3C1,4
+leukemia,PREDNISOLONE,3,Completed,NR3C1,4
+chronic obstructive pulmonary disease,PREDNISOLONE,1,Completed,NR3C1,4
+cancer,DEXAMETHASONE,1,Completed,NR3C1,4
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,3,Withdrawn,NR3C1,4
+Hodgkins lymphoma,PREDNISONE,2,"Active, not recruiting",NR3C1,4
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,3,Unknown status,NR3C1,4
+osteoarthritis,METHYLPREDNISOLONE,3,Completed,NR3C1,4
+pain,DEXAMETHASONE,4,Unknown status,NR3C1,4
+lymphoma,METHYLPREDNISOLONE,3,Completed,NR3C1,4
+unspecified peripheral T-cell lymphoma,PREDNISONE,2,Completed,NR3C1,4
+non-Hodgkins lymphoma,PREDNISONE,2,Terminated,NR3C1,4
+asthma,PREDNISOLONE,4,Completed,NR3C1,4
+leukemia,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,3
+ulcerative proctosigmoiditis,BUDESONIDE,3,Completed,NR3C1,3
+Crohn's disease,BUDESONIDE,4,n/a,NR3C1,3
+allergic conjunctivitis,PREDNISOLONE PHOSPHORIC ACID,4,n/a,NR3C1,3
+psoriasis,DESOXIMETASONE,4,Completed,NR3C1,3
+Waldenstrom macroglobulinemia,DEXAMETHASONE,2,Completed,NR3C1,3
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,4,Recruiting,NR3C1,3
+leukemia,DEXAMETHASONE,3,Unknown status,NR3C1,3
+diffuse large B-cell lymphoma,PREDNISONE,3,Unknown status,NR3C1,3
+allergic rhinitis,MOMETASONE FUROATE,4,n/a,NR3C1,3
+neoplasm,DEXAMETHASONE,3,Recruiting,NR3C1,3
+psoriasis vulgaris,HYDROCORTISONE,3,Completed,NR3C1,3
+psoriasis vulgaris,BETAMETHASONE DIPROPIONATE,3,Completed,NR3C1,3
+leukemia,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,3
+Primary systemic amyloidosis,DEXAMETHASONE,2,Completed,NR3C1,3
+diffuse large B-cell lymphoma,DEXAMETHASONE,1,Recruiting,NR3C1,3
+frozen shoulder,METHYLPREDNISOLONE ACETATE,4,n/a,NR3C1,3
+systemic lupus erythematosus,METHYLPREDNISOLONE,3,Terminated,NR3C1,3
+osteoarthritis,METHYLPREDNISOLONE ACETATE,4,n/a,NR3C1,3
+lymphoma,HYDROCORTISONE,3,Completed,NR3C1,3
+post operative nausea and vomiting,DEXAMETHASONE,2,Completed,NR3C1,3
+diffuse large B-cell lymphoma,PREDNISONE,1,Completed,NR3C1,3
+post operative nausea and vomiting,DEXAMETHASONE,4,Unknown status,NR3C1,3
+breast carcinoma,DEXAMETHASONE,2,Completed,NR3C1,3
+osteoarthritis,DEXAMETHASONE,4,n/a,NR3C1,3
+diffuse large B-cell lymphoma,PREDNISONE,1,Withdrawn,NR3C1,3
+breast carcinoma,MIFEPRISTONE,2,Recruiting,NR3C1,3
+lymphoma,DEXAMETHASONE,3,Recruiting,NR3C1,3
+leprosy,PREDNISOLONE,2,Completed,NR3C1,3
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Recruiting,NR3C1,3
+diffuse large B-cell lymphoma,PREDNISONE,3,"Active, not recruiting",NR3C1,3
+Chemotherapy-induced nausea and vomiting,DEXAMETHASONE,2,Completed,NR3C1,3
+allergic conjunctivitis,LOTEPREDNOL ETABONATE,4,n/a,NR3C1,3
+leukemia,METHYLPREDNISOLONE,1,Completed,NR3C1,3
+unipolar depression,ORG-34517,2,Completed,NR3C1,3
+lupus nephritis,PREDNISONE,2,Completed,NR3C1,3
+non-Hodgkins lymphoma,PREDNISONE,3,"Active, not recruiting",NR3C1,3
+lung carcinoma,BUDESONIDE,2,Completed,NR3C1,3
+prostate adenocarcinoma,PREDNISONE,2,Recruiting,NR3C1,3
+prostate adenocarcinoma,PREDNISONE,2,Terminated,NR3C1,3
+prostate carcinoma,PREDNISONE,1,"Active, not recruiting",NR3C1,3
+prostate carcinoma,PREDNISOLONE,4,Completed,NR3C1,3
+prostate carcinoma,PREDNISOLONE,3,Completed,NR3C1,3
+prostate adenocarcinoma,PREDNISONE,3,"Active, not recruiting",NR3C1,3
+prostate adenocarcinoma,PREDNISONE,3,Not yet recruiting,NR3C1,3
+non-Hodgkins lymphoma,PREDNISONE,2,Completed,NR3C1,3
+acute lymphoblastic leukemia,PREDNISOLONE,4,Unknown status,NR3C1,3
+chronic kidney disease,PREDNISONE,4,Completed,NR3C1,3
+prostate carcinoma,HYDROCORTISONE,2,Terminated,NR3C1,3
+chronic kidney disease,METHYLPREDNISOLONE,4,Completed,NR3C1,3
+non-Hodgkins lymphoma,PREDNISONE,1,Recruiting,NR3C1,3
+prostate carcinoma,DEXAMETHASONE,2,Terminated,NR3C1,3
+acute lymphoblastic leukemia,PREDNISONE,3,Recruiting,NR3C1,3
+prostate carcinoma,HYDROCORTISONE,2,Completed,NR3C1,3
+lupus nephritis,PREDNISONE,3,Completed,NR3C1,3
+non-Hodgkins lymphoma,PREDNISONE,3,Completed,NR3C1,3
+chronic lymphocytic leukemia,METHYLPREDNISOLONE,2,"Active, not recruiting",NR3C1,3
+leukemia,PREDNISOLONE,2,Unknown status,NR3C1,3
+primary myelofibrosis,PREDNISONE,2,Completed,NR3C1,3
+psoriasis,BETAMETHASONE VALERATE,1,Completed,NR3C1,3
+diabetic macular edema,TRIAMCINOLONE ACETONIDE,3,Unknown status,NR3C1,3
+proctitis,BUDESONIDE,3,Completed,NR3C1,3
+leukemia,METHYLPREDNISOLONE,2,Unknown status,NR3C1,3
+unspecified peripheral T-cell lymphoma,PREDNISONE,2,Recruiting,NR3C1,3
+psoriasis,BETAMETHASONE,3,Completed,NR3C1,3
+chronic obstructive pulmonary disease,BUDESONIDE,4,Recruiting,NR3C1,3
+acute graft vs. host disease,PREDNISONE,2,Completed,NR3C1,3
+uveitis,PREDNISONE,3,Completed,NR3C1,3
+acute graft vs. host disease,PREDNISONE,3,Recruiting,NR3C1,3
+prostate carcinoma,PREDNISONE,3,Recruiting,NR3C1,3
+acute lymphoblastic leukemia,DEXAMETHASONE,1,Terminated,NR3C1,3
+acute lymphoblastic leukemia,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,3
+multiple myeloma,DEXAMETHASONE,4,Recruiting,NR3C1,3
+acute lymphoblastic leukemia,DEXAMETHASONE,3,Completed,NR3C1,3
+lymphoid leukemia,DEXAMETHASONE,2,Recruiting,NR3C1,3
+prostate carcinoma,PREDNISONE,3,"Active, not recruiting",NR3C1,3
+anterior uveitis,PREDNISOLONE ACETATE,3,Completed,NR3C1,3
+osteoarthritis,DEXAMETHASONE,4,Completed,NR3C1,3
+acute myeloid leukemia,DEXAMETHASONE,1,Recruiting,NR3C1,3
+gout,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,3
+Hodgkins lymphoma,PREDNISONE,3,Completed,NR3C1,3
+Mantle cell lymphoma,PREDNISONE,2,"Active, not recruiting",NR3C1,3
+diabetic macular edema,FLUOCINOLONE ACETONIDE,3,Completed,NR3C1,3
+rheumatoid arthritis,METHYLPREDNISOLONE,2,Terminated,NR3C1,3
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,2,Completed,NR3C1,3
+Hodgkins lymphoma,PREDNISONE,2,Recruiting,NR3C1,3
+asthma,FLUTICASONE PROPIONATE,3,Withdrawn,NR3C1,3
+neoplasm of mature B-cells,PREDNISONE,2,Recruiting,NR3C1,3
+neoplasm of mature B-cells,PREDNISONE,2,Completed,NR3C1,3
+rheumatoid arthritis,METHYLPREDNISOLONE ACETATE,4,n/a,NR3C1,3
+otitis externa,DEXAMETHASONE,3,Terminated,NR3C1,3
+collagenous colitis,BUDESONIDE,3,Completed,NR3C1,3
+multiple myeloma,METHYLPREDNISOLONE,2,Completed,NR3C1,3
+asthma,FLUTICASONE PROPIONATE,2,Terminated,NR3C1,3
+neoplasm of mature B-cells,PREDNISOLONE,3,"Active, not recruiting",NR3C1,3
+pain,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,3
+seasonal allergic rhinitis,BUDESONIDE,2,Completed,NR3C1,3
+rheumatoid arthritis,PREDNISOLONE,4,Recruiting,NR3C1,3
+atopic eczema,DESONIDE,4,n/a,NR3C1,3
+metastatic prostate cancer,PREDNISONE,2,Not yet recruiting,NR3C1,3
+asthma,BUDESONIDE,4,Terminated,NR3C1,3
+Nasal Cavity Polyp,FLUTICASONE PROPIONATE,3,Completed,NR3C1,3
+asthma,BUDESONIDE,4,Withdrawn,NR3C1,3
+"Hepatitis, Alcoholic",PREDNISOLONE,2,Completed,NR3C1,3
+lymphoma,PREDNISONE,2,Recruiting,NR3C1,3
+lymphoma,PREDNISONE,3,Terminated,NR3C1,3
+inflammation,LOTEPREDNOL ETABONATE,3,Completed,NR3C1,3
+sinusitis,MOMETASONE FUROATE,2,Completed,NR3C1,3
+asthma,DEXAMETHASONE,4,n/a,NR3C1,3
+lymphoma,PREDNISONE,2,Withdrawn,NR3C1,3
+Hodgkins lymphoma,PREDNISONE,3,Recruiting,NR3C1,3
+neoplasm of mature B-cells,PREDNISONE,1,Recruiting,NR3C1,3
+diabetic macular edema,DEXAMETHASONE,4,Completed,NR3C1,3
+Mantle cell lymphoma,DEXAMETHASONE,2,Completed,NR3C1,3
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,3,Withdrawn,NR3C1,3
+seasonal allergic rhinitis,MOMETASONE FUROATE,4,n/a,NR3C1,3
+seasonal allergic rhinitis,MOMETASONE FUROATE,2,Completed,NR3C1,3
+asthma,MOMETASONE FUROATE,4,Terminated,NR3C1,3
+pain,TRIAMCINOLONE ACETONIDE,4,n/a,NR3C1,3
+asthma,PREDNISONE,3,Recruiting,NR3C1,3
+neoplasm of mature B-cells,PREDNISONE,3,Terminated,NR3C1,3
+chronic obstructive pulmonary disease,DEXAMETHASONE,4,Completed,NR3C1,2
+corneal edema,PREDNISOLONE ACETATE,4,Completed,NR3C1,2
+cataract,DEXAMETHASONE,3,Completed,NR3C1,2
+chronic obstructive pulmonary disease,BUDESONIDE,4,Terminated,NR3C1,2
+allergic conjunctivitis,DEXAMETHASONE,3,Completed,NR3C1,2
+prostate carcinoma,DEXAMETHASONE,3,Completed,NR3C1,2
+allergic conjunctivitis,DEXAMETHASONE,2,Completed,NR3C1,2
+asthma,DEXAMETHASONE,4,Completed,NR3C1,2
+asthma,FLUTICASONE FUROATE,3,Withdrawn,NR3C1,2
+chronic kidney disease,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,2
+asthma,FLUTICASONE FUROATE,4,Completed,NR3C1,2
+asthma,FLUTICASONE FUROATE,4,n/a,NR3C1,2
+chronic kidney disease,PREDNISOLONE,4,Completed,NR3C1,2
+chronic obstructive pulmonary disease,BUDESONIDE,4,"Active, not recruiting",NR3C1,2
+ophthalmic herpes zoster,CORTISONE ACETATE,4,n/a,NR3C1,2
+cytomegalovirus infection,PREDNISONE,4,Completed,NR3C1,2
+atopic eczema,DESONIDE,4,Completed,NR3C1,2
+chronic obstructive pulmonary disease,BUDESONIDE,4,Unknown status,NR3C1,2
+allergic conjunctivitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+pain,DEXAMETHASONE,1,Completed,NR3C1,2
+non-Hodgkins lymphoma,PREDNISONE,1,Completed,NR3C1,2
+allergic conjunctivitis,PREDNISOLONE ACETATE,2,Completed,NR3C1,2
+atopic eczema,FLUOCINONIDE,4,Completed,NR3C1,2
+eosinophilic pneumonia,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+atopic eczema,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+atopic eczema,DEXAMETHASONE,4,n/a,NR3C1,2
+allergic conjunctivitis,LOTEPREDNOL ETABONATE,4,Completed,NR3C1,2
+asthma,PREDNISOLONE,1,Terminated,NR3C1,2
+asthma,FLUTICASONE FUROATE,3,"Active, not recruiting",NR3C1,2
+asthma,PREDNISOLONE,3,Recruiting,NR3C1,2
+multiple myeloma,PREDNISONE,3,Recruiting,NR3C1,2
+acute myeloid leukemia,HYDROCORTISONE,1,Completed,NR3C1,2
+eosinophilic esophagitis,BUDESONIDE,3,"Active, not recruiting",NR3C1,2
+cataract,DEXAMETHASONE,4,Completed,NR3C1,2
+obstructive sleep apnea,BUDESONIDE,4,Completed,NR3C1,2
+cataract,PREDNISOLONE ACETATE,4,Unknown status,NR3C1,2
+chronic lymphocytic leukemia,DEXAMETHASONE,1,Completed,NR3C1,2
+asthma,PREDNISONE,1,Completed,NR3C1,2
+age-related macular degeneration,TRIAMCINOLONE ACETONIDE,3,Unknown status,NR3C1,2
+chronic kidney disease,DEXAMETHASONE,3,Completed,NR3C1,2
+prostate adenocarcinoma,PREDNISONE,1,"Active, not recruiting",NR3C1,2
+non-Hodgkins lymphoma,METHYLPREDNISOLONE,2,Terminated,NR3C1,2
+pain,DEXAMETHASONE,2,Completed,NR3C1,2
+dermatitis herpetiformis,DEXAMETHASONE,4,n/a,NR3C1,2
+chronic myeloproliferative disorder,METHYLPREDNISOLONE,1,Completed,NR3C1,2
+multiple myeloma,PREDNISOLONE,3,Completed,NR3C1,2
+atopic eczema,CLOBETASOL PROPIONATE,1,Completed,NR3C1,2
+chronic lymphocytic leukemia,PREDNISONE,3,Completed,NR3C1,2
+dermatomyositis,CORTISONE ACETATE,4,n/a,NR3C1,2
+pain,DEXAMETHASONE,2,Recruiting,NR3C1,2
+pain,DEXAMETHASONE,3,Unknown status,NR3C1,2
+dermatitis herpetiformis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+prostate adenocarcinoma,PREDNISONE,2,Not yet recruiting,NR3C1,2
+chronic bronchitis,FLUTICASONE PROPIONATE,4,Completed,NR3C1,2
+age-related macular degeneration,DEXAMETHASONE,2,Completed,NR3C1,2
+pain,DEXAMETHASONE,3,Not yet recruiting,NR3C1,2
+dermatitis herpetiformis,CORTISONE ACETATE,4,n/a,NR3C1,2
+prostate adenocarcinoma,PREDNISONE,3,Terminated,NR3C1,2
+non-small cell lung carcinoma,DEXAMETHASONE,3,Completed,NR3C1,2
+atopic eczema,CORTISONE ACETATE,4,n/a,NR3C1,2
+panuveitis,DIFLUPREDNATE,3,Completed,NR3C1,2
+pain,DEXAMETHASONE,4,Withdrawn,NR3C1,2
+acute myeloid leukemia,METHYLPREDNISOLONE HEMISUCCINATE,1,Recruiting,NR3C1,2
+eosinophilic pneumonia,DEXAMETHASONE,4,n/a,NR3C1,2
+prostate carcinoma,DEXAMETHASONE,1,Completed,NR3C1,2
+childhood B acute lymphoblastic leukemia,DEXAMETHASONE,3,Completed,NR3C1,2
+pemphigus vulgaris,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+non-Hodgkins lymphoma,DEXAMETHASONE,2,Terminated,NR3C1,2
+pemphigus vulgaris,DEXAMETHASONE,4,n/a,NR3C1,2
+non-Hodgkins lymphoma,DEXAMETHASONE,3,Recruiting,NR3C1,2
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,1,Completed,NR3C1,2
+eosinophilic esophagitis,BUDESONIDE,3,Completed,NR3C1,2
+multiple myeloma,PREDNISONE,1,"Active, not recruiting",NR3C1,2
+prostate carcinoma,CYPROTERONE ACETATE,3,Unknown status,NR3C1,2
+prostate carcinoma,CYPROTERONE ACETATE,3,Completed,NR3C1,2
+allergic conjunctivitis,PREDNISOLONE PHOSPHORIC ACID,4,Completed,NR3C1,2
+asthma,FLUTICASONE PROPIONATE,2,Recruiting,NR3C1,2
+diabetic macular edema,TRIAMCINOLONE ACETONIDE,1,Unknown status,NR3C1,2
+ophthalmic herpes zoster,DEXAMETHASONE,4,n/a,NR3C1,2
+nephrotic syndrome,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+asthma,BECLOMETHASONE DIPROPIONATE,3,Not yet recruiting,NR3C1,2
+polycythemia vera,PREDNISONE,2,Completed,NR3C1,2
+diffuse large B-cell lymphoma,DEXAMETHASONE,2,Terminated,NR3C1,2
+chronic obstructive pulmonary disease,PREDNISONE,2,Completed,NR3C1,2
+ankylosing spondylitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+osteoarthritis,METHYLPREDNISOLONE,4,Completed,NR3C1,2
+diabetic macular edema,FLUOCINOLONE ACETONIDE,4,Completed,NR3C1,2
+ankylosing spondylitis,DEXAMETHASONE,4,n/a,NR3C1,2
+diffuse large B-cell lymphoma,DEXAMETHASONE,3,Completed,NR3C1,2
+polymyalgia rheumatica,PREDNISONE,2,Terminated,NR3C1,2
+polymyositis,CORTISONE ACETATE,4,n/a,NR3C1,2
+mycosis fungoides,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+mycosis fungoides,DEXAMETHASONE,4,n/a,NR3C1,2
+brain edema,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,2,Unknown status,NR3C1,2
+post operative nausea and vomiting,DEXAMETHASONE,3,Completed,NR3C1,2
+chronic obstructive pulmonary disease,PREDNISOLONE,4,Completed,NR3C1,2
+diffuse large B-cell lymphoma,PREDNISONE,1,"Active, not recruiting",NR3C1,2
+osteoarthritis,METHYLPREDNISOLONE,2,Completed,NR3C1,2
+osteoarthritis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+post-operative sign or symptom,DEXAMETHASONE,4,Completed,NR3C1,2
+chronic obstructive pulmonary disease,PREDNISONE,4,Completed,NR3C1,2
+neoplasm of mature B-cells,PREDNISONE,3,Completed,NR3C1,2
+asthma,CORTISONE ACETATE,4,n/a,NR3C1,2
+diffuse large B-cell lymphoma,DEXAMETHASONE,2,Completed,NR3C1,2
+aplastic anemia,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+aplastic anemia,DEXAMETHASONE,4,n/a,NR3C1,2
+aplastic anemia,CORTISONE ACETATE,4,n/a,NR3C1,2
+autoimmune thrombocytopenic purpura,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+diabetic macular edema,TRIAMCINOLONE ACETONIDE,1,Completed,NR3C1,2
+osteoarthritis,TRIAMCINOLONE HEXACETONIDE,3,Completed,NR3C1,2
+pneumonia,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+myelodysplastic syndrome,PREDNISONE,1,Completed,NR3C1,2
+diabetic macular edema,TRIAMCINOLONE,4,Completed,NR3C1,2
+diabetic macular edema,TRIAMCINOLONE,3,Completed,NR3C1,2
+diabetic retinopathy,TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,2
+anterior uveitis,DIFLUPREDNATE,3,Completed,NR3C1,2
+nephrotic syndrome,CORTISONE ACETATE,4,n/a,NR3C1,2
+autoimmune thrombocytopenic purpura,PREDNISONE,3,Completed,NR3C1,2
+pneumonia,PREDNISONE,3,Completed,NR3C1,2
+myelodysplastic syndrome,PREDNISONE,2,Completed,NR3C1,2
+osteoarthritis,TRIAMCINOLONE ACETONIDE,4,Completed,NR3C1,2
+nephrotic syndrome,DEXAMETHASONE,4,n/a,NR3C1,2
+myelodysplastic syndrome,METHYLPREDNISOLONE,1,Completed,NR3C1,2
+osteoarthritis,TRIAMCINOLONE,4,Completed,NR3C1,2
+polycystic ovary syndrome,CYPROTERONE ACETATE,4,Completed,NR3C1,2
+autoimmune thrombocytopenic purpura,CORTISONE ACETATE,4,n/a,NR3C1,2
+breast carcinoma,DEXAMETHASONE,2,Terminated,NR3C1,2
+breast carcinoma,DEXAMETHASONE,2,Unknown status,NR3C1,2
+chronic obstructive pulmonary disease,PREDNISOLONE,3,Completed,NR3C1,2
+cancer,DEXAMETHASONE,2,Completed,NR3C1,2
+allergic rhinitis,MOMETASONE FUROATE,1,Completed,NR3C1,2
+oral lichen planus,CLOBETASOL PROPIONATE,2,Recruiting,NR3C1,2
+atopic eczema,HYDROCORTISONE BUTYRATE,2,Completed,NR3C1,2
+cancer,DEXAMETHASONE,3,Recruiting,NR3C1,2
+allergic rhinitis,FLUTICASONE PROPIONATE,4,Unknown status,NR3C1,2
+myeloproliferative disorder,METHYLPREDNISOLONE,2,Completed,NR3C1,2
+allergic rhinitis,FLUTICASONE PROPIONATE,3,Completed,NR3C1,2
+optic neuritis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+cardiac arrest,HYDROCORTISONE,1,Completed,NR3C1,2
+optic neuritis,DEXAMETHASONE,4,n/a,NR3C1,2
+multiple sclerosis,METHYLPREDNISOLONE,4,Completed,NR3C1,2
+allergic rhinitis,FLUTICASONE FUROATE,4,Completed,NR3C1,2
+osteoarthritis,TRIAMCINOLONE HEXACETONIDE,4,Unknown status,NR3C1,2
+allergic rhinitis,DEXAMETHASONE,4,n/a,NR3C1,2
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,4,"Active, not recruiting",NR3C1,2
+allergic rhinitis,CICLESONIDE,4,Completed,NR3C1,2
+ophthalmic herpes zoster,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+asthma,CICLESONIDE,4,n/a,NR3C1,2
+premature birth,DEXAMETHASONE,4,Completed,NR3C1,2
+multiple sclerosis,METHYLPREDNISOLONE,1,Completed,NR3C1,2
+allergic rhinitis,MOMETASONE FUROATE,3,Not yet recruiting,NR3C1,2
+contact dermatitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+cancer,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,2
+asthma,BUDESONIDE,3,Not yet recruiting,NR3C1,2
+asthma,PREDNISOLONE,2,Completed,NR3C1,2
+osteoarthritis,CORTISONE ACETATE,4,n/a,NR3C1,2
+diabetic macular edema,FLUOCINOLONE ACETONIDE,2,Completed,NR3C1,2
+chronic obstructive pulmonary disease,MOMETASONE FUROATE,3,Completed,NR3C1,2
+atopic eczema,TRIAMCINOLONE,2,Completed,NR3C1,2
+post-traumatic stress disorder,MIFEPRISTONE,2,Unknown status,NR3C1,2
+oral lichen planus,TRIAMCINOLONE ACETONIDE,4,Completed,NR3C1,2
+posterior uveitis,CORTISONE ACETATE,4,n/a,NR3C1,2
+bronchiolitis obliterans,BUDESONIDE,2,Completed,NR3C1,2
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Terminated,NR3C1,2
+contact dermatitis,DEXAMETHASONE,4,n/a,NR3C1,2
+posterior uveitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+asthma,BUDESONIDE,3,Terminated,NR3C1,2
+allergy,CORTISONE ACETATE,4,n/a,NR3C1,2
+atopic eczema,MAPRACORAT,2,Completed,NR3C1,2
+diffuse large B-cell lymphoma,PREDNISONE,3,Not yet recruiting,NR3C1,2
+asthma,BUDESONIDE,4,Recruiting,NR3C1,2
+contact dermatitis,CORTISONE ACETATE,4,n/a,NR3C1,2
+diffuse large B-cell lymphoma,PREDNISONE,3,Terminated,NR3C1,2
+diffuse large B-cell lymphoma,PREDNISONE,4,Recruiting,NR3C1,2
+allergic rhinitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+focal segmental glomerulosclerosis,DEXAMETHASONE,3,Completed,NR3C1,2
+Mantle cell lymphoma,PREDNISONE,3,Unknown status,NR3C1,2
+seasonal allergic rhinitis,MOMETASONE FUROATE,1,Completed,NR3C1,2
+IGA glomerulonephritis,METHYLPREDNISOLONE,3,Completed,NR3C1,2
+mastitis,HYDROCORTISONE BUTYRATE,4,Recruiting,NR3C1,2
+IGA glomerulonephritis,PREDNISONE,4,"Active, not recruiting",NR3C1,2
+seborrheic dermatitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+seborrheic dermatitis,DEXAMETHASONE,4,n/a,NR3C1,2
+seborrheic dermatitis,CORTISONE ACETATE,4,n/a,NR3C1,2
+seasonal allergic rhinitis,MOMETASONE FUROATE,4,Completed,NR3C1,2
+Mantle cell lymphoma,DEXAMETHASONE,2,Recruiting,NR3C1,2
+meningeal tuberculosis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+Mantle cell lymphoma,DEXAMETHASONE,3,Recruiting,NR3C1,2
+Mantle cell lymphoma,DEXAMETHASONE,3,Unknown status,NR3C1,2
+Mantle cell lymphoma,PREDNISONE,2,Completed,NR3C1,2
+Mantle cell lymphoma,PREDNISONE,3,Completed,NR3C1,2
+Mantle cell lymphoma,PREDNISONE,3,Recruiting,NR3C1,2
+acute lymphoblastic leukemia,PREDNISONE,4,Unknown status,NR3C1,2
+meningeal tuberculosis,CORTISONE ACETATE,4,n/a,NR3C1,2
+sepsis,HYDROCORTISONE,3,Recruiting,NR3C1,2
+septic shock,HYDROCORTISONE,3,Completed,NR3C1,2
+Hypercalcemia,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+Hypercalcemia,DEXAMETHASONE,4,n/a,NR3C1,2
+lymphoma,PREDNISOLONE,1,Unknown status,NR3C1,2
+lymphoma,PREDNISOLONE,2,"Active, not recruiting",NR3C1,2
+lymphoma,PREDNISOLONE,2,Unknown status,NR3C1,2
+injury,DEXAMETHASONE,4,Recruiting,NR3C1,2
+skin disease,BETAMETHASONE DIPROPIONATE,2,Completed,NR3C1,2
+Henoch-Schoenlein purpura,PREDNISONE,2,Recruiting,NR3C1,2
+Henoch-Schoenlein purpura,PREDNISONE,4,Completed,NR3C1,2
+inflammation,DIFLUPREDNATE,2,Completed,NR3C1,2
+Hodgkins lymphoma,DEXAMETHASONE,1,Recruiting,NR3C1,2
+Hodgkins lymphoma,DEXAMETHASONE,2,Recruiting,NR3C1,2
+lymphoma,PREDNISONE,3,Recruiting,NR3C1,2
+Hodgkins lymphoma,PREDNISONE,1,Completed,NR3C1,2
+Hodgkins lymphoma,PREDNISONE,2,Completed,NR3C1,2
+Hodgkins lymphoma,PREDNISONE,2,Terminated,NR3C1,2
+Hypercalcemia,CORTISONE ACETATE,4,n/a,NR3C1,2
+meningeal tuberculosis,DEXAMETHASONE,4,n/a,NR3C1,2
+hemolytic anemia,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+subacute thyroiditis,DEXAMETHASONE,4,n/a,NR3C1,2
+rheumatoid arthritis,DEXAMETHASONE,4,n/a,NR3C1,2
+Peptic ulcer,CORTISONE ACETATE,4,n/a,NR3C1,2
+Peptic ulcer,DEXAMETHASONE,4,n/a,NR3C1,2
+Peptic ulcer,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+rheumatoid arthritis,METHYLPREDNISOLONE,2,Completed,NR3C1,2
+gout,DEXAMETHASONE,4,n/a,NR3C1,2
+rheumatoid arthritis,FOSDAGROCORAT,2,Completed,NR3C1,2
+rheumatoid arthritis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+microscopic polyangiitis,METHYLPREDNISOLONE,2,Completed,NR3C1,2
+hemolytic anemia,DEXAMETHASONE,4,n/a,NR3C1,2
+retinal vein occlusion,TRIAMCINOLONE ACETONIDE,2,Unknown status,NR3C1,2
+Primary hemophagocytic lymphohistiocytosis,METHYLPREDNISOLONE,3,Recruiting,NR3C1,2
+retinal vein occlusion,TRIAMCINOLONE,2,Completed,NR3C1,2
+retinal vein occlusion,DEXAMETHASONE,4,Completed,NR3C1,2
+retinal vein occlusion,DEXAMETHASONE,2,Completed,NR3C1,2
+Primary systemic amyloidosis,DEXAMETHASONE,3,Completed,NR3C1,2
+migraine disorder,DEXAMETHASONE,1,Recruiting,NR3C1,2
+POEMS syndrome,DEXAMETHASONE,2,Unknown status,NR3C1,2
+POEMS syndrome,DEXAMETHASONE,2,Completed,NR3C1,2
+gout,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+rheumatoid arthritis,PREDNISOLONE,1,Completed,NR3C1,2
+seasonal allergic rhinitis,BECLOMETHASONE DIPROPIONATE,3,Completed,NR3C1,2
+seasonal allergic rhinitis,BECLOMETHASONE DIPROPIONATE,2,Completed,NR3C1,2
+hemolytic anemia,CORTISONE ACETATE,4,n/a,NR3C1,2
+hemangioma,PREDNISOLONE,2,Terminated,NR3C1,2
+metastatic prostate cancer,PREDNISONE,1,Recruiting,NR3C1,2
+metastatic prostate cancer,PREDNISONE,2,"Active, not recruiting",NR3C1,2
+metastatic prostate cancer,PREDNISONE,2,Completed,NR3C1,2
+rheumatoid arthritis,PREDNISONE,3,Completed,NR3C1,2
+Nasal obstruction,DEXAMETHASONE,4,n/a,NR3C1,2
+Nasal obstruction,DEXAMETHASONE ACETATE,4,n/a,NR3C1,2
+Nasal obstruction,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+rheumatoid arthritis,PREDNISONE,2,Terminated,NR3C1,2
+Nasal obstruction,FLUTICASONE PROPIONATE,4,n/a,NR3C1,2
+Nasal obstruction,PREDNISOLONE,4,n/a,NR3C1,2
+metastatic prostate cancer,PREDNISONE,2,Recruiting,NR3C1,2
+subacute thyroiditis,CORTISONE ACETATE,4,n/a,NR3C1,2
+subacute thyroiditis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+respiratory system disease,DEXAMETHASONE,2,Unknown status,NR3C1,2
+Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+lymphoid leukemia,PREDNISONE,2,Recruiting,NR3C1,2
+Chemotherapy-induced nausea and vomiting,DEXAMETHASONE,1,Completed,NR3C1,2
+leukemia,HYDROCORTISONE,3,"Active, not recruiting",NR3C1,2
+ulcerative colitis,PREDNISONE,4,Recruiting,NR3C1,2
+leukemia,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,CORTISONE ACETATE,4,n/a,NR3C1,2
+Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,DEXAMETHASONE,4,n/a,NR3C1,2
+lymphoma,CORTISONE ACETATE,4,n/a,NR3C1,2
+Crohn's disease,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+ulcerative colitis,METHYLPREDNISOLONE,4,Recruiting,NR3C1,2
+Congenital adrenal hyperplasia,HYDROCORTISONE,2,Completed,NR3C1,2
+ulcerative colitis,HYDROCORTISONE,4,Recruiting,NR3C1,2
+ulcerative colitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+ulcerative colitis,DEXAMETHASONE,4,n/a,NR3C1,2
+ulcerative colitis,BUDESONIDE,4,n/a,NR3C1,2
+leukemia,DEXAMETHASONE,2,Terminated,NR3C1,2
+leukemia,METHYLPREDNISOLONE,3,"Active, not recruiting",NR3C1,2
+leukemia,PREDNISOLONE,3,"Active, not recruiting",NR3C1,2
+Bronchiolitis,DEXAMETHASONE,4,Completed,NR3C1,2
+leukemia,PREDNISOLONE,3,Unknown status,NR3C1,2
+lupus nephritis,METHYLPREDNISOLONE,2,"Active, not recruiting",NR3C1,2
+AL amyloidosis,DEXAMETHASONE,1,Recruiting,NR3C1,2
+AL amyloidosis,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,2
+AL amyloidosis,DEXAMETHASONE,2,Completed,NR3C1,2
+AL amyloidosis,DEXAMETHASONE,2,Recruiting,NR3C1,2
+lupus nephritis,PREDNISOLONE,2,Completed,NR3C1,2
+lupus nephritis,PREDNISONE,2,"Active, not recruiting",NR3C1,2
+vasomotor rhinitis,FLUTICASONE FUROATE,3,Completed,NR3C1,2
+lupus nephritis,PREDNISONE,3,Terminated,NR3C1,2
+uveitis,FLUOCINOLONE ACETONIDE,4,Completed,NR3C1,2
+leukemia,PREDNISONE,3,"Active, not recruiting",NR3C1,2
+leukemia,PREDNISONE,2,Unknown status,NR3C1,2
+leukemia,PREDNISONE,2,Terminated,NR3C1,2
+uterine fibroid,MIFEPRISTONE,2,Terminated,NR3C1,2
+uterine fibroid,MIFEPRISTONE,2,Completed,NR3C1,2
+Crohn's disease,DEXAMETHASONE,4,n/a,NR3C1,2
+trichinosis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+lymphoma,PREDNISOLONE,1,Completed,NR3C1,2
+systemic lupus erythematosus,DEXAMETHASONE,4,n/a,NR3C1,2
+Fanconi anemia,METHYLPREDNISOLONE,1,Recruiting,NR3C1,2
+iritis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+iritis,DEXAMETHASONE,4,n/a,NR3C1,2
+iritis,CORTISONE ACETATE,4,n/a,NR3C1,2
+lymphoma,METHYLPREDNISOLONE,2,Unknown status,NR3C1,2
+Granulomatosis with Polyangiitis,METHYLPREDNISOLONE,2,Completed,NR3C1,2
+systemic lupus erythematosus,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+systemic lupus erythematosus,CORTISONE ACETATE,4,n/a,NR3C1,2
+trichinosis,DEXAMETHASONE,4,n/a,NR3C1,2
+Granulomatosis with Polyangiitis,PREDNISONE,3,Recruiting,NR3C1,2
+intracranial subdural hematoma,DEXAMETHASONE,2,Unknown status,NR3C1,2
+sympathetic ophthalmia,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+sympathetic ophthalmia,DEXAMETHASONE,4,n/a,NR3C1,2
+sympathetic ophthalmia,CORTISONE ACETATE,4,n/a,NR3C1,2
+Graves ophthalmopathy,METHYLPREDNISOLONE,4,Not yet recruiting,NR3C1,2
+lymphoma,METHYLPREDNISOLONE,3,Unknown status,NR3C1,2
+lymphoma,METHYLPREDNISOLONE,1,Completed,NR3C1,2
+lymphoma,HYDROCORTISONE,3,Unknown status,NR3C1,2
+ischemia,DEXAMETHASONE PHOSPHORIC ACID,2,Recruiting,NR3C1,2
+juvenile idiopathic arthritis,CORTISONE ACETATE,4,n/a,NR3C1,2
+leukemia,CORTISONE ACETATE,4,n/a,NR3C1,2
+Crohn's disease,PREDNISOLONE,4,Unknown status,NR3C1,2
+Cushing syndrome,MIFEPRISTONE,3,Completed,NR3C1,2
+lymphoma,DEXAMETHASONE,2,Terminated,NR3C1,2
+Duchenne muscular dystrophy,DEFLAZACORT,1,Completed,NR3C1,2
+lymphoma,DEXAMETHASONE,3,Terminated,NR3C1,2
+thrombocytopenia,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+thrombocytopenia,DEXAMETHASONE,4,n/a,NR3C1,2
+thrombocytopenia,CORTISONE ACETATE,4,n/a,NR3C1,2
+Duchenne muscular dystrophy,PREDNISONE,3,Completed,NR3C1,2
+lymphoma,DEXAMETHASONE,4,Recruiting,NR3C1,2
+temporal arteritis,PREDNISONE,2,Completed,NR3C1,2
+lymphoma,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+juvenile idiopathic arthritis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+juvenile idiopathic arthritis,DEXAMETHASONE,4,n/a,NR3C1,2
+migraine disorder,DEXAMETHASONE,3,Completed,NR3C1,2
+non-Hodgkins lymphoma,PREDNISONE,1,"Active, not recruiting",NR3C1,2
+migraine disorder,DEXAMETHASONE,4,Completed,NR3C1,2
+eye inflammation,HYDROCORTISONE CYPIONATE,4,n/a,NR3C1,2
+acute lymphoblastic leukemia,DEXAMETHASONE,4,Recruiting,NR3C1,2
+acute lymphoblastic leukemia,DEXAMETHASONE,3,Unknown status,NR3C1,2
+multiple myeloma,DEXAMETHASONE,2,Suspended,NR3C1,2
+acute lymphoblastic leukemia,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,2
+eye inflammation,HYDROCORTISONE VALERATE,4,n/a,NR3C1,2
+acute lymphoblastic leukemia,DEXAMETHASONE,2,Unknown status,NR3C1,2
+eye inflammation,HYDROCORTISONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+Tenosynovitis,CORTISONE ACETATE,4,n/a,NR3C1,2
+prostate carcinoma,PREDNISONE,4,"Active, not recruiting",NR3C1,2
+prostate carcinoma,PREDNISONE,4,Completed,NR3C1,2
+acute graft vs. host disease,PREDNISONE,3,Completed,NR3C1,2
+Tenosynovitis,DEXAMETHASONE,4,n/a,NR3C1,2
+acute graft vs. host disease,PREDNISONE,2,"Active, not recruiting",NR3C1,2
+Tenosynovitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+psoriasis,BETAMETHASONE,2,Completed,NR3C1,2
+psoriasis vulgaris,BETAMETHASONE DIPROPIONATE,4,Completed,NR3C1,2
+psoriasis vulgaris,CLOBETASOL PROPIONATE,1,Completed,NR3C1,2
+acute lymphoblastic leukemia,HYDROCORTISONE,1,Completed,NR3C1,2
+Stevens-Johnson syndrome,CORTISONE ACETATE,4,n/a,NR3C1,2
+Sickle cell anemia,MOMETASONE FUROATE,2,Recruiting,NR3C1,2
+Spinal cord injury,METHYLPREDNISOLONE,1,Completed,NR3C1,2
+psoriatic arthritis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+acute lymphoblastic leukemia,HYDROCORTISONE HEMISUCCINATE,2,Completed,NR3C1,2
+prostate carcinoma,PREDNISONE,1,Unknown status,NR3C1,2
+eye inflammation,PREDNISOLONE TEBUTATE,4,n/a,NR3C1,2
+Stevens-Johnson syndrome,DEXAMETHASONE,4,n/a,NR3C1,2
+chronic kidney disease,PREDNISONE,3,Completed,NR3C1,2
+Stevens-Johnson syndrome,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+eye inflammation,PREDNISOLONE ACETATE,4,n/a,NR3C1,2
+eye inflammation,PREDNISOLONE,4,n/a,NR3C1,2
+T-cell acute lymphoblastic leukemia,DEXAMETHASONE,2,Completed,NR3C1,2
+acute lymphoblastic leukemia,HYDROCORTISONE,3,Recruiting,NR3C1,2
+prostate carcinoma,PREDNISONE,2,Not yet recruiting,NR3C1,2
+eye inflammation,HYDROCORTISONE HEMISUCCINATE,4,n/a,NR3C1,2
+eye inflammation,HYDROCORTISONE ACETATE,4,n/a,NR3C1,2
+pulmonary tuberculosis,CORTISONE ACETATE,4,n/a,NR3C1,2
+psoriasis,BETAMETHASONE,4,Completed,NR3C1,2
+psoriasis,CLOBETASOL PROPIONATE,2,Completed,NR3C1,2
+psoriasis,HALOBETASOL PROPIONATE,4,Completed,NR3C1,2
+eye inflammation,BETAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+acute graft vs. host disease,BUDESONIDE,3,Completed,NR3C1,2
+West syndrome,PREDNISOLONE,3,Completed,NR3C1,2
+psoriasis,HALOBETASOL PROPIONATE,1,Completed,NR3C1,2
+eye inflammation,BETAMETHASONE DIPROPIONATE,4,n/a,NR3C1,2
+psoriasis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+acute graft vs. host disease,BECLOMETHASONE DIPROPIONATE,3,Completed,NR3C1,2
+psoriasis,DESOXIMETASONE,2,Completed,NR3C1,2
+psoriasis,DEXAMETHASONE,4,n/a,NR3C1,2
+psoriasis,DESOXIMETASONE,3,Completed,NR3C1,2
+eye inflammation,BETAMETHASONE BENZOATE,4,n/a,NR3C1,2
+eye inflammation,BETAMETHASONE,4,n/a,NR3C1,2
+eye inflammation,BETAMETHASONE ACETATE,4,n/a,NR3C1,2
+psoriasis,CLOBETASOL PROPIONATE,1,Completed,NR3C1,2
+psoriasis,BETAMETHASONE PHOSPHORIC ACID,1,Completed,NR3C1,2
+acute graft vs. host disease,METHYLPREDNISOLONE,1,Completed,NR3C1,2
+acute graft vs. host disease,METHYLPREDNISOLONE,3,Completed,NR3C1,2
+multiple myeloma,DEXAMETHASONE,4,"Active, not recruiting",NR3C1,2
+eye inflammation,HYDROCORTISONE,4,n/a,NR3C1,2
+eye inflammation,FLUOROMETHOLONE ACETATE,4,n/a,NR3C1,2
+Vitiligo,MOMETASONE FUROATE,4,Unknown status,NR3C1,2
+acute graft vs. host disease,METHYLPREDNISOLONE,3,Recruiting,NR3C1,2
+eye inflammation,FLUOROMETHOLONE,4,n/a,NR3C1,2
+eye inflammation,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+acute graft vs. host disease,METHYLPREDNISOLONE,2,"Active, not recruiting",NR3C1,2
+eye inflammation,DEXAMETHASONE ACETATE,4,n/a,NR3C1,2
+psoriasis,BETAMETHASONE DIPROPIONATE,4,Completed,NR3C1,2
+eye inflammation,DEXAMETHASONE,4,n/a,NR3C1,2
+psoriasis,BETAMETHASONE DIPROPIONATE,4,n/a,NR3C1,2
+acute graft vs. host disease,METHYLPREDNISOLONE,2,Completed,NR3C1,2
+eye inflammation,BETAMETHASONE VALERATE,4,n/a,NR3C1,2
+acute lymphoblastic leukemia,METHYLPREDNISOLONE,2,Completed,NR3C1,2
+T-cell acute lymphoblastic leukemia,PREDNISONE,1,Not yet recruiting,NR3C1,2
+multiple myeloma,HYDROCORTISONE,2,Completed,NR3C1,2
+acute lymphoblastic leukemia,PREDNISONE,2,"Active, not recruiting",NR3C1,2
+frozen shoulder,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+freckles,FLUOCINOLONE ACETONIDE,4,Completed,NR3C1,2
+"Rhinitis, Allergic, Perennial",FLUTICASONE PROPIONATE,3,Completed,NR3C1,2
+acute lymphoblastic leukemia,PREDNISONE,1,Completed,NR3C1,2
+pulmonary tuberculosis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+Sarcoidosis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+Sarcoidosis,DEXAMETHASONE,4,n/a,NR3C1,2
+frozen shoulder,DEXAMETHASONE,4,n/a,NR3C1,2
+prostate carcinoma,PREDNISOLONE,2,Recruiting,NR3C1,2
+frozen shoulder,CORTISONE ACETATE,4,n/a,NR3C1,2
+erythema multiforme,CORTISONE ACETATE,4,n/a,NR3C1,2
+erythema multiforme,DEXAMETHASONE,4,n/a,NR3C1,2
+"Rhinitis, Allergic, Perennial",FLUTICASONE FUROATE,2,Completed,NR3C1,2
+frozen shoulder,METHYLPREDNISOLONE,4,Recruiting,NR3C1,2
+prostate carcinoma,PREDNISOLONE,1,Completed,NR3C1,2
+erythema multiforme,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,2
+pulmonary tuberculosis,DEXAMETHASONE,4,n/a,NR3C1,2
+acute lymphoblastic leukemia,PREDNISONE,3,"Active, not recruiting",NR3C1,2
+"Rhinitis, Allergic, Perennial",CICLESONIDE,4,Completed,NR3C1,2
+acute lymphoblastic leukemia,PREDNISONE,4,Recruiting,NR3C1,2
+multiple myeloma,METHYLPREDNISOLONE,1,Completed,NR3C1,2
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,2,Completed,NR3C1,2
+prostate carcinoma,HYDROCORTISONE,2,"Active, not recruiting",NR3C1,2
+"Rhinitis, Allergic, Perennial",BUDESONIDE,4,Completed,NR3C1,2
+nephrotic syndrome,PREDNISONE,3,Completed,NR3C1,1
+lymphoid leukemia,DEXAMETHASONE,2,Enrolling by invitation,NR3C1,1
+multiple myeloma,PREDNISONE,3,Terminated,NR3C1,1
+multiple myeloma,PREDNISONE,2,Terminated,NR3C1,1
+multiple myeloma,DEXAMETHASONE,3,Withdrawn,NR3C1,1
+lymphoma,DEXAMETHASONE ACETATE,1,Completed,NR3C1,1
+lymphoid leukemia,DEXAMETHASONE,1,Terminated,NR3C1,1
+lupus nephritis,PREDNISONE,3,Withdrawn,NR3C1,1
+non-Hodgkins lymphoma,PREDNISOLONE,2,Completed,NR3C1,1
+lymphoid leukemia,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+non-Hodgkins lymphoma,METHYLPREDNISOLONE HEMISUCCINATE,2,Terminated,NR3C1,1
+non-Hodgkins lymphoma,METHYLPREDNISOLONE HEMISUCCINATE,2,"Active, not recruiting",NR3C1,1
+lymphocytic colitis,BUDESONIDE,3,Completed,NR3C1,1
+lymphoma,DEXAMETHASONE ACETATE,0,Terminated,NR3C1,1
+multiple myeloma,PREDNISONE,4,Unknown status,NR3C1,1
+multiple myeloma,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+lupus nephritis,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+nephritis,PREDNISONE,2,Withdrawn,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Enrolling by invitation,NR3C1,1
+lupus nephritis,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+nephrotic syndrome,DEXAMETHASONE,2,Completed,NR3C1,1
+lupus nephritis,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+non-Hodgkins lymphoma,PREDNISOLONE,3,Completed,NR3C1,1
+lymphoma,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+nephrotic syndrome,PREDNISOLONE,3,Completed,NR3C1,1
+multiple myeloma,PREDNISONE,4,Recruiting,NR3C1,1
+nephrotic syndrome,PREDNISOLONE,3,Recruiting,NR3C1,1
+nephrotic syndrome,PREDNISOLONE,4,Completed,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,1,"Active, not recruiting",NR3C1,1
+lupus nephritis,PREDNISOLONE,3,Completed,NR3C1,1
+nephrotic syndrome,PREDNISOLONE,4,Unknown status,NR3C1,1
+lupus nephritis,PREDNISOLONE,3,Withdrawn,NR3C1,1
+lymphoma,METHYLPREDNISOLONE,1,Unknown status,NR3C1,1
+lymphoid leukemia,DEXAMETHASONE,2,Terminated,NR3C1,1
+multiple myeloma,PREDNISONE,2,Recruiting,NR3C1,1
+lymphoid neoplasm,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+lymphoid leukemia,DEXAMETHASONE,3,Completed,NR3C1,1
+lymphoid leukemia,PREDNISONE,2,Completed,NR3C1,1
+neuropathic pain,METHYLPREDNISOLONE ACETATE,0,Completed,NR3C1,1
+multiple myeloma,DEXAMETHASONE ACETATE,3,Completed,NR3C1,1
+noise-induced hearing loss,METHYLPREDNISOLONE,1,Withdrawn,NR3C1,1
+nodular sclerosis Hodgkin lymphoma,PREDNISONE,3,Unknown status,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+nodular sclerosis Hodgkin lymphoma,DEXAMETHASONE,3,Unknown status,NR3C1,1
+multiple myeloma,DEXAMETHASONE,4,Unknown status,NR3C1,1
+multiple myeloma,DEXAMETHASONE ACETATE,2,Completed,NR3C1,1
+lymphoid leukemia,HYDROCORTISONE,2,Completed,NR3C1,1
+lymphoid leukemia,PREDNISOLONE,4,Completed,NR3C1,1
+lymphoid leukemia,PREDNISONE,2,"Active, not recruiting",NR3C1,1
+lymphoid leukemia,PREDNISONE,2,Enrolling by invitation,NR3C1,1
+neuromyelitis optica,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+newborn respiratory distress syndrome,BETAMETHASONE,2,Recruiting,NR3C1,1
+lymphoid neoplasm,METHYLPREDNISOLONE,3,Recruiting,NR3C1,1
+newborn respiratory distress syndrome,BETAMETHASONE,2,Terminated,NR3C1,1
+nicotine dependence,MIFEPRISTONE,0,Recruiting,NR3C1,1
+multiple myeloma,PREDNISOLONE,1,Completed,NR3C1,1
+nicotine dependence,HYDROCORTISONE,1,Completed,NR3C1,1
+lymphoid neoplasm,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+multiple myeloma,PREDNISOLONE,2,Terminated,NR3C1,1
+lymphoid leukemia,PREDNISONE,2,Unknown status,NR3C1,1
+lymphoid leukemia,PREDNISONE,3,Completed,NR3C1,1
+lymphoid neoplasm,DEXAMETHASONE,2,Recruiting,NR3C1,1
+neuromyelitis optica,PREDNISONE,4,Unknown status,NR3C1,1
+lymphoma,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+non-Hodgkins lymphoma,HYDROCORTISONE,2,Terminated,NR3C1,1
+multiple myeloma,METHYLPREDNISOLONE HEMISUCCINATE,2,Completed,NR3C1,1
+nephrotic syndrome,PREDNISONE,4,Not yet recruiting,NR3C1,1
+newborn respiratory distress syndrome,BETAMETHASONE,2,Unknown status,NR3C1,1
+multiple myeloma,METHYLPREDNISOLONE,2,Withdrawn,NR3C1,1
+nervous system disease,DEXAMETHASONE,2,Completed,NR3C1,1
+neuralgia,DEXAMETHASONE,3,Unknown status,NR3C1,1
+lymphoma,DEXAMETHASONE,1,Withdrawn,NR3C1,1
+neuroblastoma,PREDNISONE,3,Completed,NR3C1,1
+lymphoma,DEXAMETHASONE,1,Not yet recruiting,NR3C1,1
+multiple myeloma,METHYLPREDNISOLONE,3,Unknown status,NR3C1,1
+non-Hodgkins lymphoma,DEXAMETHASONE,2,Recruiting,NR3C1,1
+multiple myeloma,PREDNISONE,1,Unknown status,NR3C1,1
+multiple myeloma,PREDNISONE,1,Terminated,NR3C1,1
+multiple myeloma,PREDNISOLONE,3,Unknown status,NR3C1,1
+multiple myeloma,PREDNISONE,1,Recruiting,NR3C1,1
+neuroma,TRIAMCINOLONE,4,Recruiting,NR3C1,1
+multiple myeloma,DEXAMETHASONE,4,Completed,NR3C1,1
+neuromyelitis optica,METHYLPREDNISOLONE,1,"Active, not recruiting",NR3C1,1
+non-Hodgkins lymphoma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+non-Hodgkins lymphoma,DEXAMETHASONE,1,Unknown status,NR3C1,1
+lymphoid leukemia,DEXAMETHASONE,4,Completed,NR3C1,1
+non-Hodgkins lymphoma,DEXAMETHASONE,1,Recruiting,NR3C1,1
+lymphoid leukemia,HYDROCORTISONE,2,"Active, not recruiting",NR3C1,1
+non-Hodgkins lymphoma,DEXAMETHASONE,1,Completed,NR3C1,1
+neuromyelitis optica,METHYLPREDNISOLONE,1,Unknown status,NR3C1,1
+neoplasm of mature T-cells or NK-cells,DEXAMETHASONE ACETATE,0,Terminated,NR3C1,1
+neoplasm of mature B-cells,PREDNISOLONE,3,Recruiting,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+metastatic colorectal cancer,DEXAMETHASONE,2,Not yet recruiting,NR3C1,1
+mesothelioma,DEXAMETHASONE,1,Completed,NR3C1,1
+mesothelioma,DEXAMETHASONE,2,Unknown status,NR3C1,1
+metastasis,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+metastasis,DEXAMETHASONE,2,Completed,NR3C1,1
+myocarditis,PREDNISONE,2,Completed,NR3C1,1
+metastatic colorectal cancer,DEXAMETHASONE,1,Not yet recruiting,NR3C1,1
+myocardial infarction,HYDROCORTISONE,2,Recruiting,NR3C1,1
+mucositis,TRIAMCINOLONE ACETONIDE,1,Completed,NR3C1,1
+metastatic prostate cancer,DEXAMETHASONE,4,Recruiting,NR3C1,1
+metastatic prostate cancer,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+multiple myeloma,DEXAMETHASONE,0,Unknown status,NR3C1,1
+myeloproliferative disorder,PREDNISONE,2,Completed,NR3C1,1
+multiple myeloma,DEXAMETHASONE,0,Terminated,NR3C1,1
+multiple sclerosis,PREDNISONE,4,Recruiting,NR3C1,1
+menopause,CYPROTERONE ACETATE,2,Unknown status,NR3C1,1
+myopathy,METHYLPREDNISOLONE,1,Terminated,NR3C1,1
+meningeal tuberculosis,PREDNISONE,4,n/a,NR3C1,1
+meningeal tuberculosis,PREDNISOLONE,4,n/a,NR3C1,1
+myxoid liposarcoma,DEXAMETHASONE,2,Completed,NR3C1,1
+nasopharyngeal neoplasm,DEXAMETHASONE,2,Completed,NR3C1,1
+multiple sclerosis,PREDNISONE,1,Completed,NR3C1,1
+neck pain,BETAMETHASONE,2,Completed,NR3C1,1
+neck pain,BETAMETHASONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+neck pain,DEXAMETHASONE,2,Completed,NR3C1,1
+neck pain,TRIAMCINOLONE,4,Completed,NR3C1,1
+neoplasm,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+multiple sclerosis,PREDNISOLONE,4,n/a,NR3C1,1
+multiple sclerosis,PREDNISOLONE,3,Recruiting,NR3C1,1
+memory impairment,HYDROCORTISONE,2,Completed,NR3C1,1
+membranous glomerulonephritis,PREDNISONE,2,Completed,NR3C1,1
+membranous glomerulonephritis,PREDNISOLONE,3,Completed,NR3C1,1
+multiple myeloma,DEXAMETHASONE,0,Completed,NR3C1,1
+multiple sclerosis,PREDNISONE,4,Terminated,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,2,Withdrawn,NR3C1,1
+migraine disorder,METHYLPREDNISOLONE ACETATE,4,Completed,NR3C1,1
+microscopic polyangiitis,METHYLPREDNISOLONE,3,Terminated,NR3C1,1
+microscopic polyangiitis,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+microscopic polyangiitis,PREDNISOLONE,2,Completed,NR3C1,1
+microscopic polyangiitis,PREDNISONE,2,Completed,NR3C1,1
+microscopic polyangiitis,PREDNISONE,3,Terminated,NR3C1,1
+microscopic polyangiitis,PREDNISONE,4,Completed,NR3C1,1
+myelodysplastic syndrome,PREDNISONE,1,Recruiting,NR3C1,1
+mucocutaneous lymph node syndrome,PREDNISOLONE,3,Recruiting,NR3C1,1
+migraine disorder,BETAMETHASONE,4,Unknown status,NR3C1,1
+myelodysplastic syndrome,HYDROCORTISONE,3,Completed,NR3C1,1
+myelodysplastic syndrome,METHYLPREDNISOLONE HEMISUCCINATE,1,Recruiting,NR3C1,1
+migraine disorder,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+myelodysplastic syndrome,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+migraine disorder,DEXAMETHASONE,1,Unknown status,NR3C1,1
+myelodysplastic syndrome,PREDNISONE,2,"Active, not recruiting",NR3C1,1
+myelodysplastic syndrome,HYDROCORTISONE,1,Completed,NR3C1,1
+migraine without aura,DEXAMETHASONE,1,Recruiting,NR3C1,1
+myelodysplastic syndrome,DEXAMETHASONE,3,Completed,NR3C1,1
+myelodysplastic syndrome,DEXAMETHASONE,2,Completed,NR3C1,1
+myelodysplastic syndrome,DEXAMETHASONE,1,Unknown status,NR3C1,1
+myelodysplastic syndrome,PREDNISONE,2,Unknown status,NR3C1,1
+myelodysplastic syndrome,DEXAMETHASONE,1,Recruiting,NR3C1,1
+mycosis fungoides,PREDNISONE,4,n/a,NR3C1,1
+microscopic colitis,BUDESONIDE,3,Recruiting,NR3C1,1
+microscopic colitis,BUDESONIDE,3,Completed,NR3C1,1
+mycosis fungoides,PREDNISOLONE,4,n/a,NR3C1,1
+metastatic prostate cancer,PREDNISONE,4,Recruiting,NR3C1,1
+metastatic prostate cancer,PREDNISONE,3,Not yet recruiting,NR3C1,1
+metastatic prostate cancer,PREDNISONE,2,Withdrawn,NR3C1,1
+metastatic prostate cancer,PREDNISONE,2,Terminated,NR3C1,1
+myeloproliferative disorder,HYDROCORTISONE,3,Completed,NR3C1,1
+neoplasm,DEXAMETHASONE,1,Recruiting,NR3C1,1
+neoplasm,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+membranous glomerulonephritis,METHYLPREDNISOLONE,3,Recruiting,NR3C1,1
+neoplasm of mature B-cells,PREDNISOLONE,2,Completed,NR3C1,1
+lymphoma,PREDNISONE,1,"Active, not recruiting",NR3C1,1
+neoplasm of mature B-cells,PREDNISOLONE,2,Not yet recruiting,NR3C1,1
+lymphoma,PREDNISONE,1,Recruiting,NR3C1,1
+lymphoma,PREDNISONE,1,Terminated,NR3C1,1
+lymphoma,PREDNISONE,1,Unknown status,NR3C1,1
+lymphoma,PREDNISONE,1,Withdrawn,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,4,Recruiting,NR3C1,1
+membranous glomerulonephritis,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+neoplasm of mature B-cells,PREDNISOLONE,1,Terminated,NR3C1,1
+neoplasm of mature B-cells,METHYLPREDNISOLONE,2,Not yet recruiting,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,4,Unknown status,NR3C1,1
+neoplasm of mature B-cells,DEXAMETHASONE,3,Terminated,NR3C1,1
+neoplasm of mature B-cells,DEXAMETHASONE,3,Recruiting,NR3C1,1
+lymphoma,PREDNISONE,3,Suspended,NR3C1,1
+myelodysplastic syndrome,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+neoplasm of mature B-cells,PREDNISOLONE,3,Terminated,NR3C1,1
+lymphoma,PREDNISOLONE,4,Unknown status,NR3C1,1
+neoplasm of mature B-cells,PREDNISOLONE,3,Unknown status,NR3C1,1
+lymphoma,PREDNISOLONE,3,Terminated,NR3C1,1
+neoplasm of mature B-cells,PREDNISONE,1,Completed,NR3C1,1
+lymphoma,PREDNISOLONE,3,"Active, not recruiting",NR3C1,1
+neoplasm of mature B-cells,PREDNISONE,2,"Active, not recruiting",NR3C1,1
+neoplasm of mature B-cells,PREDNISONE,2,Not yet recruiting,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,3,Terminated,NR3C1,1
+neoplasm of mature B-cells,PREDNISONE,2,Unknown status,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE,3,Recruiting,NR3C1,1
+neoplasm of mature B-cells,PREDNISONE,3,Recruiting,NR3C1,1
+neoplasm of mature B-cells,PREDNISONE,3,Unknown status,NR3C1,1
+lymphoma,METHYLPREDNISOLONE,3,Terminated,NR3C1,1
+neoplasm of mature T-cells or NK-cells,DEXAMETHASONE,2,Completed,NR3C1,1
+neoplasm of mature T-cells or NK-cells,DEXAMETHASONE,2,Recruiting,NR3C1,1
+lymphoma,PREDNISONE,4,n/a,NR3C1,1
+macular degeneration,FLUOCINOLONE ACETONIDE,2,Unknown status,NR3C1,1
+neoplasm of mature B-cells,DEXAMETHASONE,2,Terminated,NR3C1,1
+melanoma,BETAMETHASONE,2,Completed,NR3C1,1
+melanoma,TRIAMCINOLONE,2,Completed,NR3C1,1
+melanoma,PREDNISONE,2,Completed,NR3C1,1
+neoplasm,DEXAMETHASONE,2,Completed,NR3C1,1
+melanoma,PREDNISOLONE,2,Completed,NR3C1,1
+melanoma,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+melanoma,MEPREDNISONE,2,Completed,NR3C1,1
+melanoma,HYDROCORTISONE,2,Completed,NR3C1,1
+neoplasm,DEXAMETHASONE,3,Completed,NR3C1,1
+melanoma,DEXAMETHASONE,2,Completed,NR3C1,1
+neoplasm,DEXAMETHASONE,4,Terminated,NR3C1,1
+neoplasm,HYDROCORTISONE,2,Completed,NR3C1,1
+melanoma,DEXAMETHASONE,1,Withdrawn,NR3C1,1
+melanoma,BUDESONIDE,2,Completed,NR3C1,1
+neoplasm,METHYLPREDNISOLONE,1,Unknown status,NR3C1,1
+meibomian cyst,TRIAMCINOLONE ACETONIDE,3,Recruiting,NR3C1,1
+macular degeneration,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,1
+neoplasm,PREDNISONE,1,"Active, not recruiting",NR3C1,1
+neoplasm,PREDNISONE,1,Completed,NR3C1,1
+meibomian cyst,LOTEPREDNOL ETABONATE,4,Completed,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+mastitis,BETAMETHASONE,4,Recruiting,NR3C1,1
+mast-cell leukemia,METHYLPREDNISOLONE HEMISUCCINATE,2,Completed,NR3C1,1
+mast-cell leukemia,HYDROCORTISONE,2,Completed,NR3C1,1
+multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,1,Terminated,NR3C1,1
+neoplasm,PREDNISONE,2,Recruiting,NR3C1,1
+malnutrition,BUDESONIDE,2,Not yet recruiting,NR3C1,1
+neoplasm of mature B-cells,DEXAMETHASONE,1,Recruiting,NR3C1,1
+neoplasm of mature B-cells,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+male breast carcinoma,MIFEPRISTONE,1,Completed,NR3C1,1
+malaria,DEXAMETHASONE,3,Completed,NR3C1,1
+multiple myeloma,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+pemphigus vulgaris,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,1
+non-Hodgkins lymphoma,PREDNISONE,2,"Active, not recruiting",NR3C1,1
+rotator cuff tear,DEXAMETHASONE PHOSPHORIC ACID,1,Terminated,NR3C1,1
+seasonal allergic rhinitis,FLUTICASONE FUROATE,1,Completed,NR3C1,1
+seasonal allergic rhinitis,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,1
+seasonal allergic rhinitis,DEXAMETHASONE,4,n/a,NR3C1,1
+seasonal allergic rhinitis,CICLESONIDE,2,Completed,NR3C1,1
+seasonal allergic rhinitis,BUDESONIDE,4,n/a,NR3C1,1
+seasonal allergic rhinitis,BUDESONIDE,3,Completed,NR3C1,1
+seasonal allergic rhinitis,BECLOMETHASONE DIPROPIONATE,4,Completed,NR3C1,1
+sclerosing cholangitis,BUDESONIDE,1,Completed,NR3C1,1
+scleroderma,CLOBETASOL PROPIONATE,1,Withdrawn,NR3C1,1
+sarcopenia,METHYLPREDNISOLONE ACETATE,4,Completed,NR3C1,1
+sarcoma,PREDNISONE,2,Completed,NR3C1,1
+sarcoma,DEXAMETHASONE,2,Recruiting,NR3C1,1
+rotator cuff tear,TRIAMCINOLONE ACETONIDE,1,Terminated,NR3C1,1
+rotator cuff tear,TRIAMCINOLONE,1,Terminated,NR3C1,1
+rotator cuff tear,DEXAMETHASONE,1,Terminated,NR3C1,1
+seasonal allergic rhinitis,FLUTICASONE PROPIONATE,2,Unknown status,NR3C1,1
+rotator cuff tear,CORTISONE ACETATE,1,"Active, not recruiting",NR3C1,1
+rhinitis,TRIAMCINOLONE ACETONIDE,3,Terminated,NR3C1,1
+rhinitis,FLUTICASONE PROPIONATE,2,Completed,NR3C1,1
+rhinitis,FLUTICASONE FUROATE,3,Completed,NR3C1,1
+rhinitis,BETAMETHASONE,4,Completed,NR3C1,1
+rheumatoid arthritis,TRIAMCINOLONE HEXACETONIDE,2,Completed,NR3C1,1
+rheumatoid arthritis,PREDNISONE,4,Recruiting,NR3C1,1
+rheumatoid arthritis,PREDNISONE,1,Completed,NR3C1,1
+rheumatoid arthritis,PREDNISOLONE,4,Unknown status,NR3C1,1
+rheumatoid arthritis,PREDNISOLONE,4,Completed,NR3C1,1
+rheumatoid arthritis,PREDNISOLONE,3,Completed,NR3C1,1
+rheumatoid arthritis,PREDNISOLONE,3,"Active, not recruiting",NR3C1,1
+rheumatoid arthritis,PREDNISOLONE,2,Terminated,NR3C1,1
+rheumatoid arthritis,PREDNISOLONE,2,Recruiting,NR3C1,1
+seasonal allergic rhinitis,FLUTICASONE FUROATE,2,Completed,NR3C1,1
+seasonal allergic rhinitis,FLUTICASONE PROPIONATE,3,Unknown status,NR3C1,1
+rheumatoid arthritis,METHYLPREDNISOLONE ACETATE,4,Unknown status,NR3C1,1
+sepsis,PREDNISOLONE,4,Completed,NR3C1,1
+sinusitis,BUDESONIDE,3,Withdrawn,NR3C1,1
+sinusitis,BUDESONIDE,3,"Active, not recruiting",NR3C1,1
+sinusitis,BUDESONIDE,2,Unknown status,NR3C1,1
+sinusitis,BUDESONIDE,2,Completed,NR3C1,1
+sinusitis,BECLOMETHASONE DIPROPIONATE,3,Completed,NR3C1,1
+sinusitis,BECLOMETHASONE DIPROPIONATE,2,Withdrawn,NR3C1,1
+shoulder pain,TRIAMCINOLONE ACETONIDE,4,Terminated,NR3C1,1
+shoulder pain,TRIAMCINOLONE ACETONIDE,2,Unknown status,NR3C1,1
+shoulder pain,TRIAMCINOLONE,2,Completed,NR3C1,1
+septic shock,HYDROCORTISONE HEMISUCCINATE,4,Completed,NR3C1,1
+septic shock,HYDROCORTISONE HEMISUCCINATE,3,Not yet recruiting,NR3C1,1
+septic shock,HYDROCORTISONE,4,Terminated,NR3C1,1
+septic shock,HYDROCORTISONE,4,Completed,NR3C1,1
+septic shock,HYDROCORTISONE,2,Recruiting,NR3C1,1
+sepsis,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+seasonal allergic rhinitis,FLUTICASONE PROPIONATE,4,n/a,NR3C1,1
+sepsis,HYDROCORTISONE,3,Completed,NR3C1,1
+sepsis,HYDROCORTISONE,2,Recruiting,NR3C1,1
+sepsis,HYDROCORTISONE,2,Completed,NR3C1,1
+sensorineural hearing loss,PREDNISONE,2,Recruiting,NR3C1,1
+sensorineural hearing loss,DEXAMETHASONE,2,Recruiting,NR3C1,1
+secondary progressive multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,1,Suspended,NR3C1,1
+seborrheic dermatitis,PREDNISONE,4,n/a,NR3C1,1
+seborrheic dermatitis,PREDNISOLONE,4,n/a,NR3C1,1
+seborrheic dermatitis,CLOBETASOL PROPIONATE,3,Completed,NR3C1,1
+seasonal allergic rhinitis,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,1
+seasonal allergic rhinitis,PREDNISONE,4,n/a,NR3C1,1
+seasonal allergic rhinitis,PREDNISOLONE,4,Unknown status,NR3C1,1
+seasonal allergic rhinitis,MOMETASONE FUROATE,4,Unknown status,NR3C1,1
+seasonal allergic rhinitis,MOMETASONE FUROATE,4,Terminated,NR3C1,1
+rheumatoid arthritis,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+rheumatoid arthritis,METHYLPREDNISOLONE ACETATE,3,Not yet recruiting,NR3C1,1
+sinusitis,DEXAMETHASONE,4,Unknown status,NR3C1,1
+psoriasis vulgaris,BETAMETHASONE,1,Completed,NR3C1,1
+psoriatic arthritis,METHYLPREDNISOLONE,4,Not yet recruiting,NR3C1,1
+psoriatic arthritis,DEXAMETHASONE,4,n/a,NR3C1,1
+psoriatic arthritis,CORTISONE ACETATE,4,n/a,NR3C1,1
+psoriasis vulgaris,MOMETASONE FUROATE,2,Completed,NR3C1,1
+psoriasis vulgaris,MOMETASONE FUROATE,1,Completed,NR3C1,1
+psoriasis vulgaris,HYDROCORTISONE BUTYRATE,1,Completed,NR3C1,1
+psoriasis vulgaris,HYDROCORTISONE,2,Completed,NR3C1,1
+psoriasis vulgaris,FLUOCINOLONE ACETONIDE,1,Completed,NR3C1,1
+psoriasis vulgaris,BETAMETHASONE DIPROPIONATE,3,Recruiting,NR3C1,1
+psoriasis vulgaris,BETAMETHASONE DIPROPIONATE,3,"Active, not recruiting",NR3C1,1
+psoriasis vulgaris,BETAMETHASONE,4,Terminated,NR3C1,1
+psoriasis vulgaris,BETAMETHASONE,4,Completed,NR3C1,1
+psoriasis vulgaris,BETAMETHASONE,3,Recruiting,NR3C1,1
+psoriasis vulgaris,BETAMETHASONE,2,Not yet recruiting,NR3C1,1
+psoriasis,PREDNISONE,4,n/a,NR3C1,1
+psoriatic arthritis,PREDNISONE,4,n/a,NR3C1,1
+psoriasis,PREDNISOLONE,4,n/a,NR3C1,1
+psoriasis,PREDNICARBATE,1,Completed,NR3C1,1
+psoriasis,MOMETASONE FUROATE,4,Completed,NR3C1,1
+psoriasis,MOMETASONE FUROATE,2,Suspended,NR3C1,1
+psoriasis,MOMETASONE FUROATE,2,Completed,NR3C1,1
+psoriasis,MAPRACORAT,1,Completed,NR3C1,1
+psoriasis,HYDROCORTISONE PROBUTATE,4,Completed,NR3C1,1
+psoriasis,HALOBETASOL PROPIONATE,4,Recruiting,NR3C1,1
+psoriasis,HALOBETASOL PROPIONATE,2,Withdrawn,NR3C1,1
+psoriasis,FLUTICASONE PROPIONATE,4,Completed,NR3C1,1
+psoriasis,DESOXIMETASONE,4,n/a,NR3C1,1
+psoriasis,DESOXIMETASONE,4,Recruiting,NR3C1,1
+psoriasis,DESOXIMETASONE,3,Recruiting,NR3C1,1
+psoriasis,DESONIDE,4,Unknown status,NR3C1,1
+psoriatic arthritis,PREDNISOLONE,4,n/a,NR3C1,1
+psoriatic arthritis,TRIAMCINOLONE,4,Not yet recruiting,NR3C1,1
+rheumatoid arthritis,METHYLPREDNISOLONE,1,Terminated,NR3C1,1
+renal carcinoma,PREDNISONE,2,Completed,NR3C1,1
+rheumatoid arthritis,CORTISONE ACETATE,4,n/a,NR3C1,1
+rheumatoid arthritis,BETAMETHASONE,4,Not yet recruiting,NR3C1,1
+rheumatoid arthritis,BETAMETHASONE,4,Completed,NR3C1,1
+rheumatic disease,DEXAMETHASONE,1,Unknown status,NR3C1,1
+retinopathy,MIFEPRISTONE,2,Completed,NR3C1,1
+retinopathy,FLUOCINOLONE ACETONIDE,2,Not yet recruiting,NR3C1,1
+retinal vein occlusion,TRIAMCINOLONE,3,Completed,NR3C1,1
+retinal vein occlusion,PREDNISOLONE ACETATE,2,Completed,NR3C1,1
+retinal vein occlusion,BETAMETHASONE,2,Completed,NR3C1,1
+retinal detachment,DEXAMETHASONE PHOSPHORIC ACID,4,Withdrawn,NR3C1,1
+respiratory system disease,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+respiratory failure,PREDNISOLONE,4,Terminated,NR3C1,1
+renal cell carcinoma,DEXAMETHASONE,2,Withdrawn,NR3C1,1
+renal carcinoma,PREDNISONE,2,Terminated,NR3C1,1
+relapsing-remitting multiple sclerosis,PREDNISONE,4,Terminated,NR3C1,1
+pulmonary fibrosis,DEXAMETHASONE,2,Recruiting,NR3C1,1
+relapsing-remitting multiple sclerosis,PREDNISONE,2,Completed,NR3C1,1
+relapsing-remitting multiple sclerosis,PREDNISOLONE PHOSPHORIC ACID,2,Terminated,NR3C1,1
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,3,Unknown status,NR3C1,1
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,3,Recruiting,NR3C1,1
+relapsing-remitting multiple sclerosis,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+relapsing-remitting multiple sclerosis,DEXAMETHASONE PHOSPHORIC ACID,1,Withdrawn,NR3C1,1
+rectum cancer,DEXAMETHASONE,2,Unknown status,NR3C1,1
+pure red cell aplasia,PREDNISONE,1,Recruiting,NR3C1,1
+pulpitis,PREDNISOLONE,4,Completed,NR3C1,1
+pulpitis,PREDNISOLONE,3,Completed,NR3C1,1
+pulmonary tuberculosis,PREDNISONE,4,n/a,NR3C1,1
+pulmonary tuberculosis,PREDNISOLONE,4,n/a,NR3C1,1
+pulmonary sarcoidosis,PREDNISONE,3,Completed,NR3C1,1
+pulmonary fibrosis,PREDNISONE,2,Completed,NR3C1,1
+sinusitis,BUDESONIDE,4,Completed,NR3C1,1
+sinusitis,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+non-Hodgkins lymphoma,PREDNISONE,2,Recruiting,NR3C1,1
+unipolar depression,HYDROCORTISONE ACETATE,0,Recruiting,NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISONE,3,Not yet recruiting,NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISONE,3,Completed,NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISONE,3,"Active, not recruiting",NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISONE,1,Recruiting,NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISONE,1,Completed,NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISONE,1,"Active, not recruiting",NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+unspecified peripheral T-cell lymphoma,METHYLPREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+unspecified peripheral T-cell lymphoma,DEXAMETHASONE,4,Recruiting,NR3C1,1
+unspecified peripheral T-cell lymphoma,DEXAMETHASONE,2,Unknown status,NR3C1,1
+unipolar depression,MIFEPRISTONE,3,Terminated,NR3C1,1
+unipolar depression,MIFEPRISTONE,3,"Active, not recruiting",NR3C1,1
+unipolar depression,MIFEPRISTONE,2,Terminated,NR3C1,1
+unipolar depression,MIFEPRISTONE,1,Completed,NR3C1,1
+unipolar depression,DEXAMETHASONE,4,Completed,NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISONE,4,Completed,NR3C1,1
+ulcerative colitis,PREDNISONE,4,Completed,NR3C1,1
+ulcerative colitis,PREDNISONE,3,Recruiting,NR3C1,1
+ulcerative colitis,PREDNISONE,2,Recruiting,NR3C1,1
+ulcerative colitis,PREDNISOLONE,4,Recruiting,NR3C1,1
+ulcerative colitis,PREDNISOLONE,3,Terminated,NR3C1,1
+ulcerative colitis,PREDNISOLONE,3,Completed,NR3C1,1
+ulcerative colitis,HYDROCORTISONE HEMISUCCINATE,4,Recruiting,NR3C1,1
+ulcerative colitis,HYDROCORTISONE CYPIONATE,4,Recruiting,NR3C1,1
+ulcerative colitis,HYDROCORTISONE,2,Terminated,NR3C1,1
+ulcerative colitis,DEXAMETHASONE,2,Unknown status,NR3C1,1
+ulcerative colitis,BUDESONIDE,3,Recruiting,NR3C1,1
+ulcerative colitis,BUDESONIDE,2,Terminated,NR3C1,1
+ulcerative colitis,BUDESONIDE,2,Completed,NR3C1,1
+type I diabetes mellitus,HYDROCORTISONE,1,Withdrawn,NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISONE,3,Unknown status,NR3C1,1
+unspecified peripheral T-cell lymphoma,PREDNISONE,4,Recruiting,NR3C1,1
+trichinosis,PREDNISOLONE,4,n/a,NR3C1,1
+uveitis,PREDNISONE,2,Recruiting,NR3C1,1
+wheezing,BECLOMETHASONE DIPROPIONATE,4,Completed,NR3C1,1
+wet macular degeneration,TRIAMCINOLONE ACETONIDE,4,"Active, not recruiting",NR3C1,1
+wet macular degeneration,TRIAMCINOLONE ACETONIDE,2,Unknown status,NR3C1,1
+wet macular degeneration,DEXAMETHASONE,2,Completed,NR3C1,1
+vulvovaginal candidiasis,HYDROCORTISONE,4,Completed,NR3C1,1
+viral conjunctivitis,DEXAMETHASONE,3,Completed,NR3C1,1
+viral conjunctivitis,DEXAMETHASONE,2,Terminated,NR3C1,1
+vestibular neuronitis,PREDNISONE,2,Completed,NR3C1,1
+vestibular neuronitis,PREDNISOLONE,3,Completed,NR3C1,1
+vestibular neuronitis,METHYLPREDNISOLONE HEMISUCCINATE,3,Completed,NR3C1,1
+vestibular neuronitis,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+vasculitis,PREDNISONE,3,Not yet recruiting,NR3C1,1
+vascular disease,TRIAMCINOLONE,2,Unknown status,NR3C1,1
+uveitis,TRIAMCINOLONE ACETONIDE,3,Terminated,NR3C1,1
+uveitis,PREDNISONE,2,Completed,NR3C1,1
+upper extremity fracture,DEXAMETHASONE,3,Completed,NR3C1,1
+uveitis,PREDNISOLONE ACETATE,4,Recruiting,NR3C1,1
+uveitis,PREDNISOLONE ACETATE,3,Completed,NR3C1,1
+uveitis,FLUOCINOLONE ACETONIDE,2,Terminated,NR3C1,1
+uveitis,FLUOCINOLONE ACETONIDE,2,Completed,NR3C1,1
+uveitis,DIFLUPREDNATE,4,Recruiting,NR3C1,1
+uveitis,DIFLUPREDNATE,3,Completed,NR3C1,1
+uterine fibroid,MIFEPRISTONE,4,Recruiting,NR3C1,1
+uterine fibroid,MIFEPRISTONE,3,Completed,NR3C1,1
+uterine fibroid,MIFEPRISTONE,1,Completed,NR3C1,1
+urticaria,PREDNISONE,3,Not yet recruiting,NR3C1,1
+urticaria,PREDNISONE,2,Completed,NR3C1,1
+urothelial carcinoma,DEXAMETHASONE,2,Completed,NR3C1,1
+urinary tract infection,METHYLPREDNISOLONE,3,Unknown status,NR3C1,1
+urinary tract infection,DEXAMETHASONE,3,Completed,NR3C1,1
+trichinosis,PREDNISONE,4,n/a,NR3C1,1
+toxic epidermal necrolysis,CLOBETASOL PROPIONATE,1,"Active, not recruiting",NR3C1,1
+sinusitis,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+small intestine carcinoma,METHYLPREDNISOLONE,1,Completed,NR3C1,1
+sympathetic ophthalmia,PREDNISOLONE,4,n/a,NR3C1,1
+sudden cardiac arrest,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+subacute thyroiditis,PREDNISONE,4,Completed,NR3C1,1
+subacute thyroiditis,PREDNISOLONE,4,n/a,NR3C1,1
+stomatitis,DEXAMETHASONE,2,Not yet recruiting,NR3C1,1
+squamous cell carcinoma,DEXAMETHASONE,2,Recruiting,NR3C1,1
+spontaneous abortion,MIFEPRISTONE,4,Recruiting,NR3C1,1
+spondyloarthropathy,TRIAMCINOLONE ACETONIDE,4,Enrolling by invitation,NR3C1,1
+spondyloarthropathy,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+spondyloarthropathy,DEXAMETHASONE,4,Enrolling by invitation,NR3C1,1
+spinal stenosis,TRIAMCINOLONE ACETONIDE,4,Withdrawn,NR3C1,1
+spinal stenosis,DEXAMETHASONE,4,Withdrawn,NR3C1,1
+soft tissue sarcoma,DEXAMETHASONE,3,Completed,NR3C1,1
+soft tissue sarcoma,DEXAMETHASONE,1,Completed,NR3C1,1
+small cell lung carcinoma,DEXAMETHASONE,3,Withdrawn,NR3C1,1
+systemic lupus erythematosus,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+small cell lung carcinoma,DEXAMETHASONE,3,Recruiting,NR3C1,1
+skin disease,FLUTICASONE PROPIONATE,4,Completed,NR3C1,1
+skin disease,FLUOCINONIDE,2,Terminated,NR3C1,1
+skin disease,CLOBETASOL PROPIONATE,1,Completed,NR3C1,1
+skin disease,BETAMETHASONE VALERATE,2,Completed,NR3C1,1
+skin disease,BETAMETHASONE DIPROPIONATE,4,n/a,NR3C1,1
+skin disease,BETAMETHASONE DIPROPIONATE,1,Completed,NR3C1,1
+skin atrophy,CLOBETASOL PROPIONATE,2,Completed,NR3C1,1
+sinusitis,TRIAMCINOLONE,4,Completed,NR3C1,1
+sinusitis,TRIAMCINOLONE,0,Recruiting,NR3C1,1
+sinusitis,PREDNISONE,4,Completed,NR3C1,1
+sinusitis,PREDNISONE,3,Unknown status,NR3C1,1
+sinusitis,MOMETASONE FUROATE,3,Completed,NR3C1,1
+sinusitis,MOMETASONE FUROATE,1,"Active, not recruiting",NR3C1,1
+sympathetic ophthalmia,PREDNISONE,4,n/a,NR3C1,1
+systemic lupus erythematosus,METHYLPREDNISOLONE,2,Withdrawn,NR3C1,1
+tooth disease,HYDROCORTISONE,4,Completed,NR3C1,1
+temporal arteritis,PREDNISONE,3,Recruiting,NR3C1,1
+tooth disease,DEXAMETHASONE ACETATE,0,Completed,NR3C1,1
+tooth disease,DEXAMETHASONE,4,Recruiting,NR3C1,1
+tooth disease,DEXAMETHASONE,0,Completed,NR3C1,1
+tonsillitis,DEXAMETHASONE,4,Recruiting,NR3C1,1
+tonsillitis,DEXAMETHASONE,2,Completed,NR3C1,1
+tinea pedis,DEXAMETHASONE ACETATE,3,Not yet recruiting,NR3C1,1
+tinea pedis,BETAMETHASONE DIPROPIONATE,3,Not yet recruiting,NR3C1,1
+thymus neoplasm,PREDNISONE,2,Completed,NR3C1,1
+thrombocytopenia,PREDNISONE,4,n/a,NR3C1,1
+thrombocytopenia,PREDNISOLONE,4,n/a,NR3C1,1
+thrombocytopenia,METHYLPREDNISOLONE,3,Unknown status,NR3C1,1
+thrombocytopenia,DEXAMETHASONE,2,Recruiting,NR3C1,1
+temporal arteritis,PREDNISONE,4,Unknown status,NR3C1,1
+temporal arteritis,PREDNISONE,4,Recruiting,NR3C1,1
+temporal arteritis,PREDNISONE,3,Completed,NR3C1,1
+systemic lupus erythematosus,PREDNISOLONE,2,Terminated,NR3C1,1
+temporal arteritis,PREDNISONE,2,Terminated,NR3C1,1
+temporal arteritis,PREDNISONE,1,Recruiting,NR3C1,1
+temporal arteritis,PREDNISOLONE,2,Recruiting,NR3C1,1
+systemic scleroderma,PREDNISOLONE,2,Recruiting,NR3C1,1
+systemic scleroderma,METHYLPREDNISOLONE,3,Recruiting,NR3C1,1
+systemic scleroderma,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+systemic scleroderma,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+systemic lupus erythematosus,PREDNISONE,4,n/a,NR3C1,1
+systemic lupus erythematosus,PREDNISONE,3,Unknown status,NR3C1,1
+systemic lupus erythematosus,PREDNISONE,3,Terminated,NR3C1,1
+systemic lupus erythematosus,PREDNISONE,2,Terminated,NR3C1,1
+systemic lupus erythematosus,PREDNISONE,2,"Active, not recruiting",NR3C1,1
+systemic lupus erythematosus,PREDNISOLONE,4,n/a,NR3C1,1
+systemic lupus erythematosus,PREDNISOLONE,3,Terminated,NR3C1,1
+psoriasis,CLOCORTOLONE PIVALATE,4,Completed,NR3C1,1
+psoriasis,CLOBETASOL PROPIONATE,4,Recruiting,NR3C1,1
+psoriasis,CLOBETASOL PROPIONATE,1,Terminated,NR3C1,1
+"osteoarthritis, hip",DEXAMETHASONE,4,Completed,NR3C1,1
+otitis media with effusion,FLUTICASONE PROPIONATE,4,Not yet recruiting,NR3C1,1
+otitis externa,HYDROCORTISONE,3,Completed,NR3C1,1
+otitis externa,DEXAMETHASONE PHOSPHORIC ACID,3,Completed,NR3C1,1
+otitis externa,DEXAMETHASONE,3,Unknown status,NR3C1,1
+otitis externa,DEXAMETHASONE,3,Completed,NR3C1,1
+osteoporosis,BUDESONIDE,4,Withdrawn,NR3C1,1
+"osteoarthritis, knee",TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,1
+"osteoarthritis, knee",TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,1
+"osteoarthritis, knee",TRIAMCINOLONE,4,Unknown status,NR3C1,1
+"osteoarthritis, knee",TRIAMCINOLONE,2,Unknown status,NR3C1,1
+"osteoarthritis, knee",PREDNISOLONE,4,Completed,NR3C1,1
+"osteoarthritis, knee",METHYLPREDNISOLONE ACETATE,4,Completed,NR3C1,1
+"osteoarthritis, knee",DEXAMETHASONE,4,Unknown status,NR3C1,1
+"osteoarthritis, hip",DEXAMETHASONE,4,Recruiting,NR3C1,1
+osteoarthritis,TRIAMCINOLONE HEXACETONIDE,4,n/a,NR3C1,1
+otitis media with effusion,MOMETASONE FUROATE,3,Completed,NR3C1,1
+osteoarthritis,TRIAMCINOLONE HEXACETONIDE,4,Completed,NR3C1,1
+osteoarthritis,TRIAMCINOLONE HEXACETONIDE,4,"Active, not recruiting",NR3C1,1
+osteoarthritis,TRIAMCINOLONE ACETONIDE,4,Terminated,NR3C1,1
+osteoarthritis,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,1
+osteoarthritis,TRIAMCINOLONE,4,Recruiting,NR3C1,1
+osteoarthritis,TRIAMCINOLONE,3,Completed,NR3C1,1
+osteoarthritis,PREDNISONE,4,n/a,NR3C1,1
+osteoarthritis,PREDNISOLONE,4,n/a,NR3C1,1
+osteoarthritis,PREDNISOLONE,2,Terminated,NR3C1,1
+osteoarthritis,METHYLPREDNISOLONE HEMISUCCINATE,4,Recruiting,NR3C1,1
+osteoarthritis,METHYLPREDNISOLONE ACETATE,4,Completed,NR3C1,1
+osteoarthritis,METHYLPREDNISOLONE ACETATE,3,Unknown status,NR3C1,1
+osteoarthritis,METHYLPREDNISOLONE ACETATE,3,Not yet recruiting,NR3C1,1
+osteoarthritis,METHYLPREDNISOLONE ACETATE,3,Completed,NR3C1,1
+otitis media with effusion,MOMETASONE FUROATE,0,Not yet recruiting,NR3C1,1
+otitis media with effusion,PREDNISOLONE PHOSPHORIC ACID,0,Not yet recruiting,NR3C1,1
+osteoarthritis,DEXAMETHASONE,4,Unknown status,NR3C1,1
+pain,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+pemphigus vulgaris,PREDNISONE,2,Completed,NR3C1,1
+pemphigus vulgaris,PREDNISOLONE,3,Terminated,NR3C1,1
+pemphigus vulgaris,DEXAMETHASONE,2,Completed,NR3C1,1
+pelvic organ prolapse,DEXAMETHASONE,3,Completed,NR3C1,1
+pancreatic neoplasm,HYDROCORTISONE,4,"Active, not recruiting",NR3C1,1
+pancreatic carcinoma,DEXAMETHASONE,2,Terminated,NR3C1,1
+pancreatic carcinoma,DEXAMETHASONE,2,Completed,NR3C1,1
+pancreatic adenocarcinoma,HYDROCORTISONE,1,Completed,NR3C1,1
+pain,TRIAMCINOLONE HEXACETONIDE,2,Recruiting,NR3C1,1
+pain,TRIAMCINOLONE ACETONIDE,0,Unknown status,NR3C1,1
+pain,TRIAMCINOLONE,4,Recruiting,NR3C1,1
+pain,PREDNISONE,3,Completed,NR3C1,1
+pain,PREDNISOLONE,4,Completed,NR3C1,1
+pain,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+pain,LOTEPREDNOL ETABONATE,1,Completed,NR3C1,1
+ototoxicity,DEXAMETHASONE,4,Completed,NR3C1,1
+pain,DEXAMETHASONE PHOSPHORIC ACID,4,Recruiting,NR3C1,1
+pain,DEXAMETHASONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+pain,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+pain,DEXAMETHASONE,3,Withdrawn,NR3C1,1
+pain,DEXAMETHASONE,3,Recruiting,NR3C1,1
+pain,DEXAMETHASONE,1,Unknown status,NR3C1,1
+pain,DEXAMETHASONE,0,Not yet recruiting,NR3C1,1
+pain,CORTIVAZOL,2,Completed,NR3C1,1
+ovarian carcinoma,MIFEPRISTONE,2,Completed,NR3C1,1
+ovarian carcinoma,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+ovarian carcinoma,DEXAMETHASONE,4,Completed,NR3C1,1
+ovarian carcinoma,DEXAMETHASONE,3,Completed,NR3C1,1
+ovarian carcinoma,DEXAMETHASONE,2,Completed,NR3C1,1
+ovarian carcinoma,DEXAMETHASONE,1,Recruiting,NR3C1,1
+osteoarthritis,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+osteoarthritis,DEXAMETHASONE,2,Recruiting,NR3C1,1
+psoriasis,BETAMETHASONE DIPROPIONATE,2,Completed,NR3C1,1
+obstructive lung disease,BETAMETHASONE,4,n/a,NR3C1,1
+obstructive lung disease,TRIAMCINOLONE HEXACETONIDE,4,n/a,NR3C1,1
+obstructive lung disease,TRIAMCINOLONE DIACETATE,4,n/a,NR3C1,1
+obstructive lung disease,TRIAMCINOLONE,4,n/a,NR3C1,1
+obstructive lung disease,MOMETASONE FUROATE,4,n/a,NR3C1,1
+obstructive lung disease,FLUTICASONE PROPIONATE,4,n/a,NR3C1,1
+obstructive lung disease,FLUTICASONE FUROATE,4,n/a,NR3C1,1
+obstructive lung disease,FLUNISOLIDE,4,n/a,NR3C1,1
+obstructive lung disease,CICLESONIDE,4,n/a,NR3C1,1
+obstructive lung disease,BUDESONIDE,4,n/a,NR3C1,1
+obstructive lung disease,BETAMETHASONE VALERATE,4,n/a,NR3C1,1
+obstructive lung disease,BETAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,1
+obstructive lung disease,BETAMETHASONE DIPROPIONATE,4,n/a,NR3C1,1
+obstructive lung disease,BETAMETHASONE BENZOATE,4,n/a,NR3C1,1
+obstructive lung disease,BETAMETHASONE ACETATE,4,n/a,NR3C1,1
+obstructive lung disease,BECLOMETHASONE DIPROPIONATE,4,n/a,NR3C1,1
+obstructive sleep apnea,FLUTICASONE FUROATE,4,Completed,NR3C1,1
+obesity,TRIAMCINOLONE,4,Recruiting,NR3C1,1
+obesity,HYDROCORTISONE,1,"Active, not recruiting",NR3C1,1
+non-small cell lung carcinoma,MIFEPRISTONE,2,Recruiting,NR3C1,1
+non-small cell lung carcinoma,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+non-small cell lung carcinoma,DEXAMETHASONE,4,Terminated,NR3C1,1
+non-small cell lung carcinoma,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,1
+non-small cell lung carcinoma,DEXAMETHASONE,1,Completed,NR3C1,1
+non-small cell lung carcinoma,ALCLOMETASONE DIPROPIONATE,2,Completed,NR3C1,1
+non-proliferative diabetic retinopathy,DEXAMETHASONE,2,Completed,NR3C1,1
+non-melanoma skin carcinoma,TRIAMCINOLONE,2,Completed,NR3C1,1
+non-Hodgkins lymphoma,PREDNISONE,4,Unknown status,NR3C1,1
+non-Hodgkins lymphoma,PREDNISONE,3,Terminated,NR3C1,1
+non-Hodgkins lymphoma,PREDNISONE,3,Recruiting,NR3C1,1
+non-Hodgkins lymphoma,PREDNISONE,2,Unknown status,NR3C1,1
+obstructive sleep apnea,BUDESONIDE,3,Completed,NR3C1,1
+obstructive sleep apnea,FLUTICASONE PROPIONATE,3,Recruiting,NR3C1,1
+osteoarthritis,DEXAMETHASONE,1,Completed,NR3C1,1
+oral lichen planus,CLOBETASOL PROPIONATE,2,Completed,NR3C1,1
+osteoarthritis,BETAMETHASONE PHOSPHORIC ACID,3,Completed,NR3C1,1
+osteoarthritis,BETAMETHASONE ACETATE,3,Completed,NR3C1,1
+osteoarthritis,BETAMETHASONE,4,Unknown status,NR3C1,1
+osteoarthritis,BETAMETHASONE,4,Completed,NR3C1,1
+oral submucous fibrosis,HYDROCORTISONE,3,Completed,NR3C1,1
+oral lichen planus,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,1
+oral lichen planus,TRIAMCINOLONE ACETONIDE,2,Unknown status,NR3C1,1
+oral lichen planus,TRIAMCINOLONE ACETONIDE,2,Not yet recruiting,NR3C1,1
+oral lichen planus,TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,1
+oral lichen planus,PREDNISONE,2,Completed,NR3C1,1
+oral lichen planus,PREDNISOLONE,4,Completed,NR3C1,1
+oral lichen planus,DEXAMETHASONE,3,Unknown status,NR3C1,1
+oral lichen planus,DEXAMETHASONE,2,Completed,NR3C1,1
+oral lichen planus,DEXAMETHASONE,0,Recruiting,NR3C1,1
+oral lichen planus,CLOBETASOL PROPIONATE,2,"Active, not recruiting",NR3C1,1
+obstructive sleep apnea,MOMETASONE FUROATE,3,Withdrawn,NR3C1,1
+oral lichen planus,BETAMETHASONE DIPROPIONATE,2,Recruiting,NR3C1,1
+oral lichen planus,BETAMETHASONE,4,Completed,NR3C1,1
+oral lichen planus,BETAMETHASONE,3,Terminated,NR3C1,1
+oral cavity cancer,DEXAMETHASONE,2,Terminated,NR3C1,1
+optic neuritis,PREDNISONE,4,n/a,NR3C1,1
+optic neuritis,PREDNISOLONE,4,n/a,NR3C1,1
+opioid dependence,HYDROCORTISONE,2,Completed,NR3C1,1
+opioid dependence,DEXAMETHASONE,4,Recruiting,NR3C1,1
+ophthalmic herpes zoster,PREDNISONE,4,n/a,NR3C1,1
+ophthalmic herpes zoster,PREDNISOLONE,4,n/a,NR3C1,1
+open-angle glaucoma,DEXAMETHASONE,4,"Active, not recruiting",NR3C1,1
+ocular toxoplasmosis,PREDNISOLONE,3,Unknown status,NR3C1,1
+ocular toxoplasmosis,DEXAMETHASONE,3,Unknown status,NR3C1,1
+obstructive sleep apnea,PREDNISOLONE,4,Terminated,NR3C1,1
+pemphigus vulgaris,PREDNISONE,3,Terminated,NR3C1,1
+pemphigus vulgaris,PREDNISONE,4,n/a,NR3C1,1
+lung carcinoma,PREDNISONE,2,Recruiting,NR3C1,1
+premature birth,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+prostate adenocarcinoma,DEXAMETHASONE,3,Not yet recruiting,NR3C1,1
+prostate adenocarcinoma,DEXAMETHASONE,1,Completed,NR3C1,1
+prostate adenocarcinoma,CYPROTERONE ACETATE,3,Completed,NR3C1,1
+proliferative vitreoretinopathy,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,1
+proliferative vitreoretinopathy,DEXAMETHASONE,3,Unknown status,NR3C1,1
+proliferative diabetic retinopathy,TRIAMCINOLONE ACETONIDE,3,Recruiting,NR3C1,1
+proliferative diabetic retinopathy,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,1
+proliferative diabetic retinopathy,TRIAMCINOLONE ACETONIDE,2,Unknown status,NR3C1,1
+proliferative diabetic retinopathy,DEXAMETHASONE,2,Unknown status,NR3C1,1
+proliferative diabetic retinopathy,DEXAMETHASONE,2,Completed,NR3C1,1
+proctitis,BUDESONIDE,2,Terminated,NR3C1,1
+proctitis,BUDESONIDE,2,Completed,NR3C1,1
+primary biliary cirrhosis,BUDESONIDE,3,Terminated,NR3C1,1
+primary biliary cirrhosis,BUDESONIDE,1,Completed,NR3C1,1
+premature birth,DEXAMETHASONE,2,Completed,NR3C1,1
+prostate adenocarcinoma,HYDROCORTISONE,2,Completed,NR3C1,1
+premature birth,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+premature birth,BETAMETHASONE,4,Completed,NR3C1,1
+premature birth,BETAMETHASONE,3,Withdrawn,NR3C1,1
+premature birth,BETAMETHASONE,2,Recruiting,NR3C1,1
+pregnancy,TRIAMCINOLONE DIACETATE,4,Unknown status,NR3C1,1
+pregnancy,PREDNISONE,4,Unknown status,NR3C1,1
+pregnancy,MIFEPRISTONE,4,Terminated,NR3C1,1
+pregnancy,MIFEPRISTONE,4,Completed,NR3C1,1
+pregnancy,MIFEPRISTONE,1,Recruiting,NR3C1,1
+pregnancy,BETAMETHASONE PHOSPHORIC ACID,2,Recruiting,NR3C1,1
+pregnancy,BETAMETHASONE,3,Terminated,NR3C1,1
+precursor T-cell lymphoblastic leukemia-lymphoma,DEXAMETHASONE,1,Terminated,NR3C1,1
+precursor T-cell lymphoblastic leukemia-lymphoma,DEXAMETHASONE,1,Completed,NR3C1,1
+posterior uveitis,TRIAMCINOLONE ACETONIDE,1,Completed,NR3C1,1
+prostate adenocarcinoma,HYDROCORTISONE,1,Terminated,NR3C1,1
+prostate adenocarcinoma,HYDROCORTISONE,3,Terminated,NR3C1,1
+pericarditis,PREDNISOLONE,3,Completed,NR3C1,1
+prostate carcinoma,DEXAMETHASONE,4,Completed,NR3C1,1
+psoriasis,BETAMETHASONE DIPROPIONATE,1,Completed,NR3C1,1
+psoriasis,BETAMETHASONE,4,Terminated,NR3C1,1
+psoriasis,BETAMETHASONE,4,Recruiting,NR3C1,1
+psoriasis,BETAMETHASONE,1,Recruiting,NR3C1,1
+prostate carcinoma,PREDNISONE,3,Not yet recruiting,NR3C1,1
+prostate carcinoma,PREDNISONE,2,Enrolling by invitation,NR3C1,1
+prostate carcinoma,PREDNISOLONE,3,"Active, not recruiting",NR3C1,1
+prostate carcinoma,PREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+prostate carcinoma,PREDNISOLONE,1,"Active, not recruiting",NR3C1,1
+prostate carcinoma,MIFEPRISTONE,1,Recruiting,NR3C1,1
+prostate carcinoma,METHYLPREDNISOLONE,3,Unknown status,NR3C1,1
+prostate carcinoma,METHYLPREDNISOLONE,3,Terminated,NR3C1,1
+prostate carcinoma,HYDROCORTISONE,2,Recruiting,NR3C1,1
+prostate carcinoma,HYDROCORTISONE,1,Terminated,NR3C1,1
+prostate carcinoma,DEXAMETHASONE,3,Terminated,NR3C1,1
+prostate adenocarcinoma,MIFEPRISTONE,2,Completed,NR3C1,1
+prostate carcinoma,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,1
+prostate carcinoma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+prostate carcinoma,DEXAMETHASONE,1,Recruiting,NR3C1,1
+prostate carcinoma,CYPROTERONE ACETATE,3,"Active, not recruiting",NR3C1,1
+prostate carcinoma,CYPROTERONE ACETATE,2,Completed,NR3C1,1
+prostate adenocarcinoma,PREDNISONE,4,Recruiting,NR3C1,1
+prostate adenocarcinoma,PREDNISONE,2,Withdrawn,NR3C1,1
+prostate adenocarcinoma,PREDNISONE,2,Unknown status,NR3C1,1
+prostate adenocarcinoma,PREDNISONE,1,Unknown status,NR3C1,1
+prostate adenocarcinoma,PREDNISONE,1,Terminated,NR3C1,1
+prostate adenocarcinoma,PREDNISONE,1,Recruiting,NR3C1,1
+prostate adenocarcinoma,PREDNISONE,0,Recruiting,NR3C1,1
+prostate adenocarcinoma,PREDNISOLONE,3,Completed,NR3C1,1
+prostate adenocarcinoma,PREDNISOLONE,3,"Active, not recruiting",NR3C1,1
+posterior uveitis,PREDNISONE,4,n/a,NR3C1,1
+posterior uveitis,PREDNISOLONE,4,n/a,NR3C1,1
+posterior uveitis,FLUOCINOLONE ACETONIDE,2,Completed,NR3C1,1
+plasma cell leukemia,DEXAMETHASONE,2,Recruiting,NR3C1,1
+pneumonia,METHYLPREDNISOLONE HEMISUCCINATE,3,Not yet recruiting,NR3C1,1
+pneumonia,METHYLPREDNISOLONE,4,Unknown status,NR3C1,1
+pneumonia,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+pneumonia,METHYLPREDNISOLONE,2,Not yet recruiting,NR3C1,1
+pneumonia,HYDROCORTISONE,4,Recruiting,NR3C1,1
+pneumonia,HYDROCORTISONE,3,Recruiting,NR3C1,1
+pneumonia,DEXAMETHASONE,4,Recruiting,NR3C1,1
+pneumonia,DEXAMETHASONE,3,Completed,NR3C1,1
+pneumonia,CORTISONE ACETATE,4,n/a,NR3C1,1
+pneumocystosis,PREDNISONE,4,Withdrawn,NR3C1,1
+plasmacytoma,DEXAMETHASONE,3,Recruiting,NR3C1,1
+plasmacytoma,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,1
+plasmacytoma,DEXAMETHASONE,2,Recruiting,NR3C1,1
+plasma cell leukemia,DEXAMETHASONE,2,Unknown status,NR3C1,1
+plasma cell leukemia,DEXAMETHASONE,2,Completed,NR3C1,1
+posterior uveitis,FLUOCINOLONE ACETONIDE,1,"Active, not recruiting",NR3C1,1
+plasma cell leukemia,DEXAMETHASONE,1,Withdrawn,NR3C1,1
+plasma cell leukemia,DEXAMETHASONE,1,Completed,NR3C1,1
+pituitary-dependent Cushing's disease,PREDNISOLONE,2,Recruiting,NR3C1,1
+pituitary-dependent Cushing's disease,MIFEPRISTONE,3,Withdrawn,NR3C1,1
+pituitary-dependent Cushing's disease,MIFEPRISTONE,3,Completed,NR3C1,1
+physical activity,TRIAMCINOLONE,4,Unknown status,NR3C1,1
+phobic disorder,HYDROCORTISONE,2,Terminated,NR3C1,1
+phimosis,MOMETASONE FUROATE,4,Unknown status,NR3C1,1
+phimosis,HYDROCORTISONE,4,Withdrawn,NR3C1,1
+phimosis,BETAMETHASONE,4,Withdrawn,NR3C1,1
+persian gulf syndrome,MIFEPRISTONE,4,Completed,NR3C1,1
+peritoneal neoplasm,MIFEPRISTONE,2,Completed,NR3C1,1
+peritoneal neoplasm,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+peripheral arterial disease,DEXAMETHASONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+pneumonia,PREDNISOLONE,4,n/a,NR3C1,1
+pneumonia,PREDNISONE,4,Not yet recruiting,NR3C1,1
+polycystic ovary syndrome,CYPROTERONE ACETATE,2,Recruiting,NR3C1,1
+polycystic ovary syndrome,CYPROTERONE ACETATE,2,Unknown status,NR3C1,1
+posterior uveitis,DEXAMETHASONE,4,Recruiting,NR3C1,1
+posterior uveitis,DEXAMETHASONE,2,Completed,NR3C1,1
+post-traumatic stress disorder,MIFEPRISTONE,4,Completed,NR3C1,1
+post-traumatic stress disorder,MIFEPRISTONE,2,Completed,NR3C1,1
+post-traumatic stress disorder,MIFEPRISTONE,1,Completed,NR3C1,1
+post-traumatic stress disorder,HYDROCORTISONE,4,Withdrawn,NR3C1,1
+post-traumatic stress disorder,HYDROCORTISONE,4,Completed,NR3C1,1
+post-traumatic stress disorder,DEXAMETHASONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+post-traumatic stress disorder,DEXAMETHASONE,4,Completed,NR3C1,1
+post-operative sign or symptom,DEXAMETHASONE,4,Unknown status,NR3C1,1
+post-operative sign or symptom,DEXAMETHASONE,4,Recruiting,NR3C1,1
+post operative nausea and vomiting,DEXAMETHASONE,4,Recruiting,NR3C1,1
+post operative nausea and vomiting,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+post operative nausea and vomiting,DEXAMETHASONE,3,Recruiting,NR3C1,1
+polyp,MOMETASONE FUROATE,3,Recruiting,NR3C1,1
+polyp,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+polyp,FLUTICASONE PROPIONATE,2,Terminated,NR3C1,1
+polyneuropathy,PREDNISONE,3,Completed,NR3C1,1
+polymyositis,PREDNISONE,4,n/a,NR3C1,1
+polymyositis,PREDNISONE,3,Completed,NR3C1,1
+polymyalgia rheumatica,PREDNISONE,4,Completed,NR3C1,1
+polymyalgia rheumatica,PREDNISONE,3,Withdrawn,NR3C1,1
+polymyalgia rheumatica,PREDNISONE,3,Terminated,NR3C1,1
+polymyalgia rheumatica,PREDNISONE,3,Recruiting,NR3C1,1
+polymyalgia rheumatica,PREDNISONE,2,Completed,NR3C1,1
+polymyalgia rheumatica,PREDNISOLONE,3,Not yet recruiting,NR3C1,1
+polymyalgia rheumatica,PREDNISOLONE,2,Completed,NR3C1,1
+polycystic ovary syndrome,PREDNISOLONE,4,Recruiting,NR3C1,1
+polycystic ovary syndrome,CYPROTERONE ACETATE,4,Unknown status,NR3C1,1
+lung disease,PREDNISONE,2,Completed,NR3C1,1
+22q11.2 deletion syndrome,METHYLPREDNISOLONE,1,"Active, not recruiting",NR3C1,1
+lung carcinoma,PREDNISONE,1,Unknown status,NR3C1,1
+acute graft vs. host disease,CLOBETASOL PROPIONATE,2,Completed,NR3C1,1
+acne,METHYLPREDNISOLONE,4,n/a,NR3C1,1
+acne,METHYLPREDNISOLONE HEMISUCCINATE,4,n/a,NR3C1,1
+acute graft vs. host disease,BECLOMETHASONE DIPROPIONATE,3,Terminated,NR3C1,1
+acute graft vs. host disease,BUDESONIDE,1,Completed,NR3C1,1
+acute graft vs. host disease,BUDESONIDE,2,Withdrawn,NR3C1,1
+acute graft vs. host disease,BUDESONIDE,4,Withdrawn,NR3C1,1
+acute graft vs. host disease,CLOBETASOL PROPIONATE,3,Completed,NR3C1,1
+acne,FLUOROMETHOLONE,4,n/a,NR3C1,1
+acute graft vs. host disease,DEXAMETHASONE,2,Completed,NR3C1,1
+acute graft vs. host disease,DEXAMETHASONE,2,Recruiting,NR3C1,1
+acute graft vs. host disease,DEXAMETHASONE,3,Completed,NR3C1,1
+acute graft vs. host disease,METHYLPREDNISOLONE,1,"Active, not recruiting",NR3C1,1
+acute graft vs. host disease,METHYLPREDNISOLONE,2,Not yet recruiting,NR3C1,1
+acute graft vs. host disease,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+acne,FLUOROMETHOLONE ACETATE,4,n/a,NR3C1,1
+acne,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,1
+acute graft vs. host disease,METHYLPREDNISOLONE,2,Withdrawn,NR3C1,1
+Waldenstrom macroglobulinemia,DEXAMETHASONE,2,Unknown status,NR3C1,1
+Vulvar Lichen Sclerosus,CLOBETASOL PROPIONATE,2,Completed,NR3C1,1
+Vulvar Lichen Sclerosus,CLOBETASOL PROPIONATE,2,Terminated,NR3C1,1
+Vulvar Lichen Sclerosus,CLOBETASOL PROPIONATE,3,Recruiting,NR3C1,1
+Waldenstrom macroglobulinemia,DEXAMETHASONE,1,Terminated,NR3C1,1
+Waldenstrom macroglobulinemia,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+Waldenstrom macroglobulinemia,DEXAMETHASONE,2,Not yet recruiting,NR3C1,1
+Waldenstrom macroglobulinemia,DEXAMETHASONE,3,Recruiting,NR3C1,1
+acne,DEXAMETHASONE ACETATE,4,n/a,NR3C1,1
+West syndrome,PREDNISOLONE,3,Recruiting,NR3C1,1
+abdominal pain,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+abdominal pain,TRIAMCINOLONE,2,Recruiting,NR3C1,1
+acne,CYPROTERONE ACETATE,3,Completed,NR3C1,1
+acne,CYPROTERONE ACETATE,4,Completed,NR3C1,1
+acne,DEXAMETHASONE,4,n/a,NR3C1,1
+acute graft vs. host disease,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+acute graft vs. host disease,METHYLPREDNISOLONE,3,Terminated,NR3C1,1
+Plantar Fasciitis,METHYLPREDNISOLONE ACETATE,4,Completed,NR3C1,1
+acute lymphoblastic leukemia,METHYLPREDNISOLONE ACETATE,3,Suspended,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE,3,Completed,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE,4,Completed,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE,4,Recruiting,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE,4,Unknown status,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE HEMISUCCINATE,2,"Active, not recruiting",NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE HEMISUCCINATE,3,Recruiting,NR3C1,1
+acute lymphoblastic leukemia,METHYLPREDNISOLONE HEMISUCCINATE,1,Recruiting,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE,2,Terminated,NR3C1,1
+acute lymphoblastic leukemia,METHYLPREDNISOLONE HEMISUCCINATE,2,Completed,NR3C1,1
+acute lymphoblastic leukemia,PREDNISOLONE,1,Recruiting,NR3C1,1
+acute lymphoblastic leukemia,PREDNISOLONE,2,Completed,NR3C1,1
+acute lymphoblastic leukemia,PREDNISOLONE,2,Recruiting,NR3C1,1
+acute lymphoblastic leukemia,PREDNISOLONE,2,Unknown status,NR3C1,1
+acute lymphoblastic leukemia,PREDNISOLONE,3,Recruiting,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE,2,Unknown status,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE,2,Completed,NR3C1,1
+acute graft vs. host disease,METHYLPREDNISOLONE HEMISUCCINATE,1,Completed,NR3C1,1
+acute graft vs. host disease,PREDNISONE,4,Withdrawn,NR3C1,1
+acute graft vs. host disease,METHYLPREDNISOLONE HEMISUCCINATE,2,Withdrawn,NR3C1,1
+acute graft vs. host disease,METHYLPREDNISOLONE HEMISUCCINATE,3,Terminated,NR3C1,1
+acute graft vs. host disease,PREDNISONE,1,"Active, not recruiting",NR3C1,1
+acute graft vs. host disease,PREDNISONE,1,Completed,NR3C1,1
+acute graft vs. host disease,PREDNISONE,2,Unknown status,NR3C1,1
+acute graft vs. host disease,PREDNISONE,3,Terminated,NR3C1,1
+acute lymphoblastic leukemia,DEXAMETHASONE,0,Completed,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE,2,"Active, not recruiting",NR3C1,1
+acute lymphoblastic leukemia,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+acute lymphoblastic leukemia,DEXAMETHASONE,1,Not yet recruiting,NR3C1,1
+acute lymphoblastic leukemia,DEXAMETHASONE,2,Not yet recruiting,NR3C1,1
+acute lymphoblastic leukemia,DEXAMETHASONE,3,Suspended,NR3C1,1
+acute lymphoblastic leukemia,DEXAMETHASONE,3,Terminated,NR3C1,1
+acute lymphoblastic leukemia,HYDROCORTISONE,1,Recruiting,NR3C1,1
+Vitiligo,TRIAMCINOLONE ACETONIDE,2,Unknown status,NR3C1,1
+Vitiligo,TRIAMCINOLONE,2,Terminated,NR3C1,1
+Vitiligo,HYDROCORTISONE ACETATE,1,Recruiting,NR3C1,1
+"Rhinitis, Allergic, Perennial",MOMETASONE FUROATE,4,Terminated,NR3C1,1
+"Rhinitis, Allergic, Perennial",DEXAMETHASONE,3,Completed,NR3C1,1
+"Rhinitis, Allergic, Perennial",FLUNISOLIDE,3,Completed,NR3C1,1
+"Rhinitis, Allergic, Perennial",FLUTICASONE FUROATE,1,Completed,NR3C1,1
+"Rhinitis, Allergic, Perennial",FLUTICASONE PROPIONATE,1,Completed,NR3C1,1
+"Rhinitis, Allergic, Perennial",FLUTICASONE PROPIONATE,4,Terminated,NR3C1,1
+"Rhinitis, Allergic, Perennial",MOMETASONE FUROATE,2,Completed,NR3C1,1
+"Rhinitis, Allergic, Perennial",PREDNISONE,3,Completed,NR3C1,1
+Retinoblastoma,DEXAMETHASONE,1,Recruiting,NR3C1,1
+"Rhinitis, Allergic, Perennial",TRIAMCINOLONE,3,Completed,NR3C1,1
+"Rhinitis, Allergic, Perennial",TRIAMCINOLONE ACETONIDE,4,Completed,NR3C1,1
+Sarcoidosis,DEXAMETHASONE,3,Unknown status,NR3C1,1
+Sarcoidosis,PREDNISOLONE,4,Recruiting,NR3C1,1
+Sarcoidosis,PREDNISONE,2,Completed,NR3C1,1
+Sarcoidosis,PREDNISONE,3,Not yet recruiting,NR3C1,1
+"Rhinitis, Allergic, Perennial",BUDESONIDE,3,Unknown status,NR3C1,1
+Respiratory Syncytial Virus Infection,PREDNISONE,1,Completed,NR3C1,1
+Vitiligo,FLUTICASONE PROPIONATE,4,Unknown status,NR3C1,1
+Primary hemophagocytic lymphohistiocytosis,HYDROCORTISONE,2,Completed,NR3C1,1
+Polyarteritis Nodosa,PREDNISONE,4,Completed,NR3C1,1
+Primary hemophagocytic lymphohistiocytosis,DEXAMETHASONE,1,Recruiting,NR3C1,1
+Primary hemophagocytic lymphohistiocytosis,DEXAMETHASONE,2,Completed,NR3C1,1
+Primary hemophagocytic lymphohistiocytosis,DEXAMETHASONE,3,Completed,NR3C1,1
+Primary hemophagocytic lymphohistiocytosis,DEXAMETHASONE,3,Not yet recruiting,NR3C1,1
+Primary hemophagocytic lymphohistiocytosis,DEXAMETHASONE,3,Recruiting,NR3C1,1
+Primary hemophagocytic lymphohistiocytosis,PREDNISOLONE,1,Recruiting,NR3C1,1
+Radiation-induced nausea and vomiting,DEXAMETHASONE,3,Completed,NR3C1,1
+Primary hemophagocytic lymphohistiocytosis,PREDNISONE,2,"Active, not recruiting",NR3C1,1
+Primary systemic amyloidosis,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+Primary systemic amyloidosis,DEXAMETHASONE,1,Completed,NR3C1,1
+Primary systemic amyloidosis,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+Prostate Small Cell Carcinoma,PREDNISONE,2,Not yet recruiting,NR3C1,1
+Radiation Pneumonitis,BUDESONIDE,2,Recruiting,NR3C1,1
+Sarcoidosis,PREDNISONE,4,Withdrawn,NR3C1,1
+Sciatica,BETAMETHASONE,2,Recruiting,NR3C1,1
+Sciatica,DEXAMETHASONE,2,Recruiting,NR3C1,1
+Tendinopathy,BETAMETHASONE PHOSPHORIC ACID,4,Recruiting,NR3C1,1
+T-cell acute lymphoblastic leukemia,PREDNISONE,1,Completed,NR3C1,1
+T-cell acute lymphoblastic leukemia,PREDNISONE,3,Unknown status,NR3C1,1
+T-cell acute lymphoblastic leukemia,PREDNISONE,4,Completed,NR3C1,1
+Takayasu arteritis,PREDNISONE,2,Not yet recruiting,NR3C1,1
+Tendinopathy,BETAMETHASONE ACETATE,3,Completed,NR3C1,1
+Tendinopathy,BETAMETHASONE PHOSPHORIC ACID,3,Completed,NR3C1,1
+Tendinopathy,METHYLPREDNISOLONE ACETATE,4,Completed,NR3C1,1
+Sciatica,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+Tenosynovitis,BETAMETHASONE,4,Recruiting,NR3C1,1
+Tenosynovitis,METHYLPREDNISOLONE,4,Recruiting,NR3C1,1
+Tenosynovitis,PREDNISOLONE,4,n/a,NR3C1,1
+Tenosynovitis,PREDNISONE,4,n/a,NR3C1,1
+Tuberculosis,DEXAMETHASONE,2,Completed,NR3C1,1
+Uveal Melanoma,TRIAMCINOLONE ACETONIDE,2,Unknown status,NR3C1,1
+T-cell acute lymphoblastic leukemia,DEXAMETHASONE,1,Not yet recruiting,NR3C1,1
+Stiff-Person syndrome,METHYLPREDNISOLONE,1,"Active, not recruiting",NR3C1,1
+Stevens-Johnson syndrome,PREDNISONE,4,n/a,NR3C1,1
+Status Asthmaticus,PREDNISONE,4,Terminated,NR3C1,1
+Status Asthmaticus,DEXAMETHASONE,4,Terminated,NR3C1,1
+Status Asthmaticus,BUDESONIDE,2,Completed,NR3C1,1
+Spinal cord injury,MOMETASONE FUROATE,1,Unknown status,NR3C1,1
+Spinal cord injury,METHYLPREDNISOLONE,3,Suspended,NR3C1,1
+Spinal cord injury,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+Sjogren syndrome,PREDNISONE,4,Unknown status,NR3C1,1
+Sjogren syndrome,DEXAMETHASONE,4,Completed,NR3C1,1
+Sickle cell anemia,PREDNISONE,3,Completed,NR3C1,1
+Sickle cell anemia,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+Sickle cell anemia,DEXAMETHASONE,3,Terminated,NR3C1,1
+Sciatica,PREDNISONE,3,Completed,NR3C1,1
+Sciatica,PREDNISONE,2,Completed,NR3C1,1
+Sciatica,PREDNISOLONE ACETATE,3,Terminated,NR3C1,1
+acute lymphoblastic leukemia,PREDNISOLONE,3,Suspended,NR3C1,1
+acute lymphoblastic leukemia,PREDNISOLONE,3,Unknown status,NR3C1,1
+acute lymphoblastic leukemia,PREDNISONE,1,"Active, not recruiting",NR3C1,1
+altitude sickness,BUDESONIDE,1,Completed,NR3C1,1
+alopecia areata,CLOBETASOL PROPIONATE,4,Completed,NR3C1,1
+alopecia areata,HYDROCORTISONE,3,Completed,NR3C1,1
+alopecia areata,TRIAMCINOLONE,4,Recruiting,NR3C1,1
+alopecia areata,TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,1
+alopecia areata,TRIAMCINOLONE ACETONIDE,4,Completed,NR3C1,1
+alopecia areata,TRIAMCINOLONE ACETONIDE,4,Not yet recruiting,NR3C1,1
+altitude sickness,BUDESONIDE,3,Completed,NR3C1,1
+alopecia areata,BETAMETHASONE,4,Completed,NR3C1,1
+altitude sickness,BUDESONIDE,3,Withdrawn,NR3C1,1
+amyloidosis,DEXAMETHASONE,1,Unknown status,NR3C1,1
+amyloidosis,DEXAMETHASONE,2,Withdrawn,NR3C1,1
+amyloidosis,DEXAMETHASONE,3,Recruiting,NR3C1,1
+amyotrophic lateral sclerosis,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+amyotrophic lateral sclerosis,PREDNISONE,2,Completed,NR3C1,1
+alopecia areata,CLOBETASOL PROPIONATE,3,Completed,NR3C1,1
+allergy,PREDNISONE,2,Completed,NR3C1,1
+allergic rhinitis,FLUTICASONE PROPIONATE,2,Recruiting,NR3C1,1
+allergy,BUDESONIDE,1,Completed,NR3C1,1
+allergic rhinitis,PREDNISOLONE,3,Completed,NR3C1,1
+allergic rhinitis,PREDNISOLONE,3,Unknown status,NR3C1,1
+allergic rhinitis,PREDNISOLONE,4,n/a,NR3C1,1
+allergic rhinitis,PREDNISONE,4,n/a,NR3C1,1
+allergic rhinitis,TRIAMCINOLONE,3,Completed,NR3C1,1
+allergy,BETAMETHASONE,3,Terminated,NR3C1,1
+allergy,BUDESONIDE,2,Completed,NR3C1,1
+allergy,PREDNISOLONE,3,Terminated,NR3C1,1
+allergy,DEXAMETHASONE,3,Recruiting,NR3C1,1
+allergy,DEXAMETHASONE,3,Unknown status,NR3C1,1
+allergy,FLUOCINOLONE ACETONIDE,4,Completed,NR3C1,1
+allergy,FLUTICASONE PROPIONATE,3,Not yet recruiting,NR3C1,1
+allergy,MOMETASONE FUROATE,1,Recruiting,NR3C1,1
+allergy,MOMETASONE FUROATE,3,Not yet recruiting,NR3C1,1
+anaplastic large cell lymphoma,DEXAMETHASONE,2,Suspended,NR3C1,1
+anaplastic large cell lymphoma,HYDROCORTISONE,1,Terminated,NR3C1,1
+anaplastic large cell lymphoma,HYDROCORTISONE HEMISUCCINATE,2,Completed,NR3C1,1
+anterior uveitis,DIFLUPREDNATE,2,Completed,NR3C1,1
+anterior uveitis,DEXAMETHASONE,2,Completed,NR3C1,1
+anterior uveitis,DEXAMETHASONE,2,Terminated,NR3C1,1
+anterior uveitis,DEXAMETHASONE,3,Completed,NR3C1,1
+anterior uveitis,DEXAMETHASONE PHOSPHORIC ACID,1,Completed,NR3C1,1
+anterior uveitis,DEXAMETHASONE PHOSPHORIC ACID,2,Completed,NR3C1,1
+anterior uveitis,DEXAMETHASONE PHOSPHORIC ACID,3,Completed,NR3C1,1
+anterior uveitis,DIFLUPREDNATE,4,n/a,NR3C1,1
+anaplastic large cell lymphoma,METHYLPREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+anterior uveitis,PREDNISOLONE ACETATE,1,Completed,NR3C1,1
+anterior uveitis,PREDNISOLONE ACETATE,2,Completed,NR3C1,1
+anti-neutrophil antibody associated vasculitis,METHYLPREDNISOLONE,3,Terminated,NR3C1,1
+anti-neutrophil antibody associated vasculitis,PREDNISONE,3,"Active, not recruiting",NR3C1,1
+anti-neutrophil antibody associated vasculitis,PREDNISONE,3,Terminated,NR3C1,1
+anxiety,MIFEPRISTONE,1,"Active, not recruiting",NR3C1,1
+anterior ischemic optic neuropathy,TRIAMCINOLONE ACETONIDE,3,Unknown status,NR3C1,1
+anterior ischemic optic neuropathy,TRIAMCINOLONE,1,Unknown status,NR3C1,1
+anterior ischemic optic neuropathy,METHYLPREDNISOLONE,3,Unknown status,NR3C1,1
+ankylosing spondylitis,PREDNISONE,4,n/a,NR3C1,1
+ankylosing spondylitis,PREDNISOLONE,4,n/a,NR3C1,1
+ankylosing spondylitis,PREDNISOLONE,2,Unknown status,NR3C1,1
+ankylosing spondylitis,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+angioimmunoblastic T-cell lymphoma,PREDNISONE,2,Recruiting,NR3C1,1
+angioimmunoblastic T-cell lymphoma,PREDNISONE,2,Completed,NR3C1,1
+angioimmunoblastic T-cell lymphoma,PREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+angioimmunoblastic T-cell lymphoma,METHYLPREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+angioedema,CORTISONE ACETATE,3,Suspended,NR3C1,1
+angioedema,CORTISONE ACETATE,2,Completed,NR3C1,1
+anaplastic large cell lymphoma,PREDNISONE,2,Terminated,NR3C1,1
+anaplastic large cell lymphoma,PREDNISONE,2,Completed,NR3C1,1
+anaplastic large cell lymphoma,PREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+anaplastic large cell lymphoma,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+allergic rhinitis,FLUTICASONE PROPIONATE,4,Withdrawn,NR3C1,1
+allergic rhinitis,FLUTICASONE PROPIONATE,2,Completed,NR3C1,1
+acute lymphoblastic leukemia,PREDNISONE,1,Recruiting,NR3C1,1
+adrenal gland hyperfunction,DEXAMETHASONE,4,n/a,NR3C1,1
+acute respiratory distress syndrome,DEXAMETHASONE,3,Completed,NR3C1,1
+acute respiratory distress syndrome,DEXAMETHASONE,4,Completed,NR3C1,1
+acute respiratory distress syndrome,METHYLPREDNISOLONE,3,Not yet recruiting,NR3C1,1
+acute respiratory distress syndrome,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+adenoma,BETAMETHASONE,1,Terminated,NR3C1,1
+adrenal cortex carcinoma,HYDROCORTISONE,2,Terminated,NR3C1,1
+adult T acute lymphoblastic leukemia,DEXAMETHASONE,3,Suspended,NR3C1,1
+acute respiratory distress syndrome,BETAMETHASONE,3,Completed,NR3C1,1
+adult T acute lymphoblastic leukemia,HYDROCORTISONE HEMISUCCINATE,3,Suspended,NR3C1,1
+age-related macular degeneration,DEXAMETHASONE,1,Completed,NR3C1,1
+age-related macular degeneration,DEXAMETHASONE,2,Withdrawn,NR3C1,1
+age-related macular degeneration,DEXAMETHASONE,4,Completed,NR3C1,1
+age-related macular degeneration,FLUOCINOLONE ACETONIDE,2,Completed,NR3C1,1
+age-related macular degeneration,FLUOCINOLONE ACETONIDE,2,Terminated,NR3C1,1
+acute respiratory distress syndrome,BUDESONIDE,2,Completed,NR3C1,1
+acute promyelocytic leukemia,DEXAMETHASONE,3,Recruiting,NR3C1,1
+allergic rhinitis,FLUTICASONE FUROATE,4,Withdrawn,NR3C1,1
+acute myeloid leukemia,DEXAMETHASONE,2,Recruiting,NR3C1,1
+acute lymphoblastic leukemia,PREDNISONE,1,Terminated,NR3C1,1
+acute lymphoblastic leukemia,PREDNISONE,1,Withdrawn,NR3C1,1
+acute lymphoblastic leukemia,PREDNISONE,3,Completed,NR3C1,1
+acute lymphoblastic leukemia,PREDNISONE,3,Terminated,NR3C1,1
+acute lymphoblastic leukemia,PREDNISONE,3,Unknown status,NR3C1,1
+acute myeloid leukemia,DEXAMETHASONE,2,Not yet recruiting,NR3C1,1
+acute myeloid leukemia,DEXAMETHASONE,2,Terminated,NR3C1,1
+acute pancreatitis,DEXAMETHASONE ACETATE,2,Withdrawn,NR3C1,1
+acute myeloid leukemia,DEXAMETHASONE,3,Completed,NR3C1,1
+acute myeloid leukemia,DEXAMETHASONE,3,Not yet recruiting,NR3C1,1
+acute myeloid leukemia,HYDROCORTISONE,2,Recruiting,NR3C1,1
+acute myeloid leukemia,HYDROCORTISONE,2,Terminated,NR3C1,1
+acute myeloid leukemia,PREDNISOLONE,1,Recruiting,NR3C1,1
+acute myeloid leukemia,PREDNISONE,3,Completed,NR3C1,1
+age-related macular degeneration,PREDNISOLONE,1,Recruiting,NR3C1,1
+age-related macular degeneration,TRIAMCINOLONE,1,Completed,NR3C1,1
+age-related macular degeneration,TRIAMCINOLONE,3,Completed,NR3C1,1
+allergic rhinitis,BECLOMETHASONE DIPROPIONATE,1,Completed,NR3C1,1
+allergic conjunctivitis,LOTEPREDNOL ETABONATE,4,Unknown status,NR3C1,1
+allergic conjunctivitis,MAPRACORAT,2,Completed,NR3C1,1
+allergic conjunctivitis,PREDNISOLONE,4,n/a,NR3C1,1
+allergic conjunctivitis,PREDNISOLONE ACETATE,4,Completed,NR3C1,1
+allergic conjunctivitis,PREDNISOLONE ACETATE,4,Unknown status,NR3C1,1
+allergic conjunctivitis,PREDNISONE,4,n/a,NR3C1,1
+allergic rhinitis,BECLOMETHASONE DIPROPIONATE,4,Completed,NR3C1,1
+age-related macular degeneration,TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,1
+allergic rhinitis,BETAMETHASONE,3,Completed,NR3C1,1
+allergic rhinitis,BETAMETHASONE,3,Unknown status,NR3C1,1
+allergic rhinitis,BUDESONIDE,2,Completed,NR3C1,1
+allergic rhinitis,BUDESONIDE,4,Completed,NR3C1,1
+allergic rhinitis,CICLESONIDE,1,Completed,NR3C1,1
+allergic rhinitis,CICLESONIDE,4,Withdrawn,NR3C1,1
+allergic conjunctivitis,LOTEPREDNOL ETABONATE,3,Completed,NR3C1,1
+allergic conjunctivitis,LOTEPREDNOL ETABONATE,2,Completed,NR3C1,1
+allergic conjunctivitis,HYDROCORTISONE,2,Terminated,NR3C1,1
+allergic conjunctivitis,FLUTICASONE PROPIONATE,4,Completed,NR3C1,1
+allergic conjunctivitis,FLUTICASONE FUROATE,4,Completed,NR3C1,1
+allergic conjunctivitis,DEXAMETHASONE,4,Completed,NR3C1,1
+allergic conjunctivitis,DEXAMETHASONE,2,Withdrawn,NR3C1,1
+allergic bronchopulmonary aspergillosis,PREDNISOLONE,2,Completed,NR3C1,1
+allergic bronchopulmonary aspergillosis,BUDESONIDE,2,Completed,NR3C1,1
+alcohol dependence,MIFEPRISTONE,2,Recruiting,NR3C1,1
+alcohol dependence,MIFEPRISTONE,2,Completed,NR3C1,1
+alcohol dependence,MIFEPRISTONE,1,Recruiting,NR3C1,1
+alcohol dependence,HYDROCORTISONE,3,Completed,NR3C1,1
+aging,METHYLPREDNISOLONE,3,Recruiting,NR3C1,1
+aging,HYDROCORTISONE,2,Completed,NR3C1,1
+age-related macular degeneration,TRIAMCINOLONE ACETONIDE,2,Unknown status,NR3C1,1
+age-related macular degeneration,TRIAMCINOLONE ACETONIDE,2,Terminated,NR3C1,1
+Polyarteritis Nodosa,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+Plantar Fasciitis,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+lung carcinoma,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+Cushing syndrome,MIFEPRISTONE,4,Completed,NR3C1,1
+Crohn's disease,PREDNISOLONE,4,Terminated,NR3C1,1
+Crohn's disease,PREDNISONE,2,Completed,NR3C1,1
+Crohn's disease,PREDNISONE,3,Completed,NR3C1,1
+Crohn's disease,PREDNISONE,4,Recruiting,NR3C1,1
+Crohn's disease,PREDNISONE,4,Terminated,NR3C1,1
+Cushing syndrome,MIFEPRISTONE,2,Terminated,NR3C1,1
+Cutaneous T-cell lymphoma,DEXAMETHASONE,1,Recruiting,NR3C1,1
+Crohn's disease,PREDNISOLONE,3,Terminated,NR3C1,1
+Cystic fibrosis,PREDNISONE,3,Recruiting,NR3C1,1
+Duchenne muscular dystrophy,DEFLAZACORT,3,"Active, not recruiting",NR3C1,1
+Duchenne muscular dystrophy,DEFLAZACORT,3,Withdrawn,NR3C1,1
+Duchenne muscular dystrophy,DEFLAZACORT,4,n/a,NR3C1,1
+Duchenne muscular dystrophy,PREDNISOLONE,1,Recruiting,NR3C1,1
+Duchenne muscular dystrophy,PREDNISOLONE,2,Completed,NR3C1,1
+Crohn's disease,PREDNISOLONE,4,"Active, not recruiting",NR3C1,1
+Crohn's disease,METHYLPREDNISOLONE,4,Withdrawn,NR3C1,1
+Duchenne muscular dystrophy,PREDNISONE,2,Withdrawn,NR3C1,1
+Congenital adrenal hyperplasia,PREDNISONE,4,Recruiting,NR3C1,1
+Congenital adrenal hyperplasia,DEXAMETHASONE,4,Recruiting,NR3C1,1
+Congenital adrenal hyperplasia,HYDROCORTISONE,2,Not yet recruiting,NR3C1,1
+Congenital adrenal hyperplasia,HYDROCORTISONE,2,Unknown status,NR3C1,1
+Congenital adrenal hyperplasia,HYDROCORTISONE,3,Recruiting,NR3C1,1
+Congenital adrenal hyperplasia,HYDROCORTISONE,4,Recruiting,NR3C1,1
+Congenital adrenal hyperplasia,PREDNISOLONE,4,Recruiting,NR3C1,1
+Congenital tracheal stenosis,PREDNISOLONE,4,Completed,NR3C1,1
+Crohn's disease,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+Cough,BETAMETHASONE,3,Completed,NR3C1,1
+Crohn's disease,BUDESONIDE,2,Completed,NR3C1,1
+Crohn's disease,BUDESONIDE,2,Recruiting,NR3C1,1
+Crohn's disease,BUDESONIDE,4,Completed,NR3C1,1
+Crohn's disease,DEXAMETHASONE,3,Terminated,NR3C1,1
+Crohn's disease,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+Duchenne muscular dystrophy,PREDNISONE,2,Recruiting,NR3C1,1
+Duchenne muscular dystrophy,PREDNISONE,3,"Active, not recruiting",NR3C1,1
+Plantar Fasciitis,DEXAMETHASONE,2,Completed,NR3C1,1
+Granulomatosis with Polyangiitis,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+Friedreich ataxia,METHYLPREDNISOLONE,0,Completed,NR3C1,1
+Gastrointestinal stromal tumor,PREDNISONE,2,Completed,NR3C1,1
+Giant Lymph Node Hyperplasia,PREDNISONE,2,Recruiting,NR3C1,1
+Glucocorticoid resistance,BUDESONIDE,4,Recruiting,NR3C1,1
+Glucose intolerance,PREDNISONE,1,"Active, not recruiting",NR3C1,1
+Granulomatosis with Polyangiitis,METHYLPREDNISOLONE,3,Terminated,NR3C1,1
+Granulomatosis with Polyangiitis,PREDNISOLONE,2,Completed,NR3C1,1
+Fanconi anemia,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+Granulomatosis with Polyangiitis,PREDNISONE,2,Completed,NR3C1,1
+Granulomatosis with Polyangiitis,PREDNISONE,3,Terminated,NR3C1,1
+Granulomatosis with Polyangiitis,PREDNISONE,4,Completed,NR3C1,1
+Graves disease,DEXAMETHASONE,1,Completed,NR3C1,1
+Graves ophthalmopathy,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+Graves ophthalmopathy,METHYLPREDNISOLONE,2,Not yet recruiting,NR3C1,1
+Fanconi anemia,PREDNISONE,1,Recruiting,NR3C1,1
+Fanconi anemia,METHYLPREDNISOLONE,1,Completed,NR3C1,1
+Duchenne muscular dystrophy,PREDNISONE,3,Terminated,NR3C1,1
+Eczema,BETAMETHASONE VALERATE,4,Completed,NR3C1,1
+Dupuytren Contracture,TRIAMCINOLONE ACETONIDE,3,Completed,NR3C1,1
+Dysphagia,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,1
+Dysphagia,DEXAMETHASONE,3,Terminated,NR3C1,1
+Dysphagia,DEXAMETHASONE,4,Recruiting,NR3C1,1
+Dysphagia,METHYLPREDNISOLONE,3,"Active, not recruiting",NR3C1,1
+Eczema,BETAMETHASONE,3,Completed,NR3C1,1
+Eczema,CLOBETASOL PROPIONATE,4,Completed,NR3C1,1
+Familial lipoprotein lipase deficiency,PREDNISOLONE,2,Withdrawn,NR3C1,1
+Eczema,DEXAMETHASONE,3,Withdrawn,NR3C1,1
+Eczema,HYDROCORTISONE,3,Completed,NR3C1,1
+Eczema,PREDNISOLONE,3,Completed,NR3C1,1
+Fallopian Tube Carcinoma,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+Fallopian Tube Carcinoma,MIFEPRISTONE,2,Completed,NR3C1,1
+Familial lipoprotein lipase deficiency,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+Congenital adrenal hyperplasia,DEXAMETHASONE,2,Completed,NR3C1,1
+Congenital adrenal hyperplasia,CORTISONE ACETATE,4,Recruiting,NR3C1,1
+Congenital adrenal hyperplasia,CORTISONE ACETATE,2,Unknown status,NR3C1,1
+Bell's palsy,PREDNISONE,2,Recruiting,NR3C1,1
+Autoimmune Hepatitis,PREDNISONE,4,Completed,NR3C1,1
+Autosomal recessive limb-girdle muscular dystrophy type 2B,DEFLAZACORT,2,Completed,NR3C1,1
+B-cell acute lymphoblastic leukemia,DEXAMETHASONE,2,Completed,NR3C1,1
+Barrett's esophagus,PREDNISOLONE,4,Not yet recruiting,NR3C1,1
+Bell's palsy,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+Bell's palsy,PREDNISOLONE,4,Completed,NR3C1,1
+Biliary atresia,PREDNISOLONE,3,Unknown status,NR3C1,1
+Autoimmune Hepatitis,BUDESONIDE,2,Completed,NR3C1,1
+Borderline personality disorder,HYDROCORTISONE,2,Not yet recruiting,NR3C1,1
+Borderline personality disorder,MIFEPRISTONE,2,Terminated,NR3C1,1
+Bronchiectasis,BECLOMETHASONE DIPROPIONATE,3,Recruiting,NR3C1,1
+Bronchiectasis,BUDESONIDE,4,Completed,NR3C1,1
+Bronchiolitis,BETAMETHASONE,2,Terminated,NR3C1,1
+Bronchiolitis,DEXAMETHASONE,1,Completed,NR3C1,1
+Autoimmune Hepatitis,PREDNISONE,2,Completed,NR3C1,1
+Aortic Coarctation,DEXAMETHASONE,1,Completed,NR3C1,1
+Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,PREDNISONE,4,n/a,NR3C1,1
+Achalasia - microcephaly,PREDNISONE,4,Enrolling by invitation,NR3C1,1
+AL amyloidosis,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+AL amyloidosis,DEXAMETHASONE,1,Completed,NR3C1,1
+AL amyloidosis,DEXAMETHASONE,1,Unknown status,NR3C1,1
+AL amyloidosis,DEXAMETHASONE,3,Completed,NR3C1,1
+AL amyloidosis,DEXAMETHASONE,3,Recruiting,NR3C1,1
+Acanthamoeba keratitis,PREDNISOLONE PHOSPHORIC ACID,2,Recruiting,NR3C1,1
+Adenomyosis,MIFEPRISTONE,2,Recruiting,NR3C1,1
+"Anemia, Hemolytic, Autoimmune",PREDNISONE,2,Completed,NR3C1,1
+Alopecia,CLOBETASOL PROPIONATE,4,Unknown status,NR3C1,1
+Alopecia totalis,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+Alopecia universalis,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+Alzheimer's disease,MIFEPRISTONE,2,Terminated,NR3C1,1
+Alzheimer's disease,PREDNISONE,3,Completed,NR3C1,1
+"Anemia, Hemolytic, Autoimmune",PREDNISOLONE,3,Completed,NR3C1,1
+Bronchiolitis,DEXAMETHASONE,2,Unknown status,NR3C1,1
+Bronchiolitis,DEXAMETHASONE,3,Completed,NR3C1,1
+Bronchiolitis,DEXAMETHASONE,3,Recruiting,NR3C1,1
+Chemotherapy-induced nausea and vomiting,DEXAMETHASONE,3,Terminated,NR3C1,1
+Burkitts lymphoma,PREDNISONE,2,"Active, not recruiting",NR3C1,1
+Burkitts lymphoma,PREDNISONE,2,Completed,NR3C1,1
+Chemotherapy-induced nausea and vomiting,DEXAMETHASONE,1,Terminated,NR3C1,1
+Chemotherapy-induced nausea and vomiting,DEXAMETHASONE,2,Not yet recruiting,NR3C1,1
+Chemotherapy-induced nausea and vomiting,DEXAMETHASONE,2,Terminated,NR3C1,1
+Chemotherapy-induced nausea and vomiting,DEXAMETHASONE,3,Recruiting,NR3C1,1
+Chemotherapy-induced nausea and vomiting,DEXAMETHASONE,3,Unknown status,NR3C1,1
+Bronchiolitis,DEXAMETHASONE,4,Withdrawn,NR3C1,1
+Churg-Strauss syndrome,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+Churg-Strauss syndrome,PREDNISOLONE,3,"Active, not recruiting",NR3C1,1
+Churg-Strauss syndrome,PREDNISONE,2,Terminated,NR3C1,1
+Churg-Strauss syndrome,PREDNISONE,4,Completed,NR3C1,1
+Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,HYDROCORTISONE,1,Completed,NR3C1,1
+Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,PREDNISOLONE,4,n/a,NR3C1,1
+Burkitts lymphoma,PREDNISONE,1,Recruiting,NR3C1,1
+Burkitts lymphoma,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+Burkitts lymphoma,HYDROCORTISONE HEMISUCCINATE,2,Completed,NR3C1,1
+Burkitts lymphoma,DEXAMETHASONE,2,Completed,NR3C1,1
+Bronchopulmonary dysplasia,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+Bronchopulmonary dysplasia,HYDROCORTISONE,3,Completed,NR3C1,1
+Bronchopulmonary dysplasia,HYDROCORTISONE,2,Completed,NR3C1,1
+Bronchopulmonary dysplasia,DEXAMETHASONE,3,Completed,NR3C1,1
+Bronchopulmonary dysplasia,DEXAMETHASONE,2,Unknown status,NR3C1,1
+Bronchopulmonary dysplasia,BUDESONIDE,3,Completed,NR3C1,1
+Bronchopulmonary dysplasia,BUDESONIDE,2,Withdrawn,NR3C1,1
+Bronchopulmonary dysplasia,BUDESONIDE,2,Unknown status,NR3C1,1
+Bronchopulmonary dysplasia,BUDESONIDE,1,Completed,NR3C1,1
+Bronchopulmonary dysplasia,BECLOMETHASONE DIPROPIONATE,2,Unknown status,NR3C1,1
+Bronchiolitis,PREDNISOLONE,4,Completed,NR3C1,1
+Bronchiolitis,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+Bronchiolitis,FLUTICASONE PROPIONATE,2,Terminated,NR3C1,1
+Graves ophthalmopathy,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+Graves ophthalmopathy,METHYLPREDNISOLONE,4,Recruiting,NR3C1,1
+Graves ophthalmopathy,METHYLPREDNISOLONE,4,Unknown status,NR3C1,1
+Nasal Cavity Polyp,BECLOMETHASONE DIPROPIONATE,2,Completed,NR3C1,1
+Multiple Organ Failure,PREDNISOLONE,4,Unknown status,NR3C1,1
+Myasthenia gravis,METHYLPREDNISOLONE,1,Terminated,NR3C1,1
+Myasthenia gravis,PREDNISONE,3,Completed,NR3C1,1
+Myasthenia gravis,PREDNISONE,3,Terminated,NR3C1,1
+Myasthenia gravis,PREDNISONE,4,Completed,NR3C1,1
+Mycoplasma pneumoniae pneumonia,PREDNISOLONE,4,Recruiting,NR3C1,1
+Nasal Cavity Polyp,BUDESONIDE,2,Completed,NR3C1,1
+Meningioma,MIFEPRISTONE,3,Completed,NR3C1,1
+Nasal Cavity Polyp,FLUTICASONE FUROATE,4,Terminated,NR3C1,1
+Nasal Cavity Polyp,FLUTICASONE PROPIONATE,4,Completed,NR3C1,1
+Nasal Cavity Polyp,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+Nasal Cavity Polyp,MOMETASONE FUROATE,2,Completed,NR3C1,1
+Nasal Cavity Polyp,MOMETASONE FUROATE,3,Recruiting,NR3C1,1
+Nasal Cavity Polyp,MOMETASONE FUROATE,4,Terminated,NR3C1,1
+Miyoshi myopathy,DEFLAZACORT,2,Completed,NR3C1,1
+Meniere disease,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+Keloid,TRIAMCINOLONE ACETONIDE,4,Terminated,NR3C1,1
+Mantle cell lymphoma,DEXAMETHASONE,1,Unknown status,NR3C1,1
+Langerhans Cell Histiocytosis,PREDNISONE,3,Recruiting,NR3C1,1
+Limb-girdle muscular dystrophy,DEFLAZACORT,3,Not yet recruiting,NR3C1,1
+"Lymphoma, AIDS-Related",METHYLPREDNISOLONE,2,Completed,NR3C1,1
+"Lymphoma, AIDS-Related",PREDNISONE,2,"Active, not recruiting",NR3C1,1
+"Lymphoma, AIDS-Related",PREDNISONE,2,Terminated,NR3C1,1
+Mantle cell lymphoma,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+Mantle cell lymphoma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+Mastodynia,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+Mantle cell lymphoma,DEXAMETHASONE,2,Not yet recruiting,NR3C1,1
+Mantle cell lymphoma,DEXAMETHASONE,2,Terminated,NR3C1,1
+Mantle cell lymphoma,DEXAMETHASONE,2,Unknown status,NR3C1,1
+Mantle cell lymphoma,DEXAMETHASONE,4,Recruiting,NR3C1,1
+Mantle cell lymphoma,DEXAMETHASONE PHOSPHORIC ACID,2,Not yet recruiting,NR3C1,1
+Mantle cell lymphoma,PREDNISONE,4,Recruiting,NR3C1,1
+Nasal Cavity Polyp,PREDNISOLONE,4,Completed,NR3C1,1
+Nasal Cavity Polyp,PREDNISONE,3,Completed,NR3C1,1
+Nasal Cavity Polyp,TRIAMCINOLONE,1,Terminated,NR3C1,1
+Optic neuropathy,METHYLPREDNISOLONE,1,Completed,NR3C1,1
+Nasal obstruction,TRIAMCINOLONE HEXACETONIDE,4,n/a,NR3C1,1
+Nausea,DEXAMETHASONE,2,Terminated,NR3C1,1
+Nausea,DEXAMETHASONE,3,Completed,NR3C1,1
+Nausea,DEXAMETHASONE,4,Completed,NR3C1,1
+Nausea,DEXAMETHASONE ACETATE,2,Terminated,NR3C1,1
+Nausea and vomiting,DEXAMETHASONE,2,Completed,NR3C1,1
+Otitis media,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+Nasal obstruction,BECLOMETHASONE DIPROPIONATE,4,n/a,NR3C1,1
+Otitis media,DEXAMETHASONE,2,Terminated,NR3C1,1
+Otitis media,DEXAMETHASONE,3,Terminated,NR3C1,1
+Ovarian hyperstimulation syndrome,DEXAMETHASONE,2,Unknown status,NR3C1,1
+Ovarian hyperstimulation syndrome,DEXAMETHASONE,3,Unknown status,NR3C1,1
+Ovarian hyperstimulation syndrome,METHYLPREDNISOLONE,1,Completed,NR3C1,1
+Peptic ulcer,PREDNISOLONE,4,n/a,NR3C1,1
+Nasal obstruction,TRIAMCINOLONE DIACETATE,4,n/a,NR3C1,1
+Nasal obstruction,TRIAMCINOLONE ACETONIDE,4,Unknown status,NR3C1,1
+Nasal obstruction,TRIAMCINOLONE,4,n/a,NR3C1,1
+Nasal obstruction,PREDNISOLONE TEBUTATE,4,n/a,NR3C1,1
+Nasal obstruction,PREDNISOLONE ACETATE,4,n/a,NR3C1,1
+Nasal obstruction,MOMETASONE FUROATE,4,n/a,NR3C1,1
+Nasal obstruction,HYDROCORTISONE,4,n/a,NR3C1,1
+Nasal obstruction,FLUTICASONE FUROATE,4,n/a,NR3C1,1
+Nasal obstruction,FLUNISOLIDE,4,n/a,NR3C1,1
+Nasal obstruction,CICLESONIDE,4,n/a,NR3C1,1
+Nasal obstruction,BUDESONIDE,4,n/a,NR3C1,1
+Nasal obstruction,BETAMETHASONE VALERATE,4,n/a,NR3C1,1
+Nasal obstruction,BETAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,1
+Nasal obstruction,BETAMETHASONE DIPROPIONATE,4,n/a,NR3C1,1
+Nasal obstruction,BETAMETHASONE BENZOATE,4,n/a,NR3C1,1
+Nasal obstruction,BETAMETHASONE ACETATE,4,n/a,NR3C1,1
+Nasal obstruction,BETAMETHASONE,4,n/a,NR3C1,1
+Langerhans Cell Histiocytosis,PREDNISONE,2,Recruiting,NR3C1,1
+Keloid,TRIAMCINOLONE,4,Unknown status,NR3C1,1
+Graves ophthalmopathy,METHYLPREDNISOLONE HEMISUCCINATE,4,Unknown status,NR3C1,1
+Henoch-Schoenlein purpura,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+Headache,PREDNISOLONE,3,Completed,NR3C1,1
+Headache,TRIAMCINOLONE,4,Recruiting,NR3C1,1
+Hemophilia A,PREDNISONE,2,Terminated,NR3C1,1
+Hemophilia A,PREDNISONE,4,Recruiting,NR3C1,1
+Henoch-Schoenlein purpura,DEXAMETHASONE,2,Recruiting,NR3C1,1
+Henoch-Schoenlein purpura,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+"Hepatitis, Alcoholic",METHYLPREDNISOLONE,2,Completed,NR3C1,1
+Headache,DEXAMETHASONE,4,Recruiting,NR3C1,1
+"Hepatitis, Alcoholic",PREDNISOLONE,3,Recruiting,NR3C1,1
+"Hepatitis, Alcoholic",PREDNISOLONE,3,Unknown status,NR3C1,1
+"Hepatitis, Alcoholic",PREDNISONE,2,Unknown status,NR3C1,1
+"Hepatitis, Alcoholic",PREDNISONE,4,Completed,NR3C1,1
+Herpes Labialis,CLOBETASOL PROPIONATE,2,Completed,NR3C1,1
+Herpes Labialis,HYDROCORTISONE,3,Completed,NR3C1,1
+Headache,HYDROCORTISONE,4,Completed,NR3C1,1
+Headache,DEXAMETHASONE,3,Recruiting,NR3C1,1
+Keloid,TRIAMCINOLONE,4,Terminated,NR3C1,1
+HIV infection,MIFEPRISTONE,1,Completed,NR3C1,1
+Graves ophthalmopathy,PREDNISONE,2,Unknown status,NR3C1,1
+Graves ophthalmopathy,PREDNISONE,4,Unknown status,NR3C1,1
+Graves ophthalmopathy,TRIAMCINOLONE,4,Completed,NR3C1,1
+HELLP syndrome,DEXAMETHASONE,3,Unknown status,NR3C1,1
+HELLP syndrome,DEXAMETHASONE,4,"Active, not recruiting",NR3C1,1
+HIV infection,HYDROCORTISONE,0,Recruiting,NR3C1,1
+HIV infection,MIFEPRISTONE,2,Completed,NR3C1,1
+Headache,DEXAMETHASONE,3,Completed,NR3C1,1
+HIV infection,PREDNISOLONE,2,Completed,NR3C1,1
+HIV infection,PREDNISONE,1,Completed,NR3C1,1
+HIV infection,PREDNISONE,2,Completed,NR3C1,1
+HIV infection,PREDNISONE,4,Completed,NR3C1,1
+HIV-associated nephropathy,PREDNISONE,2,Completed,NR3C1,1
+Hantavirus infectious disease,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+Herpes Labialis,HYDROCORTISONE,4,n/a,NR3C1,1
+Herpes simplex virus keratitis,PREDNISOLONE PHOSPHORIC ACID,3,Unknown status,NR3C1,1
+Herpetic encephalitis,DEXAMETHASONE,3,Not yet recruiting,NR3C1,1
+IGA glomerulonephritis,PREDNISONE,2,Completed,NR3C1,1
+IGA glomerulonephritis,BUDESONIDE,2,Completed,NR3C1,1
+IGA glomerulonephritis,METHYLPREDNISOLONE,3,"Active, not recruiting",NR3C1,1
+IGA glomerulonephritis,METHYLPREDNISOLONE HEMISUCCINATE,3,"Active, not recruiting",NR3C1,1
+IGA glomerulonephritis,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+IGA glomerulonephritis,PREDNISOLONE,2,Unknown status,NR3C1,1
+IGA glomerulonephritis,PREDNISOLONE,3,Completed,NR3C1,1
+IGA glomerulonephritis,PREDNISONE,3,"Active, not recruiting",NR3C1,1
+Hodgkins lymphoma,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+IGA glomerulonephritis,PREDNISONE,3,Completed,NR3C1,1
+Ischemic stroke,METHYLPREDNISOLONE,3,Not yet recruiting,NR3C1,1
+Ischemic stroke,PREDNISOLONE,3,Not yet recruiting,NR3C1,1
+Keloid,DEXAMETHASONE,4,Completed,NR3C1,1
+Keloid,TRIAMCINOLONE,3,Recruiting,NR3C1,1
+Keloid,TRIAMCINOLONE,4,Completed,NR3C1,1
+Hyperglycemia,HYDROCORTISONE,4,Completed,NR3C1,1
+Hypereosinophilic syndrome,PREDNISONE,3,Recruiting,NR3C1,1
+Hypereosinophilic syndrome,PREDNISOLONE,3,Recruiting,NR3C1,1
+Hypercalcemia,PREDNISONE,4,n/a,NR3C1,1
+Hypercalcemia,PREDNISOLONE,4,n/a,NR3C1,1
+Hodgkins lymphoma,PREDNISONE,4,Unknown status,NR3C1,1
+Hodgkins lymphoma,PREDNISONE,3,"Active, not recruiting",NR3C1,1
+Hodgkins lymphoma,PREDNISONE,2,Unknown status,NR3C1,1
+Hodgkins lymphoma,PREDNISONE,1,Recruiting,NR3C1,1
+Hodgkins lymphoma,PREDNISOLONE,2,Recruiting,NR3C1,1
+Hodgkins lymphoma,PREDNISOLONE,1,Unknown status,NR3C1,1
+Hodgkins lymphoma,METHYLPREDNISOLONE,4,Recruiting,NR3C1,1
+Hodgkins lymphoma,DEXAMETHASONE,3,Recruiting,NR3C1,1
+Hodgkins lymphoma,DEXAMETHASONE,3,Completed,NR3C1,1
+Hodgkins lymphoma,DEXAMETHASONE,2,Terminated,NR3C1,1
+Hodgkins lymphoma,DEXAMETHASONE,2,Completed,NR3C1,1
+Hodgkins lymphoma,DEXAMETHASONE,1,Completed,NR3C1,1
+anxiety,MIFEPRISTONE,1,Completed,NR3C1,1
+aphthous ulcer,PREDNISOLONE,2,Unknown status,NR3C1,1
+aplastic anemia,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+eye disease,DEXAMETHASONE,3,Withdrawn,NR3C1,1
+esophageal carcinoma,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+esophageal stricture,BUDESONIDE,2,Recruiting,NR3C1,1
+esophageal stricture,PREDNISONE,1,Recruiting,NR3C1,1
+essential thrombocythemia,PREDNISONE,2,Completed,NR3C1,1
+extrinsic allergic alveolitis,PREDNISOLONE,2,Suspended,NR3C1,1
+eye disease,DEXAMETHASONE,3,Completed,NR3C1,1
+eye disease,DEXAMETHASONE,4,Completed,NR3C1,1
+erythema multiforme,PREDNISOLONE,4,n/a,NR3C1,1
+eye disease,LOTEPREDNOL ETABONATE,4,Completed,NR3C1,1
+eye disease,MAPRACORAT,1,Completed,NR3C1,1
+eye infection,PREDNISOLONE ACETATE,3,Completed,NR3C1,1
+eye inflammation,ALCLOMETASONE DIPROPIONATE,4,n/a,NR3C1,1
+eye inflammation,CORTISONE ACETATE,4,n/a,NR3C1,1
+eye inflammation,DESONIDE,4,n/a,NR3C1,1
+erythema multiforme,PREDNISONE,4,n/a,NR3C1,1
+epilepsy,PREDNISOLONE,4,Unknown status,NR3C1,1
+eye inflammation,LOTEPREDNOL ETABONATE,4,n/a,NR3C1,1
+eosinophilic esophagitis,BUDESONIDE,4,Completed,NR3C1,1
+endometriosis,CYPROTERONE ACETATE,3,Recruiting,NR3C1,1
+endometriosis,MIFEPRISTONE,2,Completed,NR3C1,1
+eosinophilic esophagitis,BECLOMETHASONE DIPROPIONATE,1,Completed,NR3C1,1
+eosinophilic esophagitis,BUDESONIDE,2,"Active, not recruiting",NR3C1,1
+eosinophilic esophagitis,BUDESONIDE,3,Recruiting,NR3C1,1
+eosinophilic esophagitis,BUDESONIDE,4,"Active, not recruiting",NR3C1,1
+eosinophilic esophagitis,FLUTICASONE PROPIONATE,2,Recruiting,NR3C1,1
+epicondylitis,PREDNISOLONE,3,Recruiting,NR3C1,1
+eosinophilic esophagitis,FLUTICASONE PROPIONATE,3,Completed,NR3C1,1
+eosinophilic esophagitis,FLUTICASONE PROPIONATE,4,"Active, not recruiting",NR3C1,1
+eosinophilic esophagitis,FLUTICASONE PROPIONATE,4,Completed,NR3C1,1
+eosinophilic esophagitis,FLUTICASONE PROPIONATE,4,Recruiting,NR3C1,1
+eosinophilic esophagitis,MOMETASONE FUROATE,2,Terminated,NR3C1,1
+eosinophilic pneumonia,PREDNISONE,4,n/a,NR3C1,1
+eye inflammation,FLUOCINOLONE ACETONIDE,4,n/a,NR3C1,1
+eye inflammation,MEDRYSONE,4,n/a,NR3C1,1
+aplastic anemia,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+glaucoma,PREDNISOLONE,4,Completed,NR3C1,1
+frozen shoulder,PREDNISONE,4,n/a,NR3C1,1
+frozen shoulder,TRIAMCINOLONE ACETONIDE,3,Unknown status,NR3C1,1
+glaucoma,BETAMETHASONE,2,Completed,NR3C1,1
+glaucoma,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,1
+glaucoma,DEXAMETHASONE,4,Completed,NR3C1,1
+glaucoma,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+glaucoma,TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,1
+frozen shoulder,METHYLPREDNISOLONE ACETATE,4,Withdrawn,NR3C1,1
+glaucoma,TRIAMCINOLONE ACETONIDE,4,Not yet recruiting,NR3C1,1
+glomerular disease,PREDNISONE,4,Unknown status,NR3C1,1
+gout,CORTISONE ACETATE,4,n/a,NR3C1,1
+gout,DEXAMETHASONE,2,Completed,NR3C1,1
+gout,PREDNISOLONE,4,n/a,NR3C1,1
+gout,PREDNISONE,4,n/a,NR3C1,1
+frozen shoulder,PREDNISOLONE,4,n/a,NR3C1,1
+frozen shoulder,DEXAMETHASONE,3,Completed,NR3C1,1
+eye inflammation,RIMEXOLONE,4,n/a,NR3C1,1
+fibromatosis,TRIAMCINOLONE ACETONIDE,1,Recruiting,NR3C1,1
+eye inflammation,TRIAMCINOLONE,4,n/a,NR3C1,1
+eye inflammation,TRIAMCINOLONE DIACETATE,4,n/a,NR3C1,1
+eye inflammation,TRIAMCINOLONE HEXACETONIDE,4,n/a,NR3C1,1
+eye injury,TRIAMCINOLONE ACETONIDE,3,Recruiting,NR3C1,1
+facial pain,DEXAMETHASONE,4,Completed,NR3C1,1
+facial pain,TRIAMCINOLONE,4,Completed,NR3C1,1
+fibromyalgia,HYDROCORTISONE,0,Completed,NR3C1,1
+freckles,TRIAMCINOLONE,2,Suspended,NR3C1,1
+fibrosis,PREDNISONE,2,Unknown status,NR3C1,1
+22q11.2 deletion syndrome,METHYLPREDNISOLONE,1,Recruiting,NR3C1,1
+focal segmental glomerulosclerosis,PREDNISONE,2,Recruiting,NR3C1,1
+folliculitis,BECLOMETHASONE DIPROPIONATE,2,Suspended,NR3C1,1
+freckles,FLUOCINOLONE ACETONIDE,4,Terminated,NR3C1,1
+freckles,FLUOCINOLONE ACETONIDE,4,n/a,NR3C1,1
+endometrial neoplasm,MIFEPRISTONE,2,Completed,NR3C1,1
+endometrial neoplasm,DEXAMETHASONE,2,Completed,NR3C1,1
+emphysema,FLUTICASONE PROPIONATE,4,n/a,NR3C1,1
+diabetic retinopathy,TRIAMCINOLONE ACETONIDE,2,Unknown status,NR3C1,1
+diabetic macular edema,FLUOCINOLONE ACETONIDE,4,"Active, not recruiting",NR3C1,1
+diabetic macular edema,FLUOCINOLONE ACETONIDE,4,Withdrawn,NR3C1,1
+diabetic macular edema,TRIAMCINOLONE,3,Unknown status,NR3C1,1
+diabetic retinopathy,DEXAMETHASONE,4,n/a,NR3C1,1
+diabetic retinopathy,TRIAMCINOLONE,1,Unknown status,NR3C1,1
+diabetic retinopathy,TRIAMCINOLONE ACETONIDE,1,Unknown status,NR3C1,1
+diarrhea,BUDESONIDE,2,Recruiting,NR3C1,1
+diabetic macular edema,DEXAMETHASONE,4,Recruiting,NR3C1,1
+diffuse large B-cell lymphoma,DEXAMETHASONE,1,Not yet recruiting,NR3C1,1
+diffuse large B-cell lymphoma,DEXAMETHASONE,1,Withdrawn,NR3C1,1
+diffuse large B-cell lymphoma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+diffuse large B-cell lymphoma,DEXAMETHASONE,2,Unknown status,NR3C1,1
+diffuse large B-cell lymphoma,HYDROCORTISONE,2,Terminated,NR3C1,1
+diffuse large B-cell lymphoma,HYDROCORTISONE HEMISUCCINATE,2,Completed,NR3C1,1
+diabetic macular edema,DEXAMETHASONE,4,Terminated,NR3C1,1
+diabetic macular edema,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+emphysema,FLUTICASONE PROPIONATE,4,Completed,NR3C1,1
+dermatomyositis,PREDNISONE,3,Completed,NR3C1,1
+deafness,PREDNISONE,3,Completed,NR3C1,1
+delirium,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+dermatitis herpetiformis,PREDNISOLONE,4,n/a,NR3C1,1
+dermatitis herpetiformis,PREDNISONE,4,n/a,NR3C1,1
+dermatomyositis,PREDNISOLONE,4,n/a,NR3C1,1
+dermatomyositis,PREDNISONE,2,Terminated,NR3C1,1
+dermatomyositis,PREDNISONE,4,n/a,NR3C1,1
+diabetic macular edema,DEXAMETHASONE,2,Unknown status,NR3C1,1
+diabetes mellitus,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+diabetes mellitus,FLUTICASONE PROPIONATE,1,Completed,NR3C1,1
+diabetic macular edema,BETAMETHASONE,2,Completed,NR3C1,1
+diabetic macular edema,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+diabetic macular edema,DEXAMETHASONE,1,Completed,NR3C1,1
+diabetic macular edema,DEXAMETHASONE,2,Not yet recruiting,NR3C1,1
+diffuse large B-cell lymphoma,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+diffuse large B-cell lymphoma,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+diffuse large B-cell lymphoma,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+dry eye syndrome,MAPRACORAT,2,Completed,NR3C1,1
+dry eye syndrome,DEXAMETHASONE PHOSPHORIC ACID,3,Completed,NR3C1,1
+dry eye syndrome,DIFLUPREDNATE,2,Completed,NR3C1,1
+dry eye syndrome,FLUOROMETHOLONE,3,Completed,NR3C1,1
+dry eye syndrome,LOTEPREDNOL ETABONATE,2,Completed,NR3C1,1
+dry eye syndrome,LOTEPREDNOL ETABONATE,4,Completed,NR3C1,1
+dry eye syndrome,LOTEPREDNOL ETABONATE,4,Withdrawn,NR3C1,1
+dry eye syndrome,RIMEXOLONE,3,Completed,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISOLONE,1,Completed,NR3C1,1
+ductal carcinoma in situ,MIFEPRISTONE,0,Terminated,NR3C1,1
+edema,DEXAMETHASONE,4,Completed,NR3C1,1
+edema,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+edema,METHYLPREDNISOLONE,4,Recruiting,NR3C1,1
+emphysema,BUDESONIDE,3,Unknown status,NR3C1,1
+emphysema,BUDESONIDE,4,n/a,NR3C1,1
+dry eye syndrome,DEXAMETHASONE PHOSPHORIC ACID,2,Completed,NR3C1,1
+dry eye syndrome,DEXAMETHASONE,2,Completed,NR3C1,1
+dry eye syndrome,DEXAMETHASONE,1,Completed,NR3C1,1
+drug-induced hepatitis,METHYLPREDNISOLONE,1,Recruiting,NR3C1,1
+drug-induced hepatitis,METHYLPREDNISOLONE,1,"Active, not recruiting",NR3C1,1
+digestive system disease,PREDNISONE,4,Terminated,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISONE,4,Unknown status,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISONE,3,Withdrawn,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISONE,2,Withdrawn,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISONE,2,Not yet recruiting,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISONE,2,Enrolling by invitation,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISONE,1,Not yet recruiting,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISOLONE,3,Completed,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISOLONE,2,Recruiting,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISOLONE,2,Completed,NR3C1,1
+diffuse large B-cell lymphoma,PREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+diffuse large B-cell lymphoma,PREDNISOLONE,1,Suspended,NR3C1,1
+gout,TRIAMCINOLONE ACETONIDE,2,"Active, not recruiting",NR3C1,1
+gout,TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,1
+gout,TRIAMCINOLONE ACETONIDE,3,Terminated,NR3C1,1
+kidney disease,PREDNISONE,4,Completed,NR3C1,1
+kidney disease,METHYLPREDNISOLONE,1,Completed,NR3C1,1
+kidney disease,METHYLPREDNISOLONE,3,"Active, not recruiting",NR3C1,1
+kidney disease,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+kidney disease,PREDNISOLONE,3,Completed,NR3C1,1
+kidney disease,PREDNISONE,1,Completed,NR3C1,1
+kidney disease,PREDNISONE,3,Completed,NR3C1,1
+knee injury,DEXAMETHASONE,3,Completed,NR3C1,1
+juvenile idiopathic arthritis,PREDNISONE,4,n/a,NR3C1,1
+lateral epicondylitis,METHYLPREDNISOLONE ACETATE,2,Completed,NR3C1,1
+lateral epicondylitis,TRIAMCINOLONE ACETONIDE,3,Unknown status,NR3C1,1
+lateral epicondylitis,TRIAMCINOLONE ACETONIDE,4,Terminated,NR3C1,1
+lateral epicondylitis,TRIAMCINOLONE ACETONIDE,4,Unknown status,NR3C1,1
+leptomeningeal metastasis,DEXAMETHASONE,1,Completed,NR3C1,1
+leptospirosis,DEXAMETHASONE,2,Terminated,NR3C1,1
+keratoconjunctivitis sicca,LOTEPREDNOL ETABONATE,2,Completed,NR3C1,1
+juvenile idiopathic arthritis,PREDNISOLONE,4,Completed,NR3C1,1
+injury,HYDROCORTISONE,2,Completed,NR3C1,1
+intracranial subdural hematoma,DEXAMETHASONE,4,Terminated,NR3C1,1
+intermediate uveitis,DEXAMETHASONE,2,Completed,NR3C1,1
+intermediate uveitis,DEXAMETHASONE,4,Recruiting,NR3C1,1
+intermediate uveitis,TRIAMCINOLONE ACETONIDE,1,Completed,NR3C1,1
+interstitial cystitis,TRIAMCINOLONE ACETONIDE,3,Recruiting,NR3C1,1
+intracranial hypertension,DEXAMETHASONE,2,Completed,NR3C1,1
+intracranial subdural hematoma,DEXAMETHASONE,2,Terminated,NR3C1,1
+intracranial subdural hematoma,METHYLPREDNISOLONE,3,Recruiting,NR3C1,1
+juvenile dermatomyositis,PREDNISONE,3,Unknown status,NR3C1,1
+intrahepatic cholangiocarcinoma,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+intrahepatic cholangiocarcinoma,DEXAMETHASONE,2,Recruiting,NR3C1,1
+iritis,PREDNISOLONE,4,n/a,NR3C1,1
+iritis,PREDNISOLONE ACETATE,2,Unknown status,NR3C1,1
+iritis,PREDNISONE,4,n/a,NR3C1,1
+juvenile dermatomyositis,METHYLPREDNISOLONE,3,Unknown status,NR3C1,1
+leukemia,DEXAMETHASONE,1,Terminated,NR3C1,1
+leukemia,DEXAMETHASONE,4,Completed,NR3C1,1
+leukemia,DEXAMETHASONE ACETATE,3,"Active, not recruiting",NR3C1,1
+liver disease,DEFLAZACORT,1,Completed,NR3C1,1
+lichen planus,CLOBETASOL PROPIONATE,2,Unknown status,NR3C1,1
+lichen planus,DEXAMETHASONE,2,Recruiting,NR3C1,1
+limb injury,DEXAMETHASONE PHOSPHORIC ACID,0,Not yet recruiting,NR3C1,1
+lipoid nephrosis,PREDNISOLONE,4,Completed,NR3C1,1
+lipoid nephrosis,PREDNISOLONE,4,Recruiting,NR3C1,1
+lipoma,PREDNISOLONE,1,Completed,NR3C1,1
+lumbar disc herniation,TRIAMCINOLONE,4,Completed,NR3C1,1
+leukemia,HYDROCORTISONE,1,Completed,NR3C1,1
+lung carcinoma,BUDESONIDE,1,Completed,NR3C1,1
+lung carcinoma,BUDESONIDE,4,Completed,NR3C1,1
+lung carcinoma,DEXAMETHASONE,1,"Active, not recruiting",NR3C1,1
+lung carcinoma,DEXAMETHASONE,3,Completed,NR3C1,1
+lung carcinoma,DEXAMETHASONE,4,Completed,NR3C1,1
+lung carcinoma,DEXAMETHASONE,4,Unknown status,NR3C1,1
+lichen disease,CLOBETASOL PROPIONATE,2,Completed,NR3C1,1
+leukemia,PREDNISONE,4,n/a,NR3C1,1
+leukemia,PREDNISONE,3,Withdrawn,NR3C1,1
+leukemia,PREDNISONE,3,Unknown status,NR3C1,1
+leukemia,PREDNISONE,1,Recruiting,NR3C1,1
+leukemia,PREDNISOLONE,4,n/a,NR3C1,1
+leukemia,PREDNISOLONE,2,Completed,NR3C1,1
+leukemia,METHYLPREDNISOLONE HEMISUCCINATE,2,Recruiting,NR3C1,1
+leukemia,METHYLPREDNISOLONE HEMISUCCINATE,2,"Active, not recruiting",NR3C1,1
+leukemia,METHYLPREDNISOLONE,3,Unknown status,NR3C1,1
+leukemia,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+leukemia,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+leukemia,METHYLPREDNISOLONE,2,Recruiting,NR3C1,1
+leukemia,METHYLPREDNISOLONE,1,Terminated,NR3C1,1
+leukemia,HYDROCORTISONE HEMISUCCINATE,2,Unknown status,NR3C1,1
+leukemia,HYDROCORTISONE,3,Withdrawn,NR3C1,1
+leukemia,HYDROCORTISONE,3,Unknown status,NR3C1,1
+insulin resistance,HYDROCORTISONE,0,"Active, not recruiting",NR3C1,1
+injury,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+gout,TRIAMCINOLONE ACETONIDE,4,Not yet recruiting,NR3C1,1
+hepatocellular carcinoma,PREDNISONE,2,Withdrawn,NR3C1,1
+hemorrhage,DEXAMETHASONE,2,Completed,NR3C1,1
+hepatitis C infection,MIFEPRISTONE,2,Completed,NR3C1,1
+hepatitis C infection,PREDNISONE,2,Unknown status,NR3C1,1
+hepatocellular carcinoma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+hepatocellular carcinoma,DEXAMETHASONE,3,Recruiting,NR3C1,1
+hepatocellular carcinoma,PREDNISOLONE,3,Completed,NR3C1,1
+heroin dependence,HYDROCORTISONE,1,Recruiting,NR3C1,1
+hemolytic anemia,PREDNISOLONE,4,n/a,NR3C1,1
+high altitude pulmonary edema,DEXAMETHASONE,1,Completed,NR3C1,1
+hip fracture,DEXAMETHASONE,4,Terminated,NR3C1,1
+hip pain,BETAMETHASONE PHOSPHORIC ACID,2,Completed,NR3C1,1
+hordeolum,LOTEPREDNOL ETABONATE,4,Completed,NR3C1,1
+hypertrophy,MOMETASONE FUROATE,3,Completed,NR3C1,1
+hypertrophy,MOMETASONE FUROATE,4,Completed,NR3C1,1
+hemolytic anemia,PREDNISONE,4,n/a,NR3C1,1
+hemangioma,PREDNISONE,2,Terminated,NR3C1,1
+injury,DEXAMETHASONE,4,Completed,NR3C1,1
+hearing loss,PREDNISONE,2,Unknown status,NR3C1,1
+granuloma,HYDROCORTISONE BUTYRATE,4,Enrolling by invitation,NR3C1,1
+hand dermatosis,CLOBETASOL PROPIONATE,4,Completed,NR3C1,1
+hand dermatosis,TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,1
+head and neck malignant neoplasia,DEXAMETHASONE,1,Completed,NR3C1,1
+head and neck squamous cell carcinoma,DEXAMETHASONE,2,Completed,NR3C1,1
+hearing loss,DEXAMETHASONE,2,Completed,NR3C1,1
+hearing loss,TRIAMCINOLONE ACETONIDE,1,Recruiting,NR3C1,1
+hemangioma,PREDNISONE,2,Completed,NR3C1,1
+heart disease,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+heart disease,PREDNISONE,3,Completed,NR3C1,1
+heart failure,HYDROCORTISONE,2,Completed,NR3C1,1
+heart failure,PREDNISONE,2,Completed,NR3C1,1
+heart failure,PREDNISONE,3,Completed,NR3C1,1
+hemangioma,PREDNISOLONE,4,Completed,NR3C1,1
+hypoparathyroidism,BETAMETHASONE ACETATE,4,Unknown status,NR3C1,1
+hypotension,DEXAMETHASONE,4,Completed,NR3C1,1
+hypotension,HYDROCORTISONE,3,Completed,NR3C1,1
+inflammation,PREDNISOLONE,3,Unknown status,NR3C1,1
+inflammation,HYDROCORTISONE,4,Completed,NR3C1,1
+inflammation,LOTEPREDNOL ETABONATE,1,Recruiting,NR3C1,1
+inflammation,LOTEPREDNOL ETABONATE,4,Completed,NR3C1,1
+inflammation,LOTEPREDNOL ETABONATE,4,Unknown status,NR3C1,1
+inflammation,METHYLPREDNISOLONE,4,Unknown status,NR3C1,1
+inflammation,PREDNISOLONE,1,Completed,NR3C1,1
+inflammation,PREDNISOLONE ACETATE,3,Completed,NR3C1,1
+idiopathic pulmonary fibrosis,BECLOMETHASONE DIPROPIONATE,2,Completed,NR3C1,1
+inflammation,PREDNISOLONE ACETATE,3,Terminated,NR3C1,1
+inflammation,PREDNISOLONE ACETATE,4,Unknown status,NR3C1,1
+inflammation,PREDNISONE,1,Not yet recruiting,NR3C1,1
+inflammation,TRIAMCINOLONE,4,Unknown status,NR3C1,1
+inflammatory bowel disease,PREDNISONE,4,Completed,NR3C1,1
+injury,DEXAMETHASONE,1,Withdrawn,NR3C1,1
+inflammation,DEXAMETHASONE PHOSPHORIC ACID,4,n/a,NR3C1,1
+inflammation,DEXAMETHASONE,4,Not yet recruiting,NR3C1,1
+inflammation,DEXAMETHASONE,4,Completed,NR3C1,1
+inflammation,DEXAMETHASONE,4,"Active, not recruiting",NR3C1,1
+inflammation,DEXAMETHASONE,3,Completed,NR3C1,1
+inflammation,DEXAMETHASONE,2,Completed,NR3C1,1
+inflammation,DEXAMETHASONE,1,Recruiting,NR3C1,1
+infertility,PREDNISOLONE,4,Recruiting,NR3C1,1
+infertility,PREDNISOLONE,2,Recruiting,NR3C1,1
+infertility,PREDNISOLONE,2,Completed,NR3C1,1
+infertility,DEXAMETHASONE,4,Unknown status,NR3C1,1
+infectious meningitis,DEXAMETHASONE ACETATE,4,Unknown status,NR3C1,1
+infection,HYDROCORTISONE,1,Completed,NR3C1,1
+infection,DEXAMETHASONE,3,Unknown status,NR3C1,1
+infection,BECLOMETHASONE DIPROPIONATE,1,"Active, not recruiting",NR3C1,1
+idiopathic pulmonary fibrosis,PREDNISONE,2,Completed,NR3C1,1
+idiopathic pulmonary fibrosis,PREDNISOLONE,3,Recruiting,NR3C1,1
+deafness,METHYLPREDNISOLONE HEMISUCCINATE,3,Completed,NR3C1,1
+deafness,DEXAMETHASONE,3,Completed,NR3C1,1
+cytomegalovirus infection,PREDNISONE,4,Unknown status,NR3C1,1
+autoimmune thrombocytopenic purpura,PREDNISOLONE,3,Recruiting,NR3C1,1
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,4,Completed,NR3C1,1
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,4,Unknown status,NR3C1,1
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,4,Withdrawn,NR3C1,1
+autoimmune thrombocytopenic purpura,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+autoimmune thrombocytopenic purpura,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+autoimmune thrombocytopenic purpura,PREDNISOLONE,3,Completed,NR3C1,1
+autoimmune thrombocytopenic purpura,PREDNISONE,2,Completed,NR3C1,1
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,3,Terminated,NR3C1,1
+autoimmune thrombocytopenic purpura,PREDNISONE,3,Recruiting,NR3C1,1
+autoimmune thrombocytopenic purpura,PREDNISONE,3,Terminated,NR3C1,1
+autoimmune thrombocytopenic purpura,PREDNISONE,4,Completed,NR3C1,1
+back pain,BETAMETHASONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+back pain,DEXAMETHASONE,3,Not yet recruiting,NR3C1,1
+bacterial conjunctivitis,DEXAMETHASONE,3,Unknown status,NR3C1,1
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,3,Unknown status,NR3C1,1
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,3,Recruiting,NR3C1,1
+atopic eczema,HYDROCORTISONE BUTYRATE,4,Withdrawn,NR3C1,1
+atopic eczema,TRIAMCINOLONE,4,Terminated,NR3C1,1
+atopic eczema,MOMETASONE FUROATE,1,Completed,NR3C1,1
+atopic eczema,MOMETASONE FUROATE,2,Completed,NR3C1,1
+atopic eczema,MOMETASONE FUROATE,4,Completed,NR3C1,1
+atopic eczema,PREDNISOLONE,4,Completed,NR3C1,1
+atopic eczema,PREDNISONE,4,n/a,NR3C1,1
+atopic eczema,TRIAMCINOLONE,4,Completed,NR3C1,1
+atrial fibrillation,DEXAMETHASONE,4,Completed,NR3C1,1
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,3,Not yet recruiting,NR3C1,1
+atrial fibrillation,HYDROCORTISONE,2,Not yet recruiting,NR3C1,1
+atrial fibrillation,METHYLPREDNISOLONE HEMISUCCINATE,4,Unknown status,NR3C1,1
+atrial fibrillation,PREDNISONE,4,Completed,NR3C1,1
+autoimmune disease,PREDNISONE,2,Recruiting,NR3C1,1
+autoimmune disease,PREDNISONE,2,Unknown status,NR3C1,1
+autoimmune thrombocytopenic purpura,DEXAMETHASONE,2,Withdrawn,NR3C1,1
+bacterial vaginosis,DEXAMETHASONE,3,Unknown status,NR3C1,1
+berylliosis,PREDNISONE,4,n/a,NR3C1,1
+bipolar disorder,MIFEPRISTONE,2,Completed,NR3C1,1
+bronchiolitis obliterans,FLUTICASONE PROPIONATE,2,Completed,NR3C1,1
+breast carcinoma,PREDNISOLONE,2,Unknown status,NR3C1,1
+breast carcinoma,PREDNISONE,2,Completed,NR3C1,1
+breast carcinoma,PREDNISONE,2,Withdrawn,NR3C1,1
+breast neoplasm,DEXAMETHASONE,2,Completed,NR3C1,1
+breast neoplasm,DEXAMETHASONE,2,Terminated,NR3C1,1
+breast neoplasm,METHYLPREDNISOLONE,4,Unknown status,NR3C1,1
+bronchitis,BUDESONIDE,4,Unknown status,NR3C1,1
+bipolar disorder,MIFEPRISTONE,2,Withdrawn,NR3C1,1
+bronchogenic carcinoma,FLUTICASONE PROPIONATE,2,Completed,NR3C1,1
+bullous pemphigoid,CLOBETASOL PROPIONATE,2,Recruiting,NR3C1,1
+bullous pemphigoid,CLOBETASOL PROPIONATE,3,Unknown status,NR3C1,1
+bullous pemphigoid,CLOBETASOL PROPIONATE,4,Recruiting,NR3C1,1
+bullous pemphigoid,PREDNISONE,4,Completed,NR3C1,1
+burn,HYDROCORTISONE,4,Completed,NR3C1,1
+breast carcinoma,PREDNISOLONE,2,Completed,NR3C1,1
+breast carcinoma,MOMETASONE FUROATE,3,Completed,NR3C1,1
+breast carcinoma,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+breast carcinoma,FLUOCINONIDE,2,Completed,NR3C1,1
+breast carcinoma,DEXAMETHASONE,3,Recruiting,NR3C1,1
+breast carcinoma,DEXAMETHASONE,3,"Active, not recruiting",NR3C1,1
+breast carcinoma,DEXAMETHASONE,2,Withdrawn,NR3C1,1
+breast carcinoma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+breast carcinoma,DEXAMETHASONE,1,Terminated,NR3C1,1
+breast carcinoma,BUDESONIDE,2,Recruiting,NR3C1,1
+brain neoplasm,DEXAMETHASONE,2,Terminated,NR3C1,1
+brain edema,DEXAMETHASONE,1,Recruiting,NR3C1,1
+bone fracture,DEXAMETHASONE ACETATE,4,Unknown status,NR3C1,1
+bone fracture,DEXAMETHASONE,4,Completed,NR3C1,1
+blepharitis,LOTEPREDNOL ETABONATE,2,Completed,NR3C1,1
+blepharitis,DEXAMETHASONE,3,Completed,NR3C1,1
+bladder carcinoma,DEXAMETHASONE,2,Terminated,NR3C1,1
+atopic eczema,HYDROCORTISONE PROBUTATE,4,Completed,NR3C1,1
+atopic eczema,HYDROCORTISONE BUTYRATE,4,Recruiting,NR3C1,1
+cancer,DEXAMETHASONE,4,Completed,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,2,"Active, not recruiting",NR3C1,1
+asthma,FLUTICASONE FUROATE,3,Recruiting,NR3C1,1
+asthma,FLUTICASONE FUROATE,4,Recruiting,NR3C1,1
+asthma,FLUTICASONE FUROATE,4,Withdrawn,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,1,"Active, not recruiting",NR3C1,1
+asthma,FLUTICASONE PROPIONATE,1,Recruiting,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,1,Withdrawn,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,2,Withdrawn,NR3C1,1
+asthma,DEXAMETHASONE PHOSPHORIC ACID,3,Completed,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,3,"Active, not recruiting",NR3C1,1
+asthma,FLUTICASONE PROPIONATE,3,Unknown status,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,4,Unknown status,NR3C1,1
+asthma,FLUTICASONE PROPIONATE,4,Withdrawn,NR3C1,1
+asthma,HYDROCORTISONE,4,Completed,NR3C1,1
+asthma,HYDROCORTISONE HEMISUCCINATE,4,n/a,NR3C1,1
+asthma,FLUNISOLIDE,4,n/a,NR3C1,1
+asthma,DEXAMETHASONE,3,Recruiting,NR3C1,1
+atopic eczema,HYDROCORTISONE BUTYRATE,4,Completed,NR3C1,1
+asthma,BECLOMETHASONE DIPROPIONATE,3,Recruiting,NR3C1,1
+aplastic anemia,PREDNISOLONE,4,n/a,NR3C1,1
+aplastic anemia,PREDNISONE,4,n/a,NR3C1,1
+appendicitis,DEXAMETHASONE,2,Completed,NR3C1,1
+appendicitis,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+arthralgia,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+arthritis,PREDNISONE,4,n/a,NR3C1,1
+asthma,BECLOMETHASONE DIPROPIONATE,3,Withdrawn,NR3C1,1
+asthma,DEXAMETHASONE,3,Completed,NR3C1,1
+asthma,BECLOMETHASONE DIPROPIONATE,4,Unknown status,NR3C1,1
+asthma,BUDESONIDE,2,Unknown status,NR3C1,1
+asthma,BUDESONIDE,3,Unknown status,NR3C1,1
+asthma,CICLESONIDE,2,Completed,NR3C1,1
+asthma,CICLESONIDE,4,Terminated,NR3C1,1
+asthma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+asthma,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+asthma,METHYLPREDNISOLONE,4,Unknown status,NR3C1,1
+asthma,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+atopic eczema,CLOBETASOL PROPIONATE,1,Not yet recruiting,NR3C1,1
+atherosclerosis,METHYLPREDNISOLONE,1,Unknown status,NR3C1,1
+atopic eczema,BETAMETHASONE,2,Completed,NR3C1,1
+atopic eczema,BETAMETHASONE,4,Terminated,NR3C1,1
+atopic eczema,BETAMETHASONE DIPROPIONATE,1,Completed,NR3C1,1
+atopic eczema,BETAMETHASONE DIPROPIONATE,4,Terminated,NR3C1,1
+atopic eczema,BETAMETHASONE VALERATE,3,Completed,NR3C1,1
+atopic eczema,DESONIDE,3,Completed,NR3C1,1
+asthma,METHYLPREDNISOLONE HEMISUCCINATE,4,n/a,NR3C1,1
+atopic eczema,DESOXIMETASONE,4,Completed,NR3C1,1
+atopic eczema,FLUOCINONIDE,2,Completed,NR3C1,1
+atopic eczema,FLUTICASONE PROPIONATE,2,Completed,NR3C1,1
+atopic eczema,FLUTICASONE PROPIONATE,3,Terminated,NR3C1,1
+atopic eczema,HALOBETASOL PROPIONATE,2,Terminated,NR3C1,1
+atopic eczema,HYDROCORTISONE ACETATE,2,Completed,NR3C1,1
+asymptomatic myeloma,DEXAMETHASONE,2,"Active, not recruiting",NR3C1,1
+asymptomatic myeloma,DEXAMETHASONE,1,Terminated,NR3C1,1
+asymptomatic myeloma,DEXAMETHASONE,1,Suspended,NR3C1,1
+asthma,PREDNISONE,4,Unknown status,NR3C1,1
+asthma,PREDNISONE,3,Not yet recruiting,NR3C1,1
+asthma,PREDNISONE,2,Withdrawn,NR3C1,1
+asthma,PREDNISONE,2,Unknown status,NR3C1,1
+asthma,PREDNISONE,2,Completed,NR3C1,1
+asthma,PREDNISONE,1,Not yet recruiting,NR3C1,1
+asthma,PREDNISOLONE PHOSPHORIC ACID,4,Completed,NR3C1,1
+asthma,PREDNISOLONE,4,Recruiting,NR3C1,1
+asthma,PREDNISOLONE,3,Not yet recruiting,NR3C1,1
+asthma,PREDNISOLONE,2,Withdrawn,NR3C1,1
+asthma,PREDNISOLONE,2,Recruiting,NR3C1,1
+asthma,PREDNISOLONE,2,"Active, not recruiting",NR3C1,1
+asthma,MOMETASONE FUROATE,3,Withdrawn,NR3C1,1
+asthma,MOMETASONE FUROATE,1,Completed,NR3C1,1
+cancer,DEXAMETHASONE,2,Recruiting,NR3C1,1
+cancer,DEXAMETHASONE,4,Recruiting,NR3C1,1
+cysticercosis,DEXAMETHASONE,3,Completed,NR3C1,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE HEMISUCCINATE,4,Completed,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,3,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,"Active, not recruiting",NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,4,Not yet recruiting,NR3C1,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE,4,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE,4,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,METHYLPREDNISOLONE HEMISUCCINATE,4,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,2,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,PREDNISOLONE,2,Completed,NR3C1,1
+chronic obstructive pulmonary disease,PREDNISONE,3,Completed,NR3C1,1
+chronic obstructive pulmonary disease,PREDNISONE,4,"Active, not recruiting",NR3C1,1
+chronic obstructive pulmonary disease,PREDNISONE,4,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,TRIAMCINOLONE,3,Completed,NR3C1,1
+chronic pain,BETAMETHASONE,4,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,2,Withdrawn,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE PROPIONATE,2,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,3,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,2,Unknown status,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Unknown status,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Withdrawn,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,0,Completed,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,2,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,3,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,4,n/a,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,3,Terminated,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,3,Unknown status,NR3C1,1
+chronic obstructive pulmonary disease,BUDESONIDE,4,n/a,NR3C1,1
+chronic obstructive pulmonary disease,CICLESONIDE,2,Completed,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,3,Withdrawn,NR3C1,1
+chronic obstructive pulmonary disease,FLUTICASONE FUROATE,4,Completed,NR3C1,1
+chronic pain,DEXAMETHASONE,4,Completed,NR3C1,1
+chronic pain,DEXAMETHASONE,4,Recruiting,NR3C1,1
+chronic pain,TRIAMCINOLONE,4,Withdrawn,NR3C1,1
+corneal edema,LOTEPREDNOL ETABONATE,4,Completed,NR3C1,1
+congestive heart failure,DEXAMETHASONE,1,Suspended,NR3C1,1
+congestive heart failure,PREDNISONE,2,Suspended,NR3C1,1
+conjunctivitis,LOTEPREDNOL ETABONATE,4,Completed,NR3C1,1
+contact dermatitis,PREDNISOLONE,4,n/a,NR3C1,1
+contact dermatitis,PREDNISONE,4,n/a,NR3C1,1
+corneal edema,DIFLUPREDNATE,4,Completed,NR3C1,1
+croup,BECLOMETHASONE DIPROPIONATE,3,Terminated,NR3C1,1
+chronic pancreatitis,TRIAMCINOLONE,3,Completed,NR3C1,1
+croup,DEXAMETHASONE,4,Completed,NR3C1,1
+croup,FLUTICASONE PROPIONATE,3,Terminated,NR3C1,1
+croup,PREDNISOLONE,3,Terminated,NR3C1,1
+croup,PREDNISONE,4,Completed,NR3C1,1
+cryptococcal meningitis,DEXAMETHASONE,2,Completed,NR3C1,1
+cysticercosis,DEXAMETHASONE,2,Recruiting,NR3C1,1
+congenital heart disease,DEXAMETHASONE,3,Completed,NR3C1,1
+colorectal adenocarcinoma,DEXAMETHASONE,2,Recruiting,NR3C1,1
+collagenous colitis,BUDESONIDE,3,Unknown status,NR3C1,1
+cognitive impairment,METHYLPREDNISOLONE,1,Unknown status,NR3C1,1
+cocaine dependence,MIFEPRISTONE,2,Completed,NR3C1,1
+cleft lip,DEXAMETHASONE,4,Recruiting,NR3C1,1
+cirrhosis of liver,HYDROCORTISONE,3,Recruiting,NR3C1,1
+cirrhosis of liver,DEXAMETHASONE,3,Terminated,NR3C1,1
+chronic rhinosinusitis without nasal polyps,PREDNISONE,4,Terminated,NR3C1,1
+chronic rhinosinusitis without nasal polyps,MOMETASONE FUROATE,4,Terminated,NR3C1,1
+chronic rhinosinusitis with nasal polyps,BUDESONIDE,3,Unknown status,NR3C1,1
+chronic rhinosinusitis,FLUTICASONE PROPIONATE,3,Unknown status,NR3C1,1
+chronic rhinosinusitis,CICLESONIDE,3,Unknown status,NR3C1,1
+chronic progressive multiple sclerosis,METHYLPREDNISOLONE HEMISUCCINATE,3,Completed,NR3C1,1
+chronic progressive multiple sclerosis,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+chronic progressive multiple sclerosis,METHYLPREDNISOLONE,2,Unknown status,NR3C1,1
+chronic pancreatitis,TRIAMCINOLONE ACETONIDE,3,Recruiting,NR3C1,1
+chronic obstructive pulmonary disease,BECLOMETHASONE DIPROPIONATE,4,Completed,NR3C1,1
+chronic myeloproliferative disorder,PREDNISONE,1,Completed,NR3C1,1
+cancer,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+cataract,LOTEPREDNOL ETABONATE,4,Completed,NR3C1,1
+cataract,DEXAMETHASONE,3,Recruiting,NR3C1,1
+cataract,DEXAMETHASONE,3,Withdrawn,NR3C1,1
+cataract,DEXAMETHASONE PHOSPHORIC ACID,1,Completed,NR3C1,1
+cataract,DEXAMETHASONE PHOSPHORIC ACID,2,Completed,NR3C1,1
+cataract,DEXAMETHASONE PHOSPHORIC ACID,3,Withdrawn,NR3C1,1
+cataract,LOTEPREDNOL ETABONATE,3,"Active, not recruiting",NR3C1,1
+cataract,LOTEPREDNOL ETABONATE,4,Unknown status,NR3C1,1
+cataract,DEXAMETHASONE,1,Terminated,NR3C1,1
+cataract,MAPRACORAT,3,Completed,NR3C1,1
+cataract,PREDNISOLONE,3,Completed,NR3C1,1
+cataract,PREDNISOLONE ACETATE,2,Completed,NR3C1,1
+cataract,PREDNISOLONE ACETATE,3,"Active, not recruiting",NR3C1,1
+cataract,PREDNISOLONE ACETATE,3,Completed,NR3C1,1
+cataract,PREDNISOLONE ACETATE,4,Recruiting,NR3C1,1
+cataract,DEXAMETHASONE,2,Recruiting,NR3C1,1
+carpal tunnel syndrome,METHYLPREDNISOLONE ACETATE,4,"Active, not recruiting",NR3C1,1
+chronic lymphocytic leukemia,PREDNISONE,2,Completed,NR3C1,1
+cardiac arrest,HYDROCORTISONE,3,Completed,NR3C1,1
+cancer,PREDNISONE,0,Completed,NR3C1,1
+cancer,PREDNISONE,1,Completed,NR3C1,1
+cancer,PREDNISONE,1,Withdrawn,NR3C1,1
+cancer,PREDNISONE,2,Completed,NR3C1,1
+cancer,PREDNISONE,2,Not yet recruiting,NR3C1,1
+cardiac amyloidosis,DEXAMETHASONE,2,Recruiting,NR3C1,1
+cardiac arrest,METHYLPREDNISOLONE,1,Completed,NR3C1,1
+carpal tunnel syndrome,METHYLPREDNISOLONE,4,Completed,NR3C1,1
+cardiac arrest,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+cardiomyopathy,PREDNISONE,3,Unknown status,NR3C1,1
+cardiovascular disease,PREDNISONE,4,Withdrawn,NR3C1,1
+carpal tunnel syndrome,BETAMETHASONE,3,Completed,NR3C1,1
+carpal tunnel syndrome,BETAMETHASONE DIPROPIONATE,4,"Active, not recruiting",NR3C1,1
+carpal tunnel syndrome,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+cataract,TRIAMCINOLONE ACETONIDE,2,Completed,NR3C1,1
+celiac disease,PREDNISOLONE,2,Completed,NR3C1,1
+central nervous system cancer,HYDROCORTISONE,2,Completed,NR3C1,1
+chronic kidney disease,METHYLPREDNISOLONE,2,Terminated,NR3C1,1
+cholesterol embolism,PREDNISONE,2,Terminated,NR3C1,1
+chronic bronchitis,BUDESONIDE,4,n/a,NR3C1,1
+chronic bronchitis,FLUTICASONE PROPIONATE,4,n/a,NR3C1,1
+chronic hepatitis B infection,PREDNISOLONE,4,Unknown status,NR3C1,1
+chronic kidney disease,DEFLAZACORT,4,Completed,NR3C1,1
+chronic kidney disease,FLURANDRENOLIDE,3,Completed,NR3C1,1
+chronic kidney disease,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+central nervous system cancer,PREDNISONE,2,Completed,NR3C1,1
+chronic kidney disease,METHYLPREDNISOLONE,4,Recruiting,NR3C1,1
+chronic kidney disease,PREDNISOLONE,2,Unknown status,NR3C1,1
+chronic kidney disease,PREDNISONE,2,Terminated,NR3C1,1
+chronic kidney disease,PREDNISONE,4,Recruiting,NR3C1,1
+chronic lymphocytic leukemia,METHYLPREDNISOLONE,2,Completed,NR3C1,1
+chronic lymphocytic leukemia,METHYLPREDNISOLONE HEMISUCCINATE,2,"Active, not recruiting",NR3C1,1
+childhood T acute lymphoblastic leukemia,PREDNISONE,3,Completed,NR3C1,1
+childhood T acute lymphoblastic leukemia,PREDNISONE,2,Completed,NR3C1,1
+childhood T acute lymphoblastic leukemia,METHYLPREDNISOLONE,3,Completed,NR3C1,1
+childhood T acute lymphoblastic leukemia,HYDROCORTISONE HEMISUCCINATE,3,Suspended,NR3C1,1
+childhood T acute lymphoblastic leukemia,HYDROCORTISONE,3,Completed,NR3C1,1
+childhood T acute lymphoblastic leukemia,HYDROCORTISONE,2,Completed,NR3C1,1
+childhood T acute lymphoblastic leukemia,DEXAMETHASONE,3,Suspended,NR3C1,1
+childhood T acute lymphoblastic leukemia,DEXAMETHASONE,3,Completed,NR3C1,1
+childhood T acute lymphoblastic leukemia,DEXAMETHASONE,1,Completed,NR3C1,1
+childhood B acute lymphoblastic leukemia,PREDNISONE,3,Completed,NR3C1,1
+childhood B acute lymphoblastic leukemia,PREDNISONE,2,Completed,NR3C1,1
+childhood B acute lymphoblastic leukemia,PREDNISOLONE,2,Suspended,NR3C1,1
+childhood B acute lymphoblastic leukemia,HYDROCORTISONE HEMISUCCINATE,2,Suspended,NR3C1,1
+childhood B acute lymphoblastic leukemia,HYDROCORTISONE,2,Completed,NR3C1,1
+childhood B acute lymphoblastic leukemia,DEXAMETHASONE,2,Suspended,NR3C1,1
+childhood B acute lymphoblastic leukemia,DEXAMETHASONE,1,Completed,NR3C1,1
+central nervous system cancer,PREDNISONE,3,Unknown status,NR3C1,1
+wheezing,PREDNISOLONE,4,Unknown status,NR3C1,1

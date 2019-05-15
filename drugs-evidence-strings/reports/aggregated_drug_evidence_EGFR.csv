@@ -1,0 +1,1175 @@
+disease,drug,phase,status,target,num_ev_strings
+non-small cell lung carcinoma,ERLOTINIB,2,Completed,EGFR,75
+non-small cell lung carcinoma,OSIMERTINIB,2,Recruiting,EGFR,38
+non-small cell lung carcinoma,ERLOTINIB,1,Completed,EGFR,31
+non-small cell lung carcinoma,ERLOTINIB,3,Completed,EGFR,28
+non-small cell lung carcinoma,OSIMERTINIB,1,Recruiting,EGFR,28
+non-small cell lung carcinoma,ERLOTINIB,2,Unknown status,EGFR,24
+lung carcinoma,ERLOTINIB,2,Completed,EGFR,23
+colorectal carcinoma,CETUXIMAB,2,Completed,EGFR,23
+non-small cell lung carcinoma,GEFITINIB,2,Completed,EGFR,22
+non-small cell lung carcinoma,CETUXIMAB,2,Completed,EGFR,21
+head and neck malignant neoplasia,CETUXIMAB,2,Completed,EGFR,20
+breast carcinoma,LAPATINIB,2,Completed,EGFR,20
+neoplasm,ERLOTINIB,1,Completed,EGFR,20
+non-small cell lung carcinoma,OSIMERTINIB,1,"Active, not recruiting",EGFR,18
+non-small cell lung carcinoma,ERLOTINIB,2,Terminated,EGFR,18
+metastatic colorectal cancer,CETUXIMAB,2,Completed,EGFR,16
+non-small cell lung carcinoma,ERLOTINIB,1,Terminated,EGFR,16
+neoplasm,AFATINIB,1,Completed,EGFR,16
+non-small cell lung carcinoma,GEFITINIB,2,Unknown status,EGFR,15
+breast carcinoma,LAPATINIB,1,Completed,EGFR,15
+breast neoplasm,LAPATINIB,2,Completed,EGFR,15
+pancreatic carcinoma,ERLOTINIB,2,Completed,EGFR,15
+breast carcinoma,GEFITINIB,2,Completed,EGFR,14
+breast carcinoma,NERATINIB,1,Completed,EGFR,14
+breast carcinoma,NERATINIB,2,Recruiting,EGFR,14
+breast carcinoma,LAPATINIB,2,Terminated,EGFR,13
+non-small cell lung carcinoma,GEFITINIB,3,Completed,EGFR,13
+pancreatic carcinoma,ERLOTINIB,1,Completed,EGFR,12
+colorectal carcinoma,PANITUMUMAB,2,Completed,EGFR,12
+breast neoplasm,LAPATINIB,1,Completed,EGFR,11
+lung carcinoma,GEFITINIB,2,Completed,EGFR,11
+colorectal carcinoma,CETUXIMAB,1,Completed,EGFR,10
+pancreatic carcinoma,CETUXIMAB,2,Completed,EGFR,10
+lung carcinoma,ERLOTINIB,1,Completed,EGFR,10
+non-small cell lung carcinoma,ERLOTINIB,2,"Active, not recruiting",EGFR,10
+colorectal carcinoma,CETUXIMAB,2,Terminated,EGFR,10
+pancreatic carcinoma,ERLOTINIB,2,Terminated,EGFR,9
+non-small cell lung carcinoma,AFATINIB,2,Completed,EGFR,9
+cancer,ERLOTINIB,1,Completed,EGFR,9
+head and neck malignant neoplasia,GEFITINIB,2,Completed,EGFR,8
+neoplasm,CETUXIMAB,1,Completed,EGFR,8
+non-small cell lung carcinoma,DACOMITINIB,2,Completed,EGFR,8
+non-small cell lung carcinoma,OSIMERTINIB,2,Not yet recruiting,EGFR,8
+metastatic colorectal cancer,PANITUMUMAB,2,Recruiting,EGFR,8
+head and neck malignant neoplasia,CETUXIMAB,1,Completed,EGFR,8
+non-small cell lung carcinoma,OSIMERTINIB,2,"Active, not recruiting",EGFR,8
+non-small cell lung carcinoma,OSIMERTINIB,3,"Active, not recruiting",EGFR,8
+breast carcinoma,LAPATINIB,2,"Active, not recruiting",EGFR,8
+lung carcinoma,CETUXIMAB,2,Completed,EGFR,8
+breast carcinoma,LAPATINIB,1,Terminated,EGFR,8
+neoplasm,NERATINIB,1,Completed,EGFR,8
+metastatic colorectal cancer,CETUXIMAB,3,Completed,EGFR,7
+metastatic colorectal cancer,CETUXIMAB,1,Completed,EGFR,7
+non-small cell lung carcinoma,VANDETANIB,2,Completed,EGFR,7
+metastatic colorectal cancer,CETUXIMAB,2,Recruiting,EGFR,7
+non-small cell lung carcinoma,ERLOTINIB,4,Completed,EGFR,7
+metastatic colorectal cancer,PANITUMUMAB,2,Completed,EGFR,7
+neoplasm,GEFITINIB,1,Completed,EGFR,7
+non-small cell lung carcinoma,GEFITINIB,1,Completed,EGFR,7
+colorectal carcinoma,CETUXIMAB,3,Completed,EGFR,7
+non-small cell lung carcinoma,ERLOTINIB,3,Terminated,EGFR,7
+non-small cell lung carcinoma,AFATINIB,3,Completed,EGFR,6
+gliosarcoma,ERLOTINIB,2,Completed,EGFR,6
+colorectal carcinoma,PANITUMUMAB,1,Completed,EGFR,6
+breast neoplasm,LAPATINIB,3,"Active, not recruiting",EGFR,6
+non-small cell lung carcinoma,AFATINIB,2,"Active, not recruiting",EGFR,6
+head and neck malignant neoplasia,CETUXIMAB,3,"Active, not recruiting",EGFR,6
+breast carcinoma,LAPATINIB,3,"Active, not recruiting",EGFR,6
+non-small cell lung carcinoma,CETUXIMAB,1,Completed,EGFR,6
+head and neck squamous cell carcinoma,CETUXIMAB,2,"Active, not recruiting",EGFR,6
+breast carcinoma,ERLOTINIB,2,Completed,EGFR,6
+neoplasm,DACOMITINIB,1,Completed,EGFR,6
+breast carcinoma,NERATINIB,2,Completed,EGFR,6
+breast neoplasm,AFATINIB,2,Completed,EGFR,6
+non-small cell lung carcinoma,GEFITINIB,1,"Active, not recruiting",EGFR,6
+colorectal carcinoma,CETUXIMAB,2,"Active, not recruiting",EGFR,6
+pancreatic adenocarcinoma,ERLOTINIB,2,Completed,EGFR,6
+head and neck malignant neoplasia,ERLOTINIB,2,Completed,EGFR,6
+metastatic colorectal cancer,CETUXIMAB,2,Terminated,EGFR,6
+gastric carcinoma,CETUXIMAB,2,Completed,EGFR,6
+non-small cell lung carcinoma,GEFITINIB,3,Recruiting,EGFR,6
+prostate carcinoma,GEFITINIB,2,Completed,EGFR,6
+cancer,CETUXIMAB,1,Completed,EGFR,6
+non-small cell lung carcinoma,ERLOTINIB,3,"Active, not recruiting",EGFR,6
+lung carcinoma,GEFITINIB,1,Completed,EGFR,6
+breast carcinoma,LAPATINIB,1,"Active, not recruiting",EGFR,5
+esophageal carcinoma,CETUXIMAB,2,Completed,EGFR,5
+head and neck squamous cell carcinoma,CETUXIMAB,2,Completed,EGFR,5
+breast carcinoma,LAPATINIB,2,Unknown status,EGFR,5
+breast carcinoma,ERLOTINIB,1,Completed,EGFR,5
+non-small cell lung carcinoma,GEFITINIB,1,Recruiting,EGFR,5
+colorectal neoplasm,CETUXIMAB,2,Completed,EGFR,5
+breast neoplasm,LAPATINIB,2,Terminated,EGFR,5
+non-small cell lung carcinoma,GEFITINIB,3,"Active, not recruiting",EGFR,5
+head and neck malignant neoplasia,ERLOTINIB,1,Completed,EGFR,5
+squamous cell carcinoma,CETUXIMAB,2,Completed,EGFR,5
+head and neck squamous cell carcinoma,CETUXIMAB,3,"Active, not recruiting",EGFR,5
+non-small cell lung carcinoma,ERLOTINIB,1,"Active, not recruiting",EGFR,5
+hepatocellular carcinoma,ERLOTINIB,2,Completed,EGFR,5
+breast carcinoma,ERLOTINIB,2,Terminated,EGFR,5
+squamous cell carcinoma,CETUXIMAB,1,Recruiting,EGFR,5
+rectum cancer,CETUXIMAB,2,Unknown status,EGFR,4
+cancer,VARLITINIB,1,Completed,EGFR,4
+prostate carcinoma,ERLOTINIB,2,Completed,EGFR,4
+non-small cell lung carcinoma,CETUXIMAB,3,Completed,EGFR,4
+colorectal adenocarcinoma,CETUXIMAB,1,Completed,EGFR,4
+rectum cancer,CETUXIMAB,2,Completed,EGFR,4
+peritoneal neoplasm,GEFITINIB,2,Completed,EGFR,4
+esophageal carcinoma,CETUXIMAB,2,Terminated,EGFR,4
+lung carcinoma,OSIMERTINIB,1,Recruiting,EGFR,4
+colorectal carcinoma,CETUXIMAB,2,Unknown status,EGFR,4
+lung carcinoma,OSIMERTINIB,2,"Active, not recruiting",EGFR,4
+pancreatic carcinoma,ERLOTINIB,3,Completed,EGFR,4
+ovarian carcinoma,GEFITINIB,2,Completed,EGFR,4
+head and neck squamous cell carcinoma,CETUXIMAB,2,Recruiting,EGFR,4
+colorectal carcinoma,GEFITINIB,2,Completed,EGFR,4
+lung carcinoma,OSIMERTINIB,2,Recruiting,EGFR,4
+breast neoplasm,LAPATINIB,3,Completed,EGFR,4
+cancer,CETUXIMAB,2,Completed,EGFR,4
+breast neoplasm,NERATINIB,1,Completed,EGFR,4
+cancer,BMS-690514,1,Completed,EGFR,4
+breast neoplasm,NERATINIB,2,Recruiting,EGFR,4
+lung carcinoma,ERLOTINIB,2,Terminated,EGFR,4
+non-small cell lung carcinoma,DACOMITINIB,1,Completed,EGFR,4
+neoplasm,PANITUMUMAB,1,Completed,EGFR,4
+non-small cell lung carcinoma,NECITUMUMAB,1,"Active, not recruiting",EGFR,4
+neoplasm,LAPATINIB,1,Completed,EGFR,4
+metastatic colorectal cancer,CETUXIMAB,2,"Active, not recruiting",EGFR,4
+breast carcinoma,LAPATINIB,2,Recruiting,EGFR,4
+neoplasm,ERLOTINIB,2,Completed,EGFR,4
+non-small cell lung carcinoma,GEFITINIB,2,Recruiting,EGFR,4
+gliosarcoma,ERLOTINIB,1,Completed,EGFR,4
+non-small cell lung carcinoma,ERLOTINIB,3,Unknown status,EGFR,4
+breast carcinoma,CETUXIMAB,2,Completed,EGFR,4
+breast carcinoma,NERATINIB,1,Recruiting,EGFR,4
+non-small cell lung carcinoma,NERATINIB,2,Completed,EGFR,4
+glioblastoma multiforme,DACOMITINIB,2,Completed,EGFR,4
+breast carcinoma,NERATINIB,3,"Active, not recruiting",EGFR,4
+squamous cell carcinoma,DACOMITINIB,2,Unknown status,EGFR,4
+head and neck squamous cell carcinoma,CETUXIMAB,1,"Active, not recruiting",EGFR,4
+head and neck malignant neoplasia,CETUXIMAB,2,"Active, not recruiting",EGFR,4
+head and neck malignant neoplasia,CETUXIMAB,2,Unknown status,EGFR,4
+metastatic colorectal cancer,PANITUMUMAB,3,Completed,EGFR,4
+non-small cell lung carcinoma,ERLOTINIB,1,Recruiting,EGFR,4
+non-small cell lung carcinoma,ERLOTINIB,3,Recruiting,EGFR,4
+colorectal carcinoma,CETUXIMAB,3,Unknown status,EGFR,3
+lung carcinoma,GEFITINIB,3,Unknown status,EGFR,3
+non-small cell lung carcinoma,AFATINIB,1,Completed,EGFR,3
+renal carcinoma,ERLOTINIB,2,Completed,EGFR,3
+squamous cell carcinoma,NIMOTUZUMAB,2,Withdrawn,EGFR,3
+non-small cell lung carcinoma,ERLOTINIB,2,Recruiting,EGFR,3
+cancer,ERLOTINIB,2,Recruiting,EGFR,3
+non-small cell lung carcinoma,VANDETANIB,3,Completed,EGFR,3
+cancer,ERLOTINIB,2,Completed,EGFR,3
+esophageal carcinoma,CETUXIMAB,2,Unknown status,EGFR,3
+cholangiocarcinoma,PANITUMUMAB,2,Completed,EGFR,3
+squamous cell carcinoma,NIMOTUZUMAB,2,Unknown status,EGFR,3
+metastatic colorectal cancer,PANITUMUMAB,1,Completed,EGFR,3
+head and neck malignant neoplasia,CETUXIMAB,1,Terminated,EGFR,3
+prostate carcinoma,LAPATINIB,2,Completed,EGFR,3
+head and neck squamous cell carcinoma,CETUXIMAB,1,Terminated,EGFR,3
+central nervous system cancer,VANDETANIB,1,Completed,EGFR,3
+prostate carcinoma,VANDETANIB,2,Completed,EGFR,3
+neoplasm,ERLOTINIB,1,Terminated,EGFR,3
+non-small cell lung carcinoma,GEFITINIB,4,Completed,EGFR,3
+cervical carcinoma,NIMOTUZUMAB,2,Unknown status,EGFR,3
+lung carcinoma,GEFITINIB,3,Completed,EGFR,3
+cancer,LAPATINIB,2,Terminated,EGFR,3
+cancer,LAPATINIB,2,Completed,EGFR,3
+colorectal carcinoma,GEFITINIB,1,Completed,EGFR,3
+cancer,LAPATINIB,1,Completed,EGFR,3
+nasopharyngeal neoplasm,CETUXIMAB,2,Completed,EGFR,3
+colorectal carcinoma,ERLOTINIB,1,Completed,EGFR,3
+head and neck squamous cell carcinoma,PANITUMUMAB,2,Completed,EGFR,3
+thyroid carcinoma,VANDETANIB,3,"Active, not recruiting",EGFR,3
+head and neck squamous cell carcinoma,CETUXIMAB,3,Completed,EGFR,3
+breast neoplasm,LAPATINIB,2,"Active, not recruiting",EGFR,3
+central nervous system cancer,ERLOTINIB,1,Completed,EGFR,3
+anaplastic astrocytoma,ERLOTINIB,1,Completed,EGFR,3
+squamous cell carcinoma,CETUXIMAB,1,Unknown status,EGFR,3
+head and neck squamous cell carcinoma,CETUXIMAB,1,Completed,EGFR,3
+squamous cell carcinoma,CETUXIMAB,2,"Active, not recruiting",EGFR,3
+lung carcinoma,ERLOTINIB,2,"Active, not recruiting",EGFR,3
+breast carcinoma,VANDETANIB,2,Terminated,EGFR,3
+metastatic colorectal cancer,PANITUMUMAB,2,Unknown status,EGFR,3
+breast carcinoma,LAPATINIB,3,Unknown status,EGFR,3
+neoplasm,CETUXIMAB,2,Completed,EGFR,3
+nasopharyngeal neoplasm,NIMOTUZUMAB,2,Recruiting,EGFR,3
+breast carcinoma,LAPATINIB,3,Recruiting,EGFR,3
+breast carcinoma,LAPATINIB,3,Completed,EGFR,3
+colorectal carcinoma,PANITUMUMAB,2,"Active, not recruiting",EGFR,3
+breast carcinoma,LAPATINIB,2,Withdrawn,EGFR,3
+metastatic colorectal cancer,CETUXIMAB,1,Recruiting,EGFR,3
+head and neck malignant neoplasia,GEFITINIB,1,Completed,EGFR,3
+cancer,CETUXIMAB,1,"Active, not recruiting",EGFR,3
+metastatic colorectal cancer,CETUXIMAB,3,Recruiting,EGFR,3
+renal cell carcinoma,ERLOTINIB,2,Completed,EGFR,3
+head and neck malignant neoplasia,CETUXIMAB,3,Completed,EGFR,3
+breast neoplasm,LAPATINIB,2,Withdrawn,EGFR,3
+esophageal carcinoma,GEFITINIB,2,Completed,EGFR,3
+non-small cell lung carcinoma,BRIGATINIB,2,Recruiting,EGFR,3
+colorectal carcinoma,PANITUMUMAB,2,Recruiting,EGFR,3
+breast carcinoma,GEFITINIB,2,Terminated,EGFR,3
+colorectal carcinoma,CETUXIMAB,2,Not yet recruiting,EGFR,3
+pancreatic carcinoma,CETUXIMAB,2,Terminated,EGFR,3
+non-small cell lung carcinoma,CETUXIMAB,2,"Active, not recruiting",EGFR,3
+colorectal carcinoma,PANITUMUMAB,1,Terminated,EGFR,2
+ovarian carcinoma,ERLOTINIB,2,Completed,EGFR,2
+hepatocellular carcinoma,ERLOTINIB,2,Terminated,EGFR,2
+colorectal carcinoma,PANITUMUMAB,2,Unknown status,EGFR,2
+gliosarcoma,VANDETANIB,1,Completed,EGFR,2
+head and neck squamous cell carcinoma,CETUXIMAB,1,Recruiting,EGFR,2
+colorectal carcinoma,NERATINIB,1,Withdrawn,EGFR,2
+non-small cell lung carcinoma,GEFITINIB,2,Not yet recruiting,EGFR,2
+colorectal cancer,OSIMERTINIB,2,Completed,EGFR,2
+head and neck malignant neoplasia,ERLOTINIB,2,"Active, not recruiting",EGFR,2
+non-small cell lung carcinoma,ERLOTINIB,3,Withdrawn,EGFR,2
+colorectal carcinoma,CETUXIMAB,1,Not yet recruiting,EGFR,2
+colorectal carcinoma,CETUXIMAB,1,Terminated,EGFR,2
+laryngeal neoplasm,CETUXIMAB,2,Terminated,EGFR,2
+colorectal carcinoma,CETUXIMAB,1,Withdrawn,EGFR,2
+head and neck malignant neoplasia,CUDC-101,1,Completed,EGFR,2
+colorectal carcinoma,CETUXIMAB,2,Recruiting,EGFR,2
+non-small cell lung carcinoma,GEFITINIB,1,Unknown status,EGFR,2
+head and neck malignant neoplasia,CETUXIMAB,3,Terminated,EGFR,2
+head and neck malignant neoplasia,CETUXIMAB,2,Withdrawn,EGFR,2
+colorectal carcinoma,CETUXIMAB,2,Withdrawn,EGFR,2
+head and neck malignant neoplasia,CETUXIMAB,2,Terminated,EGFR,2
+colorectal carcinoma,CETUXIMAB,3,Terminated,EGFR,2
+colorectal carcinoma,PANITUMUMAB,3,Completed,EGFR,2
+head and neck malignant neoplasia,CETUXIMAB,2,Recruiting,EGFR,2
+colorectal carcinoma,DACOMITINIB,1,Recruiting,EGFR,2
+hypopharyngeal carcinoma,CETUXIMAB,2,Completed,EGFR,2
+colorectal carcinoma,ERLOTINIB,3,Completed,EGFR,2
+non-small cell lung carcinoma,GEFITINIB,2,"Active, not recruiting",EGFR,2
+colorectal carcinoma,PANITUMUMAB,3,"Active, not recruiting",EGFR,2
+non-small cell lung carcinoma,DACOMITINIB,1,Suspended,EGFR,2
+non-small cell lung carcinoma,GEFITINIB,2,Terminated,EGFR,2
+esophageal carcinoma,PANITUMUMAB,1,Completed,EGFR,2
+non-small cell lung carcinoma,PYROTINIB,2,Unknown status,EGFR,2
+non-small cell lung carcinoma,NECITUMUMAB,1,Recruiting,EGFR,2
+esophageal carcinoma,ERLOTINIB,2,Completed,EGFR,2
+non-small cell lung carcinoma,NECITUMUMAB,2,Completed,EGFR,2
+esophageal carcinoma,ERLOTINIB,2,Terminated,EGFR,2
+non-small cell lung carcinoma,POZIOTINIB,2,Recruiting,EGFR,2
+esophageal carcinoma,GEFITINIB,1,Terminated,EGFR,2
+esophageal carcinoma,GEFITINIB,2,Terminated,EGFR,2
+non-small cell lung carcinoma,ERLOTINIB,1,Withdrawn,EGFR,2
+non-small cell lung carcinoma,EGF816,1,Recruiting,EGFR,2
+esophageal carcinoma,NIMOTUZUMAB,2,Unknown status,EGFR,2
+non-small cell lung carcinoma,ERLOTINIB,1,Unknown status,EGFR,2
+ovarian carcinoma,CETUXIMAB,2,Completed,EGFR,2
+non-small cell lung carcinoma,OSIMERTINIB,4,n/a,EGFR,2
+non-small cell lung carcinoma,OSIMERTINIB,4,Not yet recruiting,EGFR,2
+pancreatic adenocarcinoma,ERLOTINIB,1,"Active, not recruiting",EGFR,2
+non-small cell lung carcinoma,OSIMERTINIB,3,Recruiting,EGFR,2
+non-small cell lung carcinoma,OSIMERTINIB,2,Completed,EGFR,2
+non-small cell lung carcinoma,OSIMERTINIB,1,Not yet recruiting,EGFR,2
+non-small cell lung carcinoma,OSIMERTINIB,1,Completed,EGFR,2
+gastric adenocarcinoma,CETUXIMAB,2,Completed,EGFR,2
+non-small cell lung carcinoma,OLMUTINIB,2,"Active, not recruiting",EGFR,2
+non-small cell lung carcinoma,NIMOTUZUMAB,2,Terminated,EGFR,2
+gastric carcinoma,LAPATINIB,2,Completed,EGFR,2
+head and neck squamous cell carcinoma,DACOMITINIB,1,Completed,EGFR,2
+head and neck malignant neoplasia,ZALUTUMUMAB,3,Completed,EGFR,2
+head and neck squamous cell carcinoma,DACOMITINIB,2,Completed,EGFR,2
+head and neck squamous cell carcinoma,ERLOTINIB,1,Completed,EGFR,2
+colorectal carcinoma,VANDETANIB,1,Completed,EGFR,2
+colorectal neoplasm,AFATINIB,2,Completed,EGFR,2
+non-small cell lung carcinoma,CETUXIMAB,2,Terminated,EGFR,2
+oral cavity cancer,DACOMITINIB,1,Completed,EGFR,2
+hepatocellular carcinoma,CETUXIMAB,2,Completed,EGFR,2
+glioblastoma multiforme,OSIMERTINIB,2,Recruiting,EGFR,2
+non-small cell lung carcinoma,GEFITINIB,3,Not yet recruiting,EGFR,2
+glioblastoma multiforme,NERATINIB,2,Recruiting,EGFR,2
+non-small cell lung carcinoma,GEFITINIB,3,Terminated,EGFR,2
+non-small cell lung carcinoma,GEFITINIB,3,Unknown status,EGFR,2
+glioblastoma multiforme,GEFITINIB,2,Completed,EGFR,2
+non-small cell lung carcinoma,GEFITINIB,3,Withdrawn,EGFR,2
+non-small cell lung carcinoma,DACOMITINIB,1,Recruiting,EGFR,2
+non-small cell lung carcinoma,VANDETANIB,1,Terminated,EGFR,2
+non-small cell lung carcinoma,VANDETANIB,1,Completed,EGFR,2
+non-small cell lung carcinoma,DACOMITINIB,1,Terminated,EGFR,2
+non-small cell lung carcinoma,DACOMITINIB,2,"Active, not recruiting",EGFR,2
+non-small cell lung carcinoma,GEFITINIB,4,Terminated,EGFR,2
+ependymoma,ERLOTINIB,2,Terminated,EGFR,2
+non-small cell lung carcinoma,DACOMITINIB,3,"Active, not recruiting",EGFR,2
+non-small cell lung carcinoma,ERLOTINIB,2,Withdrawn,EGFR,2
+non-small cell lung carcinoma,DACOMITINIB,3,Completed,EGFR,2
+esophageal carcinoma,CETUXIMAB,1,Completed,EGFR,2
+colorectal cancer,CETUXIMAB,2,Completed,EGFR,2
+lung carcinoma,DACOMITINIB,3,Completed,EGFR,2
+colorectal adenocarcinoma,VANDETANIB,1,Completed,EGFR,2
+breast carcinoma,NERATINIB,2,Not yet recruiting,EGFR,2
+neoplasm,OSIMERTINIB,1,Completed,EGFR,2
+male breast carcinoma,LAPATINIB,2,Completed,EGFR,2
+neoplasm,OSIMERTINIB,1,"Active, not recruiting",EGFR,2
+neoplasm,NERATINIB,1,Terminated,EGFR,2
+breast carcinoma,PYROTINIB,3,Recruiting,EGFR,2
+mesothelioma,ERLOTINIB,2,Completed,EGFR,2
+mesothelioma,GEFITINIB,2,Completed,EGFR,2
+squamous cell carcinoma,AFATINIB,2,Completed,EGFR,2
+breast carcinoma,PYROTINIB,1,Recruiting,EGFR,2
+breast carcinoma,PYROTINIB,1,Completed,EGFR,2
+neoplasm,NECITUMUMAB,2,Completed,EGFR,2
+metastasis,DACOMITINIB,1,Completed,EGFR,2
+squamous cell carcinoma,CETUXIMAB,1,"Active, not recruiting",EGFR,2
+squamous cell carcinoma,CETUXIMAB,1,Completed,EGFR,2
+neoplasm,NECITUMUMAB,1,Completed,EGFR,2
+neoplasm,OSIMERTINIB,4,n/a,EGFR,2
+lung carcinoma,VANDETANIB,2,Terminated,EGFR,2
+breast neoplasm,LAPATINIB,1,"Active, not recruiting",EGFR,2
+lung carcinoma,OSIMERTINIB,3,Completed,EGFR,2
+lung carcinoma,GEFITINIB,2,Unknown status,EGFR,2
+cancer,ERLOTINIB,2,Terminated,EGFR,2
+lung carcinoma,OSIMERTINIB,2,Not yet recruiting,EGFR,2
+cancer,ERLOTINIB,1,"Active, not recruiting",EGFR,2
+renal carcinoma,GEFITINIB,2,Completed,EGFR,2
+lung carcinoma,OSIMERTINIB,3,"Active, not recruiting",EGFR,2
+renal cell carcinoma,ERLOTINIB,1,Terminated,EGFR,2
+lung carcinoma,VANDETANIB,2,Completed,EGFR,2
+cancer,AC-480,1,Completed,EGFR,2
+bronchoalveolar adenocarcinoma,ERLOTINIB,2,Completed,EGFR,2
+renal cell carcinoma,LAPATINIB,1,Completed,EGFR,2
+breast neoplasm,NERATINIB,2,Completed,EGFR,2
+breast neoplasm,NERATINIB,1,Recruiting,EGFR,2
+breast neoplasm,LAPATINIB,2,Recruiting,EGFR,2
+breast carcinoma,NERATINIB,4,n/a,EGFR,2
+breast carcinoma,LAPATINIB,1,Unknown status,EGFR,2
+rectum cancer,CETUXIMAB,2,Terminated,EGFR,2
+squamous cell carcinoma,CETUXIMAB,3,"Active, not recruiting",EGFR,2
+upper aerodigestive tract neoplasm,AFATINIB,3,Terminated,EGFR,2
+adenocarcinoma,CETUXIMAB,2,Completed,EGFR,2
+upper aerodigestive tract neoplasm,CETUXIMAB,1,Completed,EGFR,2
+upper aerodigestive tract neoplasm,CETUXIMAB,2,Completed,EGFR,2
+neoplasm,DULIGOTUZUMAB,1,Completed,EGFR,2
+upper aerodigestive tract neoplasm,CETUXIMAB,2,Unknown status,EGFR,2
+Fibrolamellar Carcinoma,NERATINIB,2,Recruiting,EGFR,2
+upper aerodigestive tract neoplasm,DACOMITINIB,2,Completed,EGFR,2
+neoplasm,DACOMITINIB,1,Recruiting,EGFR,2
+Fallopian Tube Carcinoma,GEFITINIB,2,Completed,EGFR,2
+Fallopian Tube Carcinoma,ERLOTINIB,2,Completed,EGFR,2
+nasopharyngeal neoplasm,NIMOTUZUMAB,3,Unknown status,EGFR,2
+neoplasm,CETUXIMAB,1,Unknown status,EGFR,2
+neoplasm,AFATINIB,2,Recruiting,EGFR,2
+neoplasm,CETUXIMAB,1,Terminated,EGFR,2
+adenocarcinoma,OSIMERTINIB,2,Recruiting,EGFR,2
+neoplasm,ERLOTINIB,3,Completed,EGFR,2
+metastatic colorectal cancer,PANITUMUMAB,3,Recruiting,EGFR,2
+squamous cell lung carcinoma,ERLOTINIB,2,Completed,EGFR,2
+metastatic colorectal cancer,CETUXIMAB,2,Unknown status,EGFR,2
+metastatic colorectal cancer,ERLOTINIB,2,Terminated,EGFR,2
+brain neoplasm,DACOMITINIB,2,Terminated,EGFR,2
+squamous cell carcinoma,OSIMERTINIB,2,Recruiting,EGFR,2
+neoplasm,LAPATINIB,1,Terminated,EGFR,2
+bladder carcinoma,PANITUMUMAB,2,Terminated,EGFR,2
+neoplasm,GEFITINIB,2,Recruiting,EGFR,2
+anaplastic oligodendroglioma,ERLOTINIB,1,Completed,EGFR,2
+metastatic colorectal cancer,NERATINIB,2,Recruiting,EGFR,2
+bladder carcinoma,GEFITINIB,2,Completed,EGFR,2
+bladder carcinoma,ERLOTINIB,2,Completed,EGFR,2
+biliary tract neoplasm,VARLITINIB,2,"Active, not recruiting",EGFR,2
+thyroid carcinoma,VANDETANIB,1,Completed,EGFR,2
+thyroid carcinoma,VANDETANIB,2,Completed,EGFR,2
+rectum cancer,ERLOTINIB,1,Completed,EGFR,2
+non-small cell lung carcinoma,AFATINIB,1,"Active, not recruiting",EGFR,2
+lung carcinoma,ERLOTINIB,1,Withdrawn,EGFR,2
+prostate adenocarcinoma,AFATINIB,2,Completed,EGFR,2
+lung adenocarcinoma,ERLOTINIB,2,Completed,EGFR,2
+carcinoma,NERATINIB,1,Completed,EGFR,2
+lung adenocarcinoma,GEFITINIB,2,Not yet recruiting,EGFR,2
+carcinoma,OSIMERTINIB,2,Recruiting,EGFR,2
+lung carcinoma,ERLOTINIB,1,Unknown status,EGFR,2
+colon carcinoma,CETUXIMAB,2,Recruiting,EGFR,2
+lung adenocarcinoma,OSIMERTINIB,2,Recruiting,EGFR,2
+peritoneal neoplasm,ERLOTINIB,2,Completed,EGFR,2
+peritoneal neoplasm,CETUXIMAB,2,Completed,EGFR,2
+central nervous system cancer,ERLOTINIB,2,Completed,EGFR,2
+penile neoplasm,DACOMITINIB,2,Unknown status,EGFR,2
+lung carcinoma,ERLOTINIB,1,"Active, not recruiting",EGFR,2
+central nervous system cancer,GEFITINIB,2,Completed,EGFR,2
+lung carcinoma,DACOMITINIB,0,Recruiting,EGFR,2
+pancreatic carcinoma,ERLOTINIB,2,"Active, not recruiting",EGFR,2
+central nervous system cancer,NIMOTUZUMAB,2,Completed,EGFR,2
+non-small cell lung carcinoma,AFATINIB,1,Unknown status,EGFR,2
+cervical carcinoma,CETUXIMAB,2,Completed,EGFR,2
+lung carcinoma,GEFITINIB,2,Recruiting,EGFR,2
+non-small cell lung carcinoma,AFATINIB,2,Unknown status,EGFR,2
+lung carcinoma,AFATINIB,2,"Active, not recruiting",EGFR,2
+pancreatic carcinoma,PANITUMUMAB,2,Completed,EGFR,2
+pancreatic carcinoma,PANITUMUMAB,1,Completed,EGFR,2
+pharyngeal squamous cell carcinoma,CETUXIMAB,3,"Active, not recruiting",EGFR,2
+pancreatic carcinoma,LAPATINIB,2,Terminated,EGFR,2
+liver disease,DACOMITINIB,1,Not yet recruiting,EGFR,2
+pancreatic carcinoma,CETUXIMAB,1,Completed,EGFR,2
+lung carcinoma,ERLOTINIB,3,Completed,EGFR,2
+non-small cell lung carcinoma,BMS-690514,2,Completed,EGFR,2
+cancer,VANDETANIB,1,Completed,EGFR,2
+lung carcinoma,ERLOTINIB,2,Unknown status,EGFR,2
+prostate carcinoma,PANITUMUMAB,2,Completed,EGFR,2
+lung adenocarcinoma,ERLOTINIB,1,Completed,EGFR,2
+lung carcinoma,GEFITINIB,2,"Active, not recruiting",EGFR,2
+cancer,OSIMERTINIB,3,"Active, not recruiting",EGFR,2
+carcinoma,DACOMITINIB,1,Completed,EGFR,2
+rectum cancer,CETUXIMAB,1,Completed,EGFR,2
+carcinoma,DACOMITINIB,2,Completed,EGFR,2
+lung carcinoma,ERLOTINIB,3,Unknown status,EGFR,2
+non-small cell lung carcinoma,AFATINIB,3,"Active, not recruiting",EGFR,1
+neoplasm,ERLOTINIB,4,n/a,EGFR,1
+non-small cell lung carcinoma,BRIGATINIB,2,Not yet recruiting,EGFR,1
+non-small cell lung carcinoma,BRIGATINIB,2,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,BRIGATINIB,0,Recruiting,EGFR,1
+non-small cell lung carcinoma,AFATINIB,4,Completed,EGFR,1
+neoplasm,ERLOTINIB,2,Unknown status,EGFR,1
+non-small cell lung carcinoma,BRIGATINIB,3,Not yet recruiting,EGFR,1
+non-small cell lung carcinoma,AFATINIB,2,Terminated,EGFR,1
+neoplasm,FUTUXIMAB,1,Completed,EGFR,1
+neoplasm,CETUXIMAB,1,Recruiting,EGFR,1
+non-small cell lung carcinoma,AFATINIB,2,Suspended,EGFR,1
+non-small cell lung carcinoma,AFATINIB,2,Recruiting,EGFR,1
+non-small cell lung carcinoma,BRIGATINIB,4,n/a,EGFR,1
+neoplasm,GEFITINIB,2,Completed,EGFR,1
+non-small cell lung carcinoma,BRIGATINIB,3,"Active, not recruiting",EGFR,1
+neoplasm,ERLOTINIB,1,Unknown status,EGFR,1
+non-small cell lung carcinoma,ERLOTINIB,3,Suspended,EGFR,1
+neoplasm,ERLOTINIB,2,Recruiting,EGFR,1
+neoplasm,ERLOTINIB,1,Withdrawn,EGFR,1
+neoplasm,DEPATUXIZUMAB MAFODOTIN,1,Completed,EGFR,1
+neoplasm,CETUXIMAB,1,Withdrawn,EGFR,1
+neoplasm,CETUXIMAB,2,Unknown status,EGFR,1
+neoplasm,ERLOTINIB,1,Recruiting,EGFR,1
+neoplasm,CETUXIMAB,4,n/a,EGFR,1
+non-small cell lung carcinoma,AFATINIB,4,n/a,EGFR,1
+neoplasm,CUDC-101,1,Completed,EGFR,1
+non-small cell lung carcinoma,CANERTINIB,1,Completed,EGFR,1
+neoplasm,ERLOTINIB,1,"Active, not recruiting",EGFR,1
+neoplasm,EPITINIB,1,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,AFATINIB,4,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,AFATINIB,4,Terminated,EGFR,1
+neoplasm,VANDETANIB,2,Recruiting,EGFR,1
+neoplasm,LAPATINIB,2,Unknown status,EGFR,1
+neoplasm,GEFITINIB,3,Completed,EGFR,1
+non-small cell lung carcinoma,EGF816,2,Recruiting,EGFR,1
+neoplasm,OLMUTINIB,4,n/a,EGFR,1
+neuroblastoma,VANDETANIB,1,Terminated,EGFR,1
+neoplasm,PANITUMUMAB,4,n/a,EGFR,1
+non-small cell lung carcinoma,CETUXIMAB,2,Unknown status,EGFR,1
+non-small cell lung carcinoma,CETUXIMAB,2,Withdrawn,EGFR,1
+non-small cell lung carcinoma,BRIGATINIB,1,Not yet recruiting,EGFR,1
+non-small cell lung carcinoma,CUDC-101,1,Completed,EGFR,1
+non-small cell lung carcinoma,ERLOTINIB,0,Recruiting,EGFR,1
+neoplasm,POZIOTINIB,1,Completed,EGFR,1
+neoplasm,NIMOTUZUMAB,1,Completed,EGFR,1
+neuroblastoma,LAPATINIB,2,Recruiting,EGFR,1
+neoplasm,POZIOTINIB,1,Not yet recruiting,EGFR,1
+neuroblastoma,GEFITINIB,2,Completed,EGFR,1
+neoplasm,VANDETANIB,4,n/a,EGFR,1
+neoplasm,ROCILETINIB,4,n/a,EGFR,1
+neoplasm,VANDETANIB,1,Completed,EGFR,1
+neoplasm,VANDETANIB,1,Withdrawn,EGFR,1
+non-small cell lung carcinoma,EGF816,1,"Active, not recruiting",EGFR,1
+neoplasm,NIMOTUZUMAB,1,Unknown status,EGFR,1
+non-small cell lung carcinoma,CETUXIMAB,2,Recruiting,EGFR,1
+neoplasm,GEFITINIB,4,n/a,EGFR,1
+non-small cell lung carcinoma,CETUXIMAB,1,Recruiting,EGFR,1
+non-small cell lung carcinoma,AFATINIB,2,Not yet recruiting,EGFR,1
+neoplasm,IMGATUZUMAB,1,Completed,EGFR,1
+neoplasm,LAPATINIB,1,Withdrawn,EGFR,1
+neoplasm,LAPATINIB,2,Completed,EGFR,1
+non-small cell lung carcinoma,AFATINIB,1,Withdrawn,EGFR,1
+non-small cell lung carcinoma,ERLOTINIB,2,Suspended,EGFR,1
+non-small cell lung carcinoma,ERLOTINIB,2,Not yet recruiting,EGFR,1
+neoplasm,LAPATINIB,2,Recruiting,EGFR,1
+non-small cell lung carcinoma,ERLOTINIB,2,Enrolling by invitation,EGFR,1
+non-small cell lung carcinoma,ERLOTINIB,0,Withdrawn,EGFR,1
+neoplasm,LAPATINIB,3,"Active, not recruiting",EGFR,1
+neoplasm,LAPATINIB,3,Completed,EGFR,1
+neoplasm,LAPATINIB,4,n/a,EGFR,1
+non-small cell lung carcinoma,AFATINIB,1,Recruiting,EGFR,1
+non-small cell lung carcinoma,AFATINIB,1,Not yet recruiting,EGFR,1
+neoplasm,MP-412,1,Terminated,EGFR,1
+non-melanoma skin carcinoma,GEFITINIB,1,Unknown status,EGFR,1
+neoplasm,NECITUMUMAB,4,n/a,EGFR,1
+neoplasm,PELITINIB,1,Completed,EGFR,1
+non-small cell lung carcinoma,VANDETANIB,3,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,ERLOTINIB,4,Recruiting,EGFR,1
+soft tissue sarcoma,LAPATINIB,3,Not yet recruiting,EGFR,1
+salivary gland squamous cell carcinoma,LAPATINIB,2,Completed,EGFR,1
+sarcoma,CETUXIMAB,2,Completed,EGFR,1
+sarcoma,ERLOTINIB,2,Completed,EGFR,1
+sarcoma,GEFITINIB,2,Completed,EGFR,1
+skin carcinoma,ERLOTINIB,2,Terminated,EGFR,1
+skin carcinoma,GEFITINIB,2,Completed,EGFR,1
+skin neoplasm,CETUXIMAB,2,Not yet recruiting,EGFR,1
+small cell lung carcinoma,AFATINIB,2,Recruiting,EGFR,1
+small cell lung carcinoma,AFATINIB,2,Withdrawn,EGFR,1
+small cell lung carcinoma,GEFITINIB,2,Completed,EGFR,1
+small cell lung carcinoma,VANDETANIB,2,Completed,EGFR,1
+squamous cell carcinoma,AFATINIB,1,Recruiting,EGFR,1
+salivary gland squamous cell carcinoma,CETUXIMAB,1,Completed,EGFR,1
+squamous cell carcinoma,AFATINIB,2,Not yet recruiting,EGFR,1
+squamous cell carcinoma,AFATINIB,2,Recruiting,EGFR,1
+squamous cell carcinoma,CETUXIMAB,1,Withdrawn,EGFR,1
+squamous cell carcinoma,CETUXIMAB,2,Recruiting,EGFR,1
+squamous cell carcinoma,CETUXIMAB,2,Terminated,EGFR,1
+squamous cell carcinoma,CETUXIMAB,2,Unknown status,EGFR,1
+squamous cell carcinoma,CETUXIMAB,2,Withdrawn,EGFR,1
+squamous cell carcinoma,ERLOTINIB,2,Completed,EGFR,1
+squamous cell carcinoma,ERLOTINIB,2,Terminated,EGFR,1
+squamous cell carcinoma,ERLOTINIB,3,Terminated,EGFR,1
+squamous cell carcinoma,ERLOTINIB,3,Unknown status,EGFR,1
+salivary gland squamous cell carcinoma,CETUXIMAB,2,Completed,EGFR,1
+salivary gland neoplasm,GEFITINIB,2,Completed,EGFR,1
+polycythemia vera,ERLOTINIB,2,Terminated,EGFR,1
+rectum cancer,NIMOTUZUMAB,2,Unknown status,EGFR,1
+prostate carcinoma,CETUXIMAB,2,"Active, not recruiting",EGFR,1
+prostate carcinoma,CETUXIMAB,2,Completed,EGFR,1
+prostate carcinoma,ERLOTINIB,1,Terminated,EGFR,1
+prostate carcinoma,GEFITINIB,2,Terminated,EGFR,1
+prostate carcinoma,LAPATINIB,1,Terminated,EGFR,1
+prostate carcinoma,PANITUMUMAB,1,Completed,EGFR,1
+prostate carcinoma,VANDETANIB,2,Terminated,EGFR,1
+psoriasis,ERLOTINIB,2,Withdrawn,EGFR,1
+rectum cancer,CETUXIMAB,1,Terminated,EGFR,1
+rectum cancer,CETUXIMAB,2,"Active, not recruiting",EGFR,1
+rectum cancer,ERLOTINIB,2,Recruiting,EGFR,1
+rectum cancer,PANITUMUMAB,1,Completed,EGFR,1
+response to drug,POZIOTINIB,2,Completed,EGFR,1
+rectum cancer,PANITUMUMAB,2,Completed,EGFR,1
+rectum cancer,PANITUMUMAB,2,Recruiting,EGFR,1
+rectum cancer,PANITUMUMAB,2,Terminated,EGFR,1
+rectum cancer,PANITUMUMAB,2,Unknown status,EGFR,1
+rectum cancer,PELITINIB,2,Completed,EGFR,1
+renal carcinoma,ERLOTINIB,1,"Active, not recruiting",EGFR,1
+renal carcinoma,GEFITINIB,2,Terminated,EGFR,1
+renal carcinoma,PANITUMUMAB,1,Completed,EGFR,1
+renal carcinoma,VANDETANIB,2,Completed,EGFR,1
+renal cell carcinoma,GEFITINIB,1,Completed,EGFR,1
+renal cell carcinoma,PANITUMUMAB,2,Completed,EGFR,1
+squamous cell carcinoma,FUTUXIMAB,2,Completed,EGFR,1
+squamous cell carcinoma,GEFITINIB,2,Completed,EGFR,1
+squamous cell carcinoma,GEFITINIB,2,Unknown status,EGFR,1
+upper aerodigestive tract neoplasm,GEFITINIB,2,Completed,EGFR,1
+transitional cell carcinoma of kidney,VANDETANIB,2,Unknown status,EGFR,1
+triple-negative breast cancer,ERLOTINIB,2,Completed,EGFR,1
+triple-negative breast cancer,PYROTINIB,1,Recruiting,EGFR,1
+upper aerodigestive tract neoplasm,AFATINIB,3,"Active, not recruiting",EGFR,1
+upper aerodigestive tract neoplasm,CETUXIMAB,1,Not yet recruiting,EGFR,1
+upper aerodigestive tract neoplasm,CETUXIMAB,1,Recruiting,EGFR,1
+upper aerodigestive tract neoplasm,CETUXIMAB,1,Unknown status,EGFR,1
+upper aerodigestive tract neoplasm,CETUXIMAB,2,"Active, not recruiting",EGFR,1
+upper aerodigestive tract neoplasm,CETUXIMAB,2,Terminated,EGFR,1
+upper aerodigestive tract neoplasm,CETUXIMAB,4,Unknown status,EGFR,1
+upper aerodigestive tract neoplasm,GEFITINIB,1,Completed,EGFR,1
+upper aerodigestive tract neoplasm,POZIOTINIB,2,Recruiting,EGFR,1
+squamous cell carcinoma,LAPATINIB,2,Terminated,EGFR,1
+upper aerodigestive tract neoplasm,ZALUTUMUMAB,1,Completed,EGFR,1
+ureteral neoplasm,VANDETANIB,2,Unknown status,EGFR,1
+urethral neoplasm,GEFITINIB,2,Completed,EGFR,1
+urethral neoplasm,VANDETANIB,2,Unknown status,EGFR,1
+urogenital neoplasm,AFATINIB,2,Recruiting,EGFR,1
+urothelial carcinoma,PANITUMUMAB,3,Unknown status,EGFR,1
+uterine neoplasm,AFATINIB,2,Recruiting,EGFR,1
+uterine neoplasm,GEFITINIB,2,Completed,EGFR,1
+uterine neoplasm,LAPATINIB,2,Completed,EGFR,1
+verrucous carcinoma,CETUXIMAB,1,Completed,EGFR,1
+verrucous carcinoma,CETUXIMAB,2,Completed,EGFR,1
+transitional cell carcinoma of kidney,LAPATINIB,1,Completed,EGFR,1
+transitional cell carcinoma of kidney,GEFITINIB,2,Completed,EGFR,1
+tongue neoplasm,CETUXIMAB,2,Completed,EGFR,1
+tongue neoplasm,CETUXIMAB,1,Completed,EGFR,1
+squamous cell carcinoma,NECITUMUMAB,1,Recruiting,EGFR,1
+squamous cell carcinoma,NIMOTUZUMAB,1,Unknown status,EGFR,1
+squamous cell carcinoma,NIMOTUZUMAB,2,Terminated,EGFR,1
+squamous cell carcinoma,NIMOTUZUMAB,3,Recruiting,EGFR,1
+squamous cell carcinoma,PANITUMUMAB,1,"Active, not recruiting",EGFR,1
+squamous cell carcinoma,PANITUMUMAB,2,Completed,EGFR,1
+squamous cell carcinoma,PANITUMUMAB,2,Unknown status,EGFR,1
+squamous cell carcinoma,PANITUMUMAB,3,Terminated,EGFR,1
+squamous cell carcinoma,ZALUTUMUMAB,3,Completed,EGFR,1
+squamous cell lung carcinoma,ERLOTINIB,1,Terminated,EGFR,1
+squamous cell lung carcinoma,ERLOTINIB,2,"Active, not recruiting",EGFR,1
+squamous cell lung carcinoma,ERLOTINIB,2,Recruiting,EGFR,1
+squamous cell lung carcinoma,GEFITINIB,3,Completed,EGFR,1
+squamous cell lung carcinoma,NECITUMUMAB,2,Recruiting,EGFR,1
+stomach neoplasm,CETUXIMAB,2,Unknown status,EGFR,1
+stomach neoplasm,GEFITINIB,2,Recruiting,EGFR,1
+stomach neoplasm,NIMOTUZUMAB,2,Completed,EGFR,1
+stomach neoplasm,NIMOTUZUMAB,2,Recruiting,EGFR,1
+thyroid carcinoma,LAPATINIB,1,"Active, not recruiting",EGFR,1
+thyroid carcinoma,VANDETANIB,1,Terminated,EGFR,1
+thyroid carcinoma,VANDETANIB,4,"Active, not recruiting",EGFR,1
+thyroid carcinoma,VANDETANIB,4,n/a,EGFR,1
+thyroid neoplasm,VANDETANIB,2,"Active, not recruiting",EGFR,1
+prostate adenocarcinoma,CETUXIMAB,2,Terminated,EGFR,1
+peritoneal neoplasm,VANDETANIB,2,Completed,EGFR,1
+non-small cell lung carcinoma,ERLOTINIB,4,Suspended,EGFR,1
+non-small cell lung carcinoma,ROCILETINIB,2,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,PANITUMUMAB,1,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,PANITUMUMAB,1,Completed,EGFR,1
+non-small cell lung carcinoma,PANITUMUMAB,1,Withdrawn,EGFR,1
+non-small cell lung carcinoma,PANITUMUMAB,2,Completed,EGFR,1
+non-small cell lung carcinoma,PANITUMUMAB,2,Suspended,EGFR,1
+non-small cell lung carcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+non-small cell lung carcinoma,PELITINIB,2,Completed,EGFR,1
+non-small cell lung carcinoma,PYROTINIB,1,Recruiting,EGFR,1
+non-small cell lung carcinoma,ROCILETINIB,1,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,ROCILETINIB,1,Completed,EGFR,1
+non-small cell lung carcinoma,ROCILETINIB,1,Terminated,EGFR,1
+non-small cell lung carcinoma,ROCILETINIB,2,Terminated,EGFR,1
+non-small cell lung carcinoma,OLMUTINIB,1,Completed,EGFR,1
+non-small cell lung carcinoma,ROCILETINIB,2,Withdrawn,EGFR,1
+non-small cell lung carcinoma,ROCILETINIB,3,Terminated,EGFR,1
+non-small cell lung carcinoma,SIMOTINIB,1,Unknown status,EGFR,1
+non-small cell lung carcinoma,VANDETANIB,1,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,VANDETANIB,1,Withdrawn,EGFR,1
+non-small cell lung carcinoma,VANDETANIB,2,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,VANDETANIB,2,Unknown status,EGFR,1
+non-small cell lung carcinoma,VANDETANIB,2,Withdrawn,EGFR,1
+non-small cell lung carcinoma,ZALUTUMUMAB,2,Terminated,EGFR,1
+non-small cell lung carcinoma,ZALUTUMUMAB,2,Withdrawn,EGFR,1
+oligoastrocytoma,ERLOTINIB,1,Completed,EGFR,1
+non-small cell lung carcinoma,OLMUTINIB,2,Completed,EGFR,1
+non-small cell lung carcinoma,NIMOTUZUMAB,2,Recruiting,EGFR,1
+peritoneal neoplasm,PANITUMUMAB,2,Terminated,EGFR,1
+non-small cell lung carcinoma,LAPATINIB,1,Completed,EGFR,1
+non-small cell lung carcinoma,ERLOTINIB,4,Unknown status,EGFR,1
+non-small cell lung carcinoma,FUTUXIMAB,1,Withdrawn,EGFR,1
+non-small cell lung carcinoma,GEFITINIB,1,Withdrawn,EGFR,1
+non-small cell lung carcinoma,GEFITINIB,2,Suspended,EGFR,1
+non-small cell lung carcinoma,GEFITINIB,2,Withdrawn,EGFR,1
+non-small cell lung carcinoma,GEFITINIB,4,Not yet recruiting,EGFR,1
+non-small cell lung carcinoma,GEFITINIB,4,Recruiting,EGFR,1
+non-small cell lung carcinoma,GEFITINIB,4,Unknown status,EGFR,1
+non-small cell lung carcinoma,GEFITINIB,4,n/a,EGFR,1
+non-small cell lung carcinoma,IMGATUZUMAB,1,Withdrawn,EGFR,1
+non-small cell lung carcinoma,IMGATUZUMAB,2,Completed,EGFR,1
+non-small cell lung carcinoma,LAPATINIB,2,Terminated,EGFR,1
+non-small cell lung carcinoma,NIMOTUZUMAB,2,Completed,EGFR,1
+non-small cell lung carcinoma,MATUZUMAB,2,Completed,EGFR,1
+non-small cell lung carcinoma,NECITUMUMAB,2,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,NECITUMUMAB,2,Terminated,EGFR,1
+non-small cell lung carcinoma,NECITUMUMAB,2,Withdrawn,EGFR,1
+non-small cell lung carcinoma,NECITUMUMAB,3,"Active, not recruiting",EGFR,1
+non-small cell lung carcinoma,NECITUMUMAB,3,Suspended,EGFR,1
+non-small cell lung carcinoma,NECITUMUMAB,4,n/a,EGFR,1
+non-small cell lung carcinoma,NIMOTUZUMAB,1,Recruiting,EGFR,1
+non-small cell lung carcinoma,NIMOTUZUMAB,1,Terminated,EGFR,1
+non-small cell lung carcinoma,NIMOTUZUMAB,1,Unknown status,EGFR,1
+non-small cell lung carcinoma,NIMOTUZUMAB,1,Withdrawn,EGFR,1
+oligoastrocytoma,ERLOTINIB,1,Terminated,EGFR,1
+oligoastrocytoma,VANDETANIB,2,Completed,EGFR,1
+oral squamous cell carcinoma,VANDETANIB,2,"Active, not recruiting",EGFR,1
+pancreatic carcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+pancreatic carcinoma,ERLOTINIB,1,Withdrawn,EGFR,1
+pancreatic carcinoma,ERLOTINIB,2,Suspended,EGFR,1
+pancreatic carcinoma,ERLOTINIB,2,Unknown status,EGFR,1
+pancreatic carcinoma,ERLOTINIB,3,Unknown status,EGFR,1
+pancreatic carcinoma,ERLOTINIB,4,Terminated,EGFR,1
+pancreatic carcinoma,GEFITINIB,1,Completed,EGFR,1
+pancreatic carcinoma,LAPATINIB,2,Completed,EGFR,1
+pancreatic carcinoma,NIMOTUZUMAB,2,Completed,EGFR,1
+pancreatic carcinoma,NIMOTUZUMAB,3,Unknown status,EGFR,1
+pancreatic carcinoma,NIMOTUZUMAB,4,Not yet recruiting,EGFR,1
+pancreatic carcinoma,PANITUMUMAB,1,Terminated,EGFR,1
+pancreatic carcinoma,PANITUMUMAB,2,Withdrawn,EGFR,1
+oropharynx cancer,CETUXIMAB,1,Withdrawn,EGFR,1
+pancreatic carcinoma,VANDETANIB,1,Completed,EGFR,1
+pancreatic carcinoma,VANDETANIB,2,Unknown status,EGFR,1
+pancreatic carcinoma,VARLITINIB,1,Completed,EGFR,1
+pancreatic neoplasm,ERLOTINIB,1,Recruiting,EGFR,1
+pancreatic neoplasm,ERLOTINIB,2,Completed,EGFR,1
+papillary renal cell carcinoma,ERLOTINIB,2,Completed,EGFR,1
+papillary thyroid carcinoma,VANDETANIB,2,Recruiting,EGFR,1
+peritoneal neoplasm,ERLOTINIB,1,Completed,EGFR,1
+peritoneal neoplasm,ERLOTINIB,3,Completed,EGFR,1
+peritoneal neoplasm,GEFITINIB,1,"Active, not recruiting",EGFR,1
+peritoneal neoplasm,LAPATINIB,2,Completed,EGFR,1
+pancreatic carcinoma,ERLOTINIB,1,Unknown status,EGFR,1
+pancreatic carcinoma,ERLOTINIB,1,Recruiting,EGFR,1
+pancreatic carcinoma,CETUXIMAB,3,Completed,EGFR,1
+pancreatic carcinoma,CETUXIMAB,2,Withdrawn,EGFR,1
+oropharynx cancer,CETUXIMAB,2,Recruiting,EGFR,1
+ovarian carcinoma,CETUXIMAB,2,Terminated,EGFR,1
+ovarian carcinoma,ERLOTINIB,1,Completed,EGFR,1
+ovarian carcinoma,ERLOTINIB,2,Terminated,EGFR,1
+ovarian carcinoma,ERLOTINIB,3,Completed,EGFR,1
+ovarian carcinoma,GEFITINIB,1,"Active, not recruiting",EGFR,1
+ovarian carcinoma,LAPATINIB,1,Terminated,EGFR,1
+ovarian carcinoma,LAPATINIB,2,Completed,EGFR,1
+ovarian carcinoma,MATUZUMAB,2,Completed,EGFR,1
+ovarian carcinoma,PANITUMUMAB,2,Completed,EGFR,1
+ovarian carcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+ovarian carcinoma,PANITUMUMAB,2,Unknown status,EGFR,1
+ovarian carcinoma,VANDETANIB,1,Terminated,EGFR,1
+ovarian carcinoma,VANDETANIB,2,Completed,EGFR,1
+ovarian neoplasm,ERLOTINIB,2,Completed,EGFR,1
+pancreatic adenocarcinoma,CETUXIMAB,2,Completed,EGFR,1
+pancreatic adenocarcinoma,ERLOTINIB,1,Completed,EGFR,1
+pancreatic adenocarcinoma,ERLOTINIB,2,"Active, not recruiting",EGFR,1
+pancreatic adenocarcinoma,ERLOTINIB,2,Recruiting,EGFR,1
+pancreatic adenocarcinoma,ERLOTINIB,2,Withdrawn,EGFR,1
+pancreatic carcinoma,AFATINIB,1,"Active, not recruiting",EGFR,1
+pancreatic carcinoma,CETUXIMAB,1,Terminated,EGFR,1
+pancreatic carcinoma,CETUXIMAB,1,Unknown status,EGFR,1
+neoplasm,CETUXIMAB,1,Not yet recruiting,EGFR,1
+Autosomal dominant polycystic kidney disease,TESEVATINIB,1,"Active, not recruiting",EGFR,1
+neoplasm,CEP-32496,1,Completed,EGFR,1
+central nervous system cancer,GEFITINIB,1,Completed,EGFR,1
+carcinoma,ERLOTINIB,2,Unknown status,EGFR,1
+carcinoma,ERLOTINIB,3,Completed,EGFR,1
+carcinoma,PANITUMUMAB,2,Completed,EGFR,1
+carcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+central nervous system cancer,AC-480,1,Completed,EGFR,1
+central nervous system cancer,AEE-788,1,Completed,EGFR,1
+central nervous system cancer,AFATINIB,2,Completed,EGFR,1
+central nervous system cancer,CETUXIMAB,2,Completed,EGFR,1
+central nervous system cancer,ERLOTINIB,1,Terminated,EGFR,1
+central nervous system cancer,ERLOTINIB,1,Unknown status,EGFR,1
+central nervous system cancer,ERLOTINIB,2,Unknown status,EGFR,1
+central nervous system cancer,FUTUXIMAB,2,Recruiting,EGFR,1
+central nervous system cancer,LAPATINIB,1,Completed,EGFR,1
+cancer,ERLOTINIB,1,Withdrawn,EGFR,1
+central nervous system cancer,LAPATINIB,2,Completed,EGFR,1
+central nervous system cancer,MAB-425,2,Completed,EGFR,1
+central nervous system cancer,MDX-447,1,Completed,EGFR,1
+central nervous system cancer,PANITUMUMAB,2,Terminated,EGFR,1
+cervical adenocarcinoma,NIMOTUZUMAB,1,Completed,EGFR,1
+cervical carcinoma,CETUXIMAB,2,"Active, not recruiting",EGFR,1
+cervical carcinoma,CETUXIMAB,2,Terminated,EGFR,1
+cervical carcinoma,CETUXIMAB,2,Unknown status,EGFR,1
+cervical carcinoma,ERLOTINIB,1,Withdrawn,EGFR,1
+cervical carcinoma,GEFITINIB,2,Completed,EGFR,1
+cervical carcinoma,LAPATINIB,2,Completed,EGFR,1
+cervical carcinoma,NIMOTUZUMAB,3,Completed,EGFR,1
+carcinoma,ERLOTINIB,2,Completed,EGFR,1
+carcinoma,ERLOTINIB,1,Terminated,EGFR,1
+carcinoma,CETUXIMAB,2,Unknown status,EGFR,1
+carcinoid syndrome,PANITUMUMAB,2,Withdrawn,EGFR,1
+cancer,ERLOTINIB,3,Unknown status,EGFR,1
+cancer,GEFITINIB,2,Completed,EGFR,1
+cancer,GEFITINIB,3,Completed,EGFR,1
+cancer,GEFITINIB,3,Enrolling by invitation,EGFR,1
+cancer,GEFITINIB,3,Unknown status,EGFR,1
+cancer,JNJ-26483327,1,Completed,EGFR,1
+cancer,LAPATINIB,0,Terminated,EGFR,1
+cancer,LAPATINIB,1,"Active, not recruiting",EGFR,1
+cancer,LAPATINIB,2,"Active, not recruiting",EGFR,1
+cancer,LAPATINIB,3,Completed,EGFR,1
+cancer,LAPATINIB,4,Completed,EGFR,1
+cancer,MP-412,1,Completed,EGFR,1
+cancer,NIMOTUZUMAB,1,Not yet recruiting,EGFR,1
+cancer,PANITUMUMAB,1,Terminated,EGFR,1
+cancer,PANITUMUMAB,2,"Active, not recruiting",EGFR,1
+cancer,PANITUMUMAB,2,Completed,EGFR,1
+cancer,PANITUMUMAB,2,Recruiting,EGFR,1
+cancer,PANITUMUMAB,2,Withdrawn,EGFR,1
+cancer,PANITUMUMAB,4,Recruiting,EGFR,1
+cancer,POZIOTINIB,1,Completed,EGFR,1
+cancer,TAK-285,1,Completed,EGFR,1
+cancer,THELIATINIB,1,Completed,EGFR,1
+cancer,THELIATINIB,1,Terminated,EGFR,1
+cancer,VANDETANIB,1,Recruiting,EGFR,1
+cancer,VANDETANIB,2,Completed,EGFR,1
+cervical carcinoma,NIMOTUZUMAB,3,Recruiting,EGFR,1
+cervical carcinoma,PANITUMUMAB,2,Unknown status,EGFR,1
+cervical squamous cell carcinoma,CETUXIMAB,2,Completed,EGFR,1
+colorectal carcinoma,CETUXIMAB,1,"Active, not recruiting",EGFR,1
+colorectal carcinoma,CETUXIMAB,2,Suspended,EGFR,1
+colorectal carcinoma,CETUXIMAB,3,"Active, not recruiting",EGFR,1
+colorectal carcinoma,CETUXIMAB,3,Withdrawn,EGFR,1
+colorectal carcinoma,DULIGOTUZUMAB,2,Completed,EGFR,1
+colorectal carcinoma,ERLOTINIB,2,"Active, not recruiting",EGFR,1
+colorectal carcinoma,ERLOTINIB,2,Completed,EGFR,1
+colorectal carcinoma,GEFITINIB,1,Terminated,EGFR,1
+colorectal carcinoma,IMGATUZUMAB,2,Completed,EGFR,1
+colorectal carcinoma,LAPATINIB,1,Recruiting,EGFR,1
+colorectal carcinoma,LAPATINIB,2,Completed,EGFR,1
+colorectal carcinoma,NIMOTUZUMAB,2,Terminated,EGFR,1
+colorectal carcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+colorectal carcinoma,PANITUMUMAB,3,Recruiting,EGFR,1
+colorectal carcinoma,PANITUMUMAB,3,Unknown status,EGFR,1
+colorectal carcinoma,VANDETANIB,2,Completed,EGFR,1
+colorectal carcinoma,ZALUTUMUMAB,1,Terminated,EGFR,1
+colorectal neoplasm,CETUXIMAB,1,"Active, not recruiting",EGFR,1
+colorectal neoplasm,CETUXIMAB,1,Recruiting,EGFR,1
+colorectal neoplasm,CETUXIMAB,2,Not yet recruiting,EGFR,1
+colorectal neoplasm,CETUXIMAB,2,Recruiting,EGFR,1
+colorectal neoplasm,CETUXIMAB,2,Terminated,EGFR,1
+colorectal neoplasm,PANITUMUMAB,2,Terminated,EGFR,1
+colorectal neoplasm,PANITUMUMAB,3,Recruiting,EGFR,1
+colorectal neoplasm,PELITINIB,2,Completed,EGFR,1
+cutaneous squamous cell carcinoma,ERLOTINIB,2,"Active, not recruiting",EGFR,1
+colorectal carcinoma,CETUXIMAB,1,Unknown status,EGFR,1
+colorectal cancer,PANITUMUMAB,2,Recruiting,EGFR,1
+cervical squamous cell carcinoma,ERLOTINIB,2,Completed,EGFR,1
+colorectal cancer,NIMOTUZUMAB,2,Unknown status,EGFR,1
+cervical squamous cell carcinoma,NIMOTUZUMAB,2,Recruiting,EGFR,1
+cholangiocarcinoma,CETUXIMAB,2,Unknown status,EGFR,1
+cholangiocarcinoma,VARLITINIB,2,Completed,EGFR,1
+chronic kidney disease,LAPATINIB,1,Completed,EGFR,1
+clear cell renal carcinoma,ERLOTINIB,1,Completed,EGFR,1
+clear cell renal carcinoma,VANDETANIB,2,Terminated,EGFR,1
+colon carcinoma,CETUXIMAB,1,Completed,EGFR,1
+colon carcinoma,CETUXIMAB,1,Terminated,EGFR,1
+colon carcinoma,CETUXIMAB,2,Completed,EGFR,1
+colon carcinoma,CETUXIMAB,2,Withdrawn,EGFR,1
+colon carcinoma,ERLOTINIB,1,"Active, not recruiting",EGFR,1
+colon carcinoma,PANITUMUMAB,1,Completed,EGFR,1
+colon carcinoma,PANITUMUMAB,2,Completed,EGFR,1
+colon carcinoma,PANITUMUMAB,2,Recruiting,EGFR,1
+colonic neoplasm,PELITINIB,2,Completed,EGFR,1
+colorectal adenocarcinoma,CETUXIMAB,2,Completed,EGFR,1
+colorectal adenocarcinoma,CETUXIMAB,2,Unknown status,EGFR,1
+colorectal adenocarcinoma,CETUXIMAB,3,Completed,EGFR,1
+colorectal adenocarcinoma,CETUXIMAB,4,n/a,EGFR,1
+colorectal adenocarcinoma,LAPATINIB,1,Completed,EGFR,1
+colorectal adenocarcinoma,PANITUMUMAB,1,Completed,EGFR,1
+colorectal adenocarcinoma,PANITUMUMAB,2,Completed,EGFR,1
+colorectal adenocarcinoma,PANITUMUMAB,2,Recruiting,EGFR,1
+colorectal adenocarcinoma,PANITUMUMAB,4,n/a,EGFR,1
+colorectal cancer,CETUXIMAB,1,Not yet recruiting,EGFR,1
+cancer,ERLOTINIB,2,Withdrawn,EGFR,1
+cancer,ERLOTINIB,1,Recruiting,EGFR,1
+diffuse intrinsic pontine glioma,ERLOTINIB,2,Completed,EGFR,1
+biliary tract neoplasm,VARLITINIB,1,Recruiting,EGFR,1
+anal neoplasm,CETUXIMAB,2,"Active, not recruiting",EGFR,1
+anal neoplasm,CETUXIMAB,2,Completed,EGFR,1
+anal neoplasm,CETUXIMAB,2,Unknown status,EGFR,1
+anaplastic astrocytoma,CETUXIMAB,1,Completed,EGFR,1
+anaplastic astrocytoma,ERLOTINIB,1,Terminated,EGFR,1
+anaplastic astrocytoma,VANDETANIB,2,Completed,EGFR,1
+anaplastic large cell lymphoma,BRIGATINIB,2,Recruiting,EGFR,1
+anaplastic oligodendroglioma,ERLOTINIB,1,Terminated,EGFR,1
+anaplastic oligodendroglioma,VANDETANIB,2,Completed,EGFR,1
+biliary tract neoplasm,CETUXIMAB,2,Completed,EGFR,1
+biliary tract neoplasm,ERLOTINIB,2,Not yet recruiting,EGFR,1
+biliary tract neoplasm,VARLITINIB,1,Completed,EGFR,1
+biliary tract neoplasm,VARLITINIB,2,Withdrawn,EGFR,1
+cancer,CUDC-101,1,Terminated,EGFR,1
+bladder carcinoma,CETUXIMAB,2,Completed,EGFR,1
+bladder carcinoma,ERLOTINIB,2,Terminated,EGFR,1
+bladder carcinoma,GEFITINIB,2,Terminated,EGFR,1
+bladder carcinoma,GEFITINIB,3,Terminated,EGFR,1
+bladder carcinoma,LAPATINIB,0,Terminated,EGFR,1
+bladder carcinoma,LAPATINIB,1,Completed,EGFR,1
+bladder carcinoma,LAPATINIB,2,Terminated,EGFR,1
+bladder carcinoma,LAPATINIB,2,Unknown status,EGFR,1
+bladder carcinoma,VANDETANIB,2,Unknown status,EGFR,1
+bladder transitional cell carcinoma,ERLOTINIB,2,"Active, not recruiting",EGFR,1
+bladder transitional cell carcinoma,VANDETANIB,2,Completed,EGFR,1
+brain disease,LAPATINIB,3,Completed,EGFR,1
+anal neoplasm,CETUXIMAB,1,"Active, not recruiting",EGFR,1
+adenosquamous lung carcinoma,ERLOTINIB,2,Completed,EGFR,1
+adenoid cystic carcinoma,CETUXIMAB,1,Unknown status,EGFR,1
+adenocarcinoma,NIMOTUZUMAB,2,Withdrawn,EGFR,1
+Brain Stem Glioma,ERLOTINIB,1,Completed,EGFR,1
+Chordoma,AFATINIB,2,Recruiting,EGFR,1
+Chordoma,CETUXIMAB,1,Not yet recruiting,EGFR,1
+Chronic Hepatitis C infection,ERLOTINIB,1,Unknown status,EGFR,1
+Digestive System Carcinoma,CETUXIMAB,1,Completed,EGFR,1
+Digestive System Carcinoma,PANITUMUMAB,2,Completed,EGFR,1
+Ebola hemorrhagic fever,ERLOTINIB,1,Unknown status,EGFR,1
+Fallopian Tube Carcinoma,CETUXIMAB,2,Completed,EGFR,1
+Fallopian Tube Carcinoma,ERLOTINIB,1,Completed,EGFR,1
+Fallopian Tube Carcinoma,ERLOTINIB,3,Completed,EGFR,1
+Fallopian Tube Carcinoma,GEFITINIB,1,"Active, not recruiting",EGFR,1
+Fallopian Tube Carcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+Fallopian Tube Carcinoma,VANDETANIB,2,Completed,EGFR,1
+Familial adenomatous polyposis,ERLOTINIB,2,Completed,EGFR,1
+Familial adenomatous polyposis,ERLOTINIB,2,Recruiting,EGFR,1
+Gastrointestinal stromal tumor,VANDETANIB,2,"Active, not recruiting",EGFR,1
+Meningioma,ERLOTINIB,1,Completed,EGFR,1
+Penile Carcinoma,AFATINIB,2,Recruiting,EGFR,1
+Pituitary Gland Adenoma,LAPATINIB,2,Completed,EGFR,1
+Poorly Differentiated Thyroid Gland Carcinoma,VANDETANIB,2,Recruiting,EGFR,1
+Thymoma,ERLOTINIB,2,Completed,EGFR,1
+acute myeloid leukemia,ERLOTINIB,2,Recruiting,EGFR,1
+acute myeloid leukemia,GEFITINIB,2,Completed,EGFR,1
+acute myeloid leukemia,VANDETANIB,2,Recruiting,EGFR,1
+adenocarcinoma,LAPATINIB,2,Completed,EGFR,1
+brain neoplasm,AFATINIB,1,Recruiting,EGFR,1
+brain neoplasm,CETUXIMAB,2,"Active, not recruiting",EGFR,1
+brain neoplasm,ERLOTINIB,2,Terminated,EGFR,1
+breast carcinoma,PYROTINIB,2,Not yet recruiting,EGFR,1
+breast carcinoma,PYROTINIB,3,"Active, not recruiting",EGFR,1
+breast carcinoma,PYROTINIB,3,Not yet recruiting,EGFR,1
+breast carcinoma,TESEVATINIB,1,Terminated,EGFR,1
+breast carcinoma,VANDETANIB,1,Completed,EGFR,1
+breast carcinoma,VANDETANIB,2,Completed,EGFR,1
+breast carcinoma,VANDETANIB,2,Recruiting,EGFR,1
+breast ductal adenocarcinoma,LAPATINIB,2,Unknown status,EGFR,1
+breast neoplasm,AFATINIB,1,Completed,EGFR,1
+breast neoplasm,AFATINIB,3,Completed,EGFR,1
+breast neoplasm,CANERTINIB,2,Completed,EGFR,1
+breast neoplasm,CETUXIMAB,1,Unknown status,EGFR,1
+breast neoplasm,CETUXIMAB,2,Completed,EGFR,1
+breast neoplasm,ERLOTINIB,1,"Active, not recruiting",EGFR,1
+breast neoplasm,GEFITINIB,2,Completed,EGFR,1
+breast neoplasm,LAPATINIB,1,Terminated,EGFR,1
+breast neoplasm,LAPATINIB,4,"Active, not recruiting",EGFR,1
+breast neoplasm,PANITUMUMAB,2,Recruiting,EGFR,1
+breast neoplasm,VANDETANIB,2,Completed,EGFR,1
+bronchial neoplasm,EGF816,1,Recruiting,EGFR,1
+bronchoalveolar adenocarcinoma,ERLOTINIB,2,Unknown status,EGFR,1
+cancer,AEE-788,1,Completed,EGFR,1
+cancer,CETUXIMAB,1,Terminated,EGFR,1
+cancer,CETUXIMAB,1,Withdrawn,EGFR,1
+cancer,CETUXIMAB,2,Recruiting,EGFR,1
+cancer,CETUXIMAB,3,"Active, not recruiting",EGFR,1
+breast carcinoma,PYROTINIB,2,Recruiting,EGFR,1
+breast carcinoma,PYROTINIB,1,"Active, not recruiting",EGFR,1
+brain stem neoplasm,NIMOTUZUMAB,2,Recruiting,EGFR,1
+breast carcinoma,POZIOTINIB,2,Unknown status,EGFR,1
+breast carcinoma,AFATINIB,2,Completed,EGFR,1
+breast carcinoma,AFATINIB,2,Unknown status,EGFR,1
+breast carcinoma,BMS-690514,2,Completed,EGFR,1
+breast carcinoma,CETUXIMAB,1,Unknown status,EGFR,1
+breast carcinoma,CETUXIMAB,2,"Active, not recruiting",EGFR,1
+breast carcinoma,CUDC-101,1,Completed,EGFR,1
+breast carcinoma,ERLOTINIB,1,"Active, not recruiting",EGFR,1
+breast carcinoma,ERLOTINIB,2,Unknown status,EGFR,1
+breast carcinoma,ERLOTINIB,2,Withdrawn,EGFR,1
+breast carcinoma,GEFITINIB,1,Completed,EGFR,1
+breast carcinoma,GEFITINIB,2,Unknown status,EGFR,1
+breast carcinoma,GEFITINIB,2,Withdrawn,EGFR,1
+breast carcinoma,GEFITINIB,3,Completed,EGFR,1
+breast carcinoma,LAPATINIB,0,"Active, not recruiting",EGFR,1
+breast carcinoma,LAPATINIB,1,Recruiting,EGFR,1
+breast carcinoma,LAPATINIB,1,Suspended,EGFR,1
+breast carcinoma,LAPATINIB,4,n/a,EGFR,1
+breast carcinoma,NIMOTUZUMAB,2,Unknown status,EGFR,1
+breast carcinoma,PANITUMUMAB,2,"Active, not recruiting",EGFR,1
+breast carcinoma,PANITUMUMAB,2,Completed,EGFR,1
+breast carcinoma,PANITUMUMAB,2,Recruiting,EGFR,1
+breast carcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+breast carcinoma,POZIOTINIB,1,"Active, not recruiting",EGFR,1
+breast carcinoma,POZIOTINIB,2,"Active, not recruiting",EGFR,1
+breast carcinoma,POZIOTINIB,2,Recruiting,EGFR,1
+diffuse gastric adenocarcinoma,LAPATINIB,2,Completed,EGFR,1
+diffuse intrinsic pontine glioma,ERLOTINIB,2,Recruiting,EGFR,1
+neoplasm,BRIGATINIB,4,n/a,EGFR,1
+lung carcinoma,CETUXIMAB,1,Terminated,EGFR,1
+lung adenocarcinoma,ERLOTINIB,1,Recruiting,EGFR,1
+lung adenocarcinoma,ERLOTINIB,1,Terminated,EGFR,1
+lung adenocarcinoma,ERLOTINIB,4,Unknown status,EGFR,1
+lung adenocarcinoma,GEFITINIB,3,Completed,EGFR,1
+lung adenocarcinoma,POZIOTINIB,2,Completed,EGFR,1
+lung adenocarcinoma,POZIOTINIB,2,Terminated,EGFR,1
+lung carcinoma,AFATINIB,2,Completed,EGFR,1
+lung carcinoma,AFATINIB,2,Recruiting,EGFR,1
+lung carcinoma,AFATINIB,2,Terminated,EGFR,1
+lung carcinoma,AFATINIB,2,Withdrawn,EGFR,1
+lung carcinoma,CANERTINIB,2,Completed,EGFR,1
+lung carcinoma,CETUXIMAB,1,Completed,EGFR,1
+lung carcinoma,CETUXIMAB,2,"Active, not recruiting",EGFR,1
+head and neck squamous cell carcinoma,CETUXIMAB,2,Withdrawn,EGFR,1
+lung carcinoma,CETUXIMAB,2,Terminated,EGFR,1
+lung carcinoma,CETUXIMAB,2,Withdrawn,EGFR,1
+lung carcinoma,CETUXIMAB,3,"Active, not recruiting",EGFR,1
+Autosomal dominant polycystic kidney disease,TESEVATINIB,2,Terminated,EGFR,1
+lung carcinoma,EGF816,2,Recruiting,EGFR,1
+lung carcinoma,ERLOTINIB,2,Not yet recruiting,EGFR,1
+lung carcinoma,ERLOTINIB,2,Withdrawn,EGFR,1
+lung carcinoma,GEFITINIB,1,Unknown status,EGFR,1
+lung carcinoma,GEFITINIB,1,Withdrawn,EGFR,1
+lung carcinoma,GEFITINIB,2,Terminated,EGFR,1
+lung carcinoma,GEFITINIB,3,Recruiting,EGFR,1
+lung carcinoma,GEFITINIB,3,Terminated,EGFR,1
+lung adenocarcinoma,CETUXIMAB,1,Completed,EGFR,1
+liver disease,AFATINIB,1,Completed,EGFR,1
+leukemia,ERLOTINIB,2,Completed,EGFR,1
+laryngeal squamous cell carcinoma,LAPATINIB,2,Completed,EGFR,1
+head and neck squamous cell carcinoma,ERLOTINIB,2,Terminated,EGFR,1
+head and neck squamous cell carcinoma,ERLOTINIB,3,Completed,EGFR,1
+head and neck squamous cell carcinoma,GEFITINIB,3,Completed,EGFR,1
+head and neck squamous cell carcinoma,LAPATINIB,2,Completed,EGFR,1
+head and neck squamous cell carcinoma,NIMOTUZUMAB,2,Completed,EGFR,1
+head and neck squamous cell carcinoma,NIMOTUZUMAB,2,Unknown status,EGFR,1
+head and neck squamous cell carcinoma,PANITUMUMAB,1,Completed,EGFR,1
+head and neck squamous cell carcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+head and neck squamous cell carcinoma,VANDETANIB,2,Completed,EGFR,1
+hepatocellular carcinoma,CETUXIMAB,1,Completed,EGFR,1
+hepatocellular carcinoma,CETUXIMAB,1,Recruiting,EGFR,1
+hepatocellular carcinoma,CUDC-101,1,Completed,EGFR,1
+hepatocellular carcinoma,ERLOTINIB,1,Completed,EGFR,1
+hepatocellular carcinoma,ERLOTINIB,1,Withdrawn,EGFR,1
+hepatocellular carcinoma,ERLOTINIB,2,"Active, not recruiting",EGFR,1
+hepatocellular carcinoma,ERLOTINIB,3,Completed,EGFR,1
+hepatocellular carcinoma,GEFITINIB,2,Completed,EGFR,1
+hepatocellular carcinoma,GEFITINIB,2,Unknown status,EGFR,1
+hepatocellular carcinoma,VANDETANIB,2,Completed,EGFR,1
+hypopharyngeal carcinoma,CETUXIMAB,1,Completed,EGFR,1
+hypopharyngeal carcinoma,LAPATINIB,2,Completed,EGFR,1
+large cell lung carcinoma,ERLOTINIB,2,Completed,EGFR,1
+large cell lung carcinoma,ERLOTINIB,3,Terminated,EGFR,1
+laryngeal squamous cell carcinoma,CETUXIMAB,1,Completed,EGFR,1
+laryngeal squamous cell carcinoma,CETUXIMAB,2,Completed,EGFR,1
+lung carcinoma,NIMOTUZUMAB,2,Recruiting,EGFR,1
+lung carcinoma,PANITUMUMAB,1,Completed,EGFR,1
+lung carcinoma,PANITUMUMAB,1,Terminated,EGFR,1
+metastatic colorectal cancer,NECITUMUMAB,2,Completed,EGFR,1
+metastatic colorectal cancer,PANITUMUMAB,2,"Active, not recruiting",EGFR,1
+metastatic colorectal cancer,PANITUMUMAB,2,Terminated,EGFR,1
+metastatic neoplasm,AFATINIB,1,Terminated,EGFR,1
+metastatic prostate cancer,GEFITINIB,1,Completed,EGFR,1
+mouth neoplasm,CETUXIMAB,2,Completed,EGFR,1
+mouth neoplasm,ERLOTINIB,3,Completed,EGFR,1
+multiple myeloma,CETUXIMAB,2,Completed,EGFR,1
+multiple myeloma,CETUXIMAB,2,Terminated,EGFR,1
+multiple myeloma,VANDETANIB,2,Completed,EGFR,1
+myelodysplastic syndrome,ERLOTINIB,1,Completed,EGFR,1
+myelodysplastic syndrome,ERLOTINIB,2,Completed,EGFR,1
+myelodysplastic syndrome,ERLOTINIB,2,Withdrawn,EGFR,1
+nasopharyngeal neoplasm,CETUXIMAB,1,Completed,EGFR,1
+nasopharyngeal neoplasm,CETUXIMAB,2,Terminated,EGFR,1
+nasopharyngeal neoplasm,CETUXIMAB,2,Unknown status,EGFR,1
+nasopharyngeal neoplasm,CETUXIMAB,3,Recruiting,EGFR,1
+nasopharyngeal neoplasm,ERLOTINIB,2,Completed,EGFR,1
+nasopharyngeal neoplasm,GEFITINIB,1,Completed,EGFR,1
+nasopharyngeal neoplasm,NIMOTUZUMAB,2,Completed,EGFR,1
+nasopharyngeal neoplasm,NIMOTUZUMAB,4,Unknown status,EGFR,1
+neoplasm,AC-480,1,Completed,EGFR,1
+neoplasm,AC-480,1,Withdrawn,EGFR,1
+neoplasm,AFATINIB,2,Completed,EGFR,1
+neoplasm,AFATINIB,2,Terminated,EGFR,1
+neoplasm,AFATINIB,4,n/a,EGFR,1
+metastatic colorectal cancer,PANITUMUMAB,1,"Active, not recruiting",EGFR,1
+metastatic colorectal cancer,LAPATINIB,2,Completed,EGFR,1
+lung carcinoma,PANITUMUMAB,2,"Active, not recruiting",EGFR,1
+metastatic colorectal cancer,LAPATINIB,2,"Active, not recruiting",EGFR,1
+lymphoma,LAPATINIB,1,Completed,EGFR,1
+male breast carcinoma,GEFITINIB,2,Completed,EGFR,1
+male breast carcinoma,LAPATINIB,1,"Active, not recruiting",EGFR,1
+male breast carcinoma,LAPATINIB,1,Completed,EGFR,1
+male breast carcinoma,LAPATINIB,2,Terminated,EGFR,1
+male breast carcinoma,LAPATINIB,3,"Active, not recruiting",EGFR,1
+malignant peritoneal mesothelioma,ERLOTINIB,2,Completed,EGFR,1
+melanoma,ERLOTINIB,1,"Active, not recruiting",EGFR,1
+melanoma,ERLOTINIB,2,Completed,EGFR,1
+melanoma,LAPATINIB,2,Terminated,EGFR,1
+mesothelioma,VANDETANIB,2,Terminated,EGFR,1
+metastasis,CETUXIMAB,1,"Active, not recruiting",EGFR,1
+metastasis,NECITUMUMAB,1,"Active, not recruiting",EGFR,1
+metastatic colorectal cancer,AFATINIB,2,Completed,EGFR,1
+metastatic colorectal cancer,CETUXIMAB,2,Withdrawn,EGFR,1
+metastatic colorectal cancer,CETUXIMAB,3,"Active, not recruiting",EGFR,1
+metastatic colorectal cancer,CETUXIMAB,4,Unknown status,EGFR,1
+metastatic colorectal cancer,ERLOTINIB,2,"Active, not recruiting",EGFR,1
+metastatic colorectal cancer,ERLOTINIB,2,Unknown status,EGFR,1
+metastatic colorectal cancer,ERLOTINIB,3,Completed,EGFR,1
+metastatic colorectal cancer,FUTUXIMAB,1,Completed,EGFR,1
+metastatic colorectal cancer,FUTUXIMAB,1,Terminated,EGFR,1
+metastatic colorectal cancer,FUTUXIMAB,2,Completed,EGFR,1
+metastatic colorectal cancer,FUTUXIMAB,2,Withdrawn,EGFR,1
+metastatic colorectal cancer,GEFITINIB,2,Withdrawn,EGFR,1
+head and neck squamous cell carcinoma,ERLOTINIB,1,Withdrawn,EGFR,1
+head and neck squamous cell carcinoma,CETUXIMAB,2,Unknown status,EGFR,1
+diffuse intrinsic pontine glioma,NIMOTUZUMAB,2,Recruiting,EGFR,1
+gastric carcinoma,LAPATINIB,2,Terminated,EGFR,1
+esophageal squamous cell carcinoma,NIMOTUZUMAB,2,Withdrawn,EGFR,1
+esophageal squamous cell carcinoma,NIMOTUZUMAB,3,Recruiting,EGFR,1
+esophageal squamous cell carcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+esophageal squamous cell carcinoma,POZIOTINIB,2,Not yet recruiting,EGFR,1
+follicular thyroid carcinoma,VANDETANIB,2,Recruiting,EGFR,1
+gastric adenocarcinoma,LAPATINIB,2,Completed,EGFR,1
+gastric adenocarcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+gastric carcinoma,CETUXIMAB,1,Completed,EGFR,1
+gastric carcinoma,CETUXIMAB,1,Terminated,EGFR,1
+gastric carcinoma,CETUXIMAB,3,Completed,EGFR,1
+gastric carcinoma,CUDC-101,1,Completed,EGFR,1
+gastric carcinoma,GEFITINIB,1,Terminated,EGFR,1
+gastric carcinoma,LAPATINIB,2,Unknown status,EGFR,1
+head and neck squamous cell carcinoma,CETUXIMAB,2,Terminated,EGFR,1
+gastric carcinoma,NIMOTUZUMAB,2,Unknown status,EGFR,1
+gastric carcinoma,POZIOTINIB,1,Completed,EGFR,1
+gastric carcinoma,PYROTINIB,1,Recruiting,EGFR,1
+gastric carcinoma,PYROTINIB,1,Unknown status,EGFR,1
+gastric carcinoma,VANDETANIB,2,Terminated,EGFR,1
+gastric carcinoma,VARLITINIB,2,"Active, not recruiting",EGFR,1
+gastric intestinal type adenocarcinoma,LAPATINIB,2,Completed,EGFR,1
+germ cell tumor,ERLOTINIB,2,Terminated,EGFR,1
+germ cell tumor,GEFITINIB,2,Terminated,EGFR,1
+glioblastoma multiforme,AEE-788,1,Completed,EGFR,1
+glioblastoma multiforme,AFATINIB,1,Completed,EGFR,1
+glioblastoma multiforme,CETUXIMAB,1,Completed,EGFR,1
+esophageal squamous cell carcinoma,NIMOTUZUMAB,2,Unknown status,EGFR,1
+esophageal squamous cell carcinoma,NIMOTUZUMAB,2,Suspended,EGFR,1
+esophageal squamous cell carcinoma,NIMOTUZUMAB,2,Not yet recruiting,EGFR,1
+esophageal squamous cell carcinoma,LAPATINIB,2,Terminated,EGFR,1
+diffuse intrinsic pontine glioma,VANDETANIB,1,Completed,EGFR,1
+endometrial carcinoma,LAPATINIB,2,Completed,EGFR,1
+endometrial neoplasm,CETUXIMAB,2,Completed,EGFR,1
+endometrial neoplasm,ERLOTINIB,2,Completed,EGFR,1
+endometrial neoplasm,LAPATINIB,1,Unknown status,EGFR,1
+endometriosis,AFATINIB,1,Not yet recruiting,EGFR,1
+esophageal adenocarcinoma,CETUXIMAB,2,Completed,EGFR,1
+esophageal adenocarcinoma,PANITUMUMAB,2,Terminated,EGFR,1
+esophageal carcinoma,CETUXIMAB,1,Unknown status,EGFR,1
+esophageal carcinoma,CETUXIMAB,2,"Active, not recruiting",EGFR,1
+esophageal carcinoma,CETUXIMAB,2,Recruiting,EGFR,1
+esophageal carcinoma,CETUXIMAB,2,Withdrawn,EGFR,1
+esophageal carcinoma,CETUXIMAB,3,"Active, not recruiting",EGFR,1
+esophageal carcinoma,ERLOTINIB,1,Unknown status,EGFR,1
+esophageal carcinoma,ERLOTINIB,3,Unknown status,EGFR,1
+esophageal carcinoma,GEFITINIB,2,Unknown status,EGFR,1
+esophageal carcinoma,LAPATINIB,2,Terminated,EGFR,1
+esophageal carcinoma,NIMOTUZUMAB,1,Completed,EGFR,1
+esophageal carcinoma,NIMOTUZUMAB,2,Recruiting,EGFR,1
+esophageal carcinoma,PANITUMUMAB,1,Terminated,EGFR,1
+esophageal carcinoma,PANITUMUMAB,2,Completed,EGFR,1
+esophageal carcinoma,VANDETANIB,1,Unknown status,EGFR,1
+esophageal squamous cell carcinoma,AFATINIB,2,"Active, not recruiting",EGFR,1
+esophageal squamous cell carcinoma,CETUXIMAB,2,Completed,EGFR,1
+esophageal squamous cell carcinoma,CETUXIMAB,2,Unknown status,EGFR,1
+glioblastoma multiforme,CETUXIMAB,1,Recruiting,EGFR,1
+glioblastoma multiforme,CETUXIMAB,1,Unknown status,EGFR,1
+glioblastoma multiforme,CETUXIMAB,2,Terminated,EGFR,1
+head and neck malignant neoplasia,ERLOTINIB,1,Terminated,EGFR,1
+head and neck malignant neoplasia,ERLOTINIB,3,Terminated,EGFR,1
+head and neck malignant neoplasia,GEFITINIB,1,Terminated,EGFR,1
+head and neck malignant neoplasia,GEFITINIB,2,Terminated,EGFR,1
+head and neck malignant neoplasia,GEFITINIB,3,Terminated,EGFR,1
+head and neck malignant neoplasia,IMGATUZUMAB,1,Completed,EGFR,1
+head and neck malignant neoplasia,LAPATINIB,1,Completed,EGFR,1
+head and neck malignant neoplasia,NIMOTUZUMAB,2,"Active, not recruiting",EGFR,1
+head and neck malignant neoplasia,NIMOTUZUMAB,2,Completed,EGFR,1
+head and neck malignant neoplasia,PANITUMUMAB,2,Unknown status,EGFR,1
+head and neck malignant neoplasia,PANITUMUMAB,2,Withdrawn,EGFR,1
+head and neck malignant neoplasia,PANITUMUMAB,3,Completed,EGFR,1
+head and neck malignant neoplasia,PANITUMUMAB,3,Withdrawn,EGFR,1
+head and neck malignant neoplasia,VANDETANIB,1,Completed,EGFR,1
+head and neck malignant neoplasia,VANDETANIB,2,Terminated,EGFR,1
+head and neck malignant neoplasia,ZALUTUMUMAB,1,Completed,EGFR,1
+head and neck neoplasia,LAPATINIB,2,Completed,EGFR,1
+head and neck neoplasia,LAPATINIB,3,Completed,EGFR,1
+head and neck squamous cell carcinoma,AFATINIB,1,"Active, not recruiting",EGFR,1
+head and neck squamous cell carcinoma,AFATINIB,1,Terminated,EGFR,1
+head and neck squamous cell carcinoma,AFATINIB,2,"Active, not recruiting",EGFR,1
+head and neck squamous cell carcinoma,AFATINIB,2,Recruiting,EGFR,1
+head and neck squamous cell carcinoma,AFATINIB,3,"Active, not recruiting",EGFR,1
+head and neck squamous cell carcinoma,CETUXIMAB,1,Not yet recruiting,EGFR,1
+head and neck squamous cell carcinoma,CETUXIMAB,1,Unknown status,EGFR,1
+head and neck squamous cell carcinoma,CETUXIMAB,1,Withdrawn,EGFR,1
+head and neck malignant neoplasia,ERLOTINIB,2,Terminated,EGFR,1
+head and neck malignant neoplasia,ERLOTINIB,1,"Active, not recruiting",EGFR,1
+glioblastoma multiforme,DEPATUXIZUMAB MAFODOTIN,1,Completed,EGFR,1
+head and neck malignant neoplasia,ERLOTINIB,0,Completed,EGFR,1
+glioblastoma multiforme,DEPATUXIZUMAB MAFODOTIN,1,Recruiting,EGFR,1
+glioblastoma multiforme,DEPATUXIZUMAB MAFODOTIN,2,Recruiting,EGFR,1
+glioblastoma multiforme,DEPATUXIZUMAB MAFODOTIN,3,Recruiting,EGFR,1
+glioblastoma multiforme,EPITINIB,1,Recruiting,EGFR,1
+glioblastoma multiforme,ERLOTINIB,1,Completed,EGFR,1
+glioblastoma multiforme,ERLOTINIB,1,Terminated,EGFR,1
+glioblastoma multiforme,ERLOTINIB,2,Completed,EGFR,1
+glioblastoma multiforme,GEFITINIB,2,Terminated,EGFR,1
+glioblastoma multiforme,LAPATINIB,2,"Active, not recruiting",EGFR,1
+glioblastoma multiforme,NIMOTUZUMAB,2,Completed,EGFR,1
+glioblastoma multiforme,NIMOTUZUMAB,3,Completed,EGFR,1
+glioblastoma multiforme,TESEVATINIB,2,"Active, not recruiting",EGFR,1
+glioblastoma multiforme,VANDETANIB,1,Completed,EGFR,1
+gliosarcoma,DEPATUXIZUMAB MAFODOTIN,2,Recruiting,EGFR,1
+gliosarcoma,ERLOTINIB,1,Terminated,EGFR,1
+gliosarcoma,GEFITINIB,1,Completed,EGFR,1
+gliosarcoma,GEFITINIB,2,Completed,EGFR,1
+gliosarcoma,LAPATINIB,2,Completed,EGFR,1
+gliosarcoma,VANDETANIB,2,Completed,EGFR,1
+head and neck malignant neoplasia,CETUXIMAB,1,"Active, not recruiting",EGFR,1
+head and neck malignant neoplasia,CETUXIMAB,1,Recruiting,EGFR,1
+head and neck malignant neoplasia,CETUXIMAB,3,Withdrawn,EGFR,1
+head and neck malignant neoplasia,CETUXIMAB,4,Unknown status,EGFR,1
+head and neck malignant neoplasia,DULIGOTUZUMAB,1,Completed,EGFR,1
+head and neck malignant neoplasia,DULIGOTUZUMAB,2,Completed,EGFR,1
+verrucous carcinoma,VANDETANIB,2,"Active, not recruiting",EGFR,1

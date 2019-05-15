@@ -1,0 +1,1944 @@
+disease,drug,phase,status,target,num_ev_strings
+breast carcinoma,PACLITAXEL,2,Completed,TUBB,110
+breast carcinoma,DOCETAXEL,2,Completed,TUBB,102
+non-small cell lung carcinoma,PACLITAXEL,2,Completed,TUBB,70
+non-small cell lung carcinoma,DOCETAXEL,2,Completed,TUBB,69
+neoplasm,PACLITAXEL,1,Completed,TUBB,60
+prostate carcinoma,DOCETAXEL,2,Completed,TUBB,53
+breast carcinoma,DOCETAXEL,3,Completed,TUBB,52
+lymphoma,VINCRISTINE,2,Completed,TUBB,52
+neoplasm,DOCETAXEL,1,Completed,TUBB,50
+breast carcinoma,PACLITAXEL,1,Completed,TUBB,48
+breast carcinoma,PACLITAXEL,3,Completed,TUBB,44
+lung carcinoma,PACLITAXEL,2,Completed,TUBB,43
+ovarian carcinoma,PACLITAXEL,2,Completed,TUBB,43
+breast carcinoma,PACLITAXEL,2,Recruiting,TUBB,39
+breast carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,37
+lung carcinoma,DOCETAXEL,2,Completed,TUBB,36
+non-small cell lung carcinoma,DOCETAXEL,3,Completed,TUBB,36
+lymphoma,VINCRISTINE,3,Completed,TUBB,31
+non-small cell lung carcinoma,PACLITAXEL,1,Completed,TUBB,29
+non-small cell lung carcinoma,DOCETAXEL,2,Terminated,TUBB,26
+breast carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,24
+breast carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,24
+breast carcinoma,VINORELBINE,2,Completed,TUBB,23
+ovarian carcinoma,PACLITAXEL,1,Completed,TUBB,23
+breast carcinoma,PACLITAXEL,2,Terminated,TUBB,21
+breast carcinoma,DOCETAXEL,2,Unknown status,TUBB,21
+breast carcinoma,DOCETAXEL,1,Completed,TUBB,21
+head and neck malignant neoplasia,PACLITAXEL,2,Completed,TUBB,21
+prostate carcinoma,DOCETAXEL,1,Completed,TUBB,21
+breast carcinoma,DOCETAXEL,2,Terminated,TUBB,21
+non-small cell lung carcinoma,PACLITAXEL,3,Completed,TUBB,21
+cancer,DOCETAXEL,1,Completed,TUBB,20
+leukemia,VINCRISTINE,2,Completed,TUBB,20
+cancer,PACLITAXEL,1,Completed,TUBB,20
+non-small cell lung carcinoma,PACLITAXEL,2,Terminated,TUBB,19
+esophageal carcinoma,PACLITAXEL,2,Completed,TUBB,19
+non-small cell lung carcinoma,VINORELBINE,2,Completed,TUBB,19
+non-small cell lung carcinoma,DOCETAXEL,2,Unknown status,TUBB,19
+breast neoplasm,PACLITAXEL,2,Completed,TUBB,19
+leukemia,VINCRISTINE,3,Completed,TUBB,18
+breast carcinoma,PACLITAXEL,1,Recruiting,TUBB,18
+lung carcinoma,PACLITAXEL,3,Completed,TUBB,18
+breast carcinoma,PACLITAXEL,2,Unknown status,TUBB,18
+non-small cell lung carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,18
+prostate carcinoma,DOCETAXEL,2,Terminated,TUBB,18
+head and neck malignant neoplasia,DOCETAXEL,2,Completed,TUBB,17
+peritoneal neoplasm,PACLITAXEL,2,Completed,TUBB,17
+pancreatic carcinoma,PACLITAXEL,1,Recruiting,TUBB,17
+breast carcinoma,IXABEPILONE,2,Completed,TUBB,17
+ovarian carcinoma,PACLITAXEL,3,Completed,TUBB,17
+peritoneal neoplasm,PACLITAXEL,1,Completed,TUBB,16
+Fallopian Tube Carcinoma,PACLITAXEL,2,Completed,TUBB,16
+prostate adenocarcinoma,DOCETAXEL,2,Completed,TUBB,16
+non-small cell lung carcinoma,PACLITAXEL,3,Recruiting,TUBB,15
+gout,COLCHICINE,4,n/a,TUBB,15
+neoplasm,PACLITAXEL,1,Recruiting,TUBB,15
+non-small cell lung carcinoma,DOCETAXEL,2,Recruiting,TUBB,15
+non-small cell lung carcinoma,PACLITAXEL,1,Terminated,TUBB,15
+pancreatic carcinoma,PACLITAXEL,2,Recruiting,TUBB,15
+lymphoma,VINCRISTINE,2,"Active, not recruiting",TUBB,15
+lung carcinoma,PACLITAXEL,1,Completed,TUBB,15
+ovarian carcinoma,PACLITAXEL,2,Terminated,TUBB,15
+breast carcinoma,PACLITAXEL,3,Recruiting,TUBB,14
+breast carcinoma,ERIBULIN,2,Completed,TUBB,14
+gastric carcinoma,DOCETAXEL,2,Completed,TUBB,14
+breast carcinoma,VINORELBINE,2,Terminated,TUBB,14
+breast neoplasm,DOCETAXEL,2,Completed,TUBB,14
+lymphoma,VINCRISTINE,2,Unknown status,TUBB,14
+pancreatic carcinoma,DOCETAXEL,2,Completed,TUBB,14
+breast carcinoma,DOCETAXEL,2,Recruiting,TUBB,14
+non-small cell lung carcinoma,PACLITAXEL,3,Terminated,TUBB,13
+lymphoma,VINCRISTINE,3,Unknown status,TUBB,13
+breast carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,13
+ovarian carcinoma,DOCETAXEL,2,Completed,TUBB,13
+non-small cell lung carcinoma,PACLITAXEL,2,Recruiting,TUBB,13
+non-small cell lung carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,13
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,2,Recruiting,TUBB,13
+breast carcinoma,PACLITAXEL,4,n/a,TUBB,12
+lymphoma,VINCRISTINE,1,Completed,TUBB,12
+diffuse large B-cell lymphoma,VINCRISTINE,2,Completed,TUBB,12
+breast carcinoma,PACLITAXEL,3,Unknown status,TUBB,12
+acute lymphoblastic leukemia,VINCRISTINE,2,Completed,TUBB,12
+pancreatic carcinoma,PACLITAXEL,1,Completed,TUBB,12
+non-small cell lung carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,12
+non-small cell lung carcinoma,DOCETAXEL,3,Terminated,TUBB,11
+non-small cell lung carcinoma,DOCETAXEL,1,Completed,TUBB,11
+ovarian carcinoma,PACLITAXEL,2,Recruiting,TUBB,11
+breast carcinoma,DOCETAXEL,3,Unknown status,TUBB,11
+prostate carcinoma,DOCETAXEL,3,Completed,TUBB,11
+non-small cell lung carcinoma,VINORELBINE,3,Completed,TUBB,11
+breast neoplasm,DOCETAXEL,3,Completed,TUBB,11
+peritoneal neoplasm,PACLITAXEL,3,Completed,TUBB,11
+pancreatic adenocarcinoma,PACLITAXEL,1,Recruiting,TUBB,11
+non-small cell lung carcinoma,PACLITAXEL,4,n/a,TUBB,11
+pancreatic carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,11
+breast carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,11
+non-small cell lung carcinoma,VINORELBINE,2,Unknown status,TUBB,10
+acute lymphoblastic leukemia,VINCRISTINE,2,Recruiting,TUBB,10
+ovarian carcinoma,PACLITAXEL,1,Recruiting,TUBB,10
+non-small cell lung carcinoma,DOCETAXEL,2,Not yet recruiting,TUBB,10
+acute lymphoblastic leukemia,VINCRISTINE,4,Completed,TUBB,10
+non-small cell lung carcinoma,DOCETAXEL,1,Terminated,TUBB,10
+prostate carcinoma,PACLITAXEL,2,Completed,TUBB,10
+non-small cell lung carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,10
+neoplasm,ERIBULIN,1,Completed,TUBB,10
+melanoma,PACLITAXEL,2,Completed,TUBB,10
+breast carcinoma,PACLITAXEL,1,Terminated,TUBB,10
+lung carcinoma,VINORELBINE,2,Completed,TUBB,10
+Fallopian Tube Carcinoma,PACLITAXEL,1,Completed,TUBB,10
+non-small cell lung carcinoma,PACLITAXEL,1,Recruiting,TUBB,9
+neuroblastoma,VINCRISTINE,2,Completed,TUBB,9
+lung carcinoma,DOCETAXEL,2,Unknown status,TUBB,9
+non-small cell lung carcinoma,PACLITAXEL,2,Unknown status,TUBB,9
+non-small cell lung carcinoma,DOCETAXEL,4,n/a,TUBB,9
+prostate carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,9
+prostate carcinoma,DOCETAXEL,2,Recruiting,TUBB,9
+Familial Mediterranean fever,COLCHICINE,4,n/a,TUBB,9
+lymphoma,VINBLASTINE,2,Completed,TUBB,9
+lymphoma,VINCRISTINE,3,"Active, not recruiting",TUBB,9
+peritoneal neoplasm,PACLITAXEL,2,Terminated,TUBB,9
+Hodgkins lymphoma,VINBLASTINE,2,Recruiting,TUBB,9
+central nervous system cancer,VINCRISTINE,2,Completed,TUBB,9
+gastric carcinoma,DOCETAXEL,2,Unknown status,TUBB,9
+breast carcinoma,DOCETAXEL,4,n/a,TUBB,9
+lung carcinoma,PACLITAXEL,2,Unknown status,TUBB,8
+peritoneal neoplasm,DOCETAXEL,2,Completed,TUBB,8
+neoplasm,IXABEPILONE,1,Completed,TUBB,8
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,1,"Active, not recruiting",TUBB,8
+breast carcinoma,VINORELBINE,1,Completed,TUBB,8
+ovarian carcinoma,PACLITAXEL,2,Unknown status,TUBB,8
+breast carcinoma,PACLITAXEL,1,Unknown status,TUBB,8
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,2,Completed,TUBB,8
+lymphoma,VINCRISTINE,2,Terminated,TUBB,8
+bladder carcinoma,PACLITAXEL,2,Completed,TUBB,8
+breast carcinoma,TRASTUZUMAB EMTANSINE,2,"Active, not recruiting",TUBB,8
+ovarian carcinoma,DOCETAXEL,1,Completed,TUBB,8
+lung carcinoma,PACLITAXEL,3,Unknown status,TUBB,8
+esophageal carcinoma,PACLITAXEL,2,Recruiting,TUBB,8
+cancer,PACLITAXEL,1,"Active, not recruiting",TUBB,8
+lung carcinoma,VINORELBINE,3,Completed,TUBB,8
+cancer,PACLITAXEL,1,Terminated,TUBB,7
+gastric carcinoma,DOCETAXEL,1,Completed,TUBB,7
+male breast carcinoma,PACLITAXEL,1,Completed,TUBB,7
+lung carcinoma,DOCETAXEL,3,Completed,TUBB,7
+cancer,PACLITAXEL,1,Recruiting,TUBB,7
+breast neoplasm,PACLITAXEL,1,Completed,TUBB,7
+lung carcinoma,DOCETAXEL,1,Completed,TUBB,7
+Fallopian Tube Carcinoma,PACLITAXEL,3,Completed,TUBB,7
+Fallopian Tube Carcinoma,PACLITAXEL,1,Recruiting,TUBB,7
+ovarian carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,7
+leukemia,VINCRISTINE,2,Recruiting,TUBB,7
+esophageal carcinoma,DOCETAXEL,2,Completed,TUBB,7
+pancreatic carcinoma,PACLITAXEL,2,Completed,TUBB,7
+esophageal carcinoma,PACLITAXEL,3,Recruiting,TUBB,7
+acute lymphoblastic leukemia,VINCRISTINE,3,Recruiting,TUBB,7
+breast carcinoma,VINORELBINE,2,Unknown status,TUBB,7
+acute lymphoblastic leukemia,VINCRISTINE,1,Completed,TUBB,7
+multiple myeloma,VINCRISTINE,3,Completed,TUBB,7
+breast carcinoma,DOCETAXEL,3,Recruiting,TUBB,7
+breast carcinoma,DOCETAXEL,1,Terminated,TUBB,7
+prostate adenocarcinoma,DOCETAXEL,1,Completed,TUBB,7
+neoplasm,VINORELBINE,1,Completed,TUBB,7
+diffuse large B-cell lymphoma,VINCRISTINE,1,Completed,TUBB,7
+gastric carcinoma,PACLITAXEL,2,Unknown status,TUBB,7
+diffuse large B-cell lymphoma,VINCRISTINE,3,Recruiting,TUBB,7
+head and neck malignant neoplasia,PACLITAXEL,1,Completed,TUBB,7
+esophageal carcinoma,PACLITAXEL,2,Unknown status,TUBB,7
+prostate adenocarcinoma,DOCETAXEL,2,Terminated,TUBB,7
+lymphoma,VINBLASTINE,3,Completed,TUBB,7
+prostate carcinoma,DOCETAXEL,1,Recruiting,TUBB,6
+diffuse large B-cell lymphoma,VINCRISTINE,1,Recruiting,TUBB,6
+head and neck malignant neoplasia,DOCETAXEL,1,Completed,TUBB,6
+gastric carcinoma,PACLITAXEL,2,Completed,TUBB,6
+breast carcinoma,VINORELBINE,1,Terminated,TUBB,6
+non-Hodgkins lymphoma,VINCRISTINE,2,Terminated,TUBB,6
+pancreatic carcinoma,PACLITAXEL,2,Unknown status,TUBB,6
+transitional cell carcinoma of kidney,PACLITAXEL,2,Completed,TUBB,6
+breast carcinoma,VINORELBINE,3,Completed,TUBB,6
+Fallopian Tube Carcinoma,DOCETAXEL,1,Completed,TUBB,6
+peritoneal neoplasm,DOCETAXEL,1,Completed,TUBB,6
+pancreatic carcinoma,PACLITAXEL,1,Terminated,TUBB,6
+neoplasm,DOCETAXEL,1,Terminated,TUBB,6
+esophageal carcinoma,DOCETAXEL,1,Completed,TUBB,6
+breast carcinoma,DOCETAXEL,4,Completed,TUBB,6
+prostate carcinoma,CABAZITAXEL,2,Recruiting,TUBB,6
+neoplasm,CABAZITAXEL,1,Completed,TUBB,6
+non-small cell lung carcinoma,VINORELBINE,1,Completed,TUBB,6
+ovarian carcinoma,DOCETAXEL,2,Terminated,TUBB,6
+breast carcinoma,DOCETAXEL,2,Withdrawn,TUBB,6
+bladder carcinoma,PACLITAXEL,1,Completed,TUBB,6
+peritoneal neoplasm,PACLITAXEL,1,Recruiting,TUBB,6
+lung carcinoma,PACLITAXEL,2,Terminated,TUBB,6
+prostate carcinoma,DOCETAXEL,3,Terminated,TUBB,6
+non-small cell lung carcinoma,DOCETAXEL,3,Recruiting,TUBB,6
+endometrial neoplasm,PACLITAXEL,2,Completed,TUBB,6
+breast carcinoma,TRASTUZUMAB EMTANSINE,1,Recruiting,TUBB,6
+diffuse large B-cell lymphoma,VINCRISTINE,2,Recruiting,TUBB,6
+multiple myeloma,VINCRISTINE,2,Completed,TUBB,6
+pancreatic adenocarcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,6
+neoplasm,PACLITAXEL,2,Completed,TUBB,6
+head and neck malignant neoplasia,DOCETAXEL,2,"Active, not recruiting",TUBB,6
+prostate carcinoma,DOCETAXEL,2,Withdrawn,TUBB,6
+stomach neoplasm,DOCETAXEL,2,Unknown status,TUBB,6
+stomach neoplasm,DOCETAXEL,2,Completed,TUBB,6
+esophageal carcinoma,PACLITAXEL,1,Completed,TUBB,6
+ovarian carcinoma,PACLITAXEL,1,Terminated,TUBB,6
+non-small cell lung carcinoma,VINORELBINE,3,Recruiting,TUBB,6
+neoplasm,PACLITAXEL,1,Terminated,TUBB,6
+non-small cell lung carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,6
+peritoneal neoplasm,PACLITAXEL,1,"Active, not recruiting",TUBB,6
+breast carcinoma,VINORELBINE,2,Recruiting,TUBB,6
+breast carcinoma,ERIBULIN,2,Terminated,TUBB,5
+prostate carcinoma,PACLITAXEL,1,Completed,TUBB,5
+prostate carcinoma,DOCETAXEL,1,Unknown status,TUBB,5
+breast carcinoma,IXABEPILONE,1,Completed,TUBB,5
+gastric carcinoma,DOCETAXEL,3,Recruiting,TUBB,5
+breast carcinoma,ERIBULIN,1,"Active, not recruiting",TUBB,5
+acute lymphoblastic leukemia,VINCRISTINE,4,Unknown status,TUBB,5
+gastric carcinoma,PACLITAXEL,2,Recruiting,TUBB,5
+bladder carcinoma,DOCETAXEL,2,Completed,TUBB,5
+sarcoma,VINCRISTINE,2,Completed,TUBB,5
+sarcoma,DOCETAXEL,2,Completed,TUBB,5
+breast carcinoma,TRASTUZUMAB EMTANSINE,1,"Active, not recruiting",TUBB,5
+small cell lung carcinoma,PACLITAXEL,2,Completed,TUBB,5
+head and neck malignant neoplasia,DOCETAXEL,2,Unknown status,TUBB,5
+breast carcinoma,TRASTUZUMAB EMTANSINE,1,Completed,TUBB,5
+sarcoma,PACLITAXEL,2,Completed,TUBB,5
+breast carcinoma,TRASTUZUMAB EMTANSINE,2,Completed,TUBB,5
+breast carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,5
+head and neck malignant neoplasia,PACLITAXEL,2,Unknown status,TUBB,5
+breast carcinoma,DOCETAXEL,3,Terminated,TUBB,5
+breast neoplasm,DOCETAXEL,2,Terminated,TUBB,5
+squamous cell carcinoma,DOCETAXEL,2,Completed,TUBB,5
+neoplasm,PACLITAXEL,1,"Active, not recruiting",TUBB,5
+Fallopian Tube Carcinoma,PACLITAXEL,2,Terminated,TUBB,5
+neoplasm,PACLITAXEL,1,Unknown status,TUBB,5
+pancreatic adenocarcinoma,PACLITAXEL,2,Recruiting,TUBB,5
+lung carcinoma,DOCETAXEL,2,Terminated,TUBB,5
+peritoneal neoplasm,PACLITAXEL,2,Recruiting,TUBB,5
+lung carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,5
+lymphoma,VINCRISTINE,3,Terminated,TUBB,5
+breast neoplasm,PACLITAXEL,2,Recruiting,TUBB,5
+breast neoplasm,PACLITAXEL,3,"Active, not recruiting",TUBB,5
+pancreatic adenocarcinoma,PACLITAXEL,2,Completed,TUBB,5
+Mantle cell lymphoma,VINCRISTINE,2,Completed,TUBB,5
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,1,Completed,TUBB,5
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,1,Recruiting,TUBB,5
+breast neoplasm,VINORELBINE,2,Completed,TUBB,5
+neuroblastoma,VINCRISTINE,3,Unknown status,TUBB,5
+neuroblastoma,VINCRISTINE,3,Completed,TUBB,5
+Hodgkins lymphoma,VINBLASTINE,2,Completed,TUBB,5
+Hodgkins lymphoma,VINBLASTINE,3,Completed,TUBB,5
+neuroblastoma,VINCRISTINE,1,Completed,TUBB,5
+lymphoma,VINBLASTINE,3,"Active, not recruiting",TUBB,5
+diffuse large B-cell lymphoma,VINCRISTINE,3,Completed,TUBB,5
+lymphoma,PACLITAXEL,2,Completed,TUBB,5
+lymphoma,PACLITAXEL,1,Completed,TUBB,5
+diffuse large B-cell lymphoma,VINCRISTINE,2,Terminated,TUBB,5
+cancer,IXABEPILONE,1,Completed,TUBB,5
+Fallopian Tube Carcinoma,PACLITAXEL,2,Recruiting,TUBB,5
+diffuse large B-cell lymphoma,VINCRISTINE,2,"Active, not recruiting",TUBB,5
+pancreatic carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,5
+breast carcinoma,VINORELBINE,3,Recruiting,TUBB,5
+acute lymphoblastic leukemia,VINCRISTINE,1,Recruiting,TUBB,5
+pancreatic carcinoma,PACLITAXEL,2,Terminated,TUBB,5
+neoplasm,DOCETAXEL,1,Recruiting,TUBB,5
+cervical carcinoma,PACLITAXEL,2,Completed,TUBB,5
+ovarian carcinoma,PACLITAXEL,3,Recruiting,TUBB,5
+leukemia,VINCRISTINE,3,"Active, not recruiting",TUBB,5
+non-small cell lung carcinoma,DOCETAXEL,1,Recruiting,TUBB,5
+cervical carcinoma,PACLITAXEL,3,Recruiting,TUBB,5
+ovarian carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,5
+nasopharyngeal neoplasm,DOCETAXEL,2,Unknown status,TUBB,5
+Hodgkins lymphoma,VINBLASTINE,2,"Active, not recruiting",TUBB,4
+central nervous system cancer,VINCRISTINE,1,Completed,TUBB,4
+gastric carcinoma,PACLITAXEL,1,Unknown status,TUBB,4
+gastric carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,4
+pancreatic adenocarcinoma,PACLITAXEL,1,Completed,TUBB,4
+cutaneous melanoma,PACLITAXEL,2,Completed,TUBB,4
+esophageal squamous cell carcinoma,PACLITAXEL,2,Recruiting,TUBB,4
+ovarian carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,4
+Hodgkins lymphoma,VINBLASTINE,2,Unknown status,TUBB,4
+prostate carcinoma,DOCETAXEL,2,Unknown status,TUBB,4
+breast carcinoma,PACLITAXEL,2,Withdrawn,TUBB,4
+non-small cell lung carcinoma,VINORELBINE,3,"Active, not recruiting",TUBB,4
+breast carcinoma,ERIBULIN,3,Recruiting,TUBB,4
+nasopharyngeal neoplasm,DOCETAXEL,2,Completed,TUBB,4
+non-small cell lung carcinoma,VINORELBINE,2,Terminated,TUBB,4
+breast carcinoma,PACLITAXEL,3,Terminated,TUBB,4
+Hodgkins lymphoma,VINCRISTINE,2,Recruiting,TUBB,4
+lymphoma,VINCRISTINE,2,Recruiting,TUBB,4
+nasopharyngeal neoplasm,DOCETAXEL,3,Unknown status,TUBB,4
+cervical carcinoma,PACLITAXEL,3,Unknown status,TUBB,4
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,2,"Active, not recruiting",TUBB,4
+Fallopian Tube Carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,4
+Fallopian Tube Carcinoma,DOCETAXEL,2,Completed,TUBB,4
+central nervous system cancer,VINCRISTINE,3,Completed,TUBB,4
+Fallopian Tube Carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,4
+breast carcinoma,IXABEPILONE,3,Completed,TUBB,4
+breast carcinoma,PACLITAXEL,1,Not yet recruiting,TUBB,4
+neoplasm,PACLITAXEL,3,Completed,TUBB,4
+central nervous system cancer,VINCRISTINE,3,Unknown status,TUBB,4
+esophageal carcinoma,PACLITAXEL,2,Terminated,TUBB,4
+peritoneal neoplasm,PACLITAXEL,3,"Active, not recruiting",TUBB,4
+nasopharyngeal neoplasm,PACLITAXEL,3,Recruiting,TUBB,4
+pancreatic carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,4
+gastric carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,4
+neoplasm,VINCRISTINE,1,Completed,TUBB,4
+gastric carcinoma,DOCETAXEL,2,Recruiting,TUBB,4
+pancreatic ductal adenocarcinoma,PACLITAXEL,2,Recruiting,TUBB,4
+gastric carcinoma,DOCETAXEL,2,Terminated,TUBB,4
+upper aerodigestive tract neoplasm,DOCETAXEL,2,Completed,TUBB,4
+prostate carcinoma,VINORELBINE,2,Completed,TUBB,4
+pancreatic carcinoma,PACLITAXEL,1,Unknown status,TUBB,4
+breast carcinoma,ERIBULIN,2,"Active, not recruiting",TUBB,4
+peritoneal neoplasm,PACLITAXEL,2,Unknown status,TUBB,4
+bladder carcinoma,VINBLASTINE,2,Completed,TUBB,4
+acute lymphoblastic leukemia,VINCRISTINE,1,Terminated,TUBB,4
+lung carcinoma,PACLITAXEL POLIGLUMEX,3,Unknown status,TUBB,4
+non-small cell lung carcinoma,PACLITAXEL,3,Not yet recruiting,TUBB,4
+lung carcinoma,PACLITAXEL,1,Terminated,TUBB,4
+lung carcinoma,DOCETAXEL,3,Unknown status,TUBB,4
+non-small cell lung carcinoma,PACLITAXEL,2,Withdrawn,TUBB,4
+endometrial neoplasm,PACLITAXEL,2,Recruiting,TUBB,4
+cancer,ERIBULIN,1,Completed,TUBB,4
+head and neck squamous cell carcinoma,DOCETAXEL,2,Completed,TUBB,4
+head and neck squamous cell carcinoma,DOCETAXEL,2,Recruiting,TUBB,4
+lung carcinoma,DOCETAXEL,1,Terminated,TUBB,4
+ovarian carcinoma,PACLITAXEL,3,Unknown status,TUBB,4
+ovarian carcinoma,PACLITAXEL,1,Unknown status,TUBB,4
+prostate carcinoma,CABAZITAXEL,3,Completed,TUBB,4
+non-Hodgkins lymphoma,VINCRISTINE,2,Completed,TUBB,4
+non-Hodgkins lymphoma,VINCRISTINE,3,"Active, not recruiting",TUBB,4
+prostate carcinoma,CABAZITAXEL,2,Completed,TUBB,4
+breast carcinoma,VINORELBINE,2,"Active, not recruiting",TUBB,4
+squamous cell carcinoma,PACLITAXEL,2,Unknown status,TUBB,4
+non-small cell lung carcinoma,DOCETAXEL,1,Unknown status,TUBB,4
+ovarian carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,4
+non-small cell lung carcinoma,DOCETAXEL,3,Unknown status,TUBB,4
+non-small cell lung carcinoma,DOCETAXEL,1,Withdrawn,TUBB,4
+non-small cell lung carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,4
+non-small cell lung carcinoma,DOCETAXEL,2,Withdrawn,TUBB,4
+breast neoplasm,PACLITAXEL,2,Withdrawn,TUBB,4
+breast carcinoma,TRASTUZUMAB EMTANSINE,3,"Active, not recruiting",TUBB,4
+cervical carcinoma,PACLITAXEL,2,Unknown status,TUBB,4
+lung carcinoma,VINORELBINE,2,Unknown status,TUBB,4
+gout,COLCHICINE,4,Completed,TUBB,4
+sarcoma,DOCETAXEL,1,Completed,TUBB,4
+"Lymphoma, AIDS-Related",VINCRISTINE,2,Completed,TUBB,4
+gout,COLCHICINE,2,Completed,TUBB,4
+lung carcinoma,VINORELBINE,3,Unknown status,TUBB,4
+prostate adenocarcinoma,DOCETAXEL,2,Recruiting,TUBB,4
+prostate carcinoma,DOCETAXEL,1,Terminated,TUBB,4
+ovarian neoplasm,PACLITAXEL,2,Completed,TUBB,4
+diffuse large B-cell lymphoma,VINCRISTINE,2,Unknown status,TUBB,4
+prostate adenocarcinoma,DOCETAXEL,3,Completed,TUBB,4
+Mantle cell lymphoma,VINCRISTINE,2,"Active, not recruiting",TUBB,4
+Hodgkins lymphoma,VINORELBINE,2,Completed,TUBB,4
+non-small cell lung carcinoma,PACLITAXEL,3,Unknown status,TUBB,4
+breast neoplasm,DOCETAXEL,2,Unknown status,TUBB,3
+breast carcinoma,PACLITAXEL,4,Unknown status,TUBB,3
+prostate carcinoma,CABAZITAXEL,1,Completed,TUBB,3
+breast carcinoma,VINFLUNINE,3,Completed,TUBB,3
+cervical carcinoma,PACLITAXEL,1,Completed,TUBB,3
+cervical carcinoma,PACLITAXEL,2,Recruiting,TUBB,3
+diffuse large B-cell lymphoma,VINCRISTINE,3,"Active, not recruiting",TUBB,3
+breast neoplasm,DOCETAXEL,1,Completed,TUBB,3
+cancer,PACLITAXEL,1,Unknown status,TUBB,3
+pancreatic neoplasm,PACLITAXEL,2,Completed,TUBB,3
+breast carcinoma,IXABEPILONE,2,Terminated,TUBB,3
+prostate carcinoma,CABAZITAXEL,2,Terminated,TUBB,3
+prostate carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,3
+diffuse large B-cell lymphoma,VINCRISTINE,1,Withdrawn,TUBB,3
+ovarian cystadenocarcinoma,PACLITAXEL,1,Completed,TUBB,3
+endometrioid carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,3
+peritoneal neoplasm,PACLITAXEL,1,Terminated,TUBB,3
+prostate carcinoma,DOCETAXEL,1,"Active, not recruiting",TUBB,3
+breast carcinoma,PACLITAXEL,1,Withdrawn,TUBB,3
+breast neoplasm,PACLITAXEL,2,Terminated,TUBB,3
+breast neoplasm,PACLITAXEL,2,"Active, not recruiting",TUBB,3
+endometrial neoplasm,DOCETAXEL,1,Completed,TUBB,3
+peritoneal neoplasm,PACLITAXEL,3,Recruiting,TUBB,3
+ovarian carcinoma,PACLITAXEL,1,Not yet recruiting,TUBB,3
+ovarian mucinous cystadenocarcinoma,PACLITAXEL,1,Completed,TUBB,3
+carcinoma,PACLITAXEL,2,Completed,TUBB,3
+breast carcinoma,TRASTUZUMAB EMTANSINE,3,Completed,TUBB,3
+central nervous system cancer,VINCRISTINE,2,Unknown status,TUBB,3
+pancreatic carcinoma,DOCETAXEL,2,Terminated,TUBB,3
+esophageal carcinoma,PACLITAXEL,1,Recruiting,TUBB,3
+ovarian serous cystadenocarcinoma,PACLITAXEL,1,Completed,TUBB,3
+prostate carcinoma,CABAZITAXEL,4,Completed,TUBB,3
+breast neoplasm,PACLITAXEL,1,Recruiting,TUBB,3
+endometrial neoplasm,PACLITAXEL,3,Recruiting,TUBB,3
+prostate carcinoma,DOCETAXEL,2,Not yet recruiting,TUBB,3
+ovarian neoplasm,DOCETAXEL,2,Completed,TUBB,3
+endometrial neoplasm,PACLITAXEL,2,"Active, not recruiting",TUBB,3
+endometrioid carcinoma,PACLITAXEL,1,Completed,TUBB,3
+bladder carcinoma,PACLITAXEL,2,Terminated,TUBB,3
+prostate carcinoma,DOCETAXEL,3,Recruiting,TUBB,3
+non-Hodgkins lymphoma,VINCRISTINE,3,Completed,TUBB,3
+lymphoid leukemia,VINCRISTINE,2,Recruiting,TUBB,3
+transitional cell carcinoma of kidney,PACLITAXEL,1,Completed,TUBB,3
+Malignant Ovarian Brenner Tumor,PACLITAXEL,1,Completed,TUBB,3
+Malignant Ovarian Brenner Tumor,PACLITAXEL,3,"Active, not recruiting",TUBB,3
+lung carcinoma,VINORELBINE,1,Completed,TUBB,3
+Mantle cell lymphoma,VINCRISTINE,1,Completed,TUBB,3
+lung carcinoma,VINBLASTINE,3,Unknown status,TUBB,3
+lung carcinoma,VINBLASTINE,3,Completed,TUBB,3
+prostate carcinoma,DOCETAXEL,3,Unknown status,TUBB,3
+lung carcinoma,DOCETAXEL,3,Terminated,TUBB,3
+non-Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,2,Completed,TUBB,3
+non-Hodgkins lymphoma,VINCRISTINE,1,Completed,TUBB,3
+leukemia,VINCRISTINE,3,Unknown status,TUBB,3
+triple-negative breast cancer,PACLITAXEL,2,"Active, not recruiting",TUBB,3
+leukemia,VINCRISTINE,2,Unknown status,TUBB,3
+squamous cell lung carcinoma,DOCETAXEL,2,Recruiting,TUBB,3
+squamous cell lung carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,3
+leukemia,VINCRISTINE,1,Completed,TUBB,3
+non-Hodgkins lymphoma,VINORELBINE,2,Completed,TUBB,3
+non-small cell lung carcinoma,DOCETAXEL,1,"Active, not recruiting",TUBB,3
+squamous cell carcinoma,PACLITAXEL,2,Recruiting,TUBB,3
+squamous cell carcinoma,PACLITAXEL,2,Completed,TUBB,3
+acute lymphoblastic leukemia,VINCRISTINE,2,"Active, not recruiting",TUBB,3
+acute lymphoblastic leukemia,VINCRISTINE,3,Completed,TUBB,3
+acute lymphoblastic leukemia,VINCRISTINE,4,Recruiting,TUBB,3
+non-small cell lung carcinoma,ERIBULIN,2,Completed,TUBB,3
+neoplasm of mature B-cells,VINCRISTINE,3,Terminated,TUBB,3
+neoplasm of mature B-cells,VINCRISTINE,3,"Active, not recruiting",TUBB,3
+head and neck squamous cell carcinoma,DOCETAXEL,2,Terminated,TUBB,3
+male breast carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,3
+nasopharyngeal neoplasm,DOCETAXEL,3,Not yet recruiting,TUBB,3
+nasopharyngeal neoplasm,DOCETAXEL,3,Recruiting,TUBB,3
+uterine neoplasm,PACLITAXEL,2,Completed,TUBB,3
+metastatic prostate cancer,DOCETAXEL,2,Completed,TUBB,3
+neoplasm,INDIBULIN,1,Unknown status,TUBB,3
+neoplasm,IXABEPILONE,1,Terminated,TUBB,3
+Fallopian Tube Carcinoma,PACLITAXEL,2,Unknown status,TUBB,3
+Fallopian Tube Carcinoma,PACLITAXEL,3,Recruiting,TUBB,3
+melanoma,PACLITAXEL,1,Completed,TUBB,3
+neoplasm,PACLITAXEL,1,Withdrawn,TUBB,3
+urethral neoplasm,PACLITAXEL,2,Completed,TUBB,3
+medulloblastoma,VINCRISTINE,3,Completed,TUBB,3
+lymphoma,VINORELBINE,2,Completed,TUBB,3
+Hodgkins lymphoma,VINCRISTINE,3,Recruiting,TUBB,3
+lymphoma,VINCRISTINE,3,Recruiting,TUBB,3
+lymphoma,VINCRISTINE,2,Withdrawn,TUBB,3
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,2,Not yet recruiting,TUBB,3
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,3,"Active, not recruiting",TUBB,3
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,3,Recruiting,TUBB,3
+unspecified peripheral T-cell lymphoma,VINCRISTINE,2,Completed,TUBB,3
+lymphoma,VINCRISTINE,1,Unknown status,TUBB,3
+Hodgkins lymphoma,VINBLASTINE,1,Completed,TUBB,3
+lymphoma,VINBLASTINE,2,Unknown status,TUBB,3
+neoplasm of mature B-cells,VINCRISTINE,1,Recruiting,TUBB,3
+neoplasm of mature B-cells,VINCRISTINE,2,Recruiting,TUBB,3
+Hodgkins lymphoma,VINCRISTINE,3,Completed,TUBB,3
+small cell lung carcinoma,PACLITAXEL,2,Recruiting,TUBB,3
+lung carcinoma,PACLITAXEL,3,Terminated,TUBB,3
+breast carcinoma,DOCETAXEL,4,Recruiting,TUBB,3
+bladder carcinoma,VINBLASTINE,2,Terminated,TUBB,3
+breast carcinoma,ERIBULIN,2,Recruiting,TUBB,3
+esophageal squamous cell carcinoma,PACLITAXEL,3,Recruiting,TUBB,3
+breast carcinoma,ERIBULIN,1,Completed,TUBB,3
+bladder carcinoma,PACLITAXEL,3,Completed,TUBB,3
+breast carcinoma,DOCETAXEL,2,Not yet recruiting,TUBB,3
+gastric adenocarcinoma,PACLITAXEL,1,Recruiting,TUBB,3
+non-small cell lung carcinoma,VINORELBINE,2,Recruiting,TUBB,3
+head and neck malignant neoplasia,DOCETAXEL,3,Terminated,TUBB,3
+gastric carcinoma,DOCETAXEL,3,Completed,TUBB,3
+non-small cell lung carcinoma,VINORELBINE,4,Completed,TUBB,3
+brain neoplasm,VINCRISTINE,1,Completed,TUBB,3
+gastric carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,3
+gastric carcinoma,PACLITAXEL,1,Completed,TUBB,3
+gastric carcinoma,PACLITAXEL,2,Terminated,TUBB,3
+head and neck malignant neoplasia,DOCETAXEL,1,Recruiting,TUBB,3
+bladder transitional cell carcinoma,PACLITAXEL,2,Completed,TUBB,3
+breast carcinoma,ERIBULIN,3,Completed,TUBB,3
+sarcoma,VINCRISTINE,3,Unknown status,TUBB,3
+metastatic prostate cancer,DOCETAXEL,2,Recruiting,TUBB,2
+pancreatic ductal adenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,2
+pancreatic neoplasm,PACLITAXEL,1,Recruiting,TUBB,2
+nasopharyngeal neoplasm,PACLITAXEL,1,Completed,TUBB,2
+cutaneous melanoma,VINBLASTINE,3,Completed,TUBB,2
+gastric carcinoma,DOCETAXEL,2,Not yet recruiting,TUBB,2
+gastric carcinoma,DOCETAXEL,1,Unknown status,TUBB,2
+gastric adenocarcinoma,PACLITAXEL,2,Recruiting,TUBB,2
+esophageal carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,2
+pancreatic ductal adenocarcinoma,PACLITAXEL,2,Terminated,TUBB,2
+gastric adenocarcinoma,DOCETAXEL,2,Unknown status,TUBB,2
+gastric adenocarcinoma,DOCETAXEL,2,Terminated,TUBB,2
+lymphoma,VINORELBINE,1,Completed,TUBB,2
+childhood B acute lymphoblastic leukemia,VINCRISTINE,3,Completed,TUBB,2
+pancreatic adenocarcinoma,DOCETAXEL,2,Completed,TUBB,2
+diffuse large B-cell lymphoma,BRENTUXIMAB VEDOTIN,1,"Active, not recruiting",TUBB,2
+diffuse large B-cell lymphoma,BRENTUXIMAB VEDOTIN,2,Terminated,TUBB,2
+multiple myeloma,PACLITAXEL,2,Completed,TUBB,2
+diffuse large B-cell lymphoma,VINCRISTINE,1,"Active, not recruiting",TUBB,2
+lymphoma,VINBLASTINE,3,Unknown status,TUBB,2
+lymphoma,VINBLASTINE,3,Terminated,TUBB,2
+esophageal squamous cell carcinoma,DOCETAXEL,3,Recruiting,TUBB,2
+lymphoma,VINBLASTINE,2,"Active, not recruiting",TUBB,2
+neoplasm,VINORELBINE,1,Unknown status,TUBB,2
+lymphoma,PACLITAXEL,1,Unknown status,TUBB,2
+non-small cell lung carcinoma,VINORELBINE,3,Unknown status,TUBB,2
+neoplasm of mature B-cells,VINCRISTINE,2,Completed,TUBB,2
+esophageal squamous cell carcinoma,DOCETAXEL,2,Recruiting,TUBB,2
+nasopharyngeal neoplasm,DOCETAXEL,3,"Active, not recruiting",TUBB,2
+gastric carcinoma,PACLITAXEL,1,Recruiting,TUBB,2
+multiple myeloma,VINCRISTINE,3,Unknown status,TUBB,2
+neoplasm,TRASTUZUMAB EMTANSINE,4,n/a,TUBB,2
+male breast carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,2
+metastatic prostate cancer,DOCETAXEL,2,Not yet recruiting,TUBB,2
+pancreatic carcinoma,PACLITAXEL,3,Recruiting,TUBB,2
+esophageal squamous cell carcinoma,PACLITAXEL,1,Completed,TUBB,2
+chronic lymphocytic leukemia,VINCRISTINE,3,Completed,TUBB,2
+metastatic prostate cancer,DOCETAXEL,1,Completed,TUBB,2
+metastatic prostate cancer,CABAZITAXEL,1,Recruiting,TUBB,2
+nasopharyngeal neoplasm,PACLITAXEL,2,Recruiting,TUBB,2
+metastatic melanoma,PACLITAXEL,2,Completed,TUBB,2
+neoplasm,DOCETAXEL,2,"Active, not recruiting",TUBB,2
+neoplasm,DOCETAXEL,2,Completed,TUBB,2
+mesothelioma,VINORELBINE,2,Unknown status,TUBB,2
+neoplasm,ERIBULIN,1,Recruiting,TUBB,2
+cholangiocarcinoma,PACLITAXEL,2,Completed,TUBB,2
+neoplasm,FOSBRETABULIN,1,Completed,TUBB,2
+cognitive impairment,DAVUNETIDE,2,Completed,TUBB,2
+esophageal squamous cell carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,2
+melanoma,PACLITAXEL,3,Terminated,TUBB,2
+medulloblastoma,VINCRISTINE,2,Recruiting,TUBB,2
+melanoma,PACLITAXEL,2,Terminated,TUBB,2
+melanoma,PACLITAXEL,2,Recruiting,TUBB,2
+pancreatic carcinoma,IXABEPILONE,2,Completed,TUBB,2
+pancreatic carcinoma,DOCETAXEL,2,Unknown status,TUBB,2
+pancreatic ductal adenocarcinoma,PACLITAXEL,1,Completed,TUBB,2
+neoplasm,PACLITAXEL,1,Not yet recruiting,TUBB,2
+non-small cell lung carcinoma,VINORELBINE,3,Terminated,TUBB,2
+esophageal carcinoma,PACLITAXEL,3,Not yet recruiting,TUBB,2
+melanoma,DOCETAXEL,2,Completed,TUBB,2
+pancreatic carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,2
+gastric adenocarcinoma,DOCETAXEL,1,Unknown status,TUBB,2
+pancreatic adenocarcinoma,PACLITAXEL,4,Recruiting,TUBB,2
+gastric adenocarcinoma,DOCETAXEL,2,Completed,TUBB,2
+pancreatic adenocarcinoma,PACLITAXEL,2,Terminated,TUBB,2
+head and neck squamous cell carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,2
+neoplasm of mature B-cells,VINCRISTINE,3,Recruiting,TUBB,2
+ovarian serous adenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,2
+non-Hodgkins lymphoma,VINCRISTINE,3,Recruiting,TUBB,2
+non-small cell lung carcinoma,CABAZITAXEL,2,Completed,TUBB,2
+head and neck malignant neoplasia,PACLITAXEL,1,Unknown status,TUBB,2
+leukemia,VINCRISTINE,2,"Active, not recruiting",TUBB,2
+head and neck malignant neoplasia,DOCETAXEL,3,Completed,TUBB,2
+head and neck malignant neoplasia,DOCETAXEL,2,Terminated,TUBB,2
+leukemia,VINCRISTINE,2,Terminated,TUBB,2
+head and neck malignant neoplasia,DOCETAXEL,2,Recruiting,TUBB,2
+gout,COLCHICINE,3,Completed,TUBB,2
+endometrial neoplasm,PACLITAXEL,3,Terminated,TUBB,2
+lung adenocarcinoma,PACLITAXEL,1,Terminated,TUBB,2
+ovarian carcinoma,PACLITAXEL,3,Not yet recruiting,TUBB,2
+non-small cell lung carcinoma,TRASTUZUMAB EMTANSINE,2,Recruiting,TUBB,2
+lung adenocarcinoma,PACLITAXEL,2,Completed,TUBB,2
+ovarian carcinoma,PACLITAXEL,3,Terminated,TUBB,2
+lung adenocarcinoma,PACLITAXEL,2,Recruiting,TUBB,2
+lung adenocarcinoma,PACLITAXEL,2,Terminated,TUBB,2
+head and neck malignant neoplasia,PACLITAXEL,2,"Active, not recruiting",TUBB,2
+non-small cell lung carcinoma,DOCETAXEL,1,Not yet recruiting,TUBB,2
+head and neck malignant neoplasia,PACLITAXEL,2,Terminated,TUBB,2
+laryngeal neoplasm,DOCETAXEL,2,Terminated,TUBB,2
+non-small cell lung carcinoma,PACLITAXEL,1,Withdrawn,TUBB,2
+head and neck squamous cell carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,2
+non-small cell lung carcinoma,PACLITAXEL,1,Not yet recruiting,TUBB,2
+esophageal carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,2
+non-small cell lung carcinoma,IXABEPILONE,2,Completed,TUBB,2
+non-small cell lung carcinoma,IXABEPILONE,1,Completed,TUBB,2
+head and neck squamous cell carcinoma,DOCETAXEL,1,Completed,TUBB,2
+non-small cell lung carcinoma,DOCETAXEL,4,Unknown status,TUBB,2
+head and neck squamous cell carcinoma,DOCETAXEL,1,"Active, not recruiting",TUBB,2
+esophageal carcinoma,DOCETAXEL,2,Terminated,TUBB,2
+non-small cell lung carcinoma,DOCETAXEL,4,Completed,TUBB,2
+inflammatory breast carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,2
+inflammatory breast carcinoma,PACLITAXEL,2,Recruiting,TUBB,2
+esophageal carcinoma,PACLITAXEL,1,Unknown status,TUBB,2
+head and neck malignant neoplasia,PACLITAXEL,3,Completed,TUBB,2
+non-Hodgkins lymphoma,VINCRISTINE,1,"Active, not recruiting",TUBB,2
+lung carcinoma,DOCETAXEL,1,Withdrawn,TUBB,2
+neoplasm of mature B-cells,VINCRISTINE,3,Completed,TUBB,2
+ovarian neoplasm,SAGOPILONE,2,Completed,TUBB,2
+lung carcinoma,VINORELBINE,3,Recruiting,TUBB,2
+neuroblastoma,VINCRISTINE,2,Unknown status,TUBB,2
+gastric carcinoma,PACLITAXEL,3,Unknown status,TUBB,2
+lymphoid leukemia,VINCRISTINE,1,Completed,TUBB,2
+ovarian neoplasm,PACLITAXEL,1,Completed,TUBB,2
+neuroblastoma,VINCRISTINE,2,Recruiting,TUBB,2
+diffuse large B-cell lymphoma,VINCRISTINE,4,Recruiting,TUBB,2
+gastric carcinoma,PACLITAXEL,3,Recruiting,TUBB,2
+endometrial neoplasm,PACLITAXEL,3,Completed,TUBB,2
+diffuse large B-cell lymphoma,VINCRISTINE,3,Unknown status,TUBB,2
+lymphoid leukemia,VINCRISTINE,2,Completed,TUBB,2
+diffuse large B-cell lymphoma,VINCRISTINE,3,Terminated,TUBB,2
+gastric carcinoma,PACLITAXEL,3,Completed,TUBB,2
+diffuse large B-cell lymphoma,VINCRISTINE,3,Not yet recruiting,TUBB,2
+neoplasm of mature B-cells,VINCRISTINE,3,Unknown status,TUBB,2
+head and neck squamous cell carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,2
+ovarian mucinous adenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,2
+non-small cell lung carcinoma,VINORELBINE,2,Not yet recruiting,TUBB,2
+endometrial neoplasm,DOCETAXEL,2,Completed,TUBB,2
+ovarian cystadenocarcinoma,PACLITAXEL,2,Completed,TUBB,2
+endometrial neoplasm,PACLITAXEL,2,Unknown status,TUBB,2
+glioblastoma multiforme,VERUBULIN,2,Completed,TUBB,2
+lung carcinoma,DOCETAXEL,2,Not yet recruiting,TUBB,2
+cervical carcinoma,PACLITAXEL,3,Not yet recruiting,TUBB,2
+nodular sclerosis Hodgkin lymphoma,VINORELBINE,2,Completed,TUBB,2
+lung carcinoma,PACLITAXEL,1,Withdrawn,TUBB,2
+lung carcinoma,PACLITAXEL,2,Recruiting,TUBB,2
+lung carcinoma,PACLITAXEL,2,Withdrawn,TUBB,2
+germ cell tumor,PACLITAXEL,2,Recruiting,TUBB,2
+lung carcinoma,PACLITAXEL,3,Withdrawn,TUBB,2
+lung carcinoma,VINBLASTINE,1,Unknown status,TUBB,2
+endometrial neoplasm,PACLITAXEL,1,Completed,TUBB,2
+endometrial neoplasm,MIRVETUXIMAB SORAVTANSINE,2,Not yet recruiting,TUBB,2
+germ cell tumor,PACLITAXEL,2,"Active, not recruiting",TUBB,2
+lung carcinoma,VINCRISTINE,3,Completed,TUBB,2
+leukemia,PACLITAXEL,1,Completed,TUBB,2
+central nervous system cancer,VINORELBINE,2,Completed,TUBB,2
+cervical carcinoma,PACLITAXEL,2,Terminated,TUBB,2
+prostate carcinoma,IXABEPILONE,2,Completed,TUBB,2
+breast carcinoma,PACLITAXEL,4,Completed,TUBB,2
+Hodgkins lymphoma,VINBLASTINE,1,Recruiting,TUBB,2
+breast carcinoma,PACLITAXEL,2,Suspended,TUBB,2
+breast carcinoma,PACLITAXEL,0,Not yet recruiting,TUBB,2
+breast carcinoma,IXABEPILONE,3,"Active, not recruiting",TUBB,2
+Hodgkins lymphoma,VINBLASTINE,2,Terminated,TUBB,2
+breast carcinoma,IXABEPILONE,1,Terminated,TUBB,2
+Hodgkins lymphoma,VINBLASTINE,3,"Active, not recruiting",TUBB,2
+Hodgkins lymphoma,VINBLASTINE,4,Recruiting,TUBB,2
+Hodgkins lymphoma,VINBLASTINE,4,Unknown status,TUBB,2
+breast carcinoma,ERIBULIN,2,Not yet recruiting,TUBB,2
+prostate carcinoma,VINBLASTINE,3,Completed,TUBB,2
+Hodgkins lymphoma,VINCRISTINE,2,"Active, not recruiting",TUBB,2
+triple-negative breast cancer,PACLITAXEL,3,Recruiting,TUBB,2
+breast carcinoma,ERIBULIN,1,Recruiting,TUBB,2
+breast carcinoma,DOCETAXEL,3,Not yet recruiting,TUBB,2
+prostate carcinoma,PACLITAXEL,2,Unknown status,TUBB,2
+prostate carcinoma,PACLITAXEL,2,Withdrawn,TUBB,2
+breast carcinoma,DOCETAXEL,1,"Active, not recruiting",TUBB,2
+prostate carcinoma,PACLITAXEL,3,Completed,TUBB,2
+Hodgkins lymphoma,VINCRISTINE,3,"Active, not recruiting",TUBB,2
+triple-negative breast cancer,PACLITAXEL,2,Completed,TUBB,2
+breast carcinoma,PACLITAXEL,4,Recruiting,TUBB,2
+breast carcinoma,PACLITAXEL POLIGLUMEX,2,Completed,TUBB,2
+breast carcinoma,TRASTUZUMAB EMTANSINE,2,Recruiting,TUBB,2
+Hodgkins lymphoma,PACLITAXEL,1,Terminated,TUBB,2
+breast neoplasm,VINORELBINE,2,Recruiting,TUBB,2
+prostate adenocarcinoma,DOCETAXEL,2,Unknown status,TUBB,2
+prostate adenocarcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,2
+breast neoplasm,SAGOPILONE,2,Completed,TUBB,2
+breast neoplasm,PACLITAXEL,3,Recruiting,TUBB,2
+breast neoplasm,PACLITAXEL,3,Completed,TUBB,2
+prostate adenocarcinoma,DOCETAXEL,3,Terminated,TUBB,2
+breast neoplasm,PACLITAXEL,1,"Active, not recruiting",TUBB,2
+prostate adenocarcinoma,IXABEPILONE,2,Completed,TUBB,2
+upper aerodigestive tract neoplasm,DOCETAXEL,1,Completed,TUBB,2
+prostate carcinoma,CABAZITAXEL,1,Recruiting,TUBB,2
+breast neoplasm,DOCETAXEL,3,Recruiting,TUBB,2
+breast neoplasm,DOCETAXEL,2,Withdrawn,TUBB,2
+breast neoplasm,DOCETAXEL,2,Recruiting,TUBB,2
+breast neoplasm,DOCETAXEL,1,"Active, not recruiting",TUBB,2
+breast carcinoma,VINORELBINE,4,Recruiting,TUBB,2
+breast carcinoma,VINORELBINE,3,Unknown status,TUBB,2
+breast carcinoma,VINORELBINE,2,Not yet recruiting,TUBB,2
+breast carcinoma,VINORELBINE,1,Unknown status,TUBB,2
+prostate carcinoma,CABAZITAXEL,3,Recruiting,TUBB,2
+unspecified peripheral T-cell lymphoma,VINCRISTINE,2,Recruiting,TUBB,2
+triple-negative breast cancer,DOCETAXEL,2,Recruiting,TUBB,2
+transitional cell carcinoma of kidney,PACLITAXEL,3,Completed,TUBB,2
+breast neoplasm,VINORELBINE,2,Terminated,TUBB,2
+adenocarcinoma,DOCETAXEL,2,Recruiting,TUBB,2
+anaplastic large cell lymphoma,VINORELBINE,2,Recruiting,TUBB,2
+Retinoblastoma,VINCRISTINE,2,Recruiting,TUBB,2
+sarcoma,VINCRISTINE,2,Unknown status,TUBB,2
+sarcoma,VINCRISTINE,3,Completed,TUBB,2
+sarcoma,VINORELBINE,2,Completed,TUBB,2
+Retinoblastoma,VINCRISTINE,3,"Active, not recruiting",TUBB,2
+Retinoblastoma,VINCRISTINE,3,Completed,TUBB,2
+Sinonasal Undifferentiated Carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,2
+T-cell acute lymphoblastic leukemia,VINCRISTINE,1,Not yet recruiting,TUBB,2
+T-cell acute lymphoblastic leukemia,VINCRISTINE,1,Recruiting,TUBB,2
+acute myocardial infarction,COLCHICINE,4,Unknown status,TUBB,2
+breast adenocarcinoma,PACLITAXEL,2,Recruiting,TUBB,2
+soft tissue sarcoma,ERIBULIN,2,Completed,TUBB,2
+acute lymphoblastic leukemia,VINCRISTINE,3,Unknown status,TUBB,2
+acute lymphoblastic leukemia,VINCRISTINE,3,Terminated,TUBB,2
+acute lymphoblastic leukemia,VINCRISTINE,3,"Active, not recruiting",TUBB,2
+acute lymphoblastic leukemia,VINCRISTINE,2,Terminated,TUBB,2
+squamous cell carcinoma,PACLITAXEL,3,Recruiting,TUBB,2
+acute lymphoblastic leukemia,VINCRISTINE,1,Not yet recruiting,TUBB,2
+squamous cell carcinoma,DOCETAXEL,2,Recruiting,TUBB,2
+squamous cell carcinoma,DOCETAXEL,2,Unknown status,TUBB,2
+squamous cell carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,2
+Retinoblastoma,VINCRISTINE,2,Completed,TUBB,2
+stomach neoplasm,DOCETAXEL,1,Completed,TUBB,2
+sarcoma,PACLITAXEL,2,Terminated,TUBB,2
+angiosarcoma,PACLITAXEL,2,Recruiting,TUBB,2
+breast adenocarcinoma,PACLITAXEL,1,Recruiting,TUBB,2
+bladder transitional cell carcinoma,VINFLUNINE,2,Completed,TUBB,2
+Malignant epithelial tumor of ovary,PACLITAXEL,2,Recruiting,TUBB,2
+renal carcinoma,VINCRISTINE,3,Completed,TUBB,2
+renal carcinoma,VINCRISTINE,3,Unknown status,TUBB,2
+bladder carcinoma,VINFLUNINE,3,Completed,TUBB,2
+Mantle cell lymphoma,VINCRISTINE,3,Completed,TUBB,2
+bladder carcinoma,VINBLASTINE,3,Completed,TUBB,2
+bladder carcinoma,VINBLASTINE,2,Recruiting,TUBB,2
+Mantle cell lymphoma,VINCRISTINE,3,Recruiting,TUBB,2
+Mantle cell lymphoma,VINCRISTINE,3,Unknown status,TUBB,2
+testicular neoplasm,PACLITAXEL,2,Completed,TUBB,2
+Nephroblastoma,VINCRISTINE,3,Completed,TUBB,2
+bladder carcinoma,DOCETAXEL,2,Terminated,TUBB,2
+biliary tract neoplasm,PACLITAXEL,2,Recruiting,TUBB,2
+Ovarian Transitional Cell Carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,2
+biliary tract neoplasm,DOCETAXEL,2,Terminated,TUBB,2
+sarcoma,DOCETAXEL,2,Unknown status,TUBB,2
+sarcoma,DOCETAXEL,3,Completed,TUBB,2
+Primary Peritoneal Serous Adenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,2
+sarcoma,PACLITAXEL,1,Recruiting,TUBB,2
+ureteral neoplasm,PACLITAXEL,2,Completed,TUBB,2
+breast carcinoma,IXABEPILONE,2,"Active, not recruiting",TUBB,2
+urogenital neoplasm,PACLITAXEL,2,"Active, not recruiting",TUBB,2
+prostate adenocarcinoma,DOCETAXEL,1,Terminated,TUBB,2
+prostate adenocarcinoma,CABAZITAXEL,2,"Active, not recruiting",TUBB,2
+cancer,VINORELBINE,2,Completed,TUBB,2
+primitive neuroectodermal tumor,VINCRISTINE,3,Completed,TUBB,2
+prostate adenocarcinoma,DOCETAXEL,1,Unknown status,TUBB,2
+central nervous system cancer,PACLITAXEL,2,Completed,TUBB,2
+cancer,VINFLUNINE,1,Completed,TUBB,2
+cervical carcinoma,DOCETAXEL,2,Completed,TUBB,2
+Burkitts lymphoma,VINCRISTINE,2,Completed,TUBB,2
+urothelial carcinoma,CABAZITAXEL,2,Completed,TUBB,2
+Fallopian Tube Carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,2
+pericarditis,COLCHICINE,3,Completed,TUBB,2
+urogenital neoplasm,PACLITAXEL,2,Completed,TUBB,2
+cancer,DOCETAXEL,2,Completed,TUBB,2
+Fallopian Tube Carcinoma,PACLITAXEL,1,Terminated,TUBB,2
+cancer,DOCETAXEL,2,Terminated,TUBB,2
+peritoneal neoplasm,DOCETAXEL,2,Terminated,TUBB,2
+peritoneal neoplasm,PACLITAXEL,2,"Active, not recruiting",TUBB,2
+central nervous system cancer,VINBLASTINE,2,Recruiting,TUBB,2
+cervical carcinoma,DOCETAXEL,1,Completed,TUBB,2
+urothelial carcinoma,DOCETAXEL,2,Withdrawn,TUBB,2
+cervical carcinoma,PACLITAXEL,1,Unknown status,TUBB,2
+central nervous system cancer,VINCRISTINE,3,Recruiting,TUBB,2
+breast neoplasm,VINORELBINE,3,Completed,TUBB,2
+cancer,PACLITAXEL,2,Terminated,TUBB,2
+uterine neoplasm,PACLITAXEL,2,Terminated,TUBB,2
+urethral neoplasm,PACLITAXEL,3,Completed,TUBB,2
+carcinoma,PACLITAXEL,3,Unknown status,TUBB,2
+Burkitts lymphoma,VINCRISTINE,1,Completed,TUBB,2
+cancer,VINORELBINE,1,Completed,TUBB,2
+cancer,PACLITAXEL,2,Recruiting,TUBB,2
+Ewing sarcoma,VINCRISTINE,2,Terminated,TUBB,2
+cancer,PACLITAXEL,2,Completed,TUBB,2
+stomach neoplasm,PACLITAXEL,2,Recruiting,TUBB,1
+stomach neoplasm,PACLITAXEL,2,Enrolling by invitation,TUBB,1
+stomach neoplasm,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+non-Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,1,Withdrawn,TUBB,1
+stomach neoplasm,DOCETAXEL,3,Recruiting,TUBB,1
+stomach neoplasm,PACLITAXEL,3,Recruiting,TUBB,1
+non-Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,1,Recruiting,TUBB,1
+uterine leiomyosarcoma,IXABEPILONE,2,Completed,TUBB,1
+stomach neoplasm,DOCETAXEL,3,Completed,TUBB,1
+uterine neoplasm,DOCETAXEL,2,Completed,TUBB,1
+uterine neoplasm,PACLITAXEL,1,Completed,TUBB,1
+stomach neoplasm,IXABEPILONE,2,Completed,TUBB,1
+nodular sclerosis Hodgkin lymphoma,VINORELBINE,3,Unknown status,TUBB,1
+neoplasm,PACLITAXEL,2,Recruiting,TUBB,1
+stomach neoplasm,VINFLUNINE,2,Terminated,TUBB,1
+testicular carcinoma,PACLITAXEL,2,Terminated,TUBB,1
+thyroid carcinoma,PACLITAXEL,0,Recruiting,TUBB,1
+neoplasm,DOCETAXEL,1,"Active, not recruiting",TUBB,1
+nodular sclerosis Hodgkin lymphoma,BRENTUXIMAB VEDOTIN,2,"Active, not recruiting",TUBB,1
+thyroid carcinoma,FOSBRETABULIN,3,Withdrawn,TUBB,1
+thyroid carcinoma,CROLIBULIN,1,Completed,TUBB,1
+neoplasm,CABAZITAXEL,4,n/a,TUBB,1
+neoplasm,CABAZITAXEL,2,Recruiting,TUBB,1
+urothelial carcinoma,VINFLUNINE,3,Completed,TUBB,1
+neoplasm,CABAZITAXEL,1,Terminated,TUBB,1
+uterine leiomyosarcoma,DOCETAXEL,2,Completed,TUBB,1
+testicular neoplasm,DOCETAXEL,2,Completed,TUBB,1
+nodular sclerosis Hodgkin lymphoma,VINBLASTINE,2,"Active, not recruiting",TUBB,1
+stricture,PACLITAXEL,2,Terminated,TUBB,1
+neoplasm,BRENTUXIMAB VEDOTIN,4,n/a,TUBB,1
+testicular carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+testicular carcinoma,CABAZITAXEL,2,Recruiting,TUBB,1
+systemic lupus erythematosus,BRENTUXIMAB VEDOTIN,2,Terminated,TUBB,1
+stricture,VINBLASTINE,2,Completed,TUBB,1
+uterine leiomyosarcoma,DOCETAXEL,3,"Active, not recruiting",TUBB,1
+stricture,PACLITAXEL,2,Withdrawn,TUBB,1
+uterine leiomyosarcoma,DOCETAXEL,3,Terminated,TUBB,1
+nodular sclerosis Hodgkin lymphoma,VINCRISTINE,3,Unknown status,TUBB,1
+nasopharyngeal neoplasm,PACLITAXEL,2,Unknown status,TUBB,1
+uterine neoplasm,PACLITAXEL,1,Recruiting,TUBB,1
+nasopharyngeal neoplasm,PACLITAXEL,2,Terminated,TUBB,1
+uterine sarcoma,DOCETAXEL,2,Completed,TUBB,1
+nasopharyngeal neoplasm,PACLITAXEL,2,Completed,TUBB,1
+non-Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,3,"Active, not recruiting",TUBB,1
+squamous cell lung carcinoma,DOCETAXEL,1,Withdrawn,TUBB,1
+squamous cell lung carcinoma,DOCETAXEL,1,Terminated,TUBB,1
+non-Hodgkins lymphoma,VINCRISTINE,3,Terminated,TUBB,1
+squamous cell lung carcinoma,DOCETAXEL,1,Completed,TUBB,1
+non-Hodgkins lymphoma,VINCRISTINE,4,Unknown status,TUBB,1
+verrucous carcinoma,IXABEPILONE,2,Completed,TUBB,1
+squamous cell carcinoma,PACLITAXEL POLIGLUMEX,1,Unknown status,TUBB,1
+non-Hodgkins lymphoma,VINORELBINE,2,Recruiting,TUBB,1
+non-Hodgkins lymphoma,VINORELBINE,3,Completed,TUBB,1
+nasopharyngeal neoplasm,DOCETAXEL,2,Recruiting,TUBB,1
+squamous cell carcinoma,PACLITAXEL,3,Unknown status,TUBB,1
+nasopharyngeal neoplasm,DOCETAXEL,2,Not yet recruiting,TUBB,1
+non-small cell lung carcinoma,DOCETAXEL,0,Unknown status,TUBB,1
+squamous cell carcinoma,PACLITAXEL,3,Terminated,TUBB,1
+verrucous carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+vulvar carcinoma,DOCETAXEL,1,Completed,TUBB,1
+nasal cavity squamous cell carcinoma,DOCETAXEL,2,Recruiting,TUBB,1
+myocardial infarction,PACLITAXEL,3,Completed,TUBB,1
+myocardial infarction,COLCHICINE,4,Completed,TUBB,1
+squamous cell carcinoma,PACLITAXEL,3,Completed,TUBB,1
+squamous cell carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+squamous cell carcinoma,PACLITAXEL,2,Withdrawn,TUBB,1
+squamous cell carcinoma,PACLITAXEL,2,Terminated,TUBB,1
+squamous cell lung carcinoma,DOCETAXEL,2,Unknown status,TUBB,1
+squamous cell lung carcinoma,DOCETAXEL,3,Completed,TUBB,1
+squamous cell lung carcinoma,DOCETAXEL,3,Recruiting,TUBB,1
+squamous cell lung carcinoma,PACLITAXEL,3,Completed,TUBB,1
+nasopharyngeal neoplasm,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+non-Hodgkins lymphoma,PACLITAXEL,1,Terminated,TUBB,1
+squamous cell lung carcinoma,VINORELBINE,3,Completed,TUBB,1
+non-Hodgkins lymphoma,PACLITAXEL,2,Completed,TUBB,1
+uterine neoplasm,PACLITAXEL,3,Unknown status,TUBB,1
+non-Hodgkins lymphoma,PACLITAXEL,3,Completed,TUBB,1
+thyroid carcinoma,PACLITAXEL,1,Completed,TUBB,1
+non-Hodgkins lymphoma,VINBLASTINE,4,Unknown status,TUBB,1
+uterine sarcoma,IXABEPILONE,2,Completed,TUBB,1
+squamous cell lung carcinoma,PACLITAXEL,4,Not yet recruiting,TUBB,1
+squamous cell lung carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+squamous cell lung carcinoma,DOCETAXEL,4,Unknown status,TUBB,1
+non-Hodgkins lymphoma,VINCRISTINE,1,Recruiting,TUBB,1
+squamous cell lung carcinoma,PACLITAXEL,2,Completed,TUBB,1
+non-Hodgkins lymphoma,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+squamous cell lung carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+squamous cell lung carcinoma,PACLITAXEL,1,Withdrawn,TUBB,1
+non-Hodgkins lymphoma,VINCRISTINE,2,Unknown status,TUBB,1
+uterine sarcoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+squamous cell lung carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+squamous cell lung carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+vascular disease,COLCHICINE,2,Completed,TUBB,1
+neuroendocrine neoplasm,PACLITAXEL,2,Recruiting,TUBB,1
+thyroid carcinoma,PACLITAXEL,3,Withdrawn,TUBB,1
+neuroblastoma,VINORELBINE,2,Completed,TUBB,1
+neoplasm,VINFLUNINE,4,n/a,TUBB,1
+upper aerodigestive tract neoplasm,DOCETAXEL,3,Completed,TUBB,1
+upper aerodigestive tract neoplasm,DOCETAXEL,2,Terminated,TUBB,1
+upper aerodigestive tract neoplasm,DOCETAXEL,2,Not yet recruiting,TUBB,1
+upper aerodigestive tract neoplasm,DOCETAXEL,1,Unknown status,TUBB,1
+urogenital neoplasm,PACLITAXEL,1,Recruiting,TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,4,Recruiting,TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,4,Completed,TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,3,Unknown status,TUBB,1
+urogenital neoplasm,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,3,Not yet recruiting,TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,3,Completed,TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,3,"Active, not recruiting",TUBB,1
+urogenital neoplasm,VINFLUNINE,3,"Active, not recruiting",TUBB,1
+neoplasm,MIRVETUXIMAB SORAVTANSINE,1,"Active, not recruiting",TUBB,1
+neoplasm,VINCRISTINE,2,Recruiting,TUBB,1
+neoplasm,IXABEPILONE,4,n/a,TUBB,1
+neoplasm,VINCRISTINE,3,"Active, not recruiting",TUBB,1
+neoplasm,VINCRISTINE,4,n/a,TUBB,1
+neoplasm,IXABEPILONE,1,Withdrawn,TUBB,1
+urogenital neoplasm,VINFLUNINE,3,Recruiting,TUBB,1
+neoplasm,IXABEPILONE,1,"Active, not recruiting",TUBB,1
+urothelial carcinoma,CABAZITAXEL,2,Recruiting,TUBB,1
+neoplasm,VINFLUNINE,1,Completed,TUBB,1
+upper aerodigestive tract neoplasm,DOCETAXEL,4,Completed,TUBB,1
+neoplasm,VINBLASTINE,4,n/a,TUBB,1
+upper aerodigestive tract neoplasm,PACLITAXEL,1,Completed,TUBB,1
+urethral neoplasm,VINBLASTINE,3,Completed,TUBB,1
+urethral neoplasm,IXABEPILONE,2,Completed,TUBB,1
+neoplasm,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+neoplasm,PACLITAXEL,2,Withdrawn,TUBB,1
+ureteral neoplasm,IXABEPILONE,2,Completed,TUBB,1
+neoplasm,PACLITAXEL,3,Unknown status,TUBB,1
+neoplasm,PACLITAXEL,4,Unknown status,TUBB,1
+urethral neoplasm,PACLITAXEL,2,Terminated,TUBB,1
+upper aerodigestive tract neoplasm,VINORELBINE,2,Unknown status,TUBB,1
+urethral neoplasm,VINBLASTINE,2,Completed,TUBB,1
+neoplasm,PACLITAXEL,4,n/a,TUBB,1
+urogenital neoplasm,DOCETAXEL,3,"Active, not recruiting",TUBB,1
+neoplasm,VINBLASTINE,2,Unknown status,TUBB,1
+neoplasm,PACLITAXEL POLIGLUMEX,4,n/a,TUBB,1
+upper aerodigestive tract neoplasm,PACLITAXEL,3,Unknown status,TUBB,1
+neoplasm,SAGOPILONE,1,Completed,TUBB,1
+urogenital neoplasm,DOCETAXEL,3,Recruiting,TUBB,1
+upper aerodigestive tract neoplasm,PACLITAXEL,2,Unknown status,TUBB,1
+neoplasm,TRASTUZUMAB EMTANSINE,2,Completed,TUBB,1
+upper aerodigestive tract neoplasm,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+neoplasm,VERUBULIN,1,Completed,TUBB,1
+neoplasm,VINBLASTINE,2,Completed,TUBB,1
+neoplasm,VINBLASTINE,2,Recruiting,TUBB,1
+squamous cell carcinoma,PACLITAXEL,1,Completed,TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+thyroid carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+neoplasm,INDIBULIN,1,Completed,TUBB,1
+triple-negative breast cancer,PACLITAXEL,1,Recruiting,TUBB,1
+triple-negative breast cancer,ERIBULIN,2,"Active, not recruiting",TUBB,1
+urothelial carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,1
+triple-negative breast cancer,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+urothelial carcinoma,ERIBULIN,1,Recruiting,TUBB,1
+transitional cell carcinoma of kidney,VINBLASTINE,3,Completed,TUBB,1
+transitional cell carcinoma of kidney,VINBLASTINE,2,Completed,TUBB,1
+neoplasm,DOCETAXEL,1,Withdrawn,TUBB,1
+neuroblastoma,VINCRISTINE,1,Recruiting,TUBB,1
+transitional cell carcinoma of kidney,PACLITAXEL,2,Terminated,TUBB,1
+transitional cell carcinoma of kidney,IXABEPILONE,2,Completed,TUBB,1
+transitional cell carcinoma of kidney,DOCETAXEL,2,Unknown status,TUBB,1
+transitional cell carcinoma of kidney,DOCETAXEL,2,Completed,TUBB,1
+tongue neoplasm,IXABEPILONE,2,Completed,TUBB,1
+urethral neoplasm,DOCETAXEL,2,Completed,TUBB,1
+thyroid carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+thyroid carcinoma,PACLITAXEL,2,Terminated,TUBB,1
+urothelial carcinoma,PACLITAXEL,1,Not yet recruiting,TUBB,1
+thyroid carcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+urothelial carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+urothelial carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,1
+urothelial carcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+neuroblastoma,VINCRISTINE,3,Recruiting,TUBB,1
+neoplasm,DOCETAXEL,2,Recruiting,TUBB,1
+neoplasm of mature B-cells,VINCRISTINE,2,Unknown status,TUBB,1
+neoplasm,DOCETAXEL,2,Unknown status,TUBB,1
+undifferentiated carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+neoplasm,FOSBRETABULIN,2,Completed,TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,1,Recruiting,TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,1,Completed,TUBB,1
+unspecified peripheral T-cell lymphoma,VINCRISTINE,1,"Active, not recruiting",TUBB,1
+urothelial carcinoma,DOCETAXEL,1,Recruiting,TUBB,1
+neoplasm,ERIBULIN,4,n/a,TUBB,1
+neoplasm,VINORELBINE,1,Terminated,TUBB,1
+neoplasm,ERIBULIN,2,Not yet recruiting,TUBB,1
+urothelial carcinoma,DOCETAXEL,2,Recruiting,TUBB,1
+unspecified peripheral T-cell lymphoma,BRENTUXIMAB VEDOTIN,2,Recruiting,TUBB,1
+neoplasm,VINORELBINE,2,Recruiting,TUBB,1
+neoplasm of mature B-cells,VINCRISTINE,2,Not yet recruiting,TUBB,1
+neoplasm,ERIBULIN,1,"Active, not recruiting",TUBB,1
+neoplasm,VINORELBINE,4,n/a,TUBB,1
+neoplasm of mature B-cells,VINCRISTINE,1,Completed,TUBB,1
+triple-negative breast cancer,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+neoplasm,DOCETAXEL,4,n/a,TUBB,1
+neoplasm of mature B-cells,VINCRISTINE,1,Terminated,TUBB,1
+neoplasm,DOCETAXEL,4,Unknown status,TUBB,1
+neoplasm of mature B-cells,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+triple-negative breast cancer,PACLITAXEL,2,Recruiting,TUBB,1
+neoplasm,DOCETAXEL,2,Withdrawn,TUBB,1
+squamous cell carcinoma,PACLITAXEL,1,Recruiting,TUBB,1
+small cell carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+squamous cell carcinoma,PACLITAXEL,0,Not yet recruiting,TUBB,1
+prostate adenocarcinoma,DOCETAXEL,4,Completed,TUBB,1
+ovarian clear cell adenocarcinoma,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+prostate adenocarcinoma,DOCETAXEL,3,Unknown status,TUBB,1
+ovarian cystadenocarcinoma,DOCETAXEL,1,Completed,TUBB,1
+ovarian cystadenocarcinoma,DOCETAXEL,2,Completed,TUBB,1
+prostate adenocarcinoma,DOCETAXEL,3,Not yet recruiting,TUBB,1
+ovarian cystadenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+prostate adenocarcinoma,DOCETAXEL,2,Withdrawn,TUBB,1
+ovarian mucinous adenocarcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+ovarian mucinous adenocarcinoma,PACLITAXEL,1,Suspended,TUBB,1
+ovarian mucinous adenocarcinoma,PACLITAXEL,3,Completed,TUBB,1
+ovarian mucinous adenocarcinoma,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+ovarian mucinous cystadenocarcinoma,DOCETAXEL,1,Completed,TUBB,1
+ovarian mucinous cystadenocarcinoma,PACLITAXEL,2,Completed,TUBB,1
+ovarian mucinous cystadenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+prostate adenocarcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+prostate adenocarcinoma,DOCETAXEL,1,Withdrawn,TUBB,1
+ovarian neoplasm,PACLITAXEL,2,Recruiting,TUBB,1
+ovarian neoplasm,PACLITAXEL,2,Terminated,TUBB,1
+ovarian neoplasm,PACLITAXEL,3,Recruiting,TUBB,1
+ovarian neoplasm,PACLITAXEL,3,Terminated,TUBB,1
+prostate adenocarcinoma,DOCETAXEL,1,Recruiting,TUBB,1
+prostate adenocarcinoma,CABAZITAXEL,3,Recruiting,TUBB,1
+prostate adenocarcinoma,CABAZITAXEL,3,Completed,TUBB,1
+prostate adenocarcinoma,CABAZITAXEL,2,Completed,TUBB,1
+ovarian serous adenocarcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+prostate adenocarcinoma,CABAZITAXEL,1,Withdrawn,TUBB,1
+prostate adenocarcinoma,CABAZITAXEL,1,Terminated,TUBB,1
+ovarian clear cell adenocarcinoma,PACLITAXEL,3,Completed,TUBB,1
+prostate adenocarcinoma,ERIBULIN,2,Completed,TUBB,1
+non-small cell lung carcinoma,DOCETAXEL,2,Enrolling by invitation,TUBB,1
+prostate adenocarcinoma,IXABEPILONE,1,Completed,TUBB,1
+ovarian carcinoma,IXABEPILONE,2,Completed,TUBB,1
+ovarian carcinoma,IXABEPILONE,2,Recruiting,TUBB,1
+ovarian carcinoma,MIRVETUXIMAB SORAVTANSINE,1,Recruiting,TUBB,1
+prostate carcinoma,DOCETAXEL,2,Suspended,TUBB,1
+prostate carcinoma,DOCETAXEL,1,Withdrawn,TUBB,1
+prostate carcinoma,DOCETAXEL,1,Not yet recruiting,TUBB,1
+prostate carcinoma,DOCETAXEL,0,Recruiting,TUBB,1
+prostate carcinoma,COLCHICINE,2,Withdrawn,TUBB,1
+prostate carcinoma,CABAZITAXEL,4,"Active, not recruiting",TUBB,1
+prostate carcinoma,CABAZITAXEL,3,Terminated,TUBB,1
+ovarian carcinoma,PACLITAXEL,1,Withdrawn,TUBB,1
+prostate carcinoma,CABAZITAXEL,3,"Active, not recruiting",TUBB,1
+prostate carcinoma,CABAZITAXEL,2,Withdrawn,TUBB,1
+prostate carcinoma,CABAZITAXEL,2,Not yet recruiting,TUBB,1
+prostate carcinoma,CABAZITAXEL,2,Enrolling by invitation,TUBB,1
+ovarian carcinoma,PACLITAXEL,2,Withdrawn,TUBB,1
+prostate carcinoma,CABAZITAXEL,1,"Active, not recruiting",TUBB,1
+prostate adenocarcinoma,PACLITAXEL POLIGLUMEX,2,Completed,TUBB,1
+prostate adenocarcinoma,PACLITAXEL,2,Terminated,TUBB,1
+ovarian carcinoma,PACLITAXEL,4,Unknown status,TUBB,1
+prostate adenocarcinoma,IXABEPILONE,2,Terminated,TUBB,1
+ovarian carcinoma,PACLITAXEL POLIGLUMEX,1,Completed,TUBB,1
+ovarian carcinoma,VINORELBINE,2,Completed,TUBB,1
+ovarian clear cell adenocarcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+ovarian clear cell adenocarcinoma,PACLITAXEL,1,Recruiting,TUBB,1
+ovarian clear cell adenocarcinoma,PACLITAXEL,1,Suspended,TUBB,1
+ovarian clear cell adenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+ovarian serous adenocarcinoma,PACLITAXEL,1,Suspended,TUBB,1
+proliferative vitreoretinopathy,COLCHICINE,3,Unknown status,TUBB,1
+primitive neuroectodermal tumor,VINCRISTINE,2,Completed,TUBB,1
+primary biliary cirrhosis,COLCHICINE,3,Completed,TUBB,1
+pancreatic carcinoma,PACLITAXEL,0,Recruiting,TUBB,1
+peritoneal neoplasm,DOCETAXEL,3,Completed,TUBB,1
+pancreatic carcinoma,PACLITAXEL,1,Not yet recruiting,TUBB,1
+peritoneal neoplasm,DOCETAXEL,2,Unknown status,TUBB,1
+peritoneal neoplasm,DOCETAXEL,1,Terminated,TUBB,1
+pancreatic carcinoma,PACLITAXEL,1,Withdrawn,TUBB,1
+peripheral vascular disease,PACLITAXEL,2,Terminated,TUBB,1
+myelodysplastic syndrome,VINCRISTINE,1,Recruiting,TUBB,1
+pancreatic carcinoma,PACLITAXEL,2,Enrolling by invitation,TUBB,1
+peripheral neuropathy,PACLITAXEL,1,Recruiting,TUBB,1
+peripheral arterial disease,PACLITAXEL,3,Recruiting,TUBB,1
+peripheral arterial disease,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+peripheral arterial disease,PACLITAXEL,1,Completed,TUBB,1
+pancreatic carcinoma,PACLITAXEL,3,Completed,TUBB,1
+pericarditis,COLCHICINE,4,Completed,TUBB,1
+pancreatic carcinoma,PACLITAXEL,3,Terminated,TUBB,1
+pancreatic carcinoma,PACLITAXEL,4,Recruiting,TUBB,1
+pancreatic ductal adenocarcinoma,PACLITAXEL,1,Recruiting,TUBB,1
+pancreatic ductal adenocarcinoma,PACLITAXEL,1,Terminated,TUBB,1
+pancreatic ductal adenocarcinoma,PACLITAXEL,2,Completed,TUBB,1
+penile neoplasm,VINFLUNINE,2,"Active, not recruiting",TUBB,1
+penile neoplasm,PACLITAXEL,2,Completed,TUBB,1
+pancreatic ductal adenocarcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+penile neoplasm,DOCETAXEL,2,Terminated,TUBB,1
+pancreatic ductal adenocarcinoma,PACLITAXEL,3,Terminated,TUBB,1
+pancreatic neoplasm,DOCETAXEL,2,Terminated,TUBB,1
+pancreatic neoplasm,DOCETAXEL,2,Unknown status,TUBB,1
+peritoneal neoplasm,IXABEPILONE,2,Completed,TUBB,1
+peritoneal neoplasm,IXABEPILONE,2,Recruiting,TUBB,1
+peritoneal neoplasm,MIRVETUXIMAB SORAVTANSINE,1,Recruiting,TUBB,1
+pancreatic adenocarcinoma,PACLITAXEL,0,"Active, not recruiting",TUBB,1
+ovarian serous adenocarcinoma,PACLITAXEL,3,Completed,TUBB,1
+precursor T-cell lymphoblastic leukemia-lymphoma,VINCRISTINE,1,Terminated,TUBB,1
+ovarian serous adenocarcinoma,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+ovarian serous cystadenocarcinoma,DOCETAXEL,1,Completed,TUBB,1
+pharynx cancer,DOCETAXEL,3,Completed,TUBB,1
+ovarian serous cystadenocarcinoma,PACLITAXEL,1,Withdrawn,TUBB,1
+ovarian serous cystadenocarcinoma,PACLITAXEL,2,Completed,TUBB,1
+ovarian serous cystadenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+peritoneal neoplasm,VINORELBINE,2,Completed,TUBB,1
+pancreatic adenocarcinoma,DOCETAXEL,1,"Active, not recruiting",TUBB,1
+peritoneal neoplasm,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+pancreatic adenocarcinoma,ERIBULIN,2,Completed,TUBB,1
+pancreatic adenocarcinoma,PACLITAXEL,0,Unknown status,TUBB,1
+peritoneal neoplasm,PACLITAXEL,1,Suspended,TUBB,1
+peritoneal neoplasm,PACLITAXEL POLIGLUMEX,1,Completed,TUBB,1
+peritoneal neoplasm,PACLITAXEL,3,Unknown status,TUBB,1
+pancreatic adenocarcinoma,PACLITAXEL,1,Unknown status,TUBB,1
+pancreatic adenocarcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+peritoneal neoplasm,PACLITAXEL,3,Terminated,TUBB,1
+pancreatic adenocarcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,1
+peritoneal neoplasm,PACLITAXEL,1,Withdrawn,TUBB,1
+pancreatic adenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+pancreatic adenocarcinoma,PACLITAXEL,3,Not yet recruiting,TUBB,1
+pancreatic adenocarcinoma,PACLITAXEL,3,Recruiting,TUBB,1
+peritoneal neoplasm,PACLITAXEL,1,Unknown status,TUBB,1
+pancreatic carcinoma,DOCETAXEL,1,Completed,TUBB,1
+ovarian carcinoma,FOSBRETABULIN,2,Terminated,TUBB,1
+ovarian carcinoma,FOSBRETABULIN,1,Terminated,TUBB,1
+prostate carcinoma,ERIBULIN,2,Completed,TUBB,1
+sarcoma,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+small cell lung carcinoma,DOCETAXEL,2,Withdrawn,TUBB,1
+small cell lung carcinoma,DOCETAXEL,2,Unknown status,TUBB,1
+small cell lung carcinoma,CABAZITAXEL,2,Completed,TUBB,1
+penile neoplasm,CABAZITAXEL,2,Completed,TUBB,1
+sex cord-gonadal stromal tumor,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+schizophrenia,DAVUNETIDE,2,Completed,TUBB,1
+sarcoma,VINORELBINE,3,Unknown status,TUBB,1
+sarcoma,VINCRISTINE,3,Withdrawn,TUBB,1
+sarcoma,VINCRISTINE,3,"Active, not recruiting",TUBB,1
+sarcoma,VINCRISTINE,2,Terminated,TUBB,1
+sarcoma,VINCRISTINE,2,Recruiting,TUBB,1
+sarcoma,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+sarcoma,VINCRISTINE,1,Completed,TUBB,1
+sarcoma,VINBLASTINE,2,Completed,TUBB,1
+sarcoma,PACLITAXEL,3,Completed,TUBB,1
+sarcoma,PACLITAXEL,1,Suspended,TUBB,1
+non-small cell lung carcinoma,PACLITAXEL,4,Completed,TUBB,1
+non-small cell lung carcinoma,PACLITAXEL,4,Unknown status,TUBB,1
+non-small cell lung carcinoma,PACLITAXEL POLIGLUMEX,2,Completed,TUBB,1
+non-small cell lung carcinoma,PACLITAXEL POLIGLUMEX,2,Terminated,TUBB,1
+sarcoma,PACLITAXEL,1,Completed,TUBB,1
+sarcoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+non-small cell lung carcinoma,PACLITAXEL POLIGLUMEX,3,Terminated,TUBB,1
+sarcoma,IXABEPILONE,2,Terminated,TUBB,1
+sarcoma,ERIBULIN,2,Recruiting,TUBB,1
+sarcoma,DOCETAXEL,3,Recruiting,TUBB,1
+non-small cell lung carcinoma,PLINABULIN,1,Recruiting,TUBB,1
+small cell lung carcinoma,PACLITAXEL,2,Terminated,TUBB,1
+small cell lung carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+small cell lung carcinoma,PLINABULIN,1,Recruiting,TUBB,1
+soft tissue sarcoma,DOCETAXEL,2,Unknown status,TUBB,1
+squamous cell carcinoma,DOCETAXEL,4,Completed,TUBB,1
+squamous cell carcinoma,DOCETAXEL,3,Completed,TUBB,1
+non-small cell lung carcinoma,DOCETAXEL,2,Suspended,TUBB,1
+squamous cell carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,1
+squamous cell carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+soft tissue sarcoma,PACLITAXEL,2,Terminated,TUBB,1
+non-small cell lung carcinoma,DOCETAXEL,3,Suspended,TUBB,1
+soft tissue sarcoma,PACLITAXEL,1,Recruiting,TUBB,1
+non-small cell lung carcinoma,DOCETAXEL,4,Not yet recruiting,TUBB,1
+non-small cell lung carcinoma,DOCETAXEL,4,Terminated,TUBB,1
+soft tissue sarcoma,ERIBULIN,3,Completed,TUBB,1
+non-small cell lung carcinoma,ERIBULIN,1,Unknown status,TUBB,1
+non-small cell lung carcinoma,ERIBULIN,3,Completed,TUBB,1
+small cell lung carcinoma,SAGOPILONE,1,Completed,TUBB,1
+soft tissue sarcoma,DOCETAXEL,2,Recruiting,TUBB,1
+soft tissue sarcoma,DOCETAXEL,1,Recruiting,TUBB,1
+non-small cell lung carcinoma,IXABEPILONE,2,Terminated,TUBB,1
+non-small cell lung carcinoma,PACLITAXEL,0,Recruiting,TUBB,1
+non-small cell lung carcinoma,PACLITAXEL,0,Terminated,TUBB,1
+non-small cell lung carcinoma,PACLITAXEL,0,Unknown status,TUBB,1
+soft tissue sarcoma,DOCETAXEL,1,Completed,TUBB,1
+small intestine carcinoma,PACLITAXEL,1,Completed,TUBB,1
+small cell lung carcinoma,VINORELBINE,1,Completed,TUBB,1
+small cell lung carcinoma,VINFLUNINE,2,Completed,TUBB,1
+small cell lung carcinoma,VINCRISTINE,3,"Active, not recruiting",TUBB,1
+small cell lung carcinoma,SAGOPILONE,2,Terminated,TUBB,1
+non-small cell lung carcinoma,PLINABULIN,1,Terminated,TUBB,1
+non-small cell lung carcinoma,PLINABULIN,3,Recruiting,TUBB,1
+prostate carcinoma,IXABEPILONE,1,Completed,TUBB,1
+sarcoma,DOCETAXEL,1,Recruiting,TUBB,1
+prostate carcinoma,VINORELBINE,2,Unknown status,TUBB,1
+obesity,COLCHICINE,1,Completed,TUBB,1
+prostate carcinoma,VINORELBINE,1,Completed,TUBB,1
+prostate carcinoma,VINFLUNINE,2,Completed,TUBB,1
+prostate carcinoma,VINBLASTINE,3,Terminated,TUBB,1
+prostate carcinoma,VINBLASTINE,2,Completed,TUBB,1
+prostate carcinoma,SAGOPILONE,2,Completed,TUBB,1
+oral squamous cell carcinoma,DOCETAXEL,2,Completed,TUBB,1
+prostate carcinoma,PACLITAXEL POLIGLUMEX,2,Terminated,TUBB,1
+oropharynx cancer,DOCETAXEL,3,Recruiting,TUBB,1
+osteoarthritis,COLCHICINE,2,Completed,TUBB,1
+osteosarcoma,DOCETAXEL,1,Recruiting,TUBB,1
+osteosarcoma,DOCETAXEL,2,Recruiting,TUBB,1
+osteosarcoma,DOCETAXEL,2,Unknown status,TUBB,1
+osteosarcoma,ERIBULIN,2,Completed,TUBB,1
+osteosarcoma,VINCRISTINE,1,Completed,TUBB,1
+ovarian carcinoma,CABAZITAXEL,2,"Active, not recruiting",TUBB,1
+prostate carcinoma,PACLITAXEL,2,Terminated,TUBB,1
+ovarian carcinoma,CABAZITAXEL,2,Terminated,TUBB,1
+prostate carcinoma,PACLITAXEL,1,Unknown status,TUBB,1
+ovarian carcinoma,DOCETAXEL,1,Terminated,TUBB,1
+ovarian carcinoma,DOCETAXEL,1,Unknown status,TUBB,1
+ovarian carcinoma,DOCETAXEL,1,Withdrawn,TUBB,1
+prostate carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+prostate carcinoma,IXABEPILONE,1,Terminated,TUBB,1
+ovarian carcinoma,DOCETAXEL,2,Unknown status,TUBB,1
+ovarian carcinoma,DOCETAXEL,3,Completed,TUBB,1
+non-small cell lung carcinoma,VINORELBINE,3,Withdrawn,TUBB,1
+prostate carcinoma,VINORELBINE,2,Withdrawn,TUBB,1
+psoriasis,PACLITAXEL,2,Completed,TUBB,1
+rhabdomyosarcoma,VINCRISTINE,3,Unknown status,TUBB,1
+salivary gland squamous cell carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+non-small cell lung carcinoma,SAGOPILONE,2,Completed,TUBB,1
+non-small cell lung carcinoma,TRASTUZUMAB EMTANSINE,2,Completed,TUBB,1
+salivary gland squamous cell carcinoma,IXABEPILONE,2,Completed,TUBB,1
+salivary gland neoplasm,PACLITAXEL,2,Recruiting,TUBB,1
+non-small cell lung carcinoma,VINBLASTINE,3,Not yet recruiting,TUBB,1
+non-small cell lung carcinoma,VINFLUNINE,2,Completed,TUBB,1
+salivary gland neoplasm,ERIBULIN,2,Completed,TUBB,1
+non-small cell lung carcinoma,VINORELBINE,1,Terminated,TUBB,1
+rheumatoid arthritis,PACLITAXEL,2,Completed,TUBB,1
+non-small cell lung carcinoma,VINORELBINE,2,"Active, not recruiting",TUBB,1
+rhegmatogenous retinal detachment,COLCHICINE,3,Unknown status,TUBB,1
+rhabdomyosarcoma,VINCRISTINE,3,Terminated,TUBB,1
+rectum cancer,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+rhabdomyosarcoma,VINCRISTINE,2,Recruiting,TUBB,1
+rhabdomyosarcoma,VINCRISTINE,2,Completed,TUBB,1
+rhabdomyosarcoma,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+renal cell carcinoma,VINBLASTINE,2,Completed,TUBB,1
+renal cell carcinoma,PACLITAXEL,1,Completed,TUBB,1
+renal cell carcinoma,IXABEPILONE,2,Completed,TUBB,1
+renal carcinoma,VINORELBINE,2,Completed,TUBB,1
+renal carcinoma,VINCRISTINE,2,Unknown status,TUBB,1
+renal carcinoma,VINBLASTINE,2,Unknown status,TUBB,1
+renal carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+renal carcinoma,PACLITAXEL,2,Completed,TUBB,1
+renal carcinoma,DOCETAXEL,1,"Active, not recruiting",TUBB,1
+myocardial infarction,COLCHICINE,2,Recruiting,TUBB,1
+B-cell acute lymphoblastic leukemia,VINCRISTINE,1,Recruiting,TUBB,1
+myelodysplastic syndrome,DOCETAXEL,1,Completed,TUBB,1
+breast adenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+breast carcinoma,DOCETAXEL,1,Withdrawn,TUBB,1
+breast carcinoma,DOCETAXEL,1,Recruiting,TUBB,1
+breast carcinoma,DOCETAXEL,0,Completed,TUBB,1
+breast carcinoma,CABAZITAXEL,2,Terminated,TUBB,1
+breast carcinoma,CABAZITAXEL,2,Recruiting,TUBB,1
+breast carcinoma,CABAZITAXEL,2,Completed,TUBB,1
+breast adenocarcinoma,PACLITAXEL,3,Suspended,TUBB,1
+breast adenocarcinoma,PACLITAXEL,3,Recruiting,TUBB,1
+breast adenocarcinoma,PACLITAXEL,3,Not yet recruiting,TUBB,1
+breast adenocarcinoma,ERIBULIN,3,Suspended,TUBB,1
+anal neoplasm,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+breast adenocarcinoma,ERIBULIN,1,Recruiting,TUBB,1
+brain neoplasm,VINCRISTINE,1,Recruiting,TUBB,1
+brain neoplasm,VERUBULIN,1,Completed,TUBB,1
+brain neoplasm,PACLITAXEL POLIGLUMEX,2,Completed,TUBB,1
+brain neoplasm,ERIBULIN,0,"Active, not recruiting",TUBB,1
+brain neoplasm,CABAZITAXEL,1,Withdrawn,TUBB,1
+bladder tumor,PACLITAXEL,2,Terminated,TUBB,1
+bladder transitional cell carcinoma,PACLITAXEL,2,Withdrawn,TUBB,1
+bladder transitional cell carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+breast carcinoma,DOCETAXEL,3,Withdrawn,TUBB,1
+breast carcinoma,DOCETAXEL,4,Withdrawn,TUBB,1
+breast carcinoma,ERIBULIN,1,Terminated,TUBB,1
+breast carcinoma,ERIBULIN,1,Unknown status,TUBB,1
+breast carcinoma,PACLITAXEL,3,Withdrawn,TUBB,1
+breast carcinoma,PACLITAXEL,3,Not yet recruiting,TUBB,1
+breast carcinoma,PACLITAXEL,2,Enrolling by invitation,TUBB,1
+breast carcinoma,PACLITAXEL,0,"Active, not recruiting",TUBB,1
+breast carcinoma,MIRVETUXIMAB SORAVTANSINE,1,Withdrawn,TUBB,1
+breast carcinoma,IXABEPILONE,4,n/a,TUBB,1
+breast carcinoma,IXABEPILONE,2,Withdrawn,TUBB,1
+breast carcinoma,IXABEPILONE,2,Recruiting,TUBB,1
+breast carcinoma,IXABEPILONE,1,Withdrawn,TUBB,1
+breast carcinoma,IXABEPILONE,1,"Active, not recruiting",TUBB,1
+breast carcinoma,INDIBULIN,1,Unknown status,TUBB,1
+breast carcinoma,ERIBULIN,4,n/a,TUBB,1
+breast carcinoma,ERIBULIN,4,Completed,TUBB,1
+breast carcinoma,ERIBULIN,4,"Active, not recruiting",TUBB,1
+breast carcinoma,ERIBULIN,3,Not yet recruiting,TUBB,1
+breast carcinoma,ERIBULIN,3,"Active, not recruiting",TUBB,1
+breast carcinoma,ERIBULIN,2,Withdrawn,TUBB,1
+breast carcinoma,ERIBULIN,2,Unknown status,TUBB,1
+breast carcinoma,ERIBULIN,1,Withdrawn,TUBB,1
+bladder transitional cell carcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+bladder transitional cell carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,1
+bladder transitional cell carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+atrial fibrillation,COLCHICINE,3,Completed,TUBB,1
+aphthous ulcer,COLCHICINE,2,Unknown status,TUBB,1
+angiosarcoma,PACLITAXEL,2,Unknown status,TUBB,1
+angiosarcoma,PACLITAXEL,2,Terminated,TUBB,1
+angiosarcoma,ERIBULIN,2,Recruiting,TUBB,1
+angioimmunoblastic T-cell lymphoma,VINCRISTINE,2,Recruiting,TUBB,1
+angioimmunoblastic T-cell lymphoma,VINCRISTINE,2,Completed,TUBB,1
+angioimmunoblastic T-cell lymphoma,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+anaplastic large cell lymphoma,VINCRISTINE,2,Terminated,TUBB,1
+anaplastic large cell lymphoma,VINCRISTINE,2,Completed,TUBB,1
+anaplastic large cell lymphoma,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+anaplastic large cell lymphoma,IXABEPILONE,2,Completed,TUBB,1
+anaplastic large cell lymphoma,BRENTUXIMAB VEDOTIN,4,n/a,TUBB,1
+anaplastic large cell lymphoma,BRENTUXIMAB VEDOTIN,3,Completed,TUBB,1
+anaplastic large cell lymphoma,BRENTUXIMAB VEDOTIN,2,Suspended,TUBB,1
+anaplastic large cell lymphoma,BRENTUXIMAB VEDOTIN,2,Completed,TUBB,1
+anaplastic large cell lymphoma,BRENTUXIMAB VEDOTIN,1,Recruiting,TUBB,1
+anaplastic large cell lymphoma,BRENTUXIMAB VEDOTIN,1,"Active, not recruiting",TUBB,1
+anaplastic astrocytoma,VINCRISTINE,2,Completed,TUBB,1
+anaplastic astrocytoma,IXABEPILONE,1,Completed,TUBB,1
+atrial fibrillation,COLCHICINE,2,Unknown status,TUBB,1
+atrial fibrillation,COLCHICINE,3,Recruiting,TUBB,1
+bladder transitional cell carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+atrial fibrillation,COLCHICINE,3,Withdrawn,TUBB,1
+bladder transitional cell carcinoma,DOCETAXEL,2,Completed,TUBB,1
+bladder transitional cell carcinoma,DOCETAXEL,1,Recruiting,TUBB,1
+bladder transitional cell carcinoma,CABAZITAXEL,2,Completed,TUBB,1
+bladder carcinoma,VINORELBINE,1,Completed,TUBB,1
+bladder carcinoma,VINFLUNINE,1,Withdrawn,TUBB,1
+bladder carcinoma,VINFLUNINE,1,Completed,TUBB,1
+bladder carcinoma,VINBLASTINE,3,Terminated,TUBB,1
+bladder carcinoma,VINBLASTINE,3,Recruiting,TUBB,1
+bladder carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+bladder carcinoma,PACLITAXEL,1,Unknown status,TUBB,1
+bladder carcinoma,IXABEPILONE,2,Completed,TUBB,1
+bladder carcinoma,DOCETAXEL,3,Completed,TUBB,1
+bladder carcinoma,DOCETAXEL,2,Unknown status,TUBB,1
+bladder carcinoma,CABAZITAXEL,1,"Active, not recruiting",TUBB,1
+biliary tract neoplasm,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+biliary tract neoplasm,DOCETAXEL,2,Unknown status,TUBB,1
+benign prostatic hyperplasia,PACLITAXEL,2,Recruiting,TUBB,1
+autoimmune thrombocytopenic purpura,VINCRISTINE,4,Completed,TUBB,1
+autoimmune thrombocytopenic purpura,VINCRISTINE,2,Completed,TUBB,1
+breast carcinoma,PACLITAXEL,4,Withdrawn,TUBB,1
+breast carcinoma,PACLITAXEL POLIGLUMEX,1,Completed,TUBB,1
+breast carcinoma,PACLITAXEL POLIGLUMEX,2,Withdrawn,TUBB,1
+carcinoma,PACLITAXEL,1,Completed,TUBB,1
+carcinoma,DOCETAXEL,2,Withdrawn,TUBB,1
+carcinoma,DOCETAXEL,2,Terminated,TUBB,1
+carcinoma,DOCETAXEL,2,Recruiting,TUBB,1
+carcinoma,DOCETAXEL,1,Completed,TUBB,1
+cancer,VINORELBINE,2,"Active, not recruiting",TUBB,1
+cancer,VINORELBINE,1,Unknown status,TUBB,1
+cancer,VINORELBINE,1,Recruiting,TUBB,1
+cancer,VINORELBINE,1,Not yet recruiting,TUBB,1
+cancer,VINFLUNINE,1,Withdrawn,TUBB,1
+cancer,VINCRISTINE,4,Unknown status,TUBB,1
+cancer,PLINABULIN,1,Completed,TUBB,1
+cancer,PACLITAXEL,4,Completed,TUBB,1
+cancer,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+cancer,PACLITAXEL,1,Suspended,TUBB,1
+cancer,INDIBULIN,1,Completed,TUBB,1
+cancer,FOSBRETABULIN,2,Completed,TUBB,1
+cancer,ERIBULIN,2,Recruiting,TUBB,1
+cancer,ERIBULIN,1,Recruiting,TUBB,1
+cancer,DOCETAXEL,3,Unknown status,TUBB,1
+carcinoma,DOCETAXEL,3,Unknown status,TUBB,1
+carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+cancer,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+carcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+cervical adenocarcinoma,PACLITAXEL,3,Recruiting,TUBB,1
+cervical adenocarcinoma,PACLITAXEL,3,Completed,TUBB,1
+cervical adenocarcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+cervical adenocarcinoma,DOCETAXEL,2,Completed,TUBB,1
+central nervous system cancer,VINORELBINE,2,"Active, not recruiting",TUBB,1
+central nervous system cancer,VINCRISTINE,3,"Active, not recruiting",TUBB,1
+central nervous system cancer,VINBLASTINE,2,Completed,TUBB,1
+central nervous system cancer,VINBLASTINE,2,"Active, not recruiting",TUBB,1
+central nervous system cancer,VINBLASTINE,1,Recruiting,TUBB,1
+central nervous system cancer,VINBLASTINE,1,Completed,TUBB,1
+central nervous system cancer,SAGOPILONE,2,Completed,TUBB,1
+central nervous system cancer,PACLITAXEL,1,Terminated,TUBB,1
+cardiac arrhythmia,COLCHICINE,3,Completed,TUBB,1
+carcinoma,VINORELBINE,3,Unknown status,TUBB,1
+carcinoma,VINORELBINE,2,Terminated,TUBB,1
+carcinoma,VINORELBINE,2,Completed,TUBB,1
+carcinoma,VINCRISTINE,3,Unknown status,TUBB,1
+carcinoma,VINCRISTINE,2,Completed,TUBB,1
+carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+cancer,DOCETAXEL,3,Completed,TUBB,1
+cancer,DOCETAXEL,1,Unknown status,TUBB,1
+breast carcinoma,SAGOPILONE,2,Completed,TUBB,1
+breast neoplasm,ERIBULIN,3,Completed,TUBB,1
+breast neoplasm,ERIBULIN,2,Recruiting,TUBB,1
+breast neoplasm,ERIBULIN,2,Completed,TUBB,1
+breast neoplasm,DOCETAXEL,4,Recruiting,TUBB,1
+breast neoplasm,DOCETAXEL,3,"Active, not recruiting",TUBB,1
+breast neoplasm,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+breast ductal adenocarcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+breast carcinoma,VINORELBINE,4,Completed,TUBB,1
+breast carcinoma,VINORELBINE,3,Not yet recruiting,TUBB,1
+breast carcinoma,VINORELBINE,3,"Active, not recruiting",TUBB,1
+breast carcinoma,VINORELBINE,0,Completed,TUBB,1
+breast carcinoma,VINFLUNINE,2,Withdrawn,TUBB,1
+breast carcinoma,VINFLUNINE,2,Completed,TUBB,1
+breast carcinoma,TRASTUZUMAB EMTANSINE,4,n/a,TUBB,1
+breast carcinoma,TRASTUZUMAB EMTANSINE,4,"Active, not recruiting",TUBB,1
+breast carcinoma,TRASTUZUMAB EMTANSINE,3,Terminated,TUBB,1
+breast carcinoma,TRASTUZUMAB EMTANSINE,3,Recruiting,TUBB,1
+breast carcinoma,TRASTUZUMAB EMTANSINE,2,Withdrawn,TUBB,1
+breast carcinoma,TRASTUZUMAB EMTANSINE,1,Withdrawn,TUBB,1
+breast carcinoma,TRASTUZUMAB EMTANSINE,1,Terminated,TUBB,1
+breast neoplasm,ERIBULIN,2,Terminated,TUBB,1
+breast neoplasm,ERIBULIN,4,Completed,TUBB,1
+cancer,DOCETAXEL,1,Terminated,TUBB,1
+breast neoplasm,ERIBULIN,4,Recruiting,TUBB,1
+cancer,DOCETAXEL,1,Suspended,TUBB,1
+cancer,DOCETAXEL,1,Recruiting,TUBB,1
+cancer,DOCETAXEL,1,"Active, not recruiting",TUBB,1
+cancer,CROLIBULIN,1,Completed,TUBB,1
+cancer,CABAZITAXEL,2,Terminated,TUBB,1
+cancer,CABAZITAXEL,1,Completed,TUBB,1
+bronchoalveolar adenocarcinoma,PACLITAXEL,2,Completed,TUBB,1
+bronchoalveolar adenocarcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+breast neoplasm,VINORELBINE,2,Withdrawn,TUBB,1
+breast neoplasm,VINFLUNINE,3,Completed,TUBB,1
+breast neoplasm,VINFLUNINE,2,Completed,TUBB,1
+breast neoplasm,TRASTUZUMAB EMTANSINE,3,Completed,TUBB,1
+breast neoplasm,TRASTUZUMAB EMTANSINE,1,Completed,TUBB,1
+breast neoplasm,PACLITAXEL,3,Terminated,TUBB,1
+breast neoplasm,PACLITAXEL,1,Unknown status,TUBB,1
+breast neoplasm,PACLITAXEL,1,Terminated,TUBB,1
+breast neoplasm,MIRVETUXIMAB SORAVTANSINE,2,Recruiting,TUBB,1
+breast neoplasm,IXABEPILONE,2,Terminated,TUBB,1
+breast neoplasm,IXABEPILONE,2,Recruiting,TUBB,1
+anal neoplasm,PACLITAXEL,1,Terminated,TUBB,1
+alveolar rhabdomyosarcoma,VINORELBINE,3,Recruiting,TUBB,1
+mycosis fungoides,BRENTUXIMAB VEDOTIN,3,Completed,TUBB,1
+Hereditary breast and ovarian cancer syndrome,DOCETAXEL,2,Completed,TUBB,1
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,4,n/a,TUBB,1
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,4,Recruiting,TUBB,1
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,4,"Active, not recruiting",TUBB,1
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,2,Unknown status,TUBB,1
+Hodgkins lymphoma,BRENTUXIMAB VEDOTIN,1,Withdrawn,TUBB,1
+Hereditary breast and ovarian cancer syndrome,PACLITAXEL,2,Recruiting,TUBB,1
+Hereditary breast and ovarian cancer syndrome,PACLITAXEL,1,Recruiting,TUBB,1
+Hereditary breast and ovarian cancer syndrome,PACLITAXEL,1,Completed,TUBB,1
+Hereditary breast and ovarian cancer syndrome,ERIBULIN,2,Withdrawn,TUBB,1
+Hepatoblastoma,VINCRISTINE,3,"Active, not recruiting",TUBB,1
+alveolar rhabdomyosarcoma,VINORELBINE,2,Completed,TUBB,1
+HIV-1 infection,VINCRISTINE,3,"Active, not recruiting",TUBB,1
+HIV-1 infection,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+HIV infection,PACLITAXEL,1,Terminated,TUBB,1
+Gestational trophoblastic neoplasm,VINCRISTINE,3,Recruiting,TUBB,1
+Gestational trophoblastic neoplasm,PACLITAXEL,3,Recruiting,TUBB,1
+"Genital neoplasm, female",PACLITAXEL,1,Completed,TUBB,1
+Gastrointestinal stromal tumor,PACLITAXEL,2,Completed,TUBB,1
+Gastrointestinal stromal tumor,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+Fibrolamellar Carcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+Hodgkins lymphoma,VINBLASTINE,2,Not yet recruiting,TUBB,1
+Hodgkins lymphoma,VINBLASTINE,3,Recruiting,TUBB,1
+Hodgkins lymphoma,VINBLASTINE,3,Unknown status,TUBB,1
+Hodgkins lymphoma,VINBLASTINE,3,Withdrawn,TUBB,1
+Malignant Ovarian Brenner Tumor,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+Malignant Ovarian Brenner Tumor,DOCETAXEL,1,Completed,TUBB,1
+"Lymphoma, AIDS-Related",VINCRISTINE,2,Terminated,TUBB,1
+"Lymphoma, AIDS-Related",VINCRISTINE,2,"Active, not recruiting",TUBB,1
+"Lymphoma, AIDS-Related",VINCRISTINE,1,Completed,TUBB,1
+Langerhans Cell Histiocytosis,VINBLASTINE,3,Recruiting,TUBB,1
+Langerhans Cell Histiocytosis,VINBLASTINE,2,Recruiting,TUBB,1
+Kaposi's sarcoma,PACLITAXEL,3,Completed,TUBB,1
+Hodgkins lymphoma,VINORELBINE,3,Completed,TUBB,1
+Hodgkins lymphoma,VINORELBINE,2,Unknown status,TUBB,1
+Hodgkins lymphoma,VINORELBINE,2,Terminated,TUBB,1
+Hodgkins lymphoma,VINORELBINE,2,Recruiting,TUBB,1
+Hodgkins lymphoma,VINORELBINE,1,Unknown status,TUBB,1
+Hodgkins lymphoma,VINCRISTINE,4,Unknown status,TUBB,1
+Hodgkins lymphoma,VINCRISTINE,2,Unknown status,TUBB,1
+Hodgkins lymphoma,VINCRISTINE,2,Terminated,TUBB,1
+Hodgkins lymphoma,VINCRISTINE,2,Completed,TUBB,1
+Hodgkins lymphoma,VINCRISTINE,1,Recruiting,TUBB,1
+Hodgkins lymphoma,VINCRISTINE,1,Completed,TUBB,1
+Familial Mediterranean fever,COLCHICINE,4,Completed,TUBB,1
+Familial Mediterranean fever,COLCHICINE,2,Unknown status,TUBB,1
+Familial Mediterranean fever,COLCHICINE,1,Completed,TUBB,1
+Endometrial Undifferentiated Carcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Endometrial Serous Adenocarcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+Endometrial Serous Adenocarcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+Endometrial Serous Adenocarcinoma,MIRVETUXIMAB SORAVTANSINE,2,Not yet recruiting,TUBB,1
+Endometrial Serous Adenocarcinoma,IXABEPILONE,2,"Active, not recruiting",TUBB,1
+Endometrial Mucinous Adenocarcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Endometrial Endometrioid Adenocarcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Endometrial Clear Cell Adenocarcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+Endometrial Clear Cell Adenocarcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Endometrial Clear Cell Adenocarcinoma,MIRVETUXIMAB SORAVTANSINE,2,Not yet recruiting,TUBB,1
+Endometrial Clear Cell Adenocarcinoma,IXABEPILONE,2,"Active, not recruiting",TUBB,1
+Cutaneous T-cell lymphoma,BRENTUXIMAB VEDOTIN,1,Recruiting,TUBB,1
+Coronary Restenosis,PACLITAXEL,2,Recruiting,TUBB,1
+Coronary Restenosis,PACLITAXEL,1,Completed,TUBB,1
+Chronic Hepatitis C infection,COLCHICINE,2,Terminated,TUBB,1
+Chemotherapy-induced nausea and vomiting,DOCETAXEL,1,Completed,TUBB,1
+Burkitts lymphoma,VINCRISTINE,2,Terminated,TUBB,1
+Burkitts lymphoma,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+Burkitts lymphoma,IXABEPILONE,2,Completed,TUBB,1
+Behcet's syndrome,COLCHICINE,2,Completed,TUBB,1
+Endometrial Squamous Cell Carcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Ewing sarcoma,VINCRISTINE,1,Completed,TUBB,1
+Fallopian Tube Serous Adenocarcinoma,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+Ewing sarcoma,VINCRISTINE,2,Completed,TUBB,1
+Fallopian Tube Serous Adenocarcinoma,PACLITAXEL,3,Completed,TUBB,1
+Fallopian Tube Serous Adenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+Fallopian Tube Serous Adenocarcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Fallopian Tube Carcinosarcoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+Fallopian Tube Carcinoma,VINORELBINE,2,Completed,TUBB,1
+Fallopian Tube Carcinoma,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+Fallopian Tube Carcinoma,PACLITAXEL POLIGLUMEX,1,Completed,TUBB,1
+Fallopian Tube Carcinoma,PACLITAXEL,3,Unknown status,TUBB,1
+Fallopian Tube Carcinoma,PACLITAXEL,3,Terminated,TUBB,1
+Fallopian Tube Carcinoma,PACLITAXEL,1,Withdrawn,TUBB,1
+Fallopian Tube Carcinoma,PACLITAXEL,1,Unknown status,TUBB,1
+Fallopian Tube Carcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Fallopian Tube Carcinoma,MIRVETUXIMAB SORAVTANSINE,1,Recruiting,TUBB,1
+Fallopian Tube Carcinoma,IXABEPILONE,2,Recruiting,TUBB,1
+Fallopian Tube Carcinoma,DOCETAXEL,2,Unknown status,TUBB,1
+Fallopian Tube Carcinoma,DOCETAXEL,2,Terminated,TUBB,1
+Fallopian Tube Carcinoma,DOCETAXEL,1,Terminated,TUBB,1
+Ewing sarcoma,VINCRISTINE,3,Recruiting,TUBB,1
+Ewing sarcoma,VINCRISTINE,2,Recruiting,TUBB,1
+Malignant Ovarian Brenner Tumor,PACLITAXEL,2,Completed,TUBB,1
+Malignant Ovarian Brenner Tumor,PACLITAXEL,3,Completed,TUBB,1
+Malignant Ovarian Brenner Tumor,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+acute lymphoblastic leukemia,VINCRISTINE,2,Not yet recruiting,TUBB,1
+acute lymphoblastic leukemia,VINCRISTINE,1,"Active, not recruiting",TUBB,1
+acute graft vs. host disease,BRENTUXIMAB VEDOTIN,2,Withdrawn,TUBB,1
+acute graft vs. host disease,BRENTUXIMAB VEDOTIN,1,Terminated,TUBB,1
+acute graft vs. host disease,BRENTUXIMAB VEDOTIN,1,Completed,TUBB,1
+acute coronary syndrome,COLCHICINE,4,Unknown status,TUBB,1
+acute coronary syndrome,COLCHICINE,2,Completed,TUBB,1
+actinic keratosis,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+Waldenstrom macroglobulinemia,VINCRISTINE,1,Recruiting,TUBB,1
+Vaginal neoplasm,VINORELBINE,1,Completed,TUBB,1
+Vaginal neoplasm,PACLITAXEL,1,Completed,TUBB,1
+Vaginal neoplasm,DOCETAXEL,1,Completed,TUBB,1
+Uveal Melanoma,VINCRISTINE,2,Completed,TUBB,1
+Uveal Melanoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+Uterine Carcinosarcoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+Tufted angioma,VINCRISTINE,2,Recruiting,TUBB,1
+Transitional Cell Carcinoma,VINFLUNINE,2,Unknown status,TUBB,1
+Transitional Cell Carcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Transitional Cell Carcinoma,DOCETAXEL,2,Completed,TUBB,1
+Transitional Cell Carcinoma,CABAZITAXEL,2,Unknown status,TUBB,1
+acute lymphoblastic leukemia,VINCRISTINE,1,Withdrawn,TUBB,1
+acute lymphoblastic leukemia,VINCRISTINE,2,Unknown status,TUBB,1
+Thyroid Gland Undifferentiated (Anaplastic) Carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+acute lymphoblastic leukemia,VINCRISTINE,3,Suspended,TUBB,1
+alveolar rhabdomyosarcoma,VINCRISTINE,3,Recruiting,TUBB,1
+alveolar rhabdomyosarcoma,VINCRISTINE,2,Completed,TUBB,1
+allergy,PACLITAXEL,3,Completed,TUBB,1
+allergy,DOCETAXEL,3,Completed,TUBB,1
+adult T acute lymphoblastic leukemia,VINCRISTINE,3,Suspended,TUBB,1
+adrenal cortex carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+adrenal cortex carcinoma,CABAZITAXEL,2,Recruiting,TUBB,1
+adenosquamous lung carcinoma,VINORELBINE,3,Completed,TUBB,1
+adenosquamous lung carcinoma,PACLITAXEL,3,Completed,TUBB,1
+adenosquamous lung carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+adenosarcoma,PACLITAXEL,1,Suspended,TUBB,1
+adenocarcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+adenocarcinoma,PACLITAXEL,1,Terminated,TUBB,1
+adenocarcinoma,PACLITAXEL,1,Completed,TUBB,1
+acute myeloid leukemia,VINCRISTINE,3,Completed,TUBB,1
+acute myeloid leukemia,VINCRISTINE,2,Not yet recruiting,TUBB,1
+acute myeloid leukemia,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+acute myeloid leukemia,VINCRISTINE,1,Recruiting,TUBB,1
+acute myeloid leukemia,BRENTUXIMAB VEDOTIN,1,"Active, not recruiting",TUBB,1
+Thyroid Gland Undifferentiated (Anaplastic) Carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+Thymoma,PACLITAXEL,2,Terminated,TUBB,1
+Malignant Ovarian Mixed Epithelial Tumor,PACLITAXEL,3,Completed,TUBB,1
+Primary Peritoneal Serous Adenocarcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Primary Peritoneal Serous Adenocarcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+Postpericardiotomy Syndrome,COLCHICINE,3,Completed,TUBB,1
+Ovarian Transitional Cell Carcinoma,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+Ovarian Transitional Cell Carcinoma,PACLITAXEL,3,Completed,TUBB,1
+Ovarian Transitional Cell Carcinoma,PACLITAXEL,1,Suspended,TUBB,1
+Ovarian Transitional Cell Carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+Ocular Melanoma,PACLITAXEL,2,Completed,TUBB,1
+Neurofibromatosis type 1,VINCRISTINE,2,Unknown status,TUBB,1
+Neurofibromatosis type 1,VINBLASTINE,2,Completed,TUBB,1
+Merkel cell skin cancer,PACLITAXEL,2,Terminated,TUBB,1
+Merkel cell skin cancer,PACLITAXEL,1,Not yet recruiting,TUBB,1
+Mantle cell lymphoma,VINCRISTINE,4,Recruiting,TUBB,1
+Mantle cell lymphoma,VINCRISTINE,2,Recruiting,TUBB,1
+Mantle cell lymphoma,VINCRISTINE,2,Not yet recruiting,TUBB,1
+Mantle cell lymphoma,VINCRISTINE,1,Recruiting,TUBB,1
+Mantle cell lymphoma,VINCRISTINE,1,"Active, not recruiting",TUBB,1
+Mantle cell lymphoma,IXABEPILONE,2,Completed,TUBB,1
+Malignant epithelial tumor of ovary,PACLITAXEL,1,Terminated,TUBB,1
+Malignant epithelial tumor of ovary,DOCETAXEL,2,Completed,TUBB,1
+Primary Peritoneal Serous Adenocarcinoma,PACLITAXEL,1,Recruiting,TUBB,1
+Primary Peritoneal Serous Adenocarcinoma,PACLITAXEL,3,Completed,TUBB,1
+Thymoma,PACLITAXEL,2,Completed,TUBB,1
+Primary Peritoneal Serous Adenocarcinoma,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+Thymic Carcinoma,PACLITAXEL,2,Terminated,TUBB,1
+Thymic Carcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+Thymic Carcinoma,PACLITAXEL,2,Completed,TUBB,1
+T-cell acute lymphoblastic leukemia,VINCRISTINE,4,Completed,TUBB,1
+T-cell acute lymphoblastic leukemia,VINCRISTINE,3,Unknown status,TUBB,1
+T-cell acute lymphoblastic leukemia,VINCRISTINE,2,Completed,TUBB,1
+T-cell acute lymphoblastic leukemia,VINCRISTINE,1,Completed,TUBB,1
+Small Intestinal Enteropathy-Associated T-Cell Lymphoma,BRENTUXIMAB VEDOTIN,2,Recruiting,TUBB,1
+Sezary's disease,BRENTUXIMAB VEDOTIN,2,Completed,TUBB,1
+Sezary's disease,BRENTUXIMAB VEDOTIN,1,"Active, not recruiting",TUBB,1
+ST Elevation Myocardial Infarction,COLCHICINE,3,Recruiting,TUBB,1
+Retinoblastoma,VINCRISTINE,3,Unknown status,TUBB,1
+Retinoblastoma,VINCRISTINE,3,Terminated,TUBB,1
+Retinoblastoma,VINCRISTINE,3,Recruiting,TUBB,1
+Retinoblastoma,VINCRISTINE,2,Unknown status,TUBB,1
+Retinoblastoma,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+Retinoblastoma,VINCRISTINE,1,"Active, not recruiting",TUBB,1
+Progressive supranuclear palsy,DAVUNETIDE,2,Completed,TUBB,1
+Primary hemophagocytic lymphohistiocytosis,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+cervical carcinoma,DOCETAXEL,1,Terminated,TUBB,1
+cervical carcinoma,DOCETAXEL,1,Withdrawn,TUBB,1
+cervical carcinoma,DOCETAXEL,2,Unknown status,TUBB,1
+lung adenocarcinoma,DOCETAXEL,3,Terminated,TUBB,1
+lung carcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+lung carcinoma,DOCETAXEL,1,Unknown status,TUBB,1
+lung carcinoma,DOCETAXEL,1,Recruiting,TUBB,1
+lung carcinoma,DOCETAXEL,1,"Active, not recruiting",TUBB,1
+lung adenocarcinoma,VINORELBINE,3,Completed,TUBB,1
+lung adenocarcinoma,VINORELBINE,2,Recruiting,TUBB,1
+lung adenocarcinoma,PACLITAXEL,3,Completed,TUBB,1
+lung adenocarcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+lung adenocarcinoma,PACLITAXEL,1,Withdrawn,TUBB,1
+lung adenocarcinoma,DOCETAXEL,3,Completed,TUBB,1
+cervical carcinoma,DOCETAXEL,3,Recruiting,TUBB,1
+lung adenocarcinoma,DOCETAXEL,2,Recruiting,TUBB,1
+lung adenocarcinoma,DOCETAXEL,2,Completed,TUBB,1
+lung adenocarcinoma,DOCETAXEL,1,Terminated,TUBB,1
+leukemia,VINORELBINE,1,Completed,TUBB,1
+leukemia,VINCRISTINE,3,Withdrawn,TUBB,1
+leukemia,VINCRISTINE,1,Recruiting,TUBB,1
+leukemia,VINBLASTINE,3,Completed,TUBB,1
+leukemia,PACLITAXEL,2,Completed,TUBB,1
+B-cell acute lymphoblastic leukemia,VINCRISTINE,2,Completed,TUBB,1
+lung carcinoma,DOCETAXEL,2,Recruiting,TUBB,1
+lung carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,1
+lung carcinoma,IXABEPILONE,2,Withdrawn,TUBB,1
+lung carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+lymphoma,BRENTUXIMAB VEDOTIN,1,Terminated,TUBB,1
+lymphoma,BRENTUXIMAB VEDOTIN,1,Recruiting,TUBB,1
+lymphoid neoplasm,BRENTUXIMAB VEDOTIN,1,Withdrawn,TUBB,1
+lymphoid leukemia,VINCRISTINE,4,Completed,TUBB,1
+lymphoid leukemia,VINCRISTINE,3,Completed,TUBB,1
+lymphoid leukemia,VINCRISTINE,2,Unknown status,TUBB,1
+lymphoid leukemia,VINCRISTINE,2,Enrolling by invitation,TUBB,1
+lymphoid leukemia,VINCRISTINE,2,"Active, not recruiting",TUBB,1
+lymphoid leukemia,VINCRISTINE,1,Terminated,TUBB,1
+lymphoid leukemia,VINCRISTINE,1,Recruiting,TUBB,1
+lung carcinoma,VINORELBINE,3,Withdrawn,TUBB,1
+lung carcinoma,VINORELBINE,3,Terminated,TUBB,1
+lung carcinoma,VINORELBINE,2,"Active, not recruiting",TUBB,1
+lung carcinoma,VINORELBINE,1,Unknown status,TUBB,1
+lung carcinoma,VINORELBINE,1,Terminated,TUBB,1
+lung carcinoma,VINFLUNINE,2,Terminated,TUBB,1
+lung carcinoma,VINCRISTINE,2,Terminated,TUBB,1
+lung carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+lung carcinoma,PACLITAXEL,1,Unknown status,TUBB,1
+leukemia,IXABEPILONE,2,Completed,TUBB,1
+leukemia,DOCETAXEL,2,Completed,TUBB,1
+leukemia,DOCETAXEL,1,Completed,TUBB,1
+inflammatory breast carcinoma,ERIBULIN,2,Recruiting,TUBB,1
+inflammatory breast carcinoma,DOCETAXEL,1,Unknown status,TUBB,1
+hypopharyngeal carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+hypopharyngeal carcinoma,IXABEPILONE,2,Completed,TUBB,1
+hypopharyngeal carcinoma,DOCETAXEL,2,Unknown status,TUBB,1
+hypopharyngeal carcinoma,DOCETAXEL,2,Completed,TUBB,1
+histiocytoma,VINCRISTINE,3,Completed,TUBB,1
+high grade ovarian serous adenocarcinoma,PACLITAXEL,1,Recruiting,TUBB,1
+hepatocellular carcinoma,PACLITAXEL,1,Recruiting,TUBB,1
+hepatocellular carcinoma,PACLITAXEL,1,Completed,TUBB,1
+hepatocellular carcinoma,DOCETAXEL,2,Terminated,TUBB,1
+hepatocellular carcinoma,DOCETAXEL,2,Completed,TUBB,1
+hemopericardium,COLCHICINE,4,Recruiting,TUBB,1
+hemopericardium,COLCHICINE,4,Completed,TUBB,1
+hemangioma,VINCRISTINE,2,Terminated,TUBB,1
+heart disease,COLCHICINE,2,Recruiting,TUBB,1
+head and neck squamous cell carcinoma,PACLITAXEL,2,Terminated,TUBB,1
+head and neck squamous cell carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,1
+head and neck squamous cell carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+head and neck squamous cell carcinoma,PACLITAXEL,1,Not yet recruiting,TUBB,1
+inflammatory breast carcinoma,DOCETAXEL,3,Completed,TUBB,1
+inflammatory breast carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+leukemia,BRENTUXIMAB VEDOTIN,1,Terminated,TUBB,1
+inflammatory breast carcinoma,PACLITAXEL,2,Completed,TUBB,1
+leiomyosarcoma,DOCETAXEL,2,Completed,TUBB,1
+laryngeal squamous cell carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+laryngeal squamous cell carcinoma,IXABEPILONE,2,Completed,TUBB,1
+laryngeal neoplasm,DOCETAXEL,3,Completed,TUBB,1
+laryngeal neoplasm,DOCETAXEL,2,Unknown status,TUBB,1
+laryngeal neoplasm,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+large cell neuroendocrine carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+large cell lung carcinoma,VINORELBINE,2,Recruiting,TUBB,1
+large cell lung carcinoma,PACLITAXEL,3,Terminated,TUBB,1
+large cell lung carcinoma,PACLITAXEL,2,Terminated,TUBB,1
+large cell lung carcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+large cell lung carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+large cell lung carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+ischemia,PACLITAXEL,3,Completed,TUBB,1
+invasive ductal carcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+intrahepatic cholangiocarcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+inflammatory breast carcinoma,PACLITAXEL,3,Terminated,TUBB,1
+inflammatory breast carcinoma,PACLITAXEL,3,Recruiting,TUBB,1
+inflammatory breast carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,1
+lymphoma,BRENTUXIMAB VEDOTIN,1,Withdrawn,TUBB,1
+lymphoma,BRENTUXIMAB VEDOTIN,2,"Active, not recruiting",TUBB,1
+lymphoma,BRENTUXIMAB VEDOTIN,2,Completed,TUBB,1
+metastatic melanoma,VINORELBINE,2,Completed,TUBB,1
+metastatic melanoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+metastatic melanoma,PACLITAXEL,2,Withdrawn,TUBB,1
+metastatic melanoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+metastatic melanoma,DOCETAXEL,2,Completed,TUBB,1
+metastatic melanoma,DOCETAXEL,1,Completed,TUBB,1
+metastatic colorectal cancer,TRASTUZUMAB EMTANSINE,2,Recruiting,TUBB,1
+metastatic colorectal cancer,PACLITAXEL,1,Recruiting,TUBB,1
+metastatic colorectal cancer,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+metastasis,VINCRISTINE,1,"Active, not recruiting",TUBB,1
+metastasis,TRASTUZUMAB EMTANSINE,2,Recruiting,TUBB,1
+metastasis,PACLITAXEL,2,Recruiting,TUBB,1
+metastasis,PACLITAXEL,1,Completed,TUBB,1
+metastasis,DOCETAXEL,2,Recruiting,TUBB,1
+mesothelioma,VINORELBINE,3,Completed,TUBB,1
+mesothelioma,VINORELBINE,2,Terminated,TUBB,1
+mesothelioma,VINORELBINE,2,Recruiting,TUBB,1
+mesothelioma,VINORELBINE,2,"Active, not recruiting",TUBB,1
+mesothelioma,VINCRISTINE,3,Completed,TUBB,1
+mesothelioma,VINBLASTINE,2,Unknown status,TUBB,1
+metastatic melanoma,VINBLASTINE,2,Terminated,TUBB,1
+metastatic prostate cancer,CABAZITAXEL,2,Not yet recruiting,TUBB,1
+melanoma,VINCRISTINE,1,Completed,TUBB,1
+metastatic prostate cancer,CABAZITAXEL,2,Recruiting,TUBB,1
+mycosis fungoides,BRENTUXIMAB VEDOTIN,2,Completed,TUBB,1
+mycosis fungoides,BRENTUXIMAB VEDOTIN,1,"Active, not recruiting",TUBB,1
+multiple myeloma,VINORELBINE,2,Recruiting,TUBB,1
+multiple myeloma,VINORELBINE,2,Completed,TUBB,1
+multiple myeloma,VINCRISTINE,3,Terminated,TUBB,1
+multiple myeloma,VINCRISTINE,2,Terminated,TUBB,1
+multiple myeloma,VINCRISTINE,1,Recruiting,TUBB,1
+multiple myeloma,VINCRISTINE,1,Completed,TUBB,1
+multiple myeloma,PACLITAXEL,2,Withdrawn,TUBB,1
+multiple myeloma,PACLITAXEL,2,Terminated,TUBB,1
+multiple myeloma,PACLITAXEL,1,Terminated,TUBB,1
+multiple myeloma,LEXIBULIN,2,Terminated,TUBB,1
+multiple myeloma,DOCETAXEL,1,Completed,TUBB,1
+mouth neoplasm,PACLITAXEL,2,Completed,TUBB,1
+metastatic prostate cancer,DOCETAXEL,3,"Active, not recruiting",TUBB,1
+metastatic prostate cancer,DOCETAXEL,2,Terminated,TUBB,1
+metastatic prostate cancer,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+metastatic prostate cancer,DOCETAXEL,1,Recruiting,TUBB,1
+metastatic prostate cancer,CABAZITAXEL,2,Withdrawn,TUBB,1
+mesothelioma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+melanoma,VINBLASTINE,3,Completed,TUBB,1
+lymphoma,BRENTUXIMAB VEDOTIN,2,Terminated,TUBB,1
+male breast carcinoma,IXABEPILONE,2,Completed,TUBB,1
+male breast carcinoma,ERIBULIN,2,"Active, not recruiting",TUBB,1
+male breast carcinoma,DOCETAXEL,1,Terminated,TUBB,1
+lymphoma,VINORELBINE,3,Terminated,TUBB,1
+lymphoma,VINORELBINE,2,Withdrawn,TUBB,1
+lymphoma,VINORELBINE,2,"Active, not recruiting",TUBB,1
+lymphoma,VINCRISTINE,3,Suspended,TUBB,1
+lymphoma,VINCRISTINE,1,Withdrawn,TUBB,1
+lymphoma,VINCRISTINE,1,Terminated,TUBB,1
+lymphoma,VINCRISTINE,1,Recruiting,TUBB,1
+lymphoma,VINCRISTINE,1,"Active, not recruiting",TUBB,1
+lymphoma,VINBLASTINE,4,Unknown status,TUBB,1
+lymphoma,VINBLASTINE,2,Terminated,TUBB,1
+lymphoma,VINBLASTINE,1,Not yet recruiting,TUBB,1
+lymphoma,VINBLASTINE,1,Completed,TUBB,1
+lymphoma,PACLITAXEL,1,Not yet recruiting,TUBB,1
+lymphoma,IXABEPILONE,2,Completed,TUBB,1
+lymphoma,ERIBULIN,1,Completed,TUBB,1
+lymphoma,DOCETAXEL,1,Completed,TUBB,1
+lymphoma,BRENTUXIMAB VEDOTIN,4,Recruiting,TUBB,1
+male breast carcinoma,IXABEPILONE,1,"Active, not recruiting",TUBB,1
+male breast carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+melanoma,VINBLASTINE,2,Terminated,TUBB,1
+male breast carcinoma,PACLITAXEL,2,Completed,TUBB,1
+melanoma,VINBLASTINE,2,Completed,TUBB,1
+melanoma,VINBLASTINE,1,Completed,TUBB,1
+melanoma,SAGOPILONE,2,Completed,TUBB,1
+melanoma,PACLITAXEL,3,Unknown status,TUBB,1
+melanoma,PACLITAXEL,3,Completed,TUBB,1
+melanoma,PACLITAXEL,2,Unknown status,TUBB,1
+melanoma,PACLITAXEL,1,Withdrawn,TUBB,1
+melanoma,PACLITAXEL,1,Unknown status,TUBB,1
+melanoma,PACLITAXEL,1,Terminated,TUBB,1
+melanoma,PACLITAXEL,1,Not yet recruiting,TUBB,1
+melanoma,IXABEPILONE,2,Completed,TUBB,1
+melanoma,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+melanoma,DOCETAXEL,1,"Active, not recruiting",TUBB,1
+medulloblastoma,VINCRISTINE,3,Suspended,TUBB,1
+mediastinal cancer,DOCETAXEL,2,Terminated,TUBB,1
+malignant pleural mesothelioma,VINORELBINE,3,"Active, not recruiting",TUBB,1
+malignant pleural mesothelioma,VINORELBINE,2,Completed,TUBB,1
+male breast carcinoma,VINORELBINE,2,Completed,TUBB,1
+male breast carcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+head and neck squamous cell carcinoma,PACLITAXEL,1,Completed,TUBB,1
+head and neck squamous cell carcinoma,DOCETAXEL,3,Recruiting,TUBB,1
+head and neck squamous cell carcinoma,DOCETAXEL,3,Completed,TUBB,1
+diffuse large B-cell lymphoma,VINCRISTINE,2,Not yet recruiting,TUBB,1
+diffuse large B-cell lymphoma,VINCRISTINE,1,Suspended,TUBB,1
+diffuse large B-cell lymphoma,VINCRISTINE,1,Not yet recruiting,TUBB,1
+diffuse large B-cell lymphoma,VINBLASTINE,3,Completed,TUBB,1
+diffuse large B-cell lymphoma,IXABEPILONE,2,Completed,TUBB,1
+diffuse large B-cell lymphoma,BRENTUXIMAB VEDOTIN,2,Recruiting,TUBB,1
+diffuse large B-cell lymphoma,BRENTUXIMAB VEDOTIN,2,Completed,TUBB,1
+diffuse large B-cell lymphoma,BRENTUXIMAB VEDOTIN,1,Not yet recruiting,TUBB,1
+diffuse intrinsic pontine glioma,VINORELBINE,2,Recruiting,TUBB,1
+diabetic nephropathy,COLCHICINE,2,Unknown status,TUBB,1
+diabetic nephropathy,COLCHICINE,1,Recruiting,TUBB,1
+dedifferentiated liposarcoma,CABAZITAXEL,2,Recruiting,TUBB,1
+cutaneous squamous cell carcinoma,PACLITAXEL,2,Terminated,TUBB,1
+cutaneous melanoma,VINORELBINE,2,Completed,TUBB,1
+cutaneous melanoma,VINBLASTINE,1,Completed,TUBB,1
+cutaneous melanoma,PACLITAXEL,3,Completed,TUBB,1
+cutaneous melanoma,PACLITAXEL,2,Terminated,TUBB,1
+cutaneous melanoma,PACLITAXEL,2,Suspended,TUBB,1
+cutaneous melanoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+cutaneous melanoma,PACLITAXEL,1,Suspended,TUBB,1
+diffuse large B-cell lymphoma,VINCRISTINE,2,Enrolling by invitation,TUBB,1
+diffuse large B-cell lymphoma,VINCRISTINE,2,Withdrawn,TUBB,1
+coronary artery disease,PACLITAXEL,4,Completed,TUBB,1
+diffuse large B-cell lymphoma,VINCRISTINE,3,Withdrawn,TUBB,1
+endometrial neoplasm,IXABEPILONE,3,Terminated,TUBB,1
+endometrial neoplasm,DOCETAXEL,2,Unknown status,TUBB,1
+endometrial neoplasm,DOCETAXEL,2,Recruiting,TUBB,1
+endometrial carcinoma,PACLITAXEL,2,Completed,TUBB,1
+endometrial carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+endometrial adenosquamous carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+endometrial adenosquamous carcinoma,IXABEPILONE,2,"Active, not recruiting",TUBB,1
+embryonal rhabdomyosarcoma,VINORELBINE,3,Recruiting,TUBB,1
+embryonal rhabdomyosarcoma,VINCRISTINE,3,Recruiting,TUBB,1
+embryonal rhabdomyosarcoma,VINCRISTINE,2,Completed,TUBB,1
+dysplasia of cervix,PACLITAXEL,2,Withdrawn,TUBB,1
+ductal adenocarcinoma,DOCETAXEL,2,Terminated,TUBB,1
+drug-induced liver injury,DOCETAXEL,4,Unknown status,TUBB,1
+digestive system disease,PACLITAXEL,2,Terminated,TUBB,1
+digestive system disease,DOCETAXEL,1,Completed,TUBB,1
+diffuse scleroderma,BRENTUXIMAB VEDOTIN,2,Not yet recruiting,TUBB,1
+diffuse large B-cell lymphoma,VINORELBINE,2,Recruiting,TUBB,1
+diffuse large B-cell lymphoma,VINORELBINE,2,Completed,TUBB,1
+diffuse large B-cell lymphoma,VINCRISTINE,4,Unknown status,TUBB,1
+cutaneous melanoma,PACLITAXEL,1,Recruiting,TUBB,1
+coronary artery disease,PACLITAXEL,4,"Active, not recruiting",TUBB,1
+endometrial neoplasm,PACLITAXEL,2,Not yet recruiting,TUBB,1
+chronic kidney disease,COLCHICINE,4,Completed,TUBB,1
+choroid plexus cancer,VINCRISTINE,3,Completed,TUBB,1
+childhood supratentorial ependymoma,VINCRISTINE,3,Recruiting,TUBB,1
+childhood T acute lymphoblastic leukemia,VINCRISTINE,3,Suspended,TUBB,1
+childhood T acute lymphoblastic leukemia,VINCRISTINE,3,Completed,TUBB,1
+childhood T acute lymphoblastic leukemia,VINCRISTINE,2,Completed,TUBB,1
+childhood T acute lymphoblastic leukemia,VINCRISTINE,1,Completed,TUBB,1
+childhood B acute lymphoblastic leukemia,VINCRISTINE,2,Suspended,TUBB,1
+childhood B acute lymphoblastic leukemia,VINCRISTINE,2,Completed,TUBB,1
+childhood B acute lymphoblastic leukemia,VINCRISTINE,1,Completed,TUBB,1
+cervical squamous cell carcinoma,PACLITAXEL,1,Suspended,TUBB,1
+cervical squamous cell carcinoma,DOCETAXEL,2,Completed,TUBB,1
+cervical carcinoma,VINORELBINE,2,Completed,TUBB,1
+cervical carcinoma,VINORELBINE,1,Completed,TUBB,1
+cervical carcinoma,VINCRISTINE,3,Completed,TUBB,1
+cervical carcinoma,VINBLASTINE,3,Completed,TUBB,1
+cervical carcinoma,PACLITAXEL,3,Withdrawn,TUBB,1
+cervical carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+cervical carcinoma,PACLITAXEL,1,Withdrawn,TUBB,1
+cervical carcinoma,ERIBULIN,2,"Active, not recruiting",TUBB,1
+choroid plexus cancer,VINCRISTINE,3,Suspended,TUBB,1
+chronic lymphocytic leukemia,VINCRISTINE,0,Terminated,TUBB,1
+coronary artery disease,COLCHICINE,4,Recruiting,TUBB,1
+chronic lymphocytic leukemia,VINCRISTINE,1,Recruiting,TUBB,1
+coronary artery disease,COLCHICINE,2,Recruiting,TUBB,1
+colorectal carcinoma,VINCRISTINE,3,Completed,TUBB,1
+colorectal carcinoma,VINCRISTINE,1,Completed,TUBB,1
+colorectal carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+colorectal carcinoma,PACLITAXEL,2,Completed,TUBB,1
+colorectal carcinoma,PACLITAXEL,1,Not yet recruiting,TUBB,1
+colorectal carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+colorectal carcinoma,IXABEPILONE,2,Terminated,TUBB,1
+colorectal carcinoma,DOCETAXEL,1,Recruiting,TUBB,1
+colorectal carcinoma,CABAZITAXEL,2,Terminated,TUBB,1
+colorectal cancer,PACLITAXEL POLIGLUMEX,1,Completed,TUBB,1
+colorectal cancer,DOCETAXEL,2,Completed,TUBB,1
+colorectal adenocarcinoma,PACLITAXEL,2,Completed,TUBB,1
+colon carcinoma,VINORELBINE,2,Recruiting,TUBB,1
+colon carcinoma,DOCETAXEL,1,"Active, not recruiting",TUBB,1
+clear cell renal carcinoma,IXABEPILONE,2,Completed,TUBB,1
+cirrhosis of liver,COLCHICINE,1,Unknown status,TUBB,1
+chronic myeloproliferative disorder,DOCETAXEL,1,Completed,TUBB,1
+chronic lymphocytic leukemia,VINCRISTINE,2,Completed,TUBB,1
+endometrial neoplasm,PACLITAXEL,1,Recruiting,TUBB,1
+endometrial neoplasm,PACLITAXEL,2,Terminated,TUBB,1
+head and neck squamous cell carcinoma,CABAZITAXEL,2,Completed,TUBB,1
+glioblastoma multiforme,PACLITAXEL,1,Terminated,TUBB,1
+glioblastoma multiforme,CABAZITAXEL,2,Completed,TUBB,1
+germ cell tumor,PACLITAXEL,2,Completed,TUBB,1
+germ cell tumor,PACLITAXEL,1,Withdrawn,TUBB,1
+germ cell tumor,DOCETAXEL,2,Completed,TUBB,1
+germ cell tumor,BRENTUXIMAB VEDOTIN,2,Suspended,TUBB,1
+germ cell tumor,BRENTUXIMAB VEDOTIN,2,Completed,TUBB,1
+gastric carcinoma,TRASTUZUMAB EMTANSINE,2,Terminated,TUBB,1
+gastric carcinoma,PACLITAXEL,3,Not yet recruiting,TUBB,1
+gastric carcinoma,PACLITAXEL,2,"Active, not recruiting",TUBB,1
+gastric carcinoma,PACLITAXEL,1,Withdrawn,TUBB,1
+gastric carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+gastric carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+gastric carcinoma,DOCETAXEL,3,Not yet recruiting,TUBB,1
+gastric carcinoma,DOCETAXEL,3,Enrolling by invitation,TUBB,1
+gastric carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,1
+gastric carcinoma,DOCETAXEL,1,Suspended,TUBB,1
+gastric carcinoma,CABAZITAXEL,2,Completed,TUBB,1
+gastric carcinoma,CABAZITAXEL,1,Completed,TUBB,1
+gastric adenocarcinoma,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+glioblastoma multiforme,LEXIBULIN,1,Terminated,TUBB,1
+glioblastoma multiforme,SAGOPILONE,2,Completed,TUBB,1
+gastric adenocarcinoma,PACLITAXEL,1,Completed,TUBB,1
+glioblastoma multiforme,VINCRISTINE,2,Completed,TUBB,1
+head and neck squamous cell carcinoma,CABAZITAXEL,1,Completed,TUBB,1
+head and neck malignant neoplasia,VINFLUNINE,3,Completed,TUBB,1
+head and neck malignant neoplasia,VINCRISTINE,3,Completed,TUBB,1
+head and neck malignant neoplasia,PACLITAXEL,3,Terminated,TUBB,1
+head and neck malignant neoplasia,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+head and neck malignant neoplasia,PACLITAXEL,2,Withdrawn,TUBB,1
+head and neck malignant neoplasia,PACLITAXEL,1,Terminated,TUBB,1
+head and neck malignant neoplasia,IXABEPILONE,1,Completed,TUBB,1
+head and neck malignant neoplasia,FOSBRETABULIN,2,Completed,TUBB,1
+head and neck malignant neoplasia,FOSBRETABULIN,1,Terminated,TUBB,1
+head and neck malignant neoplasia,ERIBULIN,2,Completed,TUBB,1
+head and neck malignant neoplasia,DOCETAXEL,4,Unknown status,TUBB,1
+head and neck malignant neoplasia,DOCETAXEL,3,Withdrawn,TUBB,1
+head and neck malignant neoplasia,DOCETAXEL,2,Withdrawn,TUBB,1
+head and neck malignant neoplasia,DOCETAXEL,1,Unknown status,TUBB,1
+head and neck malignant neoplasia,DOCETAXEL,1,Terminated,TUBB,1
+head and neck malignant neoplasia,CABAZITAXEL,2,Completed,TUBB,1
+gout,COLCHICINE,1,Recruiting,TUBB,1
+gliosarcoma,IXABEPILONE,1,Completed,TUBB,1
+gastric adenocarcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+gastric adenocarcinoma,DOCETAXEL,3,Recruiting,TUBB,1
+endometrial neoplasm,PACLITAXEL,3,"Active, not recruiting",TUBB,1
+esophageal carcinoma,DOCETAXEL,3,Completed,TUBB,1
+esophageal carcinoma,DOCETAXEL,2,Recruiting,TUBB,1
+esophageal carcinoma,DOCETAXEL,2,Not yet recruiting,TUBB,1
+esophageal carcinoma,DOCETAXEL,1,Unknown status,TUBB,1
+esophageal carcinoma,DOCETAXEL,1,"Active, not recruiting",TUBB,1
+esophageal adenocarcinoma,PACLITAXEL,2,Terminated,TUBB,1
+esophageal adenocarcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+ependymoma,VINCRISTINE,2,Recruiting,TUBB,1
+endometrium adenocarcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+endometrium adenocarcinoma,PACLITAXEL,2,Recruiting,TUBB,1
+endometrium adenocarcinoma,IXABEPILONE,2,Completed,TUBB,1
+endometrium adenocarcinoma,DOCETAXEL,2,Completed,TUBB,1
+endometrioid carcinoma,PACLITAXEL POLIGLUMEX,3,"Active, not recruiting",TUBB,1
+endometrioid carcinoma,PACLITAXEL,3,Completed,TUBB,1
+endometrioid carcinoma,PACLITAXEL,2,Completed,TUBB,1
+endometrioid carcinoma,PACLITAXEL,1,Suspended,TUBB,1
+endometrioid carcinoma,PACLITAXEL,1,Recruiting,TUBB,1
+endometrioid carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+endometrioid carcinoma,DOCETAXEL,1,Completed,TUBB,1
+endometrial neoplasm,VINORELBINE,1,Completed,TUBB,1
+esophageal carcinoma,DOCETAXEL,2,Unknown status,TUBB,1
+esophageal carcinoma,DOCETAXEL,3,Recruiting,TUBB,1
+gastric adenocarcinoma,DOCETAXEL,2,Recruiting,TUBB,1
+esophageal carcinoma,PACLITAXEL,1,"Active, not recruiting",TUBB,1
+gastric adenocarcinoma,DOCETAXEL,2,"Active, not recruiting",TUBB,1
+esophageal squamous cell carcinoma,VINORELBINE,3,Recruiting,TUBB,1
+esophageal squamous cell carcinoma,PACLITAXEL,3,Unknown status,TUBB,1
+esophageal squamous cell carcinoma,PACLITAXEL,3,Not yet recruiting,TUBB,1
+esophageal squamous cell carcinoma,PACLITAXEL,3,Completed,TUBB,1
+esophageal squamous cell carcinoma,PACLITAXEL,2,Withdrawn,TUBB,1
+esophageal squamous cell carcinoma,PACLITAXEL,2,Unknown status,TUBB,1
+esophageal squamous cell carcinoma,PACLITAXEL,2,Suspended,TUBB,1
+esophageal squamous cell carcinoma,PACLITAXEL,2,Completed,TUBB,1
+esophageal squamous cell carcinoma,PACLITAXEL,1,Recruiting,TUBB,1
+esophageal squamous cell carcinoma,DOCETAXEL,3,"Active, not recruiting",TUBB,1
+esophageal squamous cell carcinoma,DOCETAXEL,2,Unknown status,TUBB,1
+esophageal squamous cell carcinoma,DOCETAXEL,1,Recruiting,TUBB,1
+esophageal squamous cell carcinoma,DOCETAXEL,1,Completed,TUBB,1
+esophageal carcinoma,PACLITAXEL,3,Withdrawn,TUBB,1
+esophageal carcinoma,PACLITAXEL,3,Unknown status,TUBB,1
+esophageal carcinoma,PACLITAXEL,2,Not yet recruiting,TUBB,1
+esophageal carcinoma,PACLITAXEL,1,Withdrawn,TUBB,1
+esophageal carcinoma,PACLITAXEL,1,Terminated,TUBB,1
+vulvar carcinoma,PACLITAXEL,2,Completed,TUBB,1

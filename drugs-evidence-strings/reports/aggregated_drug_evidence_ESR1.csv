@@ -1,0 +1,409 @@
+disease,drug,phase,status,target,num_ev_strings
+breast carcinoma,TAMOXIFEN,3,Completed,ESR1,41
+acne,ETHINYL ESTRADIOL,4,n/a,ESR1,28
+breast carcinoma,FULVESTRANT,2,Completed,ESR1,28
+breast carcinoma,FULVESTRANT,2,Recruiting,ESR1,25
+breast carcinoma,TAMOXIFEN,2,Completed,ESR1,22
+breast carcinoma,FULVESTRANT,2,"Active, not recruiting",ESR1,18
+breast carcinoma,TAMOXIFEN,3,Unknown status,ESR1,14
+breast carcinoma,TAMOXIFEN,2,Recruiting,ESR1,14
+breast carcinoma,FULVESTRANT,1,Recruiting,ESR1,11
+breast carcinoma,FULVESTRANT,3,"Active, not recruiting",ESR1,11
+breast carcinoma,TAMOXIFEN,2,"Active, not recruiting",ESR1,10
+breast carcinoma,TAMOXIFEN,3,"Active, not recruiting",ESR1,10
+menopause,"ESTROGENS, CONJUGATED",1,Completed,ESR1,8
+breast carcinoma,FULVESTRANT,2,Terminated,ESR1,8
+breast carcinoma,FULVESTRANT,1,Completed,ESR1,8
+breast carcinoma,TAMOXIFEN,2,Terminated,ESR1,7
+breast carcinoma,FULVESTRANT,3,Completed,ESR1,7
+menopause,ESTRADIOL,4,Completed,ESR1,7
+breast neoplasm,TAMOXIFEN,2,Completed,ESR1,6
+breast carcinoma,TAMOXIFEN,3,Recruiting,ESR1,6
+dysmenorrhea,ETHINYL ESTRADIOL,3,Completed,ESR1,6
+Atrophic Vaginitis,ESTRADIOL,3,Completed,ESR1,6
+infertility,CLOMIPHENE,4,n/a,ESR1,6
+menopause,BAZEDOXIFENE,1,Completed,ESR1,6
+polycystic ovary syndrome,ETHINYL ESTRADIOL,4,Completed,ESR1,5
+breast carcinoma,TAMOXIFEN,2,Unknown status,ESR1,5
+menopause,ESTRADIOL,1,Completed,ESR1,5
+menopause,ESTRADIOL,3,Completed,ESR1,5
+breast carcinoma,FULVESTRANT,1,"Active, not recruiting",ESR1,5
+breast carcinoma,FULVESTRANT,2,Unknown status,ESR1,4
+breast neoplasm,TAMOXIFEN,3,Completed,ESR1,4
+breast neoplasm,TAMOXIFEN,2,Recruiting,ESR1,4
+breast carcinoma,FULVESTRANT,3,Unknown status,ESR1,4
+acne,ETHINYL ESTRADIOL,3,Completed,ESR1,4
+breast neoplasm,FULVESTRANT,2,Terminated,ESR1,4
+infertility,ESTRADIOL VALERATE,4,Completed,ESR1,4
+breast neoplasm,FULVESTRANT,2,Recruiting,ESR1,4
+breast carcinoma,TAMOXIFEN,4,Completed,ESR1,4
+breast carcinoma,TAMOXIFEN,1,Completed,ESR1,4
+breast carcinoma,FULVESTRANT,1,Not yet recruiting,ESR1,3
+postmenopausal osteoporosis,"ESTROGENS, CONJUGATED",4,n/a,ESR1,3
+postmenopausal osteoporosis,BAZEDOXIFENE,4,n/a,ESR1,3
+breast carcinoma,FULVESTRANT,3,Terminated,ESR1,3
+breast carcinoma,FULVESTRANT,1,Terminated,ESR1,3
+postmenopausal osteoporosis,ARZOXIFENE,3,Completed,ESR1,3
+breast carcinoma,TAMOXIFEN,3,Terminated,ESR1,3
+prostate carcinoma,ESTRADIOL,2,Terminated,ESR1,3
+prostate carcinoma,GTX-758,2,Terminated,ESR1,3
+male breast carcinoma,TAMOXIFEN,2,Completed,ESR1,3
+breast carcinoma,TAMOXIFEN,4,Recruiting,ESR1,3
+infertility,CLOMIPHENE,4,Recruiting,ESR1,3
+breast neoplasm,FULVESTRANT,3,Recruiting,ESR1,3
+central nervous system cancer,TAMOXIFEN,2,Completed,ESR1,3
+breast neoplasm,FULVESTRANT,2,Completed,ESR1,3
+breast neoplasm,FULVESTRANT,2,"Active, not recruiting",ESR1,3
+breast neoplasm,FULVESTRANT,1,Recruiting,ESR1,3
+neoplasm,FULVESTRANT,2,Recruiting,ESR1,2
+breast neoplasm,TOREMIFENE,3,Terminated,ESR1,2
+osteoporosis,BAZEDOXIFENE,1,Completed,ESR1,2
+breast neoplasm,TAMOXIFEN,2,"Active, not recruiting",ESR1,2
+breast neoplasm,TAMOXIFEN,1,Recruiting,ESR1,2
+obesity,ESTRONE,2,Unknown status,ESR1,2
+central nervous system cancer,TAMOXIFEN,2,Unknown status,ESR1,2
+breast carcinoma,TAMOXIFEN,1,Recruiting,ESR1,2
+breast carcinoma,TOREMIFENE,4,n/a,ESR1,2
+breast carcinoma,FULVESTRANT,2,Withdrawn,ESR1,2
+breast carcinoma,TOREMIFENE,3,Recruiting,ESR1,2
+breast carcinoma,TOREMIFENE,2,Recruiting,ESR1,2
+breast carcinoma,FULVESTRANT,3,Recruiting,ESR1,2
+breast carcinoma,ESTRADIOL,2,Recruiting,ESR1,2
+polycystic ovary syndrome,ETHINYL ESTRADIOL,3,Completed,ESR1,2
+breast carcinoma,TAMOXIFEN,1,"Active, not recruiting",ESR1,2
+polycystic ovary syndrome,CLOMIPHENE,4,Recruiting,ESR1,2
+breast carcinoma,ESTRADIOL,2,Terminated,ESR1,2
+osteoporosis,BAZEDOXIFENE,3,Completed,ESR1,2
+breast carcinoma,ESTRADIOL,2,"Active, not recruiting",ESR1,2
+HIV infection,ETHINYL ESTRADIOL,1,Completed,ESR1,2
+amyotrophic lateral sclerosis,TAMOXIFEN,2,Completed,ESR1,2
+unipolar depression,ESTRADIOL,4,Completed,ESR1,2
+infertility,CLOMIPHENE,4,Unknown status,ESR1,2
+menopause,"ESTROGENS, ESTERIFIED",2,Terminated,ESR1,2
+menopause,ESTRADIOL,1,Recruiting,ESR1,2
+menopause,ESTRADIOL,2,Completed,ESR1,2
+acne,ETHINYL ESTRADIOL,4,Completed,ESR1,2
+prostate carcinoma,"ESTROGENS, CONJUGATED",2,Completed,ESR1,2
+anorexia nervosa,"ESTROGENS, CONJUGATED",2,Completed,ESR1,2
+menopause,ESTRADIOL,4,Recruiting,ESR1,2
+Turner syndrome,ESTRADIOL,4,Completed,ESR1,2
+menopause,"ESTROGENS, CONJUGATED",4,Completed,ESR1,2
+hepatitis C infection,ETHINYL ESTRADIOL,1,Completed,ESR1,2
+menopause,"ESTROGENS, CONJUGATED",3,Completed,ESR1,2
+breast carcinoma,BRILANESTRANT,2,"Active, not recruiting",ESR1,2
+schizoaffective disorder,ESTRADIOL,2,Completed,ESR1,2
+metrorrhagia,ESTRADIOL VALERATE,3,Completed,ESR1,2
+infertility,ESTRADIOL VALERATE,4,Unknown status,ESR1,2
+metrorrhagia,ETHINYL ESTRADIOL,2,Completed,ESR1,2
+bladder carcinoma,TAMOXIFEN,2,Recruiting,ESR1,2
+Alzheimer's disease,"ESTROGENS, CONJUGATED",2,Completed,ESR1,2
+breast carcinoma,ARZOXIFENE,2,Completed,ESR1,2
+breast adenocarcinoma,TAMOXIFEN,3,"Active, not recruiting",ESR1,2
+endometriosis,ESTRADIOL,3,Recruiting,ESR1,2
+schizophrenia,ESTRADIOL,2,Completed,ESR1,2
+primary ovarian insufficiency,ESTRADIOL,4,Completed,ESR1,2
+Chronic Hepatitis C infection,ETHINYL ESTRADIOL,1,Completed,ESR1,2
+atherosclerosis,ESTRADIOL,2,Completed,ESR1,2
+male breast carcinoma,TAMOXIFEN,3,Completed,ESR1,1
+obesity,ESTRADIOL,3,Completed,ESR1,1
+non-small cell lung carcinoma,FULVESTRANT,1,Recruiting,ESR1,1
+menopause,ESTRADIOL,4,Withdrawn,ESR1,1
+non-small cell lung carcinoma,FULVESTRANT,1,Withdrawn,ESR1,1
+non-small cell lung carcinoma,FULVESTRANT,2,Terminated,ESR1,1
+obesity,BAZEDOXIFENE,4,Completed,ESR1,1
+obesity,CLOMIPHENE,2,Completed,ESR1,1
+menopause,ESTRADIOL,4,Terminated,ESR1,1
+lung carcinoma,FULVESTRANT,2,"Active, not recruiting",ESR1,1
+osteoporosis,ARZOXIFENE,2,Completed,ESR1,1
+lymphoma,FULVESTRANT,1,Completed,ESR1,1
+osteopenia,ETHINYL ESTRADIOL,3,Withdrawn,ESR1,1
+obesity,"ESTROGENS, CONJUGATED",4,Completed,ESR1,1
+orthostatic intolerance,ESTRADIOL,2,Completed,ESR1,1
+menopause,BAZEDOXIFENE,0,Completed,ESR1,1
+menopause,BAZEDOXIFENE,3,Completed,ESR1,1
+menopause,ESTRADIOL,3,Unknown status,ESR1,1
+osteopenia,ESTRADIOL,3,Completed,ESR1,1
+menopause,ESTRADIOL,2,Terminated,ESR1,1
+lung carcinoma,FULVESTRANT,2,Completed,ESR1,1
+neoplasm,TOREMIFENE,2,Completed,ESR1,1
+non-small cell lung carcinoma,FULVESTRANT,1,Not yet recruiting,ESR1,1
+neoplasm,POLYESTRADIOL PHOSPHATE,4,n/a,ESR1,1
+neoplasm,ETHINYL ESTRADIOL,1,Recruiting,ESR1,1
+neoplasm,ETHINYL ESTRADIOL,4,n/a,ESR1,1
+osteoporosis,ESTRADIOL,1,Completed,ESR1,1
+neoplasm,DIETHYLSTILBESTROL DIPHOSPHATE,4,n/a,ESR1,1
+neoplasm,DIETHYLSTILBESTROL,4,n/a,ESR1,1
+myocardial infarction,"ESTROGENS, CONJUGATED",3,Completed,ESR1,1
+muscular disease,ESTRADIOL,0,Withdrawn,ESR1,1
+multiple sclerosis,ESTRADIOL,3,Unknown status,ESR1,1
+migraine disorder,ETHINYL ESTRADIOL,1,Completed,ESR1,1
+migraine disorder,ESTRADIOL,2,Unknown status,ESR1,1
+mesothelioma,FULVESTRANT,1,Recruiting,ESR1,1
+neoplasm,FULVESTRANT,4,n/a,ESR1,1
+menopause,"SYNTHETIC CONJUGATED ESTROGENS, B",3,Completed,ESR1,1
+neoplasm,TAMOXIFEN,1,"Active, not recruiting",ESR1,1
+non-Hodgkins lymphoma,FULVESTRANT,1,Recruiting,ESR1,1
+neoplasm,TAMOXIFEN,1,Completed,ESR1,1
+menopause,"ESTROGENS, ESTERIFIED",2,Completed,ESR1,1
+neoplasm,TAMOXIFEN,2,"Active, not recruiting",ESR1,1
+neoplasm,TAMOXIFEN,2,Unknown status,ESR1,1
+menopause,"ESTROGENS, CONJUGATED",4,Withdrawn,ESR1,1
+neoplasm,TAMOXIFEN,4,n/a,ESR1,1
+menopause,"ESTROGENS, CONJUGATED",2,Unknown status,ESR1,1
+menopause,"ESTROGENS, CONJUGATED",2,Completed,ESR1,1
+menopause,"ESTROGENS, CONJUGATED",0,Completed,ESR1,1
+menopause,ESTRADIOL VALERATE,2,Unknown status,ESR1,1
+neoplasm,TOREMIFENE,4,n/a,ESR1,1
+menopause,ESTRADIOL VALERATE,2,Completed,ESR1,1
+non-Hodgkins lymphoma,FULVESTRANT,1,"Active, not recruiting",ESR1,1
+neoplasm,FULVESTRANT,2,Completed,ESR1,1
+AIDS,ETHINYL ESTRADIOL,4,Completed,ESR1,1
+osteoporosis,ESTRADIOL VALERATE,4,Completed,ESR1,1
+sexual dysfunction,FISPEMIFENE,2,Unknown status,ESR1,1
+sexual dysfunction,ESTRADIOL,3,Completed,ESR1,1
+sexual dysfunction,ESTRADIOL,2,Completed,ESR1,1
+rheumatoid arthritis,ETHINYL ESTRADIOL,1,Completed,ESR1,1
+rheumatoid arthritis,BAZEDOXIFENE,4,"Active, not recruiting",ESR1,1
+pulmonary arterial hypertension,FULVESTRANT,2,Completed,ESR1,1
+prostate intraepithelial neoplasia,TOREMIFENE,3,Completed,ESR1,1
+prostate carcinoma,TOREMIFENE,2,Completed,ESR1,1
+prostate carcinoma,TAMOXIFEN,3,Completed,ESR1,1
+prostate carcinoma,TAMOXIFEN,2,Completed,ESR1,1
+prostate carcinoma,GTX-758,2,Unknown status,ESR1,1
+prostate carcinoma,FULVESTRANT,2,Terminated,ESR1,1
+prostate carcinoma,FULVESTRANT,2,Completed,ESR1,1
+prostate carcinoma,ESTRADIOL,2,Recruiting,ESR1,1
+prostate carcinoma,ESTRADIOL,2,Completed,ESR1,1
+prostate carcinoma,DIETHYLSTILBESTROL,3,Completed,ESR1,1
+prostate carcinoma,DIETHYLSTILBESTROL,2,Completed,ESR1,1
+prostate adenocarcinoma,FULVESTRANT,2,Completed,ESR1,1
+sexual dysfunction,"ESTROGENS, CONJUGATED",4,Terminated,ESR1,1
+sexual dysfunction,OSPEMIFENE,4,Terminated,ESR1,1
+osteoporosis,"ESTROGENS, CONJUGATED",3,Completed,ESR1,1
+skin atrophy,ESTRADIOL,2,Completed,ESR1,1
+uterine neoplasm,FULVESTRANT,2,"Active, not recruiting",ESR1,1
+uterine fibroid,ESTRADIOL,3,Enrolling by invitation,ESR1,1
+urothelial carcinoma,FULVESTRANT,1,Not yet recruiting,ESR1,1
+urinary tract infection,"ESTROGENS, CONJUGATED",4,Completed,ESR1,1
+urinary tract infection,ESTRADIOL,4,Completed,ESR1,1
+unipolar depression,ETHINYL ESTRADIOL,2,Terminated,ESR1,1
+unipolar depression,ESTRADIOL,2,Terminated,ESR1,1
+type II diabetes mellitus,ETHINYL ESTRADIOL,1,Completed,ESR1,1
+type II diabetes mellitus,ESTRADIOL,1,Completed,ESR1,1
+type I diabetes mellitus,ESTRADIOL,1,Withdrawn,ESR1,1
+thrombophilia,ETHINYL ESTRADIOL,4,Terminated,ESR1,1
+thrombophilia,ESTRADIOL,4,Terminated,ESR1,1
+systemic lupus erythematosus,FULVESTRANT,2,Completed,ESR1,1
+systemic lupus erythematosus,"ESTROGENS, CONJUGATED",4,Completed,ESR1,1
+systemic lupus erythematosus,"ESTROGENS, CONJUGATED",3,Terminated,ESR1,1
+suicidal ideation,ESTRADIOL,4,Recruiting,ESR1,1
+stroke,"ESTROGENS, CONJUGATED",3,Completed,ESR1,1
+primary ovarian insufficiency,"ESTROGENS, CONJUGATED",3,Recruiting,ESR1,1
+primary ovarian insufficiency,ESTRADIOL,2,Withdrawn,ESR1,1
+pregnancy,ETHINYL ESTRADIOL,4,Completed,ESR1,1
+pregnancy,ETHINYL ESTRADIOL,3,Completed,ESR1,1
+peritoneal neoplasm,TAMOXIFEN,2,Completed,ESR1,1
+peritoneal neoplasm,ARZOXIFENE,2,Completed,ESR1,1
+pelvic organ prolapse,ESTRADIOL,4,Recruiting,ESR1,1
+pain,TAMOXIFEN,2,Not yet recruiting,ESR1,1
+overactive bladder,"ESTROGENS, CONJUGATED",4,Recruiting,ESR1,1
+overactive bladder,"ESTROGENS, CONJUGATED",2,Completed,ESR1,1
+ovarian carcinoma,TOREMIFENE,2,Withdrawn,ESR1,1
+ovarian carcinoma,TAMOXIFEN,3,Completed,ESR1,1
+ovarian carcinoma,TAMOXIFEN,2,Terminated,ESR1,1
+ovarian carcinoma,TAMOXIFEN,2,Recruiting,ESR1,1
+ovarian carcinoma,TAMOXIFEN,2,Completed,ESR1,1
+ovarian carcinoma,TAMOXIFEN,1,Completed,ESR1,1
+ovarian carcinoma,FULVESTRANT,2,Completed,ESR1,1
+ovarian carcinoma,FULVESTRANT,1,Not yet recruiting,ESR1,1
+ovarian carcinoma,ARZOXIFENE,2,Completed,ESR1,1
+osteosarcoma,TAMOXIFEN,1,Completed,ESR1,1
+osteoporosis,ETHINYL ESTRADIOL,2,Completed,ESR1,1
+peritoneal neoplasm,TAMOXIFEN,3,Completed,ESR1,1
+invasive lobular carcinoma,FULVESTRANT,3,Recruiting,ESR1,1
+polycystic ovary syndrome,CLOMIPHENE,3,Unknown status,ESR1,1
+polycystic ovary syndrome,TAMOXIFEN,4,Completed,ESR1,1
+pregnancy,ESTRADIOL,4,Recruiting,ESR1,1
+postpartum depression,ETHINYL ESTRADIOL,4,Unknown status,ESR1,1
+postpartum depression,ESTRADIOL,4,Terminated,ESR1,1
+postpartum depression,ESTRADIOL,2,Terminated,ESR1,1
+postmenopausal osteoporosis,BAZEDOXIFENE,4,Completed,ESR1,1
+postmenopausal osteoporosis,BAZEDOXIFENE,2,Completed,ESR1,1
+post-traumatic stress disorder,ESTRADIOL,4,Recruiting,ESR1,1
+polycystic ovary syndrome,ETHINYL ESTRADIOL,4,Unknown status,ESR1,1
+polycystic ovary syndrome,CLOMIPHENE,4,Completed,ESR1,1
+polycystic ovary syndrome,ETHINYL ESTRADIOL,3,Recruiting,ESR1,1
+polycystic ovary syndrome,ETHINYL ESTRADIOL,2,Unknown status,ESR1,1
+polycystic ovary syndrome,ETHINYL ESTRADIOL,2,Recruiting,ESR1,1
+polycystic ovary syndrome,ESTRADIOL VALERATE,4,Completed,ESR1,1
+polycystic ovary syndrome,ESTRADIOL,4,Unknown status,ESR1,1
+polycystic ovary syndrome,ESTRADIOL,4,Completed,ESR1,1
+polycystic ovary syndrome,ESTRADIOL,0,Recruiting,ESR1,1
+ischemia reperfusion injury,"ESTROGENS, CONJUGATED",1,Recruiting,ESR1,1
+fibromatosis,TOREMIFENE,2,Unknown status,ESR1,1
+invasive ductal carcinoma,FULVESTRANT,3,Recruiting,ESR1,1
+breast carcinoma,FULVESTRANT,2,Not yet recruiting,ESR1,1
+breast carcinoma,"ESTROGENS, ESTERIFIED",2,Terminated,ESR1,1
+breast carcinoma,"ESTROGENS, CONJUGATED",3,Terminated,ESR1,1
+breast carcinoma,BRILANESTRANT,1,Completed,ESR1,1
+breast carcinoma,BAZEDOXIFENE,1,"Active, not recruiting",ESR1,1
+breast carcinoma,ARZOXIFENE,1,Completed,ESR1,1
+breast carcinoma,AFIMOXIFENE,2,Completed,ESR1,1
+breast carcinoma,ACOLBIFENE,2,Completed,ESR1,1
+bone fracture,TOREMIFENE,3,Withdrawn,ESR1,1
+bladder tumor,TAMOXIFEN,2,Completed,ESR1,1
+bipolar disorder,TAMOXIFEN,3,Completed,ESR1,1
+bipolar disorder,TAMOXIFEN,2,Completed,ESR1,1
+bacterial vaginosis,ETHINYL ESTRADIOL,4,Unknown status,ESR1,1
+anorexia nervosa,ETHINYL ESTRADIOL,3,Completed,ESR1,1
+anorexia nervosa,ETHINYL ESTRADIOL,2,Terminated,ESR1,1
+anorexia nervosa,"ESTROGENS, CONJUGATED",3,Completed,ESR1,1
+anorexia nervosa,ESTRADIOL,3,Recruiting,ESR1,1
+anorexia nervosa,ESTRADIOL,1,Withdrawn,ESR1,1
+breast carcinoma,ETHINYL ESTRADIOL,3,Terminated,ESR1,1
+breast carcinoma,FULVESTRANT,3,Suspended,ESR1,1
+aging,ESTRADIOL,2,Completed,ESR1,1
+breast carcinoma,FULVESTRANT,4,"Active, not recruiting",ESR1,1
+breast carcinoma,TOREMIFENE,4,Recruiting,ESR1,1
+breast carcinoma,TOREMIFENE,4,"Active, not recruiting",ESR1,1
+breast carcinoma,TOREMIFENE,3,Terminated,ESR1,1
+breast carcinoma,TOREMIFENE,3,Completed,ESR1,1
+breast carcinoma,TAMOXIFEN,4,Withdrawn,ESR1,1
+breast carcinoma,TAMOXIFEN,4,"Active, not recruiting",ESR1,1
+breast carcinoma,TAMOXIFEN,3,Withdrawn,ESR1,1
+breast carcinoma,TAMOXIFEN,2,Withdrawn,ESR1,1
+breast carcinoma,TAMOXIFEN,2,Not yet recruiting,ESR1,1
+breast carcinoma,TAMOXIFEN,1,Unknown status,ESR1,1
+breast carcinoma,TAMOXIFEN,1,Terminated,ESR1,1
+breast carcinoma,TAMOXIFEN,1,Not yet recruiting,ESR1,1
+breast carcinoma,SR16234,2,Completed,ESR1,1
+breast carcinoma,RAD1901,1,"Active, not recruiting",ESR1,1
+breast carcinoma,FULVESTRANT,4,n/a,ESR1,1
+breast carcinoma,FULVESTRANT,4,Recruiting,ESR1,1
+breast carcinoma,FULVESTRANT,4,Not yet recruiting,ESR1,1
+amyotrophic lateral sclerosis,TAMOXIFEN,1,Unknown status,ESR1,1
+adenoma,TAMOXIFEN,2,Recruiting,ESR1,1
+injury,"ESTROGENS, CONJUGATED",2,Completed,ESR1,1
+HIV-1 infection,ESTRADIOL,1,Not yet recruiting,ESR1,1
+HIV infection,ETHINYL ESTRADIOL,4,Terminated,ESR1,1
+HIV infection,ETHINYL ESTRADIOL,4,Recruiting,ESR1,1
+HIV infection,ESTRADIOL,1,Terminated,ESR1,1
+HIV infection,ESTRADIOL,1,Completed,ESR1,1
+"Genital neoplasm, female",FULVESTRANT,2,Not yet recruiting,ESR1,1
+Fibrolamellar Carcinoma,FULVESTRANT,2,Recruiting,ESR1,1
+Fallopian Tube Carcinoma,TAMOXIFEN,3,Completed,ESR1,1
+Fallopian Tube Carcinoma,TAMOXIFEN,2,Completed,ESR1,1
+Duchenne muscular dystrophy,TAMOXIFEN,3,Recruiting,ESR1,1
+Duchenne muscular dystrophy,TAMOXIFEN,1,"Active, not recruiting",ESR1,1
+Cystic fibrosis,ETHINYL ESTRADIOL,1,Terminated,ESR1,1
+Chronic Hepatitis C infection,TAMOXIFEN,1,Completed,ESR1,1
+Atrophy,ESTRADIOL,3,Completed,ESR1,1
+Atrophic Vaginitis,"ESTROGENS, CONJUGATED",1,Completed,ESR1,1
+Atrophic Vaginitis,ESTRADIOL VALERATE,3,Terminated,ESR1,1
+Atrophic Vaginitis,ESTRADIOL,4,Recruiting,ESR1,1
+Alzheimer's disease,"ESTROGENS, CONJUGATED",3,Completed,ESR1,1
+HIV infection,TAMOXIFEN,0,"Active, not recruiting",ESR1,1
+Hereditary breast and ovarian cancer syndrome,ARZOXIFENE,2,Completed,ESR1,1
+Turner syndrome,ETHINYL ESTRADIOL,3,Completed,ESR1,1
+Hereditary breast and ovarian cancer syndrome,ESTRADIOL,2,"Active, not recruiting",ESR1,1
+Turner syndrome,"ESTROGENS, CONJUGATED",4,Completed,ESR1,1
+Turner syndrome,"ESTROGENS, CONJUGATED",3,Completed,ESR1,1
+Turner syndrome,ESTRADIOL,3,Completed,ESR1,1
+Turner syndrome,ESTRADIOL,1,Terminated,ESR1,1
+Parkinson's disease,"ESTROGENS, CONJUGATED",2,Completed,ESR1,1
+Ovarian hyperstimulation syndrome,ESTRADIOL VALERATE,4,Completed,ESR1,1
+Ocular Melanoma,TAMOXIFEN,2,Unknown status,ESR1,1
+Neural tube defect,ETHINYL ESTRADIOL,3,Withdrawn,ESR1,1
+Myocardial Ischemia,"ESTROGENS, CONJUGATED",3,Completed,ESR1,1
+Menorrhagia,ESTRADIOL VALERATE,4,n/a,ESR1,1
+Menorrhagia,ESTRADIOL,4,Completed,ESR1,1
+Mastodynia,TOREMIFENE,3,Completed,ESR1,1
+Mastodynia,AFIMOXIFENE,2,Completed,ESR1,1
+Klinefelter's syndrome,CLOMIPHENE,2,Completed,ESR1,1
+Hereditary hemorrhagic telangiectasia,TAMOXIFEN,2,Completed,ESR1,1
+Hereditary breast and ovarian cancer syndrome,TAMOXIFEN,2,Completed,ESR1,1
+Hereditary breast and ovarian cancer syndrome,FULVESTRANT,1,Not yet recruiting,ESR1,1
+breast carcinoma,TOREMIFENE,4,Withdrawn,ESR1,1
+breast ductal adenocarcinoma,FULVESTRANT,1,Recruiting,ESR1,1
+breast neoplasm,ESTRADIOL,2,Completed,ESR1,1
+hyperplasia,ESTRADIOL,4,Completed,ESR1,1
+hyperandrogenism,ESTRADIOL,4,Unknown status,ESR1,1
+hidradenitis suppurativa,ETHINYL ESTRADIOL,2,Terminated,ESR1,1
+hepatocellular carcinoma,TAMOXIFEN,3,Completed,ESR1,1
+hemorrhage,TAMOXIFEN,2,"Active, not recruiting",ESR1,1
+hemorrhage,ETHINYL ESTRADIOL,2,Completed,ESR1,1
+head and neck squamous cell carcinoma,FULVESTRANT,1,Not yet recruiting,ESR1,1
+fibrosis,TAMOXIFEN,2,Unknown status,ESR1,1
+Alzheimer's disease,ESTRADIOL,2,Completed,ESR1,1
+female infertility,ETHINYL ESTRADIOL,1,Completed,ESR1,1
+female infertility,CLOMIPHENE,1,Completed,ESR1,1
+erectile dysfunction,FISPEMIFENE,2,Unknown status,ESR1,1
+erectile dysfunction,FISPEMIFENE,2,Completed,ESR1,1
+endometrium adenocarcinoma,FULVESTRANT,2,Recruiting,ESR1,1
+endometriosis,ETHINYL ESTRADIOL,4,Completed,ESR1,1
+endometriosis,ESTRADIOL,3,Terminated,ESR1,1
+endometriosis,ESTRADIOL,3,Enrolling by invitation,ESR1,1
+endometrial neoplasm,TAMOXIFEN,3,Terminated,ESR1,1
+hyperandrogenism,ETHINYL ESTRADIOL,2,Completed,ESR1,1
+hypertension,ESTRADIOL,3,Completed,ESR1,1
+breast neoplasm,ESTRADIOL,2,Terminated,ESR1,1
+infection,ETHINYL ESTRADIOL,1,Completed,ESR1,1
+inflammatory breast carcinoma,TAMOXIFEN,3,Terminated,ESR1,1
+inflammatory breast carcinoma,TAMOXIFEN,2,Completed,ESR1,1
+infertility,TAMOXIFEN,4,Unknown status,ESR1,1
+infertility,TAMOXIFEN,3,Recruiting,ESR1,1
+infertility,ETHINYL ESTRADIOL,4,Completed,ESR1,1
+infertility,"ESTROGENS, CONJUGATED",4,Unknown status,ESR1,1
+infertility,"ESTROGENS, CONJUGATED",4,Recruiting,ESR1,1
+infertility,ESTRADIOL VALERATE,4,Recruiting,ESR1,1
+infertility,ESTRADIOL VALERATE,3,Unknown status,ESR1,1
+infertility,ESTRADIOL VALERATE,3,Recruiting,ESR1,1
+infertility,ESTRADIOL VALERATE,2,Completed,ESR1,1
+infertility,ESTRADIOL VALERATE,1,Unknown status,ESR1,1
+infertility,ESTRADIOL,4,Unknown status,ESR1,1
+infertility,ESTRADIOL,4,Recruiting,ESR1,1
+infertility,ESTRADIOL,4,Completed,ESR1,1
+infertility,ESTRADIOL,3,Not yet recruiting,ESR1,1
+infertility,ESTRADIOL,3,Completed,ESR1,1
+endometrial neoplasm,TAMOXIFEN,2,"Active, not recruiting",ESR1,1
+endometrial neoplasm,ETHINYL ESTRADIOL,2,Completed,ESR1,1
+endometrial neoplasm,"ESTROGENS, CONJUGATED",3,Terminated,ESR1,1
+endometrial neoplasm,ARZOXIFENE,2,Completed,ESR1,1
+cardiovascular disease,ESTRADIOL,4,Completed,ESR1,1
+carcinoma,TAMOXIFEN,3,"Active, not recruiting",ESR1,1
+carcinoma,FULVESTRANT,2,Withdrawn,ESR1,1
+carcinoid tumor,ESTRADIOL,2,Completed,ESR1,1
+cancer,TAMOXIFEN,1,Recruiting,ESR1,1
+cancer,FULVESTRANT,1,Recruiting,ESR1,1
+cancer,FULVESTRANT,1,Completed,ESR1,1
+cancer,FULVESTRANT,1,"Active, not recruiting",ESR1,1
+cancer,ETHINYL ESTRADIOL,1,Not yet recruiting,ESR1,1
+cancer,ETHINYL ESTRADIOL,1,Completed,ESR1,1
+breast neoplasm,TOREMIFENE,3,Completed,ESR1,1
+breast neoplasm,TOREMIFENE,2,Terminated,ESR1,1
+breast neoplasm,TAMOXIFEN,3,Recruiting,ESR1,1
+breast neoplasm,TAMOXIFEN,2,Terminated,ESR1,1
+breast neoplasm,TAMOXIFEN,1,Terminated,ESR1,1
+breast neoplasm,FULVESTRANT,4,Recruiting,ESR1,1
+breast neoplasm,FULVESTRANT,2,Not yet recruiting,ESR1,1
+cervical adenocarcinoma,TAMOXIFEN,2,Unknown status,ESR1,1
+chronic lymphocytic leukemia,ETHINYL ESTRADIOL,1,Completed,ESR1,1
+colorectal carcinoma,FULVESTRANT,1,Not yet recruiting,ESR1,1
+ductal carcinoma in situ,FULVESTRANT,2,Recruiting,ESR1,1
+endometrial carcinoma,TAMOXIFEN,2,Completed,ESR1,1
+endometrial carcinoma,FULVESTRANT,2,Completed,ESR1,1
+dysmenorrhea,ETHINYL ESTRADIOL,4,Completed,ESR1,1
+dysmenorrhea,ESTRADIOL VALERATE,4,Completed,ESR1,1
+dysmenorrhea,ESTRADIOL VALERATE,3,Completed,ESR1,1
+dysmenorrhea,ESTRADIOL,3,Terminated,ESR1,1
+dysmenorrhea,ESTRADIOL,3,Completed,ESR1,1
+ductal adenocarcinoma,TAMOXIFEN,2,Recruiting,ESR1,1
+coronary artery disease,"ESTROGENS, CONJUGATED",2,Completed,ESR1,1
+ductal adenocarcinoma,TAMOXIFEN,2,Completed,ESR1,1
+ductal adenocarcinoma,BAZEDOXIFENE,2,Recruiting,ESR1,1
+ductal adenocarcinoma,AFIMOXIFENE,2,Recruiting,ESR1,1
+ductal adenocarcinoma,AFIMOXIFENE,2,Completed,ESR1,1
+cutaneous melanoma,TAMOXIFEN,2,Unknown status,ESR1,1
+coronary heart disease,"ESTROGENS, CONJUGATED",3,Completed,ESR1,1
+coronary artery disease,"ESTROGENS, CONJUGATED",3,Completed,ESR1,1
+uterine prolapse,"ESTROGENS, CONJUGATED",4,Recruiting,ESR1,1

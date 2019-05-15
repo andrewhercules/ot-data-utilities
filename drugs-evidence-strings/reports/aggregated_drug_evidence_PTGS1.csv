@@ -1,0 +1,1246 @@
+disease,drug,phase,status,target,num_ev_strings
+pain,ACETAMINOPHEN,4,n/a,PTGS1,471
+pain,IBUPROFEN,4,n/a,PTGS1,199
+osteoarthritis,NAPROXEN,4,n/a,PTGS1,176
+rheumatoid arthritis,IBUPROFEN,4,n/a,PTGS1,164
+osteoarthritis,IBUPROFEN,4,n/a,PTGS1,164
+osteoarthritis,DICLOFENAC,4,n/a,PTGS1,132
+rheumatoid arthritis,NAPROXEN,4,n/a,PTGS1,128
+gout,NAPROXEN,4,n/a,PTGS1,122
+juvenile idiopathic arthritis,NAPROXEN,4,n/a,PTGS1,116
+dysmenorrhea,IBUPROFEN,4,n/a,PTGS1,114
+migraine disorder,ACETAMINOPHEN,4,n/a,PTGS1,97
+gout,INDOMETHACIN,4,n/a,PTGS1,74
+osteoarthritis,INDOMETHACIN,4,n/a,PTGS1,74
+ankylosing spondylitis,INDOMETHACIN,4,n/a,PTGS1,74
+pain,ACETAMINOPHEN,4,Completed,PTGS1,59
+pain,KETOROLAC,4,n/a,PTGS1,54
+dysmenorrhea,NAPROXEN,4,n/a,PTGS1,42
+pain,ACETAMINOPHEN,3,Completed,PTGS1,37
+pain,NAPROXEN,4,n/a,PTGS1,32
+migraine disorder,ASPIRIN,4,n/a,PTGS1,32
+ulcerative colitis,MESALAMINE,4,n/a,PTGS1,32
+ulcerative colitis,MESALAMINE,3,Completed,PTGS1,32
+pain,DICLOFENAC,4,n/a,PTGS1,28
+pain,IBUPROFEN,4,Completed,PTGS1,28
+pain,IBUPROFEN,3,Completed,PTGS1,27
+pain,KETOROLAC,4,Completed,PTGS1,22
+coronary artery disease,ASPIRIN,4,Completed,PTGS1,21
+rheumatoid arthritis,DICLOFENAC,4,n/a,PTGS1,20
+osteoarthritis,DICLOFENAC,3,Completed,PTGS1,17
+pain,ACETAMINOPHEN,2,Completed,PTGS1,17
+hemorrhage,DICLOFENAC,4,n/a,PTGS1,16
+migraine disorder,NAPROXEN,3,Completed,PTGS1,15
+pain,DICLOFENAC,3,Completed,PTGS1,15
+pain,IBUPROFEN,2,Completed,PTGS1,15
+inflammation,KETOROLAC,4,n/a,PTGS1,14
+pain,ASPIRIN,4,n/a,PTGS1,13
+pain,ACETAMINOPHEN,4,Unknown status,PTGS1,11
+pain,KETOROLAC,3,Completed,PTGS1,10
+osteoarthritis,NAPROXEN,3,Completed,PTGS1,10
+pain,ACETAMINOPHEN,1,Completed,PTGS1,9
+pain,ACETAMINOPHEN,4,Recruiting,PTGS1,9
+cataract,KETOROLAC,4,Completed,PTGS1,9
+migraine disorder,NAPROXEN,4,Completed,PTGS1,9
+pain,KETOPROFEN,3,Completed,PTGS1,9
+coronary artery disease,ASPIRIN,3,Completed,PTGS1,8
+pain,ACETAMINOPHEN,4,Terminated,PTGS1,8
+osteoarthritis,NAPROXEN,1,Completed,PTGS1,8
+pain,NAPROXEN,3,Completed,PTGS1,8
+osteoarthritis,NAPROXEN,2,Completed,PTGS1,7
+juvenile idiopathic arthritis,IBUPROFEN,4,n/a,PTGS1,7
+pain,KETOROLAC,2,Completed,PTGS1,7
+osteoarthritis,DICLOFENAC,4,Completed,PTGS1,6
+fever,ACETAMINOPHEN,4,Completed,PTGS1,6
+pain,IBUPROFEN,4,Recruiting,PTGS1,6
+pain,DICLOFENAC,2,Completed,PTGS1,6
+rheumatoid arthritis,SULFASALAZINE,3,Completed,PTGS1,6
+coronary artery disease,ASPIRIN,4,Unknown status,PTGS1,6
+pain,DEXKETOPROFEN,4,Completed,PTGS1,6
+cataract,BROMFENAC,4,Completed,PTGS1,6
+ulcerative colitis,MESALAMINE,4,Completed,PTGS1,6
+pain,ACETAMINOPHEN,2,Recruiting,PTGS1,6
+osteoarthritis,ACETAMINOPHEN,4,Completed,PTGS1,6
+pain,DICLOFENAC,1,Completed,PTGS1,6
+sprain,DICLOFENAC,3,Completed,PTGS1,5
+pain,KETOPROFEN,4,n/a,PTGS1,5
+pain,NAPROXEN,1,Completed,PTGS1,5
+pain,DICLOFENAC,3,Unknown status,PTGS1,5
+pain,DICLOFENAC,4,Completed,PTGS1,5
+pain,IBUPROFEN,1,Completed,PTGS1,5
+stroke,ASPIRIN,3,Completed,PTGS1,5
+fever,ACETAMINOPHEN,3,Completed,PTGS1,5
+cataract,NEPAFENAC,3,Completed,PTGS1,5
+acute coronary syndrome,ASPIRIN,4,Completed,PTGS1,5
+osteoarthritis,ACETAMINOPHEN,3,Completed,PTGS1,5
+pain,NAPROXEN,2,Completed,PTGS1,4
+cataract,NEPAFENAC,4,Completed,PTGS1,4
+Patent ductus arteriosus,IBUPROFEN,3,Completed,PTGS1,4
+brain infarction,ASPIRIN,4,Completed,PTGS1,4
+pain,ACETAMINOPHEN,4,Not yet recruiting,PTGS1,4
+rheumatoid arthritis,SULFASALAZINE,4,Completed,PTGS1,4
+rheumatoid arthritis,NAPROXEN,4,Completed,PTGS1,4
+ulcerative colitis,MESALAMINE,3,Recruiting,PTGS1,4
+multiple myeloma,ASPIRIN,1,Completed,PTGS1,4
+migraine disorder,NAPROXEN,4,n/a,PTGS1,4
+dysmenorrhea,MEFENAMIC ACID,4,n/a,PTGS1,4
+pain,DEXKETOPROFEN,4,Unknown status,PTGS1,4
+irritable bowel syndrome,MESALAMINE,2,Completed,PTGS1,4
+Crohn's disease,MESALAMINE,3,Completed,PTGS1,4
+migraine disorder,IBUPROFEN,4,n/a,PTGS1,4
+atrial fibrillation,ASPIRIN,3,Completed,PTGS1,4
+Tuberculosis,AMINOSALICYLIC ACID,4,n/a,PTGS1,4
+actinic keratosis,DICLOFENAC,3,Completed,PTGS1,4
+actinic keratosis,DICLOFENAC,4,Completed,PTGS1,4
+osteoarthritis,DICLOFENAC,2,Completed,PTGS1,4
+inflammation,NEPAFENAC,4,n/a,PTGS1,4
+Ischemic stroke,ASPIRIN,4,Completed,PTGS1,4
+osteoarthritis,IBUPROFEN,4,Completed,PTGS1,4
+stroke,ASPIRIN,4,n/a,PTGS1,4
+fever,IBUPROFEN,4,Completed,PTGS1,4
+pain,NAPROXEN,4,Completed,PTGS1,4
+stroke,ASPIRIN,4,Completed,PTGS1,4
+pulpitis,KETOROLAC,2,Completed,PTGS1,4
+fever,IBUPROFEN,3,Completed,PTGS1,4
+stroke,ASPIRIN,3,Recruiting,PTGS1,3
+rheumatoid arthritis,FLURBIPROFEN,1,Completed,PTGS1,3
+peripheral arterial disease,ASPIRIN,4,Completed,PTGS1,3
+stroke,ASPIRIN,3,Terminated,PTGS1,3
+rheumatoid arthritis,IBUPROFEN,4,Completed,PTGS1,3
+influenza infection,ACETAMINOPHEN,4,n/a,PTGS1,3
+atrial fibrillation,ASPIRIN,4,Recruiting,PTGS1,3
+fever,IBUPROFEN,4,Unknown status,PTGS1,3
+pain,NAPROXEN,4,Unknown status,PTGS1,3
+osteoarthritis,NAPROXEN,2,Terminated,PTGS1,3
+common cold,ACETAMINOPHEN,4,n/a,PTGS1,3
+pain,DICLOFENAC,4,Terminated,PTGS1,3
+juvenile idiopathic arthritis,NAPROXEN,3,Completed,PTGS1,3
+inflammation,DICLOFENAC,1,Completed,PTGS1,3
+fever,ACETAMINOPHEN,4,Terminated,PTGS1,3
+juvenile idiopathic arthritis,SULFASALAZINE,4,n/a,PTGS1,3
+Venous thrombosis,ASPIRIN,1,Completed,PTGS1,3
+pain,FLURBIPROFEN,4,Completed,PTGS1,3
+colorectal carcinoma,ASPIRIN,3,Recruiting,PTGS1,3
+pain,IBUPROFEN,2,Recruiting,PTGS1,3
+pain,IBUPROFEN,2,Terminated,PTGS1,3
+colon carcinoma,ASPIRIN,3,Recruiting,PTGS1,3
+fever,ACETAMINOPHEN,4,n/a,PTGS1,3
+migraine disorder,ASPIRIN,3,Completed,PTGS1,3
+migraine disorder,ACETAMINOPHEN,4,Completed,PTGS1,3
+migraine disorder,ACETAMINOPHEN,3,Completed,PTGS1,3
+coronary artery disease,ASPIRIN,4,Recruiting,PTGS1,3
+osteoarthritis,IBUPROFEN,3,Completed,PTGS1,3
+pain,ACETAMINOPHEN,3,Unknown status,PTGS1,3
+hypertension,ASPIRIN,4,Completed,PTGS1,3
+cardiovascular disease,ASPIRIN,1,Completed,PTGS1,3
+Patent ductus arteriosus,ACETAMINOPHEN,2,Unknown status,PTGS1,3
+"osteoarthritis, knee",DICLOFENAC,3,Completed,PTGS1,3
+"osteoarthritis, knee",KETOPROFEN,3,Completed,PTGS1,3
+type II diabetes mellitus,ASPIRIN,3,Completed,PTGS1,3
+pain,KETOROLAC,4,Unknown status,PTGS1,3
+gastric ulcer,NAPROXEN,3,Completed,PTGS1,3
+type II diabetes mellitus,ASPIRIN,4,Unknown status,PTGS1,3
+brain infarction,ASPIRIN,3,Completed,PTGS1,3
+HIV-1 infection,ASPIRIN,2,Completed,PTGS1,3
+acute coronary syndrome,ASPIRIN,3,Completed,PTGS1,3
+rheumatoid arthritis,SULFASALAZINE,4,n/a,PTGS1,3
+rheumatoid arthritis,SULFASALAZINE,4,Recruiting,PTGS1,3
+osteoarthritis,NAPROXEN,4,Completed,PTGS1,3
+ulcerative colitis,MESALAMINE,1,Completed,PTGS1,3
+pain,ACETAMINOPHEN,4,Withdrawn,PTGS1,3
+ankylosing spondylitis,NAPROXEN,3,Completed,PTGS1,3
+fever,ASPIRIN,4,n/a,PTGS1,3
+cataract,KETOROLAC,3,Completed,PTGS1,3
+ankylosing spondylitis,NAPROXEN,4,n/a,PTGS1,3
+periodontitis,FLURBIPROFEN,2,Completed,PTGS1,2
+preeclampsia,ASPIRIN,3,Unknown status,PTGS1,2
+pain,KETOROLAC,4,"Active, not recruiting",PTGS1,2
+pain,KETOROLAC,4,Recruiting,PTGS1,2
+cardiovascular disease,ASPIRIN,3,Completed,PTGS1,2
+pancreatitis,INDOMETHACIN,4,Unknown status,PTGS1,2
+cataract,NEPAFENAC,2,Completed,PTGS1,2
+breast carcinoma,ASPIRIN,2,Not yet recruiting,PTGS1,2
+chronic pain,ACETAMINOPHEN,4,Completed,PTGS1,2
+pancreatitis,INDOMETHACIN,4,Recruiting,PTGS1,2
+preeclampsia,ASPIRIN,3,Completed,PTGS1,2
+pain,KETOPROFEN,4,Completed,PTGS1,2
+chronic pain,ACETAMINOPHEN,3,Completed,PTGS1,2
+pain,KETOROLAC,3,Not yet recruiting,PTGS1,2
+breast carcinoma,ACETAMINOPHEN,2,Recruiting,PTGS1,2
+back pain,NAPROXEN,3,Unknown status,PTGS1,2
+peripheral arterial disease,ASPIRIN,3,Recruiting,PTGS1,2
+cataract,BROMFENAC,2,Completed,PTGS1,2
+pain,INDOMETHACIN,2,Completed,PTGS1,2
+cataract,BROMFENAC,3,Completed,PTGS1,2
+brain aneurysm,ASPIRIN,3,Recruiting,PTGS1,2
+pain,INDOMETHACIN,3,Completed,PTGS1,2
+brain infarction,ASPIRIN,1,Not yet recruiting,PTGS1,2
+back pain,KETOROLAC,3,Unknown status,PTGS1,2
+periodontitis,ASPIRIN,2,Recruiting,PTGS1,2
+pain,ACETAMINOPHEN,4,Enrolling by invitation,PTGS1,2
+pain,IBUPROFEN,4,Not yet recruiting,PTGS1,2
+"osteoarthritis, hip",IBUPROFEN,4,Completed,PTGS1,2
+osteoarthritis,KETOROLAC,4,Completed,PTGS1,2
+osteoarthritis,KETOPROFEN,3,Completed,PTGS1,2
+osteoarthritis,KETOPROFEN,2,Completed,PTGS1,2
+gastric ulcer,ASPIRIN,3,Completed,PTGS1,2
+osteoarthritis,IBUPROFEN,2,Completed,PTGS1,2
+osteoarthritis,IBUPROFEN,1,Completed,PTGS1,2
+gout,INDOMETHACIN,3,Completed,PTGS1,2
+osteoarthritis,ACETAMINOPHEN,4,Recruiting,PTGS1,2
+gout,NAPROXEN,4,Completed,PTGS1,2
+osteoarthritis,ACETAMINOPHEN,2,Completed,PTGS1,2
+heart disease,ASPIRIN,4,Completed,PTGS1,2
+non-small cell lung carcinoma,ASPIRIN,2,Not yet recruiting,PTGS1,2
+myocardial infarction,ASPIRIN,4,Completed,PTGS1,2
+infertility,ASPIRIN,3,Completed,PTGS1,2
+inflammation,BROMFENAC,3,Completed,PTGS1,2
+inflammation,BROMFENAC,4,Completed,PTGS1,2
+inflammation,KETOROLAC,4,Completed,PTGS1,2
+inflammation,NEPAFENAC,3,Completed,PTGS1,2
+multiple myeloma,ACETAMINOPHEN,2,Completed,PTGS1,2
+injury,ACETAMINOPHEN,2,Completed,PTGS1,2
+injury,ACETAMINOPHEN,2,Recruiting,PTGS1,2
+migraine disorder,KETOROLAC,4,Completed,PTGS1,2
+juvenile idiopathic arthritis,NAPROXEN,4,Completed,PTGS1,2
+migraine disorder,DICLOFENAC,4,n/a,PTGS1,2
+migraine disorder,DEXKETOPROFEN,4,Completed,PTGS1,2
+osteoarthritis,NAPROXCINOD,3,Completed,PTGS1,2
+"osteoarthritis, hip",NAPROXEN,3,Completed,PTGS1,2
+pain,IBUPROFEN,3,Terminated,PTGS1,2
+esophageal carcinoma,ASPIRIN,3,Unknown status,PTGS1,2
+pain,IBUPROFEN,3,Recruiting,PTGS1,2
+pain,FLURBIPROFEN,4,Unknown status,PTGS1,2
+pain,FLURBIPROFEN,2,Completed,PTGS1,2
+pain,DICLOFENAC,4,Recruiting,PTGS1,2
+coronary artery disease,ASPIRIN,1,Completed,PTGS1,2
+coronary artery disease,ASPIRIN,2,Completed,PTGS1,2
+coronary artery disease,ASPIRIN,3,Unknown status,PTGS1,2
+coronary artery disease,ASPIRIN,4,"Active, not recruiting",PTGS1,2
+coronary artery disease,ASPIRIN,4,Enrolling by invitation,PTGS1,2
+pain,DEXKETOPROFEN,3,Completed,PTGS1,2
+coronary heart disease,ASPIRIN,4,Completed,PTGS1,2
+pain,ASPIRIN,4,Completed,PTGS1,2
+pain,ASPIRIN,1,Completed,PTGS1,2
+pregnancy,ASPIRIN,4,Unknown status,PTGS1,2
+pain,ACETAMINOPHEN,3,Not yet recruiting,PTGS1,2
+pain,ACETAMINOPHEN,3,"Active, not recruiting",PTGS1,2
+pain,ACETAMINOPHEN,2,Unknown status,PTGS1,2
+pain,ACETAMINOPHEN,2,Terminated,PTGS1,2
+digestive system disease,ASPIRIN,1,Completed,PTGS1,2
+diverticulitis,MESALAMINE,3,Terminated,PTGS1,2
+dysmenorrhea,ACETAMINOPHEN,4,n/a,PTGS1,2
+dysmenorrhea,IBUPROFEN,3,Terminated,PTGS1,2
+dysmenorrhea,MEFENAMIC ACID,2,Completed,PTGS1,2
+"osteoarthritis, knee",DICLOFENAC,2,Completed,PTGS1,2
+dysmenorrhea,PIROXICAM,4,Completed,PTGS1,2
+arthritis,ACETAMINOPHEN,4,n/a,PTGS1,2
+pain,KETOROLAC,1,Terminated,PTGS1,2
+ankylosing spondylitis,DICLOFENAC,3,Completed,PTGS1,2
+Menorrhagia,NAPROXEN,4,Completed,PTGS1,2
+Sciatica,ACETAMINOPHEN,4,Unknown status,PTGS1,2
+Renal Colic,KETOROLAC,4,Unknown status,PTGS1,2
+Ischemic stroke,ASPIRIN,1,Withdrawn,PTGS1,2
+ulcerative colitis,MESALAMINE,3,Terminated,PTGS1,2
+Ischemic stroke,ASPIRIN,2,Completed,PTGS1,2
+Ischemic stroke,ASPIRIN,3,Completed,PTGS1,2
+acute coronary syndrome,ASPIRIN,1,Terminated,PTGS1,2
+ankylosing spondylitis,DICLOFENAC,4,Completed,PTGS1,2
+psoriatic arthritis,SULFASALAZINE,4,Not yet recruiting,PTGS1,2
+rheumatoid arthritis,SULFASALAZINE,4,Unknown status,PTGS1,2
+Disorder of lipid metabolism,ASPIRIN,3,Completed,PTGS1,2
+Peptic ulcer,IBUPROFEN,3,Completed,PTGS1,2
+Peptic ulcer,ASPIRIN,4,Completed,PTGS1,2
+ankylosing spondylitis,SULFASALAZINE,2,Unknown status,PTGS1,2
+Patent ductus arteriosus,INDOMETHACIN,3,Completed,PTGS1,2
+ulcerative colitis,MESALAMINE,2,Unknown status,PTGS1,2
+pulpitis,ACETAMINOPHEN,2,Completed,PTGS1,2
+ulcerative colitis,MESALAMINE,2,Recruiting,PTGS1,2
+acute pancreatitis,INDOMETHACIN,3,Completed,PTGS1,2
+acute coronary syndrome,ASPIRIN,4,Recruiting,PTGS1,2
+acute coronary syndrome,ASPIRIN,1,Completed,PTGS1,2
+rheumatic disease,DICLOFENAC,4,n/a,PTGS1,2
+rheumatic disease,IBUPROFEN,4,n/a,PTGS1,2
+rheumatic disease,INDOMETHACIN,4,n/a,PTGS1,2
+rheumatic disease,KETOPROFEN,4,n/a,PTGS1,2
+acute pancreatitis,INDOMETHACIN,3,Recruiting,PTGS1,2
+rheumatoid arthritis,DICLOFENAC,4,Completed,PTGS1,2
+ulcerative colitis,BALSALAZIDE,3,Completed,PTGS1,2
+alcohol dependence,ACETAMINOPHEN,4,Completed,PTGS1,2
+rheumatoid arthritis,ACETAMINOPHEN,4,Completed,PTGS1,2
+rheumatoid arthritis,DICLOFENAC,3,Completed,PTGS1,2
+ulcerative colitis,MESALAMINE,2,Completed,PTGS1,2
+pulpitis,DICLOFENAC,2,Completed,PTGS1,2
+prostate carcinoma,ASPIRIN,2,"Active, not recruiting",PTGS1,2
+acute coronary syndrome,ASPIRIN,2,Completed,PTGS1,2
+Patent ductus arteriosus,IBUPROFEN,4,Completed,PTGS1,2
+sprain,KETOPROFEN,3,Completed,PTGS1,2
+Crohn's disease,MESALAMINE,3,Terminated,PTGS1,2
+Crohn's disease,MESALAMINE,2,Unknown status,PTGS1,2
+Crohn's disease,AMINOSALICYLIC ACID,2,Terminated,PTGS1,2
+proctitis,MESALAMINE,3,Terminated,PTGS1,2
+Patent ductus arteriosus,IBUPROFEN,1,Recruiting,PTGS1,2
+Myocardial Ischemia,ASPIRIN,3,Completed,PTGS1,2
+type II diabetes mellitus,ASPIRIN,3,"Active, not recruiting",PTGS1,1
+type II diabetes mellitus,ASPIRIN,4,Completed,PTGS1,1
+osteoarthritis,ACETAMINOPHEN,1,Completed,PTGS1,1
+type II diabetes mellitus,DIFLUNISAL,2,Completed,PTGS1,1
+osteoarthritis,ACETAMINOPHEN,2,Recruiting,PTGS1,1
+osteoarthritis,DICLOFENAC,3,Recruiting,PTGS1,1
+type I diabetes mellitus,ASPIRIN,4,Completed,PTGS1,1
+type II diabetes mellitus,ASPIRIN,4,Terminated,PTGS1,1
+"osteoarthritis, hip",NAPROXEN,3,Recruiting,PTGS1,1
+sprain,KETOPROFEN,4,Unknown status,PTGS1,1
+type II diabetes mellitus,ASPIRIN,4,Recruiting,PTGS1,1
+type I diabetes mellitus,IBUPROFEN,2,Completed,PTGS1,1
+type II diabetes mellitus,ASPIRIN,4,Not yet recruiting,PTGS1,1
+orthostatic hypotension,INDOMETHACIN,1,Completed,PTGS1,1
+osteoarthritis,ACETAMINOPHEN,3,Withdrawn,PTGS1,1
+type II diabetes mellitus,ACETAMINOPHEN,1,Completed,PTGS1,1
+type II diabetes mellitus,ACETAMINOPHEN,4,Completed,PTGS1,1
+sunburn,IBUPROFEN,2,Recruiting,PTGS1,1
+sprain,KETOPROFEN,4,Completed,PTGS1,1
+orthostatic hypotension,IBUPROFEN,1,Completed,PTGS1,1
+obesity,IBUPROFEN,4,Completed,PTGS1,1
+"osteoarthritis, knee",DICLOFENAC,2,Recruiting,PTGS1,1
+non-small cell lung carcinoma,ASPIRIN,2,Unknown status,PTGS1,1
+non-small cell lung carcinoma,ASPIRIN,3,Withdrawn,PTGS1,1
+non-small cell lung carcinoma,FLURBIPROFEN,4,Terminated,PTGS1,1
+sprain,DICLOFENAC,4,Withdrawn,PTGS1,1
+sprain,IBUPROFEN,3,Unknown status,PTGS1,1
+sprain,INDOMETHACIN,4,Completed,PTGS1,1
+obesity,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+obesity,ACETAMINOPHEN,4,Completed,PTGS1,1
+"osteoarthritis, knee",DEXIBUPROFEN,4,Completed,PTGS1,1
+type I diabetes mellitus,ASPIRIN,2,Completed,PTGS1,1
+obstructive sleep apnea,IBUPROFEN,3,Unknown status,PTGS1,1
+obstructive sleep apnea,KETOROLAC,4,Recruiting,PTGS1,1
+opioid dependence,ACETAMINOPHEN,4,Enrolling by invitation,PTGS1,1
+opioid dependence,IBUPROFEN,4,Enrolling by invitation,PTGS1,1
+opioid dependence,KETOROLAC,4,Recruiting,PTGS1,1
+oral squamous cell carcinoma,INDOMETHACIN,2,"Active, not recruiting",PTGS1,1
+type II diabetes mellitus,FLURBIPROFEN,1,Completed,PTGS1,1
+oral squamous cell carcinoma,INDOMETHACIN,3,"Active, not recruiting",PTGS1,1
+"osteoarthritis, knee",ACETAMINOPHEN,3,Completed,PTGS1,1
+osteoarthritis,DICLOFENAC,3,Terminated,PTGS1,1
+stomatitis,BENZYDAMINE,3,Completed,PTGS1,1
+osteoarthritis,DICLOFENAC,4,Recruiting,PTGS1,1
+systemic lupus erythematosus,ASPIRIN,2,Completed,PTGS1,1
+osteoarthritis,KETOPROFEN,3,Terminated,PTGS1,1
+thrombophilia,ASPIRIN,3,Unknown status,PTGS1,1
+osteoarthritis,KETOROLAC,2,Completed,PTGS1,1
+streptococcal infection,IBUPROFEN,4,Completed,PTGS1,1
+temporomandibular joint disorder,IBUPROFEN,1,Completed,PTGS1,1
+stroke,ASPIRIN,1,Unknown status,PTGS1,1
+osteoarthritis,NAPROXEN,2,Recruiting,PTGS1,1
+systemic scleroderma,ASPIRIN,4,Enrolling by invitation,PTGS1,1
+osteoarthritis,KETOROLAC,4,Enrolling by invitation,PTGS1,1
+squamous cell carcinoma,ASPIRIN,3,Unknown status,PTGS1,1
+stroke,ASPIRIN,4,Not yet recruiting,PTGS1,1
+osteoarthritis,KETOROLAC,4,Unknown status,PTGS1,1
+osteoarthritis,KETOROLAC,4,Withdrawn,PTGS1,1
+systemic lupus erythematosus,ASPIRIN,1,Completed,PTGS1,1
+stroke,ASPIRIN,4,Recruiting,PTGS1,1
+systemic lupus erythematosus,ACETAMINOPHEN,3,Terminated,PTGS1,1
+osteoarthritis,NAPROXEN,0,Completed,PTGS1,1
+sunburn,DICLOFENAC,3,Completed,PTGS1,1
+thrombophilia,ASPIRIN,4,Recruiting,PTGS1,1
+streptococcal infection,ACETAMINOPHEN,4,Completed,PTGS1,1
+tonsillitis,ACETAMINOPHEN,2,Completed,PTGS1,1
+tonsillitis,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+type I diabetes mellitus,ACETAMINOPHEN,2,Completed,PTGS1,1
+systemic lupus erythematosus,ACETAMINOPHEN,2,Completed,PTGS1,1
+"osteoarthritis, hip",NAPROXCINOD,3,Completed,PTGS1,1
+streptococcal infection,ACETAMINOPHEN,3,Completed,PTGS1,1
+"osteoarthritis, hip",DICLOFENAC,4,Completed,PTGS1,1
+"osteoarthritis, hip",DICLOFENAC,3,Recruiting,PTGS1,1
+"osteoarthritis, hip",DEXIBUPROFEN,4,Completed,PTGS1,1
+tooth disease,IBUPROFEN,2,Unknown status,PTGS1,1
+tooth disease,DICLOFENAC,4,Completed,PTGS1,1
+"osteoarthritis, hip",ACETAMINOPHEN,3,Completed,PTGS1,1
+osteoarthritis,PIROXICAM,4,n/a,PTGS1,1
+osteoarthritis,IBUPROFEN,3,Withdrawn,PTGS1,1
+tooth disease,ACETAMINOPHEN,0,Completed,PTGS1,1
+tonsillitis,KETOPROFEN,4,Terminated,PTGS1,1
+osteoarthritis,NAPROXEN ETEMESIL,2,Completed,PTGS1,1
+osteoarthritis,NAPROXEN,4,Unknown status,PTGS1,1
+osteoarthritis,INDOMETHACIN,4,Completed,PTGS1,1
+premature birth,INDOMETHACIN,0,Not yet recruiting,PTGS1,1
+neuropathic pain,KETOPROFEN,4,Recruiting,PTGS1,1
+ulcerative colitis,AMINOSALICYLIC ACID,2,Completed,PTGS1,1
+migraine disorder,KETOROLAC,3,Recruiting,PTGS1,1
+migraine disorder,KETOROLAC,4,Recruiting,PTGS1,1
+uterine fibroid,ACETAMINOPHEN,4,Completed,PTGS1,1
+migraine disorder,KETOROLAC,4,Unknown status,PTGS1,1
+migraine disorder,KETOROLAC,4,Withdrawn,PTGS1,1
+migraine disorder,NAPROXEN,1,Completed,PTGS1,1
+migraine disorder,NAPROXEN,2,Completed,PTGS1,1
+urinary tract infection,IBUPROFEN,4,Completed,PTGS1,1
+migraine disorder,NAPROXEN,3,Withdrawn,PTGS1,1
+urinary tract infection,DICLOFENAC,4,Terminated,PTGS1,1
+unipolar depression,KETOPROFEN,1,Completed,PTGS1,1
+migraine with aura,KETOROLAC,4,Completed,PTGS1,1
+migraine without aura,KETOROLAC,4,Completed,PTGS1,1
+morbid obesity,ACETAMINOPHEN,0,Not yet recruiting,PTGS1,1
+morbid obesity,ACETAMINOPHEN,1,Completed,PTGS1,1
+morbid obesity,ACETAMINOPHEN,4,Completed,PTGS1,1
+morbid obesity,ACETAMINOPHEN,4,Unknown status,PTGS1,1
+morbid obesity,IBUPROFEN,4,Completed,PTGS1,1
+mucocutaneous lymph node syndrome,ASPIRIN,4,Recruiting,PTGS1,1
+mucositis,ACETAMINOPHEN,2,Completed,PTGS1,1
+unipolar depression,IBUPROFEN,2,Completed,PTGS1,1
+multiple myeloma,ACETAMINOPHEN,1,"Active, not recruiting",PTGS1,1
+unipolar depression,DICLOFENAC,1,Withdrawn,PTGS1,1
+unipolar depression,ASPIRIN,2,Recruiting,PTGS1,1
+uterine fibroid,IBUPROFEN,4,Completed,PTGS1,1
+migraine disorder,KETOROLAC,2,Completed,PTGS1,1
+ulcerative colitis,ASPIRIN,3,Completed,PTGS1,1
+migraine disorder,KETOROLAC,1,Recruiting,PTGS1,1
+metabolic syndrome,ASPIRIN,2,Completed,PTGS1,1
+metastatic prostate cancer,INDOMETHACIN,1,Recruiting,PTGS1,1
+viral conjunctivitis,KETOROLAC,2,Completed,PTGS1,1
+migraine disorder,ACETAMINOPHEN,3,Not yet recruiting,PTGS1,1
+ventricular tachycardia,ASPIRIN,4,Terminated,PTGS1,1
+migraine disorder,ACETAMINOPHEN,4,Terminated,PTGS1,1
+venous thromboembolism,ASPIRIN,3,Completed,PTGS1,1
+venous thromboembolism,ASPIRIN,2,Completed,PTGS1,1
+migraine disorder,ASPIRIN,4,Completed,PTGS1,1
+migraine disorder,ASPIRIN,4,Terminated,PTGS1,1
+vasculitis,IBUPROFEN,3,Not yet recruiting,PTGS1,1
+vascular disease,ASPIRIN,3,Unknown status,PTGS1,1
+migraine disorder,DICLOFENAC,4,Completed,PTGS1,1
+migraine disorder,DICLOFENAC,4,Unknown status,PTGS1,1
+vaginal inflammation,NAPROXEN,4,n/a,PTGS1,1
+migraine disorder,IBUPROFEN,2,Completed,PTGS1,1
+vaginal inflammation,IBUPROFEN,4,n/a,PTGS1,1
+migraine disorder,IBUPROFEN,4,Unknown status,PTGS1,1
+vaginal inflammation,BENZYDAMINE,4,n/a,PTGS1,1
+uveitis,NEPAFENAC,4,Recruiting,PTGS1,1
+migraine disorder,KETOPROFEN,3,Completed,PTGS1,1
+migraine disorder,KETOPROFEN,3,Unknown status,PTGS1,1
+migraine disorder,KETOPROFEN,3,Withdrawn,PTGS1,1
+multiple myeloma,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+ulcerative colitis,MESALAMINE,4,Recruiting,PTGS1,1
+multiple myeloma,ASPIRIN,2,Not yet recruiting,PTGS1,1
+multiple myeloma,ASPIRIN,2,Unknown status,PTGS1,1
+neoplasm,ACETAMINOPHEN,1,Recruiting,PTGS1,1
+neoplasm,ACETAMINOPHEN,2,Withdrawn,PTGS1,1
+neoplasm,ACETAMINOPHEN,4,Completed,PTGS1,1
+neoplasm,ASPIRIN,2,Unknown status,PTGS1,1
+neoplasm,DEXKETOPROFEN,4,Unknown status,PTGS1,1
+neoplasm,DICLOFENAC,1,Completed,PTGS1,1
+neoplasm,SULINDAC,2,"Active, not recruiting",PTGS1,1
+neoplasm of mature B-cells,ACETAMINOPHEN,2,"Active, not recruiting",PTGS1,1
+nephrolithiasis,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+nephrolithiasis,ACETAMINOPHEN,4,Unknown status,PTGS1,1
+nephrolithiasis,KETOROLAC,3,Recruiting,PTGS1,1
+neuropathic pain,ACETAMINOPHEN,2,Recruiting,PTGS1,1
+neuropathic pain,ACETAMINOPHEN,2,Unknown status,PTGS1,1
+neuropathic pain,ACETAMINOPHEN,4,Not yet recruiting,PTGS1,1
+neuropathic pain,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+neuropathic pain,KETOPROFEN,4,Not yet recruiting,PTGS1,1
+sprain,DICLOFENAC,2,Terminated,PTGS1,1
+neuropathic pain,NAPROXEN,2,Unknown status,PTGS1,1
+neuropathy,SULFASALAZINE,2,Terminated,PTGS1,1
+nicotine dependence,ASPIRIN,0,Completed,PTGS1,1
+non-Hodgkins lymphoma,ACETAMINOPHEN,2,"Active, not recruiting",PTGS1,1
+non-Hodgkins lymphoma,ACETAMINOPHEN,2,Terminated,PTGS1,1
+non-melanoma skin carcinoma,ACETAMINOPHEN,3,Completed,PTGS1,1
+neoplasm,ACETAMINOPHEN,1,Completed,PTGS1,1
+neck pain,IBUPROFEN,3,Completed,PTGS1,1
+neck pain,DICLOFENAC,4,Completed,PTGS1,1
+muscular disease,ACETAMINOPHEN,4,Completed,PTGS1,1
+multiple myeloma,ASPIRIN,3,Completed,PTGS1,1
+multiple sclerosis,ACETAMINOPHEN,1,"Active, not recruiting",PTGS1,1
+ulcerative colitis,MESALAMINE,3,Unknown status,PTGS1,1
+multiple sclerosis,ACETAMINOPHEN,1,Not yet recruiting,PTGS1,1
+ulcerative colitis,MESALAMINE,3,"Active, not recruiting",PTGS1,1
+multiple sclerosis,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+multiple sclerosis,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+multiple sclerosis,ASPIRIN,1,Not yet recruiting,PTGS1,1
+multiple sclerosis,IBUPROFEN,3,Completed,PTGS1,1
+multiple sclerosis,NAPROXEN,3,Completed,PTGS1,1
+muscular disease,DICLOFENAC,3,Completed,PTGS1,1
+neck pain,ACETAMINOPHEN,2,Completed,PTGS1,1
+muscular disease,IBUPROFEN,2,Completed,PTGS1,1
+muscular disease,IBUPROFEN,4,Completed,PTGS1,1
+myocardial infarction,ACETAMINOPHEN,4,Unknown status,PTGS1,1
+ulcerative colitis,MESALAMINE,1,Terminated,PTGS1,1
+myocardial infarction,ASPIRIN,3,Completed,PTGS1,1
+myocardial infarction,ASPIRIN,3,Terminated,PTGS1,1
+myocardial infarction,ASPIRIN,3,Unknown status,PTGS1,1
+ulcerative colitis,MESALAMINE,1,Recruiting,PTGS1,1
+myocardial infarction,ASPIRIN,4,Recruiting,PTGS1,1
+nasopharyngeal neoplasm,ASPIRIN,2,Not yet recruiting,PTGS1,1
+sprain,DICLOFENAC,4,Completed,PTGS1,1
+ovarian neoplasm,ASPIRIN,2,Recruiting,PTGS1,1
+"osteoarthritis, knee",IBUPROFEN,1,Unknown status,PTGS1,1
+pancreatitis,DICLOFENAC,4,Terminated,PTGS1,1
+pulpitis,DICLOFENAC,2,Unknown status,PTGS1,1
+pain,MEFENAMIC ACID,2,Recruiting,PTGS1,1
+pulpitis,DEXKETOPROFEN,4,Completed,PTGS1,1
+pain,NAPROXEN,2,Withdrawn,PTGS1,1
+pain,NAPROXEN,3,Recruiting,PTGS1,1
+pulmonary embolism,DICLOFENAC,2,Terminated,PTGS1,1
+pain,NAPROXEN,4,Enrolling by invitation,PTGS1,1
+pulmonary arterial hypertension,ASPIRIN,2,Terminated,PTGS1,1
+pulmonary arterial hypertension,ASPIRIN,2,Completed,PTGS1,1
+pain,NEPAFENAC,4,Unknown status,PTGS1,1
+pancreatitis,INDOMETHACIN,2,Completed,PTGS1,1
+radius fracture,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+pancreatitis,INDOMETHACIN,3,Not yet recruiting,PTGS1,1
+pancreatitis,INDOMETHACIN,3,Recruiting,PTGS1,1
+psychosis,ASPIRIN,0,Recruiting,PTGS1,1
+pancreatitis,INDOMETHACIN,4,Terminated,PTGS1,1
+pancreatitis,KETOROLAC,4,Not yet recruiting,PTGS1,1
+patellofemoral pain syndrome,ACETAMINOPHEN,4,Unknown status,PTGS1,1
+pelvic organ prolapse,ACETAMINOPHEN,4,Completed,PTGS1,1
+prostate carcinoma,INDOMETHACIN,1,Completed,PTGS1,1
+prostate carcinoma,INDOMETHACIN,1,"Active, not recruiting",PTGS1,1
+pemphigus vulgaris,ACETAMINOPHEN,3,Terminated,PTGS1,1
+pulpitis,IBUPROFEN,4,Completed,PTGS1,1
+radius fracture,IBUPROFEN,4,Recruiting,PTGS1,1
+pericarditis,ASPIRIN,4,Terminated,PTGS1,1
+retinal vein occlusion,ASPIRIN,3,Terminated,PTGS1,1
+rheumatic disease,APAZONE,4,n/a,PTGS1,1
+pain,KETOPROFEN,4,Not yet recruiting,PTGS1,1
+pain,KETOPROFEN,4,Terminated,PTGS1,1
+rheumatic disease,ALCLOFENAC,4,n/a,PTGS1,1
+pain,KETOROLAC,1,Completed,PTGS1,1
+rheumatic disease,ACEMETACIN,4,n/a,PTGS1,1
+mental or behavioural disorder,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+retinopathy of prematurity,KETOROLAC,2,Completed,PTGS1,1
+retinopathy of prematurity,IBUPROFEN,2,Completed,PTGS1,1
+pain,KETOROLAC,2,"Active, not recruiting",PTGS1,1
+pain,KETOROLAC,2,Recruiting,PTGS1,1
+pain,KETOROLAC,4,Not yet recruiting,PTGS1,1
+retinal artery occlusion,ASPIRIN,3,Recruiting,PTGS1,1
+response to drug,ASPIRIN,1,Completed,PTGS1,1
+reproductive system disease,KETOPROFEN,2,Completed,PTGS1,1
+pain,KETOROLAC,2,Withdrawn,PTGS1,1
+relapsing-remitting multiple sclerosis,IBUPROFEN,4,Completed,PTGS1,1
+relapsing-remitting multiple sclerosis,ASPIRIN,4,Completed,PTGS1,1
+pain,KETOROLAC,3,Unknown status,PTGS1,1
+relapsing-remitting multiple sclerosis,ACETAMINOPHEN,4,Completed,PTGS1,1
+pain,KETOROLAC,4,Enrolling by invitation,PTGS1,1
+rectum cancer,ASPIRIN,2,Recruiting,PTGS1,1
+prostate carcinoma,ASPIRIN,4,Recruiting,PTGS1,1
+periodontitis,ASPIRIN,2,Completed,PTGS1,1
+pain,KETOPROFEN,3,Unknown status,PTGS1,1
+preeclampsia,ASPIRIN,2,Recruiting,PTGS1,1
+polycythemia vera,ASPIRIN,3,Completed,PTGS1,1
+proctitis,MESALAMINE,2,Completed,PTGS1,1
+polyp,ASPIRIN,2,"Active, not recruiting",PTGS1,1
+polyp,ASPIRIN,3,Terminated,PTGS1,1
+premature birth,INDOMETHACIN,4,Terminated,PTGS1,1
+post operative nausea and vomiting,ACETAMINOPHEN,3,Unknown status,PTGS1,1
+post operative nausea and vomiting,ACETAMINOPHEN,4,Not yet recruiting,PTGS1,1
+post operative nausea and vomiting,BENZYDAMINE,4,Completed,PTGS1,1
+post operative nausea and vomiting,KETOPROFEN,3,Recruiting,PTGS1,1
+preeclampsia,ACETAMINOPHEN,4,Completed,PTGS1,1
+premature birth,INDOMETHACIN,4,Recruiting,PTGS1,1
+polycythemia vera,ASPIRIN,2,Recruiting,PTGS1,1
+preeclampsia,ASPIRIN,3,Recruiting,PTGS1,1
+preeclampsia,ASPIRIN,3,Suspended,PTGS1,1
+premature birth,INDOMETHACIN,3,Unknown status,PTGS1,1
+premature birth,INDOMETHACIN,2,Completed,PTGS1,1
+preeclampsia,ASPIRIN,4,Completed,PTGS1,1
+preeclampsia,IBUPROFEN,4,Completed,PTGS1,1
+preeclampsia,IBUPROFEN,4,Recruiting,PTGS1,1
+pregnancy,ASPIRIN,2,Unknown status,PTGS1,1
+premature birth,INDOMETHACIN,1,Completed,PTGS1,1
+pregnancy,IBUPROFEN,4,Completed,PTGS1,1
+polycythemia vera,ASPIRIN,2,Withdrawn,PTGS1,1
+polycythemia vera,ASPIRIN,2,Completed,PTGS1,1
+prostate carcinoma,ASPIRIN,3,Not yet recruiting,PTGS1,1
+peripheral arterial disease,ASPIRIN,4,Terminated,PTGS1,1
+prostate carcinoma,ASPIRIN,3,Completed,PTGS1,1
+periodontitis,DICLOFENAC,1,Completed,PTGS1,1
+periodontitis,IBUPROFEN,2,Completed,PTGS1,1
+periodontitis,IBUPROFEN,4,Terminated,PTGS1,1
+periodontitis,KETOPROFEN,2,Completed,PTGS1,1
+periodontitis,KETOROLAC,2,"Active, not recruiting",PTGS1,1
+peripheral arterial disease,ASPIRIN,2,Completed,PTGS1,1
+peripheral arterial disease,ASPIRIN,2,Terminated,PTGS1,1
+peripheral arterial disease,ASPIRIN,3,Not yet recruiting,PTGS1,1
+prostate adenocarcinoma,NAPROXEN,2,Terminated,PTGS1,1
+peripheral arterial disease,ASPIRIN,4,Unknown status,PTGS1,1
+pneumonia,ASPIRIN,2,Completed,PTGS1,1
+peripheral vascular disease,ASPIRIN,0,Completed,PTGS1,1
+peritoneal neoplasm,KETOROLAC,0,"Active, not recruiting",PTGS1,1
+photosensitivity disease,DICLOFENAC,4,Completed,PTGS1,1
+placental insufficiency,ASPIRIN,2,Completed,PTGS1,1
+placental insufficiency,ASPIRIN,4,Completed,PTGS1,1
+platelet aggregation,ASPIRIN,1,Completed,PTGS1,1
+prostate adenocarcinoma,INDOMETHACIN,2,"Active, not recruiting",PTGS1,1
+pleural effusion,NAPROXEN,2,Terminated,PTGS1,1
+pneumococcal infection,ACETAMINOPHEN,4,Completed,PTGS1,1
+pneumococcal infection,IBUPROFEN,4,Completed,PTGS1,1
+pain,KETOPROFEN,3,Withdrawn,PTGS1,1
+pain,KETOPROFEN,3,Not yet recruiting,PTGS1,1
+"osteoarthritis, knee",IBUPROFEN,4,Completed,PTGS1,1
+rotator cuff tear,IBUPROFEN,4,Suspended,PTGS1,1
+pain,ACETAMINOPHEN,2,Withdrawn,PTGS1,1
+sepsis,ACETAMINOPHEN,2,Completed,PTGS1,1
+sclerosing cholangitis,SULFASALAZINE,2,Recruiting,PTGS1,1
+schizophrenia,ASPIRIN,3,Unknown status,PTGS1,1
+pain,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+pain,ACETAMINOPHEN,3,Terminated,PTGS1,1
+schizoaffective disorder,ASPIRIN,3,Unknown status,PTGS1,1
+pain,ACETAMINOPHEN,3,Withdrawn,PTGS1,1
+pain,ACETAMINOPHEN,4,"Active, not recruiting",PTGS1,1
+rotator cuff tear,KETOROLAC,2,Recruiting,PTGS1,1
+rotator cuff tear,IBUPROFEN,4,Completed,PTGS1,1
+sinusitis,ACETAMINOPHEN,2,Recruiting,PTGS1,1
+rotator cuff tear,ACETAMINOPHEN,4,Suspended,PTGS1,1
+rotator cuff tear,ACETAMINOPHEN,2,Recruiting,PTGS1,1
+pain,ALOXIPRIN,4,n/a,PTGS1,1
+pain,ASPIRIN,2,Unknown status,PTGS1,1
+pain,ASPIRIN,3,Completed,PTGS1,1
+rheumatoid arthritis,SULFASALAZINE,4,Terminated,PTGS1,1
+rheumatoid arthritis,SULFASALAZINE,4,Not yet recruiting,PTGS1,1
+rheumatoid arthritis,SULFASALAZINE,4,"Active, not recruiting",PTGS1,1
+pain,BENZYDAMINE,4,Completed,PTGS1,1
+pain,DEXKETOPROFEN,1,Completed,PTGS1,1
+sepsis,ASPIRIN,2,Recruiting,PTGS1,1
+pain,ACETAMINOPHEN,2,Not yet recruiting,PTGS1,1
+pain,DEXKETOPROFEN,2,Completed,PTGS1,1
+ovarian carcinoma,ASPIRIN,0,Recruiting,PTGS1,1
+sprain,DICLOFENAC,2,Completed,PTGS1,1
+"osteoarthritis, knee",KETOROLAC,4,Completed,PTGS1,1
+"osteoarthritis, knee",NAPROXEN,2,Completed,PTGS1,1
+"osteoarthritis, knee",PIROXICAM,2,Completed,PTGS1,1
+spondyloarthropathy,IBUPROFEN,2,Terminated,PTGS1,1
+osteomyelitis,AMINOSALICYLIC ACID,0,Recruiting,PTGS1,1
+osteomyelitis,SULFASALAZINE,0,Recruiting,PTGS1,1
+osteonecrosis,ASPIRIN,3,Recruiting,PTGS1,1
+osteoporosis,ACETAMINOPHEN,4,Completed,PTGS1,1
+otitis externa,DICLOFENAC,2,Terminated,PTGS1,1
+ovarian carcinoma,ASPIRIN,2,Recruiting,PTGS1,1
+sinusitis,ACETAMINOPHEN,4,Completed,PTGS1,1
+ovarian carcinoma,KETOROLAC,0,"Active, not recruiting",PTGS1,1
+premature birth,IBUPROFEN,1,Unknown status,PTGS1,1
+pain,ACETAMINOPHEN,0,Completed,PTGS1,1
+pain,ACETAMINOPHEN,0,Recruiting,PTGS1,1
+pain,ACETAMINOPHEN,0,Withdrawn,PTGS1,1
+skin neoplasm,DICLOFENAC,2,Completed,PTGS1,1
+pain,ACETAMINOPHEN,1,Enrolling by invitation,PTGS1,1
+pain,ACETAMINOPHEN,1,Recruiting,PTGS1,1
+pain,ACETAMINOPHEN,2,"Active, not recruiting",PTGS1,1
+sinusitis,IBUPROFEN,2,Recruiting,PTGS1,1
+rheumatoid arthritis,SULFASALAZINE,3,Terminated,PTGS1,1
+rheumatoid arthritis,PIROXICAM,4,n/a,PTGS1,1
+rheumatic disease,BENZYDAMINE,4,n/a,PTGS1,1
+pain,IBUPROFEN,3,Withdrawn,PTGS1,1
+rheumatic disease,MEFENAMIC ACID,4,n/a,PTGS1,1
+pain,IBUPROFEN,1,Enrolling by invitation,PTGS1,1
+pain,IBUPROFEN,1,Suspended,PTGS1,1
+rheumatic disease,MECLOFENAMIC ACID,4,n/a,PTGS1,1
+pain,IBUPROFEN,2,Not yet recruiting,PTGS1,1
+rheumatic disease,KETOROLAC,4,n/a,PTGS1,1
+rheumatic disease,INDOPROFEN,4,n/a,PTGS1,1
+pain,IBUPROFEN,2,Withdrawn,PTGS1,1
+pain,IBUPROFEN,3,Not yet recruiting,PTGS1,1
+pain,IBUPROFEN,3,Unknown status,PTGS1,1
+pain,IBUPROFEN,4,"Active, not recruiting",PTGS1,1
+pain,IBUPROFEN,0,Withdrawn,PTGS1,1
+rheumatic disease,FLURBIPROFEN,4,n/a,PTGS1,1
+rheumatic disease,FENOPROFEN,4,n/a,PTGS1,1
+pain,IBUPROFEN,4,Terminated,PTGS1,1
+pain,IBUPROFEN,4,Unknown status,PTGS1,1
+rheumatic disease,DEXKETOPROFEN,4,n/a,PTGS1,1
+rheumatic disease,DEXIBUPROFEN,4,n/a,PTGS1,1
+pain,INDOMETHACIN,4,Completed,PTGS1,1
+pain,INDOMETHACIN,4,n/a,PTGS1,1
+pain,KETOPROFEN,1,Completed,PTGS1,1
+pain,KETOPROFEN,2,Unknown status,PTGS1,1
+rheumatic disease,NAPROXCINOD,4,n/a,PTGS1,1
+pain,GLAFENINE,4,n/a,PTGS1,1
+rheumatoid arthritis,NAPROXEN,3,Completed,PTGS1,1
+pain,DICLOFENAC,3,Terminated,PTGS1,1
+rheumatoid arthritis,NAPROXEN,2,Completed,PTGS1,1
+rheumatoid arthritis,NAPROXEN,1,Completed,PTGS1,1
+pain,DEXKETOPROFEN,3,Unknown status,PTGS1,1
+rheumatoid arthritis,DICLOFENAC,4,Unknown status,PTGS1,1
+rheumatoid arthritis,DICLOFENAC,2,Completed,PTGS1,1
+rheumatoid arthritis,ACETAMINOPHEN,2,Completed,PTGS1,1
+pain,DICLOFENAC,1,Recruiting,PTGS1,1
+rheumatoid arthritis,ACETAMINOPHEN,1,Terminated,PTGS1,1
+pain,DICLOFENAC,2,Recruiting,PTGS1,1
+rheumatic heart disease,ASPIRIN,3,Not yet recruiting,PTGS1,1
+rheumatic disease,TOLMETIN,4,n/a,PTGS1,1
+rheumatic disease,NAPROXEN,4,n/a,PTGS1,1
+rheumatic disease,SUPROFEN,4,n/a,PTGS1,1
+rheumatic disease,SULINDAC,4,n/a,PTGS1,1
+rheumatic disease,PIRPROFEN,4,n/a,PTGS1,1
+rheumatic disease,PIROXICAM,4,n/a,PTGS1,1
+rheumatic disease,PHENYLBUTAZONE,4,n/a,PTGS1,1
+pain,DIFLUNISAL,4,n/a,PTGS1,1
+pain,DIPYRONE,2,Completed,PTGS1,1
+rheumatic disease,OXYPHENBUTAZONE,4,n/a,PTGS1,1
+pain,FLURBIPROFEN,3,Recruiting,PTGS1,1
+rheumatic disease,OXAPROZIN,4,n/a,PTGS1,1
+mental or behavioural disorder,DEXKETOPROFEN,4,Recruiting,PTGS1,1
+Alzheimer's disease,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+mast-cell leukemia,ACETAMINOPHEN,2,Completed,PTGS1,1
+ankylosing spondylitis,OLSALAZINE,2,Completed,PTGS1,1
+aphthous ulcer,IBUPROFEN,2,Completed,PTGS1,1
+aortic stenosis,ASPIRIN,4,Completed,PTGS1,1
+aortic stenosis,ASPIRIN,3,Unknown status,PTGS1,1
+ankylosing spondylitis,SULFASALAZINE,4,Unknown status,PTGS1,1
+ankylosing spondylitis,SULFASALAZINE,4,Completed,PTGS1,1
+ankylosing spondylitis,SULFASALAZINE,2,Recruiting,PTGS1,1
+ankylosing spondylitis,INDOMETHACIN,4,Recruiting,PTGS1,1
+arthralgia,DEXKETOPROFEN,4,n/a,PTGS1,1
+ankylosing spondylitis,INDOMETHACIN,4,Completed,PTGS1,1
+ankylosing spondylitis,INDOMETHACIN,3,Completed,PTGS1,1
+ankylosing spondylitis,DICLOFENAC,4,Recruiting,PTGS1,1
+ankle fracture,IBUPROFEN,0,Completed,PTGS1,1
+ankle fracture,ACETAMINOPHEN,0,Completed,PTGS1,1
+angina pectoris,ASPIRIN,4,Unknown status,PTGS1,1
+arthralgia,BENZYDAMINE,4,n/a,PTGS1,1
+arthralgia,DICLOFENAC,4,n/a,PTGS1,1
+Venous thrombosis,ASPIRIN,3,Recruiting,PTGS1,1
+arthralgia,PIROXICAM,4,n/a,PTGS1,1
+asthma,INDOMETHACIN,1,Completed,PTGS1,1
+asthma,ASPIRIN,4,Completed,PTGS1,1
+asthma,ASPIRIN,3,Recruiting,PTGS1,1
+asthma,ASPIRIN,1,Completed,PTGS1,1
+asthma,ANTIPYRINE,2,Unknown status,PTGS1,1
+arthralgia,TOLMETIN,4,n/a,PTGS1,1
+arthralgia,PHENYLBUTAZONE,4,n/a,PTGS1,1
+arthralgia,FLURBIPROFEN,4,n/a,PTGS1,1
+arthralgia,OXYPHENBUTAZONE,4,n/a,PTGS1,1
+arthralgia,NAPROXEN,4,n/a,PTGS1,1
+arthralgia,MECLOFENAMIC ACID,4,n/a,PTGS1,1
+arthralgia,KETOPROFEN,4,n/a,PTGS1,1
+arthralgia,INDOMETHACIN,4,n/a,PTGS1,1
+arthralgia,IBUPROFEN,4,n/a,PTGS1,1
+angina pectoris,ASPIRIN,4,Recruiting,PTGS1,1
+angina pectoris,ASPIRIN,2,Completed,PTGS1,1
+angina pectoris,ASPIRIN,0,Unknown status,PTGS1,1
+acute coronary syndrome,ASPIRIN,4,Unknown status,PTGS1,1
+acute pancreatitis,DICLOFENAC,1,Completed,PTGS1,1
+acute pancreatitis,ACETAMINOPHEN,4,Unknown status,PTGS1,1
+acute myocardial infarction,ASPIRIN,2,Unknown status,PTGS1,1
+acute myeloid leukemia,SULINDAC,2,Withdrawn,PTGS1,1
+acute lung injury,ASPIRIN,2,Recruiting,PTGS1,1
+acute graft vs. host disease,ACETAMINOPHEN,2,Completed,PTGS1,1
+acute coronary syndrome,ACETAMINOPHEN,4,Completed,PTGS1,1
+anemia,FLURBIPROFEN,1,Completed,PTGS1,1
+acute chest syndrome,ASPIRIN,3,Not yet recruiting,PTGS1,1
+actinic keratosis,DICLOFENAC,1,Completed,PTGS1,1
+abdominal pain,KETOROLAC,3,Completed,PTGS1,1
+abdominal pain,ACETAMINOPHEN,3,Completed,PTGS1,1
+Venous thrombosis,ASPIRIN,4,Unknown status,PTGS1,1
+Venous thrombosis,ASPIRIN,4,Completed,PTGS1,1
+acute pancreatitis,IBUPROFEN,2,Terminated,PTGS1,1
+acute pancreatitis,INDOMETHACIN,3,Terminated,PTGS1,1
+acute pancreatitis,INDOMETHACIN,4,Completed,PTGS1,1
+acute pancreatitis,KETOROLAC,4,Terminated,PTGS1,1
+acute pharyngitis,FLURBIPROFEN,3,Completed,PTGS1,1
+acute respiratory distress syndrome,ASPIRIN,2,Completed,PTGS1,1
+acute respiratory distress syndrome,ASPIRIN,2,Enrolling by invitation,PTGS1,1
+adenoma,ASPIRIN,3,Terminated,PTGS1,1
+age-related macular degeneration,BROMFENAC,2,Completed,PTGS1,1
+aging,DICLOFENAC,1,Unknown status,PTGS1,1
+alcohol drinking,ACETAMINOPHEN,4,Completed,PTGS1,1
+allergic conjunctivitis,BROMFENAC,3,Completed,PTGS1,1
+allergic rhinitis,IBUPROFEN,1,Completed,PTGS1,1
+allergic rhinitis,KETOROLAC,1,Completed,PTGS1,1
+altitude sickness,IBUPROFEN,1,Completed,PTGS1,1
+altitude sickness,IBUPROFEN,3,Completed,PTGS1,1
+anemia,DICLOFENAC,3,Completed,PTGS1,1
+atherosclerosis,ASPIRIN,1,Completed,PTGS1,1
+atherosclerosis,ASPIRIN,3,Unknown status,PTGS1,1
+atherosclerosis,ASPIRIN,4,Completed,PTGS1,1
+breast carcinoma,NAPROXEN,2,Completed,PTGS1,1
+breast neoplasm,INDOMETHACIN,1,"Active, not recruiting",PTGS1,1
+breast neoplasm,IBUPROFEN,3,Unknown status,PTGS1,1
+breast neoplasm,ASPIRIN,2,Unknown status,PTGS1,1
+breast neoplasm,ASPIRIN,2,Terminated,PTGS1,1
+breast carcinoma,SULINDAC,2,Completed,PTGS1,1
+breast carcinoma,SULINDAC,1,Completed,PTGS1,1
+breast carcinoma,KETOROLAC,4,Withdrawn,PTGS1,1
+brain infarction,ASPIRIN,2,Completed,PTGS1,1
+breast carcinoma,INDOMETHACIN,1,"Active, not recruiting",PTGS1,1
+breast carcinoma,IBUPROFEN,0,Completed,PTGS1,1
+breast carcinoma,DICLOFENAC,0,"Active, not recruiting",PTGS1,1
+breast carcinoma,ASPIRIN,3,Recruiting,PTGS1,1
+breast carcinoma,ASPIRIN,1,Recruiting,PTGS1,1
+breast carcinoma,ASPIRIN,0,Unknown status,PTGS1,1
+breast neoplasm,KETOROLAC,3,Unknown status,PTGS1,1
+burn,IBUPROFEN,3,Completed,PTGS1,1
+cancer,ACETAMINOPHEN,4,Completed,PTGS1,1
+cancer,ASPIRIN,0,Completed,PTGS1,1
+cancer,ASPIRIN,2,Withdrawn,PTGS1,1
+cancer,ASPIRIN,4,"Active, not recruiting",PTGS1,1
+cancer,IBUPROFEN,2,Unknown status,PTGS1,1
+carcinoma,DICLOFENAC,2,Completed,PTGS1,1
+cardiac arrhythmia,ACETAMINOPHEN,1,Withdrawn,PTGS1,1
+cardiovascular disease,ASPIRIN,2,Completed,PTGS1,1
+cardiovascular disease,ASPIRIN,3,Unknown status,PTGS1,1
+cardiovascular disease,ASPIRIN,4,"Active, not recruiting",PTGS1,1
+cardiovascular disease,ASPIRIN,4,Completed,PTGS1,1
+cardiovascular disease,IBUPROFEN,4,n/a,PTGS1,1
+cardiovascular disease,INDOMETHACIN,4,n/a,PTGS1,1
+carpal tunnel syndrome,ACETAMINOPHEN,4,Terminated,PTGS1,1
+cataract,ASPIRIN,3,Terminated,PTGS1,1
+breast carcinoma,ASPIRIN,0,Completed,PTGS1,1
+brain disease,IBUPROFEN,2,Unknown status,PTGS1,1
+atherosclerosis,ASPIRIN,4,Unknown status,PTGS1,1
+back pain,FLURBIPROFEN,4,Recruiting,PTGS1,1
+bacterial disease,IBUPROFEN,4,Completed,PTGS1,1
+bacterial conjunctivitis,NEPAFENAC,2,Withdrawn,PTGS1,1
+back pain,NAPROXEN,4,Completed,PTGS1,1
+back pain,KETOROLAC,3,Not yet recruiting,PTGS1,1
+back pain,IBUPROFEN,4,Completed,PTGS1,1
+back pain,IBUPROFEN,3,Completed,PTGS1,1
+back pain,ACETAMINOPHEN,4,Terminated,PTGS1,1
+brain disease,ACETAMINOPHEN,2,Unknown status,PTGS1,1
+back pain,ACETAMINOPHEN,3,Not yet recruiting,PTGS1,1
+back pain,ACETAMINOPHEN,3,Completed,PTGS1,1
+atrial fibrillation,ASPIRIN,4,Unknown status,PTGS1,1
+atrial fibrillation,ASPIRIN,4,Completed,PTGS1,1
+atrial fibrillation,ASPIRIN,3,Not yet recruiting,PTGS1,1
+atrial fibrillation,ASPIRIN,2,Completed,PTGS1,1
+bacterial meningitis,ACETAMINOPHEN,3,Completed,PTGS1,1
+bacterial meningitis,ACETAMINOPHEN,4,Completed,PTGS1,1
+basal cell carcinoma,DICLOFENAC,2,Completed,PTGS1,1
+berylliosis,MESALAMINE,1,Completed,PTGS1,1
+bipolar disorder,ASPIRIN,2,Completed,PTGS1,1
+bipolar disorder,ASPIRIN,3,Completed,PTGS1,1
+bladder tumor,ASPIRIN,4,Enrolling by invitation,PTGS1,1
+bone fracture,ACETAMINOPHEN,2,Unknown status,PTGS1,1
+bone fracture,ACETAMINOPHEN,4,Completed,PTGS1,1
+bone fracture,ASPIRIN,0,Not yet recruiting,PTGS1,1
+bone fracture,IBUPROFEN,2,Unknown status,PTGS1,1
+bone fracture,IBUPROFEN,3,Completed,PTGS1,1
+bone fracture,IBUPROFEN,4,Completed,PTGS1,1
+bone fracture,KETOROLAC,4,Not yet recruiting,PTGS1,1
+bone fracture,NAPROXEN,4,Withdrawn,PTGS1,1
+brachial plexus neuritis,IBUPROFEN,2,Completed,PTGS1,1
+brain aneurysm,ASPIRIN,4,Recruiting,PTGS1,1
+Venous thrombosis,ASPIRIN,3,Unknown status,PTGS1,1
+Venous thrombosis,ASPIRIN,2,Completed,PTGS1,1
+malnutrition,MESALAMINE,1,Completed,PTGS1,1
+Headache,KETOROLAC,3,Completed,PTGS1,1
+Hypertriglyceridemia,ASPIRIN,1,Completed,PTGS1,1
+Hernia,KETOROLAC,4,Completed,PTGS1,1
+Helicobacter pylori infectious disease,BISMUTH SUBSALICYLATE,4,Completed,PTGS1,1
+Headache,NAPROXEN,3,Withdrawn,PTGS1,1
+Headache,KETOROLAC,4,Enrolling by invitation,PTGS1,1
+Headache,KETOROLAC,4,Completed,PTGS1,1
+Headache,IBUPROFEN,4,Completed,PTGS1,1
+Ischemic stroke,ASPIRIN,0,Recruiting,PTGS1,1
+Headache,IBUPROFEN,3,Unknown status,PTGS1,1
+Headache,ASPIRIN,4,Completed,PTGS1,1
+Headache,ASPIRIN,3,Terminated,PTGS1,1
+Headache,ACETAMINOPHEN,4,Enrolling by invitation,PTGS1,1
+Headache,ACETAMINOPHEN,3,Terminated,PTGS1,1
+HIV infection,MESALAMINE,1,Completed,PTGS1,1
+Inguinal hernia,ACETAMINOPHEN,4,Completed,PTGS1,1
+Ischemic stroke,ASPIRIN,1,Completed,PTGS1,1
+Tuberculosis,IBUPROFEN,2,"Active, not recruiting",PTGS1,1
+Mastodynia,ACETAMINOPHEN,4,Completed,PTGS1,1
+Myalgia,FLURBIPROFEN,4,n/a,PTGS1,1
+Myalgia,DICLOFENAC,4,n/a,PTGS1,1
+Myalgia,DEXKETOPROFEN,4,n/a,PTGS1,1
+Myalgia,BENZYDAMINE,4,n/a,PTGS1,1
+Mastodynia,IBUPROFEN,4,Completed,PTGS1,1
+Mastodynia,DICLOFENAC,2,Terminated,PTGS1,1
+Lynch syndrome,NAPROXEN,1,"Active, not recruiting",PTGS1,1
+Ischemic stroke,ASPIRIN,2,Not yet recruiting,PTGS1,1
+Lynch syndrome,MESALAMINE,2,Not yet recruiting,PTGS1,1
+Lynch syndrome,ASPIRIN,3,Recruiting,PTGS1,1
+Lynch syndrome,ASPIRIN,3,Not yet recruiting,PTGS1,1
+Lymphedema,KETOPROFEN,4,Completed,PTGS1,1
+Langerhans Cell Histiocytosis,INDOMETHACIN,2,Recruiting,PTGS1,1
+Ischemic stroke,ASPIRIN,2,Unknown status,PTGS1,1
+HIV infection,IBUPROFEN,3,Terminated,PTGS1,1
+HIV infection,FLURBIPROFEN,1,Completed,PTGS1,1
+HIV infection,DIFLUNISAL,4,Terminated,PTGS1,1
+Bronchopulmonary dysplasia,IBUPROFEN,2,"Active, not recruiting",PTGS1,1
+De Quervain disease,ACETAMINOPHEN,4,Terminated,PTGS1,1
+Crohn's disease,MESALAMINE,4,Terminated,PTGS1,1
+Crohn's disease,MESALAMINE,4,Recruiting,PTGS1,1
+Crohn's disease,MESALAMINE,4,Completed,PTGS1,1
+Chronic granulomatous disease,IBUPROFEN,2,Recruiting,PTGS1,1
+Chemotherapy-induced nausea and vomiting,SULFASALAZINE,1,Completed,PTGS1,1
+Borderline personality disorder,ACETAMINOPHEN,2,Unknown status,PTGS1,1
+HIV infection,ASPIRIN,2,Terminated,PTGS1,1
+Barrett's esophagus,ASPIRIN,4,Completed,PTGS1,1
+Barrett's esophagus,ASPIRIN,2,"Active, not recruiting",PTGS1,1
+Alzheimer's disease,NAPROXEN,3,Completed,PTGS1,1
+Alzheimer's disease,NAPROXEN,2,Completed,PTGS1,1
+Alzheimer's disease,INDOMETHACIN,3,Completed,PTGS1,1
+Alzheimer's disease,IBUPROFEN,4,Completed,PTGS1,1
+De Quervain disease,IBUPROFEN,4,Terminated,PTGS1,1
+Duchenne muscular dystrophy,IBUPROFEN,1,Completed,PTGS1,1
+Extramammary Paget Disease,ACETAMINOPHEN,3,"Active, not recruiting",PTGS1,1
+Fallopian Tube Carcinoma,KETOROLAC,0,"Active, not recruiting",PTGS1,1
+Familial adenomatous polyposis,SULINDAC,2,Completed,PTGS1,1
+Familial adenomatous polyposis,SULINDAC,2,Unknown status,PTGS1,1
+Familial adenomatous polyposis,SULINDAC,3,"Active, not recruiting",PTGS1,1
+Familial adenomatous polyposis,SULINDAC,3,Withdrawn,PTGS1,1
+Familial amyloid polyneuropathy,DIFLUNISAL,2,Completed,PTGS1,1
+Fish-eye disease,INDOMETHACIN,1,Completed,PTGS1,1
+Glycogen storage disease due to acid maltase deficiency,ACETAMINOPHEN,1,Recruiting,PTGS1,1
+Graves ophthalmopathy,DICLOFENAC,3,Recruiting,PTGS1,1
+Graves ophthalmopathy,DICLOFENAC,4,Completed,PTGS1,1
+HIV infection,ACETAMINOPHEN,3,Terminated,PTGS1,1
+HIV infection,AMINOSALICYLIC ACID,4,Recruiting,PTGS1,1
+HIV infection,ASPIRIN,2,Completed,PTGS1,1
+HIV infection,ASPIRIN,2,Recruiting,PTGS1,1
+Myalgia,IBUPROFEN,4,n/a,PTGS1,1
+Myalgia,INDOMETHACIN,4,n/a,PTGS1,1
+Myalgia,KETOPROFEN,4,n/a,PTGS1,1
+Renal Colic,DICLOFENAC,3,Terminated,PTGS1,1
+Renal Colic,KETOROLAC,0,Recruiting,PTGS1,1
+Renal Colic,KETOPROFEN,4,Suspended,PTGS1,1
+Renal Colic,KETOPROFEN,4,Completed,PTGS1,1
+Renal Colic,KETOPROFEN,1,Unknown status,PTGS1,1
+Renal Colic,INDOMETHACIN,3,Unknown status,PTGS1,1
+Renal Colic,DICLOFENAC,4,Not yet recruiting,PTGS1,1
+Renal Colic,DICLOFENAC,2,Recruiting,PTGS1,1
+Peptic ulcer,NAPROXEN,4,Completed,PTGS1,1
+Renal Colic,DEXKETOPROFEN,4,Completed,PTGS1,1
+Renal Colic,ACETAMINOPHEN,4,Suspended,PTGS1,1
+Renal Colic,ACETAMINOPHEN,4,Completed,PTGS1,1
+Renal Colic,ACETAMINOPHEN,2,Completed,PTGS1,1
+Recurrent thrombophlebitis,ASPIRIN,4,n/a,PTGS1,1
+Recurrent thrombophlebitis,ALOXIPRIN,4,n/a,PTGS1,1
+Renal Colic,KETOROLAC,4,Recruiting,PTGS1,1
+Renal Colic,PIROXICAM,1,Unknown status,PTGS1,1
+ST Elevation Myocardial Infarction,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+Sciatica,IBUPROFEN,4,Unknown status,PTGS1,1
+Sciatica,KETOPROFEN,4,Completed,PTGS1,1
+Sciatica,NAPROXEN,4,Recruiting,PTGS1,1
+Sickle cell anemia,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+Sickle cell anemia,ASPIRIN,1,Completed,PTGS1,1
+Sickle cell anemia,IBUPROFEN,4,Terminated,PTGS1,1
+Skin ulcer,ASPIRIN,2,Terminated,PTGS1,1
+Skin ulcer,ASPIRIN,3,Completed,PTGS1,1
+Spinal cord injury,IBUPROFEN,1,Completed,PTGS1,1
+Tendinopathy,KETOPROFEN,2,Completed,PTGS1,1
+Tendinopathy,KETOROLAC,4,Recruiting,PTGS1,1
+Tendinopathy,NAPROXEN,4,n/a,PTGS1,1
+Thrombophlebitis,DICLOFENAC,4,Completed,PTGS1,1
+Tibial muscular dystrophy,NAPROXEN,1,Unknown status,PTGS1,1
+Plasmodium falciparum malaria,ACETAMINOPHEN,4,Unknown status,PTGS1,1
+Peptic ulcer,ASPIRIN,1,Terminated,PTGS1,1
+Myalgia,MECLOFENAMIC ACID,4,n/a,PTGS1,1
+Myopia,NEPAFENAC,4,Completed,PTGS1,1
+Patent ductus arteriosus,ACETAMINOPHEN,1,Recruiting,PTGS1,1
+Parkinson's disease,ACETAMINOPHEN,1,Completed,PTGS1,1
+Ovarian hyperstimulation syndrome,ASPIRIN,4,Recruiting,PTGS1,1
+Ovarian hyperstimulation syndrome,ASPIRIN,4,Completed,PTGS1,1
+Otitis media,ANTIPYRINE,2,Completed,PTGS1,1
+Oral leukoplakia,ASPIRIN,1,Completed,PTGS1,1
+Myopia,KETOROLAC,4,Completed,PTGS1,1
+Peptic ulcer,ASPIRIN,1,Completed,PTGS1,1
+Myopia,ACETAMINOPHEN,3,Completed,PTGS1,1
+Myalgia,TOLMETIN,4,n/a,PTGS1,1
+Myalgia,PIROXICAM,4,n/a,PTGS1,1
+Myalgia,PHENYLBUTAZONE,4,n/a,PTGS1,1
+Myalgia,OXYPHENBUTAZONE,4,n/a,PTGS1,1
+Myalgia,NAPROXEN,4,n/a,PTGS1,1
+Patent ductus arteriosus,ACETAMINOPHEN,2,Recruiting,PTGS1,1
+Patent ductus arteriosus,ACETAMINOPHEN,3,Completed,PTGS1,1
+Patent ductus arteriosus,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+Patent ductus arteriosus,ACETAMINOPHEN,4,"Active, not recruiting",PTGS1,1
+Patent ductus arteriosus,ACETAMINOPHEN,4,Completed,PTGS1,1
+Patent ductus arteriosus,IBUPROFEN,2,Completed,PTGS1,1
+Patent ductus arteriosus,IBUPROFEN,2,Recruiting,PTGS1,1
+Patent ductus arteriosus,IBUPROFEN,2,Withdrawn,PTGS1,1
+Patent ductus arteriosus,IBUPROFEN,3,"Active, not recruiting",PTGS1,1
+Patent ductus arteriosus,IBUPROFEN,4,"Active, not recruiting",PTGS1,1
+Patent ductus arteriosus,IBUPROFEN,4,Terminated,PTGS1,1
+Patent ductus arteriosus,IBUPROFEN,4,n/a,PTGS1,1
+Patent ductus arteriosus,INDOMETHACIN,2,Completed,PTGS1,1
+Patent ductus arteriosus,INDOMETHACIN,2,Terminated,PTGS1,1
+Patent ductus arteriosus,INDOMETHACIN,2,Unknown status,PTGS1,1
+Patent ductus arteriosus,INDOMETHACIN,2,Withdrawn,PTGS1,1
+Patent ductus arteriosus,INDOMETHACIN,3,Recruiting,PTGS1,1
+cataract,BROMFENAC,4,Enrolling by invitation,PTGS1,1
+cataract,BROMFENAC,4,Recruiting,PTGS1,1
+cataract,KETOROLAC,2,Not yet recruiting,PTGS1,1
+hemorrhage,ASPIRIN,3,Recruiting,PTGS1,1
+hepatocellular carcinoma,ASPIRIN,3,Unknown status,PTGS1,1
+hepatitis B infection,ACETAMINOPHEN,1,Terminated,PTGS1,1
+hemorrhage,MEFENAMIC ACID,4,Completed,PTGS1,1
+hemorrhage,MEFENAMIC ACID,3,Recruiting,PTGS1,1
+hemorrhage,INDOMETHACIN,4,Completed,PTGS1,1
+hemorrhage,IBUPROFEN,2,Completed,PTGS1,1
+hemorrhage,ASPIRIN,2,Completed,PTGS1,1
+hip fracture,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+hemorrhage,ASPIRIN,1,Recruiting,PTGS1,1
+hemorrhage,ACETAMINOPHEN,4,Unknown status,PTGS1,1
+hemorrhage,ACETAMINOPHEN,4,Completed,PTGS1,1
+hemorrhage,ACETAMINOPHEN,3,Unknown status,PTGS1,1
+hemorrhage,ACETAMINOPHEN,2,Completed,PTGS1,1
+hemopericardium,DICLOFENAC,4,Completed,PTGS1,1
+high-risk pregnancy,ASPIRIN,2,Recruiting,PTGS1,1
+hip fracture,ACETAMINOPHEN,4,Terminated,PTGS1,1
+cataract,KETOROLAC,4,Unknown status,PTGS1,1
+hypertension,ACETAMINOPHEN,2,Completed,PTGS1,1
+hypertension,IBUPROFEN,2,Completed,PTGS1,1
+hypertension,ASPIRIN,4,Unknown status,PTGS1,1
+hypertension,ASPIRIN,3,Completed,PTGS1,1
+hypertension,ASPIRIN,1,Completed,PTGS1,1
+hypertension,ACETAMINOPHEN,4,Terminated,PTGS1,1
+hypertension,ACETAMINOPHEN,4,Completed,PTGS1,1
+hypermetropia,NEPAFENAC,4,Completed,PTGS1,1
+hip fracture,DICLOFENAC,4,Recruiting,PTGS1,1
+hypermetropia,KETOROLAC,4,Completed,PTGS1,1
+hypercholesterolemia,ASPIRIN,2,Terminated,PTGS1,1
+humerus fracture,IBUPROFEN,4,Not yet recruiting,PTGS1,1
+humerus fracture,ACETAMINOPHEN,4,Not yet recruiting,PTGS1,1
+hip fracture,NAPROXEN,4,Recruiting,PTGS1,1
+hip fracture,IBUPROFEN,4,Recruiting,PTGS1,1
+heart failure,ASPIRIN,4,Unknown status,PTGS1,1
+heart failure,ASPIRIN,4,Completed,PTGS1,1
+heart failure,ASPIRIN,4,"Active, not recruiting",PTGS1,1
+gastric ulcer,DICLOFENAC,3,Terminated,PTGS1,1
+glaucoma,ACETAMINOPHEN,0,Completed,PTGS1,1
+gastrointestinal mucositis,IBUPROFEN,4,Completed,PTGS1,1
+gastrointestinal mucositis,ACETAMINOPHEN,4,Completed,PTGS1,1
+gastrointestinal hemorrhage,ASPIRIN,4,Unknown status,PTGS1,1
+gastric ulcer,NAPROXEN,3,Terminated,PTGS1,1
+gastric ulcer,NAPROXEN,1,Completed,PTGS1,1
+gastric carcinoma,ASPIRIN,4,Unknown status,PTGS1,1
+heart failure,ASPIRIN,3,Completed,PTGS1,1
+gallstones,KETOROLAC,4,Completed,PTGS1,1
+gallstones,ACETAMINOPHEN,4,Completed,PTGS1,1
+gallbladder disease,IBUPROFEN,4,Completed,PTGS1,1
+frozen shoulder,NAPROXEN,4,n/a,PTGS1,1
+fever,IBUPROFEN,4,Terminated,PTGS1,1
+fever,IBUPROFEN,2,Unknown status,PTGS1,1
+glaucoma,KETOROLAC,4,Completed,PTGS1,1
+glaucoma,NEPAFENAC,4,Not yet recruiting,PTGS1,1
+glioblastoma multiforme,ASPIRIN,2,Terminated,PTGS1,1
+gout,DICLOFENAC,2,Unknown status,PTGS1,1
+gout,INDOMETHACIN,1,Completed,PTGS1,1
+gout,INDOMETHACIN,2,Withdrawn,PTGS1,1
+gout,INDOMETHACIN,4,Completed,PTGS1,1
+gout,NAPROXEN,1,Completed,PTGS1,1
+gout,NAPROXEN,3,Completed,PTGS1,1
+habitual abortion,ASPIRIN,2,Completed,PTGS1,1
+habitual abortion,ASPIRIN,3,Completed,PTGS1,1
+head and neck malignant neoplasia,ASPIRIN,1,Recruiting,PTGS1,1
+head and neck squamous cell carcinoma,INDOMETHACIN,2,Completed,PTGS1,1
+head and neck squamous cell carcinoma,SULINDAC,1,Completed,PTGS1,1
+head and neck squamous cell carcinoma,SULINDAC,2,Terminated,PTGS1,1
+heart disease,ASPIRIN,2,Completed,PTGS1,1
+heart disease,KETOROLAC,2,Unknown status,PTGS1,1
+hypertension,IBUPROFEN,4,Completed,PTGS1,1
+hypertension,PIROXICAM,4,Completed,PTGS1,1
+hypertrophic cardiomyopathy,ASPIRIN,3,Recruiting,PTGS1,1
+irritable bowel syndrome,MESALAMINE,3,Recruiting,PTGS1,1
+juvenile idiopathic arthritis,IBUPROFEN,4,Completed,PTGS1,1
+ischemia,ASPIRIN,4,Recruiting,PTGS1,1
+ischemia,ASPIRIN,2,Unknown status,PTGS1,1
+ischemia,ASPIRIN,2,"Active, not recruiting",PTGS1,1
+irritable bowel syndrome,MESALAMINE,4,Withdrawn,PTGS1,1
+irritable bowel syndrome,MESALAMINE,4,Completed,PTGS1,1
+irritable bowel syndrome,MESALAMINE,3,Completed,PTGS1,1
+injury,KETOROLAC,1,Not yet recruiting,PTGS1,1
+intestinal disease,MESALAMINE,2,Unknown status,PTGS1,1
+interstitial cystitis,KETOROLAC,4,Completed,PTGS1,1
+internal carotid artery stenosis,ASPIRIN,2,Recruiting,PTGS1,1
+internal carotid artery stenosis,ASPIRIN,2,Completed,PTGS1,1
+insomnia,ASPIRIN,0,Completed,PTGS1,1
+injury,NAPROXEN,4,Recruiting,PTGS1,1
+juvenile idiopathic arthritis,NAPROXEN,1,Completed,PTGS1,1
+juvenile idiopathic arthritis,SULFASALAZINE,4,Terminated,PTGS1,1
+kidney disease,ACETAMINOPHEN,1,Completed,PTGS1,1
+kidney failure,NAPROXCINOD,1,Completed,PTGS1,1
+kidney stone,KETOROLAC,4,Completed,PTGS1,1
+knee pain,DICLOFENAC,3,Recruiting,PTGS1,1
+knee pain,KETOROLAC,4,Withdrawn,PTGS1,1
+lateral epicondylitis,INDOMETHACIN,4,Terminated,PTGS1,1
+liver disease,NAPROXCINOD,1,Completed,PTGS1,1
+lupus nephritis,ACETAMINOPHEN,2,"Active, not recruiting",PTGS1,1
+lupus nephritis,ACETAMINOPHEN,3,Completed,PTGS1,1
+lymphocytic colitis,MESALAMINE,3,Completed,PTGS1,1
+lymphoid leukemia,ACETAMINOPHEN,2,Terminated,PTGS1,1
+lymphoma,ACETAMINOPHEN,2,Completed,PTGS1,1
+lymphoma,BISMUTH SUBSALICYLATE,2,Completed,PTGS1,1
+malaria,ACETAMINOPHEN,3,Completed,PTGS1,1
+malaria,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+injury,KETOROLAC,2,Recruiting,PTGS1,1
+injury,KETOPROFEN,3,Recruiting,PTGS1,1
+hypertrophy,ACETAMINOPHEN,2,Not yet recruiting,PTGS1,1
+inflammation,ASPIRIN,1,Completed,PTGS1,1
+inflammation,KETOROLAC,1,Completed,PTGS1,1
+inflammation,INDOMETHACIN,3,Completed,PTGS1,1
+inflammation,INDOMETHACIN,1,Completed,PTGS1,1
+inflammation,IBUPROFEN,4,Terminated,PTGS1,1
+inflammation,BROMFENAC,4,"Active, not recruiting",PTGS1,1
+inflammation,BROMFENAC,1,Completed,PTGS1,1
+inflammation,ASPIRIN,0,Recruiting,PTGS1,1
+injury,IBUPROFEN,4,Completed,PTGS1,1
+infertility,DICLOFENAC,3,Unknown status,PTGS1,1
+infectious meningitis,ASPIRIN,2,Completed,PTGS1,1
+infection,IBUPROFEN,3,Terminated,PTGS1,1
+infection,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+infection,ACETAMINOPHEN,3,Completed,PTGS1,1
+hypoxia,KETOROLAC,1,Withdrawn,PTGS1,1
+inflammation,KETOROLAC,3,Completed,PTGS1,1
+inflammation,NAPROXEN,0,Not yet recruiting,PTGS1,1
+inflammation,NEPAFENAC,4,Completed,PTGS1,1
+Alzheimer's disease,IBUPROFEN,1,Unknown status,PTGS1,1
+inflammatory bowel disease,IBUPROFEN,4,Completed,PTGS1,1
+influenza infection,ACETAMINOPHEN,3,Completed,PTGS1,1
+influenza infection,ACETAMINOPHEN,4,Completed,PTGS1,1
+influenza infection,ACETAMINOPHEN,4,Not yet recruiting,PTGS1,1
+influenza infection,IBUPROFEN,4,Completed,PTGS1,1
+influenza infection,IBUPROFEN,4,n/a,PTGS1,1
+injury,ACETAMINOPHEN,2,Not yet recruiting,PTGS1,1
+injury,ACETAMINOPHEN,3,Recruiting,PTGS1,1
+injury,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+injury,ASPIRIN,3,Recruiting,PTGS1,1
+injury,DICLOFENAC,2,Completed,PTGS1,1
+injury,IBUPROFEN,2,Not yet recruiting,PTGS1,1
+injury,IBUPROFEN,2,Recruiting,PTGS1,1
+fever,GLAFENINE,4,n/a,PTGS1,1
+fever,DIPYRONE,4,Completed,PTGS1,1
+fever,DIFLUNISAL,4,n/a,PTGS1,1
+colorectal neoplasm,SULINDAC,3,Recruiting,PTGS1,1
+common cold,ASPIRIN,3,Completed,PTGS1,1
+common cold,ACETAMINOPHEN,4,Completed,PTGS1,1
+common cold,ACETAMINOPHEN,3,Withdrawn,PTGS1,1
+common cold,ACETAMINOPHEN,3,Completed,PTGS1,1
+common cold,ACETAMINOPHEN,2,Completed,PTGS1,1
+common cold,ACETAMINOPHEN,1,Completed,PTGS1,1
+colorectal carcinoma,SULINDAC,2,Terminated,PTGS1,1
+colorectal carcinoma,ASPIRIN,2,Terminated,PTGS1,1
+colorectal carcinoma,SULINDAC,2,Completed,PTGS1,1
+colorectal carcinoma,MESALAMINE,2,Recruiting,PTGS1,1
+colorectal carcinoma,MESALAMINE,2,Completed,PTGS1,1
+colorectal carcinoma,INDOMETHACIN,4,Completed,PTGS1,1
+colorectal carcinoma,ASPIRIN,3,Unknown status,PTGS1,1
+colorectal carcinoma,ASPIRIN,3,Not yet recruiting,PTGS1,1
+common cold,ASPIRIN,4,Completed,PTGS1,1
+common cold,IBUPROFEN,3,Not yet recruiting,PTGS1,1
+common cold,IBUPROFEN,3,Withdrawn,PTGS1,1
+coronary aneurysm,ASPIRIN,4,Completed,PTGS1,1
+coronary artery disease,ACETAMINOPHEN,4,Completed,PTGS1,1
+coronary artery disease,ASPIRIN,0,Completed,PTGS1,1
+coronary artery disease,ASPIRIN,1,Unknown status,PTGS1,1
+coronary artery disease,ASPIRIN,2,Unknown status,PTGS1,1
+coronary artery disease,ASPIRIN,3,Recruiting,PTGS1,1
+coronary artery disease,ASPIRIN,4,Not yet recruiting,PTGS1,1
+coronary artery disease,ASPIRIN,4,Terminated,PTGS1,1
+coronary artery disease,ASPIRIN,4,Withdrawn,PTGS1,1
+coronary heart disease,ASPIRIN,2,Completed,PTGS1,1
+coronary heart disease,ASPIRIN,3,Unknown status,PTGS1,1
+coronary heart disease,ASPIRIN,4,Unknown status,PTGS1,1
+coronary stenosis,ASPIRIN,4,Completed,PTGS1,1
+cutaneous melanoma,ACETAMINOPHEN,2,Completed,PTGS1,1
+colorectal carcinoma,ASPIRIN,3,Completed,PTGS1,1
+colorectal carcinoma,ASPIRIN,2,"Active, not recruiting",PTGS1,1
+cutaneous melanoma,INDOMETHACIN,2,Completed,PTGS1,1
+cervical spondylosis,IBUPROFEN,2,Terminated,PTGS1,1
+chronic kidney disease,ASPIRIN,4,Withdrawn,PTGS1,1
+chronic kidney disease,ASPIRIN,3,Unknown status,PTGS1,1
+chronic kidney disease,ASPIRIN,1,Unknown status,PTGS1,1
+choroidal melanoma,IBUPROFEN,1,Unknown status,PTGS1,1
+chest pain,DICLOFENAC,4,Completed,PTGS1,1
+cervical squamous cell carcinoma,INDOMETHACIN,2,Recruiting,PTGS1,1
+cervical artery dissection,ASPIRIN,4,Recruiting,PTGS1,1
+colorectal carcinoma,ASPIRIN,1,Completed,PTGS1,1
+cerebral small vessel disease,ASPIRIN,4,Unknown status,PTGS1,1
+cerebral palsy,IBUPROFEN,3,Terminated,PTGS1,1
+cerebral atherosclerosis,ASPIRIN,3,Not yet recruiting,PTGS1,1
+cataract,NEPAFENAC,4,Unknown status,PTGS1,1
+cataract,NEPAFENAC,3,Recruiting,PTGS1,1
+cataract,NEPAFENAC,2,Not yet recruiting,PTGS1,1
+chronic myelogenous leukemia,ACETAMINOPHEN,1,Completed,PTGS1,1
+chronic obstructive pulmonary disease,ASPIRIN,2,Completed,PTGS1,1
+chronic obstructive pulmonary disease,ASPIRIN,2,Unknown status,PTGS1,1
+chronic pain,ACETAMINOPHEN,1,Completed,PTGS1,1
+chronic pain,ACETAMINOPHEN,4,Withdrawn,PTGS1,1
+chronic pain,DICLOFENAC,1,Not yet recruiting,PTGS1,1
+chronic pain,IBUPROFEN,4,Unknown status,PTGS1,1
+chronic pain,KETOROLAC,4,Unknown status,PTGS1,1
+cleft palate,ACETAMINOPHEN,2,Completed,PTGS1,1
+cleft palate,ACETAMINOPHEN,2,Withdrawn,PTGS1,1
+clostridium difficile infection,BISMUTH SUBSALICYLATE,4,Withdrawn,PTGS1,1
+cognitive impairment,IBUPROFEN,2,Recruiting,PTGS1,1
+colitis,MESALAMINE,2,Withdrawn,PTGS1,1
+collagenous colitis,MESALAMINE,3,Completed,PTGS1,1
+colon carcinoma,ASPIRIN,2,Recruiting,PTGS1,1
+colorectal adenoma,ASPIRIN,2,Recruiting,PTGS1,1
+colorectal adenoma,MESALAMINE,2,Completed,PTGS1,1
+cutaneous melanoma,ASPIRIN,2,Recruiting,PTGS1,1
+cutaneous melanoma,SULINDAC,2,Completed,PTGS1,1
+fever,DICLOFENAC,4,Terminated,PTGS1,1
+dysmenorrhea,IBUPROFEN,3,Completed,PTGS1,1
+essential thrombocythemia,ASPIRIN,2,Completed,PTGS1,1
+emphysema,IBUPROFEN,2,Completed,PTGS1,1
+dysmenorrhea,NAPROXEN,4,Completed,PTGS1,1
+dysmenorrhea,NAPROXEN,3,Completed,PTGS1,1
+dysmenorrhea,MEFENAMIC ACID,4,Completed,PTGS1,1
+dysmenorrhea,IBUPROFEN,4,Terminated,PTGS1,1
+dysmenorrhea,IBUPROFEN,2,Completed,PTGS1,1
+dysmenorrhea,ACETAMINOPHEN,4,Completed,PTGS1,1
+dysmenorrhea,IBUPROFEN,0,Completed,PTGS1,1
+dysmenorrhea,DICLOFENAC,4,Completed,PTGS1,1
+dysmenorrhea,DICLOFENAC,2,Unknown status,PTGS1,1
+dysmenorrhea,DEXKETOPROFEN,4,Unknown status,PTGS1,1
+dysmenorrhea,ANTIPYRINE,3,Completed,PTGS1,1
+dysmenorrhea,ACETAMINOPHEN,4,Unknown status,PTGS1,1
+essential thrombocythemia,ASPIRIN,3,Completed,PTGS1,1
+essential thrombocythemia,ASPIRIN,3,Recruiting,PTGS1,1
+eye inflammation,BROMFENAC,4,n/a,PTGS1,1
+eye inflammation,DICLOFENAC,4,n/a,PTGS1,1
+eye inflammation,FLURBIPROFEN,4,n/a,PTGS1,1
+eye inflammation,INDOMETHACIN,4,n/a,PTGS1,1
+eye inflammation,KETOROLAC,4,n/a,PTGS1,1
+eye inflammation,NEPAFENAC,4,n/a,PTGS1,1
+eye inflammation,OXYPHENBUTAZONE,4,n/a,PTGS1,1
+eye inflammation,PIROXICAM,4,n/a,PTGS1,1
+fatigue,ASPIRIN,0,Completed,PTGS1,1
+febrile seizures,ACETAMINOPHEN,4,Completed,PTGS1,1
+febrile seizures,DICLOFENAC,4,Completed,PTGS1,1
+febrile seizures,IBUPROFEN,4,Completed,PTGS1,1
+fever,ACETAMINOPHEN,2,Completed,PTGS1,1
+fever,ACETAMINOPHEN,4,Unknown status,PTGS1,1
+fever,ALOXIPRIN,4,n/a,PTGS1,1
+dysmenorrhea,ACETAMINOPHEN,4,Not yet recruiting,PTGS1,1
+dysmenorrhea,ACETAMINOPHEN,3,Completed,PTGS1,1
+deep vein thrombosis,ASPIRIN,4,Completed,PTGS1,1
+diabetic macular edema,BROMFENAC,1,Unknown status,PTGS1,1
+diabetic macular edema,NEPAFENAC,4,Completed,PTGS1,1
+diabetic macular edema,NEPAFENAC,3,Completed,PTGS1,1
+diabetic macular edema,NEPAFENAC,2,Completed,PTGS1,1
+diabetic macular edema,DICLOFENAC,4,Recruiting,PTGS1,1
+diabetic macular edema,DICLOFENAC,1,Unknown status,PTGS1,1
+diabetic macular edema,BROMFENAC,4,Completed,PTGS1,1
+diabetes mellitus,MEFENAMIC ACID,1,Completed,PTGS1,1
+duodenal ulcer,NAPROXEN,4,Completed,PTGS1,1
+diabetes mellitus,ASPIRIN,4,Completed,PTGS1,1
+diabetes mellitus,ASPIRIN,4,"Active, not recruiting",PTGS1,1
+diabetes mellitus,ASPIRIN,3,Unknown status,PTGS1,1
+diabetes mellitus,ASPIRIN,3,Not yet recruiting,PTGS1,1
+delirium,ACETAMINOPHEN,4,"Active, not recruiting",PTGS1,1
+delirium,ACETAMINOPHEN,0,Not yet recruiting,PTGS1,1
+diabetic nephropathy,ASPIRIN,4,Unknown status,PTGS1,1
+diabetic neuropathy,ACETAMINOPHEN,3,Completed,PTGS1,1
+diabetic neuropathy,ACETAMINOPHEN,4,Completed,PTGS1,1
+diabetic retinopathy,NEPAFENAC,3,Terminated,PTGS1,1
+diffuse large B-cell lymphoma,ACETAMINOPHEN,2,Terminated,PTGS1,1
+digestive system disease,ACETAMINOPHEN,2,Completed,PTGS1,1
+diverticulitis,ACETAMINOPHEN,4,Recruiting,PTGS1,1
+diverticulitis,IBUPROFEN,4,Recruiting,PTGS1,1
+diverticulitis,MESALAMINE,2,Completed,PTGS1,1
+diverticulitis,MESALAMINE,3,Completed,PTGS1,1
+drug-induced hepatitis,ACETAMINOPHEN,4,Completed,PTGS1,1
+dry eye syndrome,BROMFENAC,3,Completed,PTGS1,1
+dry eye syndrome,BROMFENAC,4,Completed,PTGS1,1
+dry eye syndrome,KETOROLAC,4,Completed,PTGS1,1
+duodenal ulcer,ASPIRIN,2,Completed,PTGS1,1
+duodenal ulcer,ASPIRIN,4,Completed,PTGS1,1
+duodenal ulcer,NAPROXEN,2,Completed,PTGS1,1
+wet macular degeneration,KETOROLAC,4,Completed,PTGS1,1

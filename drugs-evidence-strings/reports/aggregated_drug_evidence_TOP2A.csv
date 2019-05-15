@@ -1,0 +1,1256 @@
+disease,drug,phase,status,target,num_ev_strings
+breast carcinoma,DOXORUBICIN,2,Completed,TOP2A,73
+lymphoma,ETOPOSIDE,2,Completed,TOP2A,65
+lymphoma,DOXORUBICIN,2,Completed,TOP2A,54
+breast carcinoma,DOXORUBICIN,3,Completed,TOP2A,33
+lymphoma,DOXORUBICIN,3,Completed,TOP2A,31
+leukemia,ETOPOSIDE,2,Completed,TOP2A,29
+multiple myeloma,DOXORUBICIN,2,Completed,TOP2A,20
+lymphoma,ETOPOSIDE,3,Completed,TOP2A,20
+leukemia,DAUNORUBICIN,2,Completed,TOP2A,19
+breast carcinoma,DOXORUBICIN,2,Unknown status,TOP2A,19
+breast carcinoma,DOXORUBICIN,2,Terminated,TOP2A,17
+breast carcinoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,16
+leukemia,DAUNORUBICIN,3,Completed,TOP2A,16
+breast carcinoma,DOXORUBICIN,2,Recruiting,TOP2A,16
+breast carcinoma,DOXORUBICIN,1,Completed,TOP2A,16
+neoplasm,DOXORUBICIN,1,Completed,TOP2A,15
+leukemia,ETOPOSIDE,1,Completed,TOP2A,14
+sarcoma,DOXORUBICIN,2,Completed,TOP2A,14
+lung carcinoma,ETOPOSIDE,2,Completed,TOP2A,14
+breast carcinoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,14
+lymphoma,DOXORUBICIN,1,Completed,TOP2A,14
+sarcoma,DOXORUBICIN,1,Completed,TOP2A,14
+neuroblastoma,ETOPOSIDE,2,Completed,TOP2A,14
+lymphoma,ETOPOSIDE,2,Unknown status,TOP2A,13
+lymphoma,ETOPOSIDE,1,Completed,TOP2A,13
+diffuse large B-cell lymphoma,DOXORUBICIN,2,Completed,TOP2A,13
+leukemia,ETOPOSIDE,3,Completed,TOP2A,13
+lymphoma,DOXORUBICIN,2,Unknown status,TOP2A,13
+lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,13
+ovarian carcinoma,DOXORUBICIN,2,Completed,TOP2A,12
+leukemia,MITOXANTRONE,2,Completed,TOP2A,12
+breast neoplasm,DOXORUBICIN,2,Completed,TOP2A,12
+acute myeloid leukemia,DAUNORUBICIN,3,Completed,TOP2A,12
+leukemia,DOXORUBICIN,3,Completed,TOP2A,12
+acute myeloid leukemia,DAUNORUBICIN,1,Recruiting,TOP2A,11
+acute myeloid leukemia,MITOXANTRONE,1,Completed,TOP2A,11
+acute myeloid leukemia,IDARUBICIN,2,Completed,TOP2A,11
+lymphoma,ETOPOSIDE,3,Unknown status,TOP2A,11
+Hodgkins lymphoma,DOXORUBICIN,2,Recruiting,TOP2A,11
+neuroblastoma,DOXORUBICIN,2,Completed,TOP2A,11
+lung carcinoma,ETOPOSIDE,3,Completed,TOP2A,11
+sarcoma,DOXORUBICIN,3,Completed,TOP2A,10
+leukemia,IDARUBICIN,2,Completed,TOP2A,10
+hepatocellular carcinoma,DOXORUBICIN,2,Completed,TOP2A,10
+small cell lung carcinoma,ETOPOSIDE,2,Completed,TOP2A,10
+small cell lung carcinoma,ETOPOSIDE,1,Completed,TOP2A,10
+lymphoma,DOXORUBICIN,3,Unknown status,TOP2A,10
+lymphoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,10
+acute myeloid leukemia,ETOPOSIDE,1,Completed,TOP2A,10
+multiple myeloma,DOXORUBICIN,3,Completed,TOP2A,10
+lymphoma,DOXORUBICIN,2,Terminated,TOP2A,9
+acute myeloid leukemia,IDARUBICIN,1,Recruiting,TOP2A,9
+acute myeloid leukemia,IDARUBICIN,1,Completed,TOP2A,9
+breast carcinoma,DOXORUBICIN,3,Unknown status,TOP2A,9
+leukemia,DOXORUBICIN,2,Completed,TOP2A,9
+prostate carcinoma,MITOXANTRONE,2,Completed,TOP2A,9
+small cell lung carcinoma,ETOPOSIDE,1,Terminated,TOP2A,8
+central nervous system cancer,ETOPOSIDE,2,Completed,TOP2A,8
+leukemia,DAUNORUBICIN,1,Completed,TOP2A,8
+lymphoma,MITOXANTRONE,3,Completed,TOP2A,8
+neuroblastoma,ETOPOSIDE,3,Completed,TOP2A,8
+multiple myeloma,ETOPOSIDE,2,Completed,TOP2A,8
+diffuse large B-cell lymphoma,ETOPOSIDE,2,Recruiting,TOP2A,8
+lymphoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,8
+leukemia,ETOPOSIDE,3,Unknown status,TOP2A,8
+non-Hodgkins lymphoma,ETOPOSIDE,2,Terminated,TOP2A,8
+non-Hodgkins lymphoma,ETOPOSIDE,2,Completed,TOP2A,8
+hepatocellular carcinoma,DOXORUBICIN,2,Unknown status,TOP2A,8
+acute myeloid leukemia,MITOXANTRONE,2,Recruiting,TOP2A,8
+ovarian carcinoma,DOXORUBICIN,1,Completed,TOP2A,8
+acute myeloid leukemia,DAUNORUBICIN,1,Completed,TOP2A,8
+acute myeloid leukemia,DAUNORUBICIN,2,"Active, not recruiting",TOP2A,8
+lung carcinoma,ETOPOSIDE,1,Completed,TOP2A,8
+leukemia,IDARUBICIN,3,Completed,TOP2A,7
+sarcoma,DOXORUBICIN,2,Terminated,TOP2A,7
+small cell lung carcinoma,ETOPOSIDE,3,Completed,TOP2A,7
+Hodgkins lymphoma,DOXORUBICIN,2,Completed,TOP2A,7
+diffuse large B-cell lymphoma,ETOPOSIDE,2,Completed,TOP2A,7
+acute myeloid leukemia,IDARUBICIN,1,"Active, not recruiting",TOP2A,7
+neuroblastoma,DOXORUBICIN,3,Completed,TOP2A,7
+diffuse large B-cell lymphoma,DOXORUBICIN,3,Recruiting,TOP2A,7
+acute lymphoblastic leukemia,DOXORUBICIN,2,Recruiting,TOP2A,7
+diffuse large B-cell lymphoma,DOXORUBICIN,2,Recruiting,TOP2A,7
+Hodgkins lymphoma,DOXORUBICIN,3,Completed,TOP2A,7
+leukemia,MITOXANTRONE,1,Completed,TOP2A,7
+cancer,DOXORUBICIN,1,Completed,TOP2A,7
+acute lymphoblastic leukemia,DAUNORUBICIN,4,Completed,TOP2A,7
+acute myeloid leukemia,MITOXANTRONE,1,"Active, not recruiting",TOP2A,7
+ovarian carcinoma,DOXORUBICIN,1,Terminated,TOP2A,7
+leukemia,IDARUBICIN,1,Completed,TOP2A,7
+diffuse large B-cell lymphoma,DOXORUBICIN,1,Recruiting,TOP2A,6
+acute myeloid leukemia,MITOXANTRONE,3,Recruiting,TOP2A,6
+hepatocellular carcinoma,DOXORUBICIN,1,Completed,TOP2A,6
+small cell lung carcinoma,ETOPOSIDE,3,"Active, not recruiting",TOP2A,6
+ovarian carcinoma,DOXORUBICIN,3,Completed,TOP2A,6
+ovarian neoplasm,DOXORUBICIN,2,Completed,TOP2A,6
+acute myeloid leukemia,DAUNORUBICIN,2,Recruiting,TOP2A,6
+small cell lung carcinoma,ETOPOSIDE,2,Recruiting,TOP2A,6
+acute myeloid leukemia,ETOPOSIDE,3,Completed,TOP2A,6
+non-Hodgkins lymphoma,DOXORUBICIN,2,Terminated,TOP2A,6
+acute myeloid leukemia,DAUNORUBICIN,3,Recruiting,TOP2A,6
+acute myeloid leukemia,IDARUBICIN,2,Recruiting,TOP2A,6
+prostate carcinoma,ETOPOSIDE,2,Completed,TOP2A,6
+diffuse large B-cell lymphoma,DOXORUBICIN,3,Completed,TOP2A,6
+acute myeloid leukemia,ETOPOSIDE,2,Recruiting,TOP2A,6
+leukemia,IDARUBICIN,3,Unknown status,TOP2A,6
+Hodgkins lymphoma,ETOPOSIDE,1,Completed,TOP2A,6
+Hodgkins lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,6
+leukemia,MITOXANTRONE,3,Completed,TOP2A,6
+Hodgkins lymphoma,ETOPOSIDE,2,Recruiting,TOP2A,6
+diffuse large B-cell lymphoma,DOXORUBICIN,2,Terminated,TOP2A,5
+neuroblastoma,ETOPOSIDE,1,Completed,TOP2A,5
+diffuse large B-cell lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,5
+breast carcinoma,DOXORUBICIN,1,Terminated,TOP2A,5
+lung carcinoma,ETOPOSIDE,3,Unknown status,TOP2A,5
+breast carcinoma,DOXORUBICIN,2,Withdrawn,TOP2A,5
+acute lymphoblastic leukemia,ETOPOSIDE,3,Recruiting,TOP2A,5
+breast carcinoma,DOXORUBICIN,3,Recruiting,TOP2A,5
+prostate carcinoma,DOXORUBICIN,1,Completed,TOP2A,5
+Hodgkins lymphoma,ETOPOSIDE,2,Completed,TOP2A,5
+breast carcinoma,ETOPOSIDE,2,Completed,TOP2A,5
+acute lymphoblastic leukemia,ETOPOSIDE,2,Completed,TOP2A,5
+acute lymphoblastic leukemia,DOXORUBICIN,4,Completed,TOP2A,5
+non-small cell lung carcinoma,ETOPOSIDE,1,Terminated,TOP2A,5
+acute lymphoblastic leukemia,DOXORUBICIN,2,Completed,TOP2A,5
+small cell lung carcinoma,ETOPOSIDE,1,"Active, not recruiting",TOP2A,5
+myelodysplastic syndrome,ETOPOSIDE,1,Completed,TOP2A,5
+acute myeloid leukemia,DAUNORUBICIN,1,"Active, not recruiting",TOP2A,5
+leukemia,DAUNORUBICIN,3,Unknown status,TOP2A,5
+lymphoma,MITOXANTRONE,2,Completed,TOP2A,5
+multiple myeloma,DOXORUBICIN,1,Completed,TOP2A,5
+lymphoma,ETOPOSIDE,2,Recruiting,TOP2A,5
+diffuse large B-cell lymphoma,ETOPOSIDE,2,Terminated,TOP2A,5
+neoplasm,ETOPOSIDE,1,Completed,TOP2A,5
+prostate carcinoma,DOXORUBICIN,2,Completed,TOP2A,5
+lymphoma,DOXORUBICIN,3,Terminated,TOP2A,5
+bladder carcinoma,DOXORUBICIN,2,Completed,TOP2A,5
+diffuse large B-cell lymphoma,ETOPOSIDE,1,Completed,TOP2A,5
+lymphoma,DAUNORUBICIN,3,Unknown status,TOP2A,4
+breast neoplasm,DOXORUBICIN,3,Completed,TOP2A,4
+acute myeloid leukemia,ETOPOSIDE,3,"Active, not recruiting",TOP2A,4
+acute myeloid leukemia,ETOPOSIDE,1,"Active, not recruiting",TOP2A,4
+acute myeloid leukemia,MITOXANTRONE,3,"Active, not recruiting",TOP2A,4
+acute myeloid leukemia,MITOXANTRONE,3,Completed,TOP2A,4
+leukemia,MITOXANTRONE,3,Unknown status,TOP2A,4
+lymphoma,ETOPOSIDE,3,Terminated,TOP2A,4
+acute myeloid leukemia,IDARUBICIN,2,"Active, not recruiting",TOP2A,4
+small cell lung carcinoma,ETOPOSIDE,3,Unknown status,TOP2A,4
+acute lymphoblastic leukemia,ETOPOSIDE,2,Recruiting,TOP2A,4
+lymphoma,ETOPOSIDE,2,Withdrawn,TOP2A,4
+sarcoma,DOXORUBICIN,2,Recruiting,TOP2A,4
+lymphoma,DOXORUBICIN,2,Recruiting,TOP2A,4
+bladder carcinoma,DOXORUBICIN,3,Completed,TOP2A,4
+peritoneal neoplasm,DOXORUBICIN,1,Completed,TOP2A,4
+lymphoma,DAUNORUBICIN,2,Completed,TOP2A,4
+lung carcinoma,ETOPOSIDE,2,Unknown status,TOP2A,4
+acute lymphoblastic leukemia,DOXORUBICIN,3,Recruiting,TOP2A,4
+multiple myeloma,DOXORUBICIN,2,Terminated,TOP2A,4
+Hodgkins lymphoma,DOXORUBICIN,2,Unknown status,TOP2A,4
+breast carcinoma,DOXORUBICIN,1,Withdrawn,TOP2A,4
+acute myeloid leukemia,DAUNORUBICIN,2,Completed,TOP2A,4
+multiple myeloma,DOXORUBICIN,3,Unknown status,TOP2A,4
+ovarian carcinoma,DOXORUBICIN,2,Terminated,TOP2A,4
+lymphoma,DOXORUBICIN,2,Withdrawn,TOP2A,4
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,2,Completed,TOP2A,4
+breast carcinoma,DOXORUBICIN,3,Terminated,TOP2A,4
+ovarian carcinoma,DOXORUBICIN,1,Recruiting,TOP2A,4
+acute myeloid leukemia,ETOPOSIDE,2,Completed,TOP2A,4
+sarcoma,ETOPOSIDE,2,Completed,TOP2A,4
+diffuse large B-cell lymphoma,DOXORUBICIN,1,Completed,TOP2A,4
+Mantle cell lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,4
+"Lymphoma, AIDS-Related",ETOPOSIDE,2,Completed,TOP2A,4
+leukemia,DAUNORUBICIN,2,Unknown status,TOP2A,4
+Mantle cell lymphoma,DOXORUBICIN,2,Completed,TOP2A,4
+diffuse large B-cell lymphoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,4
+endometrial neoplasm,DOXORUBICIN,2,Completed,TOP2A,4
+diffuse large B-cell lymphoma,ETOPOSIDE,1,Withdrawn,TOP2A,4
+acute lymphoblastic leukemia,DAUNORUBICIN,2,Completed,TOP2A,4
+small cell lung carcinoma,AMRUBICIN,2,Completed,TOP2A,4
+leukemia,DOXORUBICIN,3,"Active, not recruiting",TOP2A,4
+diffuse large B-cell lymphoma,ETOPOSIDE,1,Recruiting,TOP2A,4
+leukemia,ETOPOSIDE,2,Recruiting,TOP2A,4
+acute lymphoblastic leukemia,DAUNORUBICIN,3,Recruiting,TOP2A,4
+non-Hodgkins lymphoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,4
+acute lymphoblastic leukemia,DOXORUBICIN,1,Completed,TOP2A,4
+non-small cell lung carcinoma,ETOPOSIDE,2,Completed,TOP2A,4
+leukemia,DOXORUBICIN,2,Recruiting,TOP2A,4
+soft tissue sarcoma,DOXORUBICIN,1,Completed,TOP2A,4
+leukemia,IDARUBICIN,2,Unknown status,TOP2A,4
+non-Hodgkins lymphoma,MITOXANTRONE,2,Completed,TOP2A,4
+neoplasm,ALDOXORUBICIN,1,Completed,TOP2A,4
+leukemia,IDARUBICIN,2,"Active, not recruiting",TOP2A,4
+diffuse large B-cell lymphoma,DOXORUBICIN,2,Unknown status,TOP2A,4
+"Lymphoma, AIDS-Related",DOXORUBICIN,2,Completed,TOP2A,4
+multiple myeloma,DOXORUBICIN,2,Unknown status,TOP2A,3
+leukemia,DAUNORUBICIN,2,Recruiting,TOP2A,3
+leukemia,DAUNORUBICIN,3,"Active, not recruiting",TOP2A,3
+acute myeloid leukemia,MITOXANTRONE,1,Recruiting,TOP2A,3
+acute myeloid leukemia,MITOXANTRONE,1,Terminated,TOP2A,3
+acute myeloid leukemia,MITOXANTRONE,2,Completed,TOP2A,3
+leukemia,DOXORUBICIN,2,"Active, not recruiting",TOP2A,3
+myelodysplastic syndrome,IDARUBICIN,2,Completed,TOP2A,3
+prostate carcinoma,DOXORUBICIN,2,Terminated,TOP2A,3
+lymphoma,ETOPOSIDE PHOSPHATE,2,Completed,TOP2A,3
+hepatocellular carcinoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,3
+lymphoma,MITOXANTRONE,3,Unknown status,TOP2A,3
+neoplasm of mature B-cells,DOXORUBICIN,2,Completed,TOP2A,3
+hepatocellular carcinoma,DOXORUBICIN,3,Completed,TOP2A,3
+hepatocellular carcinoma,DOXORUBICIN,3,Unknown status,TOP2A,3
+prostate carcinoma,MITOXANTRONE,1,Completed,TOP2A,3
+multiple myeloma,DOXORUBICIN,1,Terminated,TOP2A,3
+germ cell tumor,ETOPOSIDE,2,"Active, not recruiting",TOP2A,3
+acute myeloid leukemia,IDARUBICIN,3,Completed,TOP2A,3
+acute myeloid leukemia,IDARUBICIN,1,Withdrawn,TOP2A,3
+endometrial neoplasm,DOXORUBICIN,3,Completed,TOP2A,3
+lymphoma,ETOPOSIDE,3,"Active, not recruiting",TOP2A,3
+lymphoma,ETOPOSIDE,2,Terminated,TOP2A,3
+multiple myeloma,DOXORUBICIN,2,Withdrawn,TOP2A,3
+acute myeloid leukemia,IDARUBICIN,2,Unknown status,TOP2A,3
+lymphoma,ETOPOSIDE,1,"Active, not recruiting",TOP2A,3
+neuroblastoma,DOXORUBICIN,1,Completed,TOP2A,3
+bladder carcinoma,DOXORUBICIN,2,Terminated,TOP2A,3
+diffuse large B-cell lymphoma,DOXORUBICIN,3,Unknown status,TOP2A,3
+acute myeloid leukemia,VOSAROXIN,2,Recruiting,TOP2A,3
+non-small cell lung carcinoma,ETOPOSIDE,3,Completed,TOP2A,3
+leukemia,MITOXANTRONE,2,Unknown status,TOP2A,3
+central nervous system cancer,ETOPOSIDE,1,Completed,TOP2A,3
+breast carcinoma,MITOXANTRONE,3,Completed,TOP2A,3
+breast carcinoma,ETOPOSIDE,2,Terminated,TOP2A,3
+non-Hodgkins lymphoma,ETOPOSIDE,2,Recruiting,TOP2A,3
+leukemia,ETOPOSIDE,2,Unknown status,TOP2A,3
+lung carcinoma,ETOPOSIDE,2,Terminated,TOP2A,3
+non-Hodgkins lymphoma,DOXORUBICIN,2,Completed,TOP2A,3
+chronic lymphocytic leukemia,ETOPOSIDE,2,Completed,TOP2A,3
+non-Hodgkins lymphoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,3
+myelodysplastic syndrome,DAUNORUBICIN,3,Completed,TOP2A,3
+neuroblastoma,ETOPOSIDE,3,Unknown status,TOP2A,3
+lymphoid leukemia,DOXORUBICIN,2,Recruiting,TOP2A,3
+multiple myeloma,ETOPOSIDE,2,Terminated,TOP2A,3
+breast carcinoma,DOXORUBICIN,2,Not yet recruiting,TOP2A,3
+multiple myeloma,ETOPOSIDE,2,Recruiting,TOP2A,3
+neuroblastoma,ETOPOSIDE,2,Recruiting,TOP2A,3
+breast carcinoma,DOXORUBICIN,1,Unknown status,TOP2A,3
+leukemia,ETOPOSIDE,1,Recruiting,TOP2A,3
+multiple myeloma,ETOPOSIDE,1,Completed,TOP2A,3
+ovarian carcinoma,DOXORUBICIN,2,Unknown status,TOP2A,3
+brain neoplasm,ETOPOSIDE,1,Completed,TOP2A,3
+ovarian carcinoma,DOXORUBICIN,3,Unknown status,TOP2A,3
+bladder carcinoma,VALRUBICIN,2,Completed,TOP2A,3
+osteosarcoma,DOXORUBICIN,2,Completed,TOP2A,3
+bladder carcinoma,DOXORUBICIN,1,Completed,TOP2A,3
+diffuse large B-cell lymphoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,3
+peritoneal neoplasm,DOXORUBICIN,1,Terminated,TOP2A,3
+hepatocellular carcinoma,DOXORUBICIN,2,Terminated,TOP2A,3
+leukemia,DOXORUBICIN,3,Unknown status,TOP2A,3
+small cell lung carcinoma,ETOPOSIDE,2,Not yet recruiting,TOP2A,3
+Fallopian Tube Carcinoma,DOXORUBICIN,1,Terminated,TOP2A,3
+Hodgkins lymphoma,DOXORUBICIN,1,Completed,TOP2A,3
+Hodgkins lymphoma,DOXORUBICIN,1,Recruiting,TOP2A,3
+Hodgkins lymphoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,3
+Hodgkins lymphoma,DOXORUBICIN,3,Recruiting,TOP2A,3
+transitional cell carcinoma of kidney,DOXORUBICIN,1,Completed,TOP2A,3
+Hodgkins lymphoma,ETOPOSIDE,1,Recruiting,TOP2A,3
+Hodgkins lymphoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,3
+soft tissue sarcoma,DOXORUBICIN,2,Recruiting,TOP2A,3
+Mantle cell lymphoma,ETOPOSIDE,2,Recruiting,TOP2A,3
+acute myeloid leukemia,ETOPOSIDE,1,Terminated,TOP2A,3
+small cell lung carcinoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,3
+acute lymphoblastic leukemia,ETOPOSIDE,4,Completed,TOP2A,3
+acute lymphoblastic leukemia,ETOPOSIDE,3,Unknown status,TOP2A,3
+sarcoma,DOXORUBICIN,2,Unknown status,TOP2A,3
+sarcoma,ETOPOSIDE,3,Unknown status,TOP2A,3
+sarcoma,ETOPOSIDE,3,Completed,TOP2A,3
+acute lymphoblastic leukemia,ETOPOSIDE,1,Completed,TOP2A,3
+acute lymphoblastic leukemia,DAUNORUBICIN,4,Unknown status,TOP2A,3
+sarcoma,ETOPOSIDE,1,Completed,TOP2A,3
+acute lymphoblastic leukemia,DOXORUBICIN,1,Recruiting,TOP2A,3
+acute lymphoblastic leukemia,DOXORUBICIN,1,Terminated,TOP2A,3
+acute myeloid leukemia,DAUNORUBICIN,2,Not yet recruiting,TOP2A,3
+sarcoma,DOXORUBICIN,3,Unknown status,TOP2A,3
+Fallopian Tube Carcinoma,DOXORUBICIN,1,Completed,TOP2A,3
+acute myeloid leukemia,DAUNORUBICIN,3,Unknown status,TOP2A,3
+acute myeloid leukemia,DAUNORUBICIN,3,"Active, not recruiting",TOP2A,3
+Retinoblastoma,ETOPOSIDE,3,"Active, not recruiting",TOP2A,2
+diffuse large B-cell lymphoma,ETOPOSIDE,3,Recruiting,TOP2A,2
+diffuse large B-cell lymphoma,ETOPOSIDE,3,Completed,TOP2A,2
+Retinoblastoma,ETOPOSIDE,2,Completed,TOP2A,2
+Retinoblastoma,ETOPOSIDE,2,Recruiting,TOP2A,2
+Retinoblastoma,ETOPOSIDE,2,Unknown status,TOP2A,2
+neuroblastoma,DOXORUBICIN,2,Recruiting,TOP2A,2
+multiple myeloma,DOXORUBICIN,1,Unknown status,TOP2A,2
+diffuse large B-cell lymphoma,MITOXANTRONE,2,Recruiting,TOP2A,2
+lymphoma,IDARUBICIN,3,Completed,TOP2A,2
+Sinonasal Undifferentiated Carcinoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,2
+lymphoma,IDARUBICIN,3,Unknown status,TOP2A,2
+lymphoma,MITOXANTRONE,1,Unknown status,TOP2A,2
+Sinonasal Undifferentiated Carcinoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,2
+neuroblastoma,DOXORUBICIN,2,Unknown status,TOP2A,2
+diffuse large B-cell lymphoma,MITOXANTRONE,2,Completed,TOP2A,2
+neoplasm of mature B-cells,MITOXANTRONE,2,Terminated,TOP2A,2
+diffuse large B-cell lymphoma,DOXORUBICIN,3,Terminated,TOP2A,2
+neoplasm of mature B-cells,DOXORUBICIN,1,Recruiting,TOP2A,2
+hepatocellular carcinoma,DOXORUBICIN,3,Recruiting,TOP2A,2
+Primary hemophagocytic lymphohistiocytosis,DOXORUBICIN,3,Recruiting,TOP2A,2
+small cell lung carcinoma,ETOPOSIDE,3,Not yet recruiting,TOP2A,2
+neoplasm,ETOPOSIDE,4,n/a,TOP2A,2
+neoplasm,MITOXANTRONE,1,Completed,TOP2A,2
+neoplasm,VOSAROXIN,1,Completed,TOP2A,2
+Primary hemophagocytic lymphohistiocytosis,ETOPOSIDE,3,Recruiting,TOP2A,2
+neoplasm of mature B-cells,MITOXANTRONE,2,Completed,TOP2A,2
+neoplasm of mature B-cells,DOXORUBICIN,2,Recruiting,TOP2A,2
+neoplasm of mature B-cells,DOXORUBICIN,3,"Active, not recruiting",TOP2A,2
+gastric carcinoma,DOXORUBICIN,2,Completed,TOP2A,2
+neoplasm of mature B-cells,DOXORUBICIN,3,Recruiting,TOP2A,2
+endometrial neoplasm,DOXORUBICIN,3,Terminated,TOP2A,2
+small cell lung carcinoma,ETOPOSIDE,2,Unknown status,TOP2A,2
+small cell lung carcinoma,ETOPOSIDE,1,Not yet recruiting,TOP2A,2
+Fallopian Tube Carcinoma,DOXORUBICIN,1,Recruiting,TOP2A,2
+Nephroblastoma,DOXORUBICIN,3,Completed,TOP2A,2
+central nervous system cancer,ETOPOSIDE,3,Unknown status,TOP2A,2
+mesothelioma,DOXORUBICIN,2,Unknown status,TOP2A,2
+male breast carcinoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,2
+non-Hodgkins lymphoma,ETOPOSIDE,2,Unknown status,TOP2A,2
+non-Hodgkins lymphoma,ETOPOSIDE,3,Recruiting,TOP2A,2
+childhood B acute lymphoblastic leukemia,DOXORUBICIN,3,Completed,TOP2A,2
+non-small cell lung carcinoma,ETOPOSIDE,1,Completed,TOP2A,2
+central nervous system cancer,ETOPOSIDE,2,Unknown status,TOP2A,2
+neuroblastoma,DOXORUBICIN,3,Unknown status,TOP2A,2
+medulloblastoma,ETOPOSIDE,3,Completed,TOP2A,2
+medulloblastoma,ETOPOSIDE,1,Recruiting,TOP2A,2
+acute lymphoblastic leukemia,DOXORUBICIN,2,"Active, not recruiting",TOP2A,2
+non-small cell lung carcinoma,ETOPOSIDE,2,Not yet recruiting,TOP2A,2
+non-small cell lung carcinoma,ETOPOSIDE,2,Recruiting,TOP2A,2
+non-small cell lung carcinoma,ETOPOSIDE,2,Terminated,TOP2A,2
+acute lymphoblastic leukemia,DAUNORUBICIN,4,Recruiting,TOP2A,2
+non-Hodgkins lymphoma,ETOPOSIDE,1,Recruiting,TOP2A,2
+non-Hodgkins lymphoma,ETOPOSIDE,1,Completed,TOP2A,2
+non-Hodgkins lymphoma,ETOPOSIDE,1,"Active, not recruiting",TOP2A,2
+non-Hodgkins lymphoma,DOXORUBICIN,3,Completed,TOP2A,2
+sarcoma,ETOPOSIDE,2,Terminated,TOP2A,2
+acute lymphoblastic leukemia,DAUNORUBICIN,3,"Active, not recruiting",TOP2A,2
+non-Hodgkins lymphoma,DOXORUBICIN,1,Completed,TOP2A,2
+male breast carcinoma,DOXORUBICIN,1,Completed,TOP2A,2
+chronic lymphocytic leukemia,MITOXANTRONE,2,Completed,TOP2A,2
+Burkitts lymphoma,DOXORUBICIN,2,Completed,TOP2A,2
+neuroblastoma,ETOPOSIDE PHOSPHATE,3,Unknown status,TOP2A,2
+acute lymphoblastic leukemia,DAUNORUBICIN,1,Recruiting,TOP2A,2
+neuroblastoma,ETOPOSIDE,2,Terminated,TOP2A,2
+lymphoma,MITOXANTRONE,2,Terminated,TOP2A,2
+Burkitts lymphoma,DOXORUBICIN,2,Terminated,TOP2A,2
+diffuse large B-cell lymphoma,DOXORUBICIN,1,Withdrawn,TOP2A,2
+diffuse large B-cell lymphoma,DOXORUBICIN,3,Not yet recruiting,TOP2A,2
+Mantle cell lymphoma,MITOXANTRONE,2,Terminated,TOP2A,2
+neoplasm,DOXORUBICIN,2,Recruiting,TOP2A,2
+Hodgkins lymphoma,DOXORUBICIN,4,Recruiting,TOP2A,2
+Ewing sarcoma,DOXORUBICIN,2,Terminated,TOP2A,2
+multiple myeloma,ETOPOSIDE,3,Completed,TOP2A,2
+lymphoid leukemia,DOXORUBICIN,2,Completed,TOP2A,2
+multiple myeloma,ETOPOSIDE,3,Terminated,TOP2A,2
+multiple myeloma,IDARUBICIN,3,Unknown status,TOP2A,2
+myelodysplastic syndrome,DAUNORUBICIN,2,Recruiting,TOP2A,2
+Hodgkins lymphoma,DOXORUBICIN,4,Unknown status,TOP2A,2
+lung carcinoma,AMRUBICIN,3,Completed,TOP2A,2
+Hodgkins lymphoma,ETOPOSIDE,1,"Active, not recruiting",TOP2A,2
+urethral neoplasm,DOXORUBICIN,2,Completed,TOP2A,2
+multiple myeloma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,2
+lung carcinoma,ETOPOSIDE,1,Unknown status,TOP2A,2
+lung carcinoma,DOXORUBICIN,3,Unknown status,TOP2A,2
+lung carcinoma,DOXORUBICIN,3,Completed,TOP2A,2
+lymphoid leukemia,ETOPOSIDE,2,Recruiting,TOP2A,2
+lymphoma,ETOPOSIDE,1,Unknown status,TOP2A,2
+multiple myeloma,ETOPOSIDE,1,Recruiting,TOP2A,2
+Hodgkins lymphoma,DOXORUBICIN,2,Terminated,TOP2A,2
+lymphoid leukemia,MITOXANTRONE,2,Completed,TOP2A,2
+transitional cell carcinoma of kidney,DOXORUBICIN,2,Completed,TOP2A,2
+multiple myeloma,DOXORUBICIN,3,Terminated,TOP2A,2
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,3,Unknown status,TOP2A,2
+multiple myeloma,DOXORUBICIN,2,Recruiting,TOP2A,2
+lymphoma,DAUNORUBICIN,3,Completed,TOP2A,2
+lymphoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,2
+triple-negative breast cancer,DOXORUBICIN,2,"Active, not recruiting",TOP2A,2
+lymphoma,DOXORUBICIN,1,Terminated,TOP2A,2
+lymphoma,DOXORUBICIN,1,Withdrawn,TOP2A,2
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,2,Recruiting,TOP2A,2
+Fallopian Tube Carcinoma,DOXORUBICIN,2,Unknown status,TOP2A,2
+lymphoma,DOXORUBICIN,3,Recruiting,TOP2A,2
+myelodysplastic syndrome,ETOPOSIDE,2,Completed,TOP2A,2
+lung carcinoma,AMRUBICIN,1,Completed,TOP2A,2
+inflammatory breast carcinoma,DOXORUBICIN,2,Recruiting,TOP2A,2
+myelodysplastic syndrome,VOSAROXIN,2,Recruiting,TOP2A,2
+myelodysplastic syndrome,VOSAROXIN,1,Completed,TOP2A,2
+leukemia,DOXORUBICIN,2,Unknown status,TOP2A,2
+non-small cell lung carcinoma,ETOPOSIDE,3,Recruiting,TOP2A,2
+Mantle cell lymphoma,DOXORUBICIN,3,Completed,TOP2A,2
+Mantle cell lymphoma,DOXORUBICIN,3,Recruiting,TOP2A,2
+Mantle cell lymphoma,DOXORUBICIN,3,Unknown status,TOP2A,2
+leukemia,DOXORUBICIN,1,Completed,TOP2A,2
+myelodysplastic syndrome,ETOPOSIDE,3,Completed,TOP2A,2
+Mantle cell lymphoma,ETOPOSIDE,1,Completed,TOP2A,2
+Mantle cell lymphoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,2
+Burkitts lymphoma,ETOPOSIDE,2,Terminated,TOP2A,2
+Mantle cell lymphoma,MITOXANTRONE,2,Completed,TOP2A,2
+leiomyosarcoma,DOXORUBICIN,2,Completed,TOP2A,2
+neoplasm,DOXORUBICIN,1,"Active, not recruiting",TOP2A,2
+leukemia,ETOPOSIDE,1,"Active, not recruiting",TOP2A,2
+soft tissue sarcoma,DOXORUBICIN,2,Not yet recruiting,TOP2A,2
+Malignant epithelial tumor of ovary,DOXORUBICIN,1,Completed,TOP2A,2
+leukemia,ETOPOSIDE,2,"Active, not recruiting",TOP2A,2
+lymphoma,ETOPOSIDE,4,Recruiting,TOP2A,2
+soft tissue sarcoma,DOXORUBICIN,2,Terminated,TOP2A,2
+leukemia,ETOPOSIDE,3,"Active, not recruiting",TOP2A,2
+soft tissue sarcoma,DOXORUBICIN,3,Completed,TOP2A,2
+myelodysplastic syndrome,MITOXANTRONE,1,"Active, not recruiting",TOP2A,2
+myelodysplastic syndrome,IDARUBICIN,3,Unknown status,TOP2A,2
+leukemia,IDARUBICIN,2,Recruiting,TOP2A,2
+leukemia,IDARUBICIN,2,Terminated,TOP2A,2
+myelodysplastic syndrome,IDARUBICIN,2,Recruiting,TOP2A,2
+Hodgkins lymphoma,ETOPOSIDE,3,Recruiting,TOP2A,2
+myelodysplastic syndrome,IDARUBICIN,1,Recruiting,TOP2A,2
+Hodgkins lymphoma,ETOPOSIDE,3,Completed,TOP2A,2
+myelodysplastic syndrome,IDARUBICIN,1,"Active, not recruiting",TOP2A,2
+leukemia,DOXORUBICIN,2,Terminated,TOP2A,2
+acute myeloid leukemia,ETOPOSIDE,2,Not yet recruiting,TOP2A,2
+breast carcinoma,DOXORUBICIN,2,Suspended,TOP2A,2
+acute lymphoblastic leukemia,MITOXANTRONE,4,Completed,TOP2A,2
+renal cell carcinoma,DOXORUBICIN,2,Completed,TOP2A,2
+renal carcinoma,ETOPOSIDE,3,Completed,TOP2A,2
+acute myeloid leukemia,MITOXANTRONE,2,Terminated,TOP2A,2
+acute lymphoblastic leukemia,ETOPOSIDE,2,Terminated,TOP2A,2
+peritoneal neoplasm,DOXORUBICIN,3,Completed,TOP2A,2
+acute myeloid leukemia,MITOXANTRONE,2,Not yet recruiting,TOP2A,2
+renal carcinoma,DOXORUBICIN,3,Completed,TOP2A,2
+peritoneal neoplasm,DOXORUBICIN,2,Unknown status,TOP2A,2
+renal carcinoma,DOXORUBICIN,2,Unknown status,TOP2A,2
+breast carcinoma,ETOPOSIDE,2,Unknown status,TOP2A,2
+acute myeloid leukemia,DAUNORUBICIN,1,Terminated,TOP2A,2
+medulloblastoma,ETOPOSIDE,2,Recruiting,TOP2A,2
+breast carcinoma,MITOXANTRONE,2,Completed,TOP2A,2
+acute myeloid leukemia,DAUNORUBICIN,1,Withdrawn,TOP2A,2
+ovarian carcinoma,DOXORUBICIN,2,Recruiting,TOP2A,2
+acute myeloid leukemia,IDARUBICIN,4,Completed,TOP2A,2
+acute myeloid leukemia,DAUNORUBICIN,2,Terminated,TOP2A,2
+breast carcinoma,MITOXANTRONE,2,Unknown status,TOP2A,2
+prostate carcinoma,DOXORUBICIN,3,Completed,TOP2A,2
+acute myeloid leukemia,IDARUBICIN,3,"Active, not recruiting",TOP2A,2
+prostate carcinoma,DOXORUBICIN,3,Terminated,TOP2A,2
+breast carcinoma,DOXORUBICIN,4,Unknown status,TOP2A,2
+prostate adenocarcinoma,MITOXANTRONE,3,Completed,TOP2A,2
+breast carcinoma,DOXORUBICIN,4,Recruiting,TOP2A,2
+acute lymphoblastic leukemia,MITOXANTRONE,2,Terminated,TOP2A,2
+ovarian carcinoma,DOXORUBICIN,2,Not yet recruiting,TOP2A,2
+breast carcinoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,2
+acute promyelocytic leukemia,DAUNORUBICIN,4,Unknown status,TOP2A,2
+primitive neuroectodermal tumor,ETOPOSIDE,3,Completed,TOP2A,2
+acute promyelocytic leukemia,IDARUBICIN,3,Recruiting,TOP2A,2
+acute lymphoblastic leukemia,MITOXANTRONE,1,Recruiting,TOP2A,2
+ovarian carcinoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,2
+acute lymphoblastic leukemia,MITOXANTRONE,1,Completed,TOP2A,2
+acute lymphoblastic leukemia,IDARUBICIN,4,Unknown status,TOP2A,2
+acute promyelocytic leukemia,IDARUBICIN,4,Unknown status,TOP2A,2
+acute lymphoblastic leukemia,ETOPOSIDE,3,"Active, not recruiting",TOP2A,2
+acute lymphoblastic leukemia,IDARUBICIN,4,Recruiting,TOP2A,2
+acute lymphoblastic leukemia,IDARUBICIN,4,Completed,TOP2A,2
+acute lymphoblastic leukemia,IDARUBICIN,2,Recruiting,TOP2A,2
+acute promyelocytic leukemia,MITOXANTRONE,3,Recruiting,TOP2A,2
+acute lymphoblastic leukemia,ETOPOSIDE,4,Unknown status,TOP2A,2
+sarcoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,2
+ovarian carcinoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,2
+prostate adenocarcinoma,MITOXANTRONE,2,Terminated,TOP2A,2
+acute lymphoblastic leukemia,ETOPOSIDE,3,Completed,TOP2A,2
+ovarian carcinoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,2
+acute myeloid leukemia,IDARUBICIN,4,Unknown status,TOP2A,2
+ovarian neoplasm,DOXORUBICIN,3,Terminated,TOP2A,2
+cancer,ETOPOSIDE,1,Completed,TOP2A,2
+bladder carcinoma,DOXORUBICIN,2,Recruiting,TOP2A,2
+breast neoplasm,DOXORUBICIN,2,Terminated,TOP2A,2
+cancer,DOXORUBICIN,1,"Active, not recruiting",TOP2A,2
+acute lymphoblastic leukemia,DOXORUBICIN,4,Unknown status,TOP2A,2
+breast neoplasm,DOXORUBICIN,4,Terminated,TOP2A,2
+ovarian neoplasm,DOXORUBICIN,3,Completed,TOP2A,2
+acute myeloid leukemia,ETOPOSIDE,1,Recruiting,TOP2A,2
+ovarian carcinoma,MITOXANTRONE,1,Completed,TOP2A,2
+pancreatic carcinoma,DOXORUBICIN,2,Terminated,TOP2A,2
+prostate carcinoma,MITOXANTRONE,3,Completed,TOP2A,2
+prostate carcinoma,MITOXANTRONE,1,Unknown status,TOP2A,2
+osteosarcoma,ETOPOSIDE,2,Completed,TOP2A,2
+ovarian carcinoma,ETOPOSIDE,1,Terminated,TOP2A,2
+acute myeloid leukemia,ETOPOSIDE,2,Unknown status,TOP2A,2
+acute myeloid leukemia,ETOPOSIDE,2,Terminated,TOP2A,2
+peritoneal neoplasm,DOXORUBICIN,1,Recruiting,TOP2A,2
+acute lymphoblastic leukemia,DOXORUBICIN,3,"Active, not recruiting",TOP2A,2
+ovarian neoplasm,DOXORUBICIN,4,Completed,TOP2A,1
+testicular neoplasm,ETOPOSIDE,3,Recruiting,TOP2A,1
+pain,MITOXANTRONE,3,Completed,TOP2A,1
+myelodysplastic syndrome,DOXORUBICIN,2,Recruiting,TOP2A,1
+pancreatic carcinoma,ALDOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+soft tissue sarcoma,DOXORUBICIN,2,Unknown status,TOP2A,1
+plasma cell leukemia,DOXORUBICIN,2,Unknown status,TOP2A,1
+myelodysplastic syndrome,DOXORUBICIN,1,Recruiting,TOP2A,1
+squamous cell lung carcinoma,ETOPOSIDE,3,Unknown status,TOP2A,1
+myelodysplastic syndrome,MITOXANTRONE,3,Completed,TOP2A,1
+thymus neoplasm,ETOPOSIDE,3,Recruiting,TOP2A,1
+myelodysplastic syndrome,VOSAROXIN,1,"Active, not recruiting",TOP2A,1
+testicular neoplasm,ETOPOSIDE,3,Completed,TOP2A,1
+myelodysplastic syndrome,DOXORUBICIN,1,Completed,TOP2A,1
+ovarian neoplasm,DOXORUBICIN,3,Recruiting,TOP2A,1
+plasma cell leukemia,ETOPOSIDE,1,Recruiting,TOP2A,1
+ovarian neoplasm,DOXORUBICIN,2,Terminated,TOP2A,1
+precursor T-cell lymphoblastic leukemia-lymphoma,MITOXANTRONE,1,Terminated,TOP2A,1
+myelodysplastic syndrome,DAUNORUBICIN,2,Terminated,TOP2A,1
+primitive neuroectodermal tumor,ETOPOSIDE,2,Completed,TOP2A,1
+soft tissue sarcoma,DOXORUBICIN,2,Completed,TOP2A,1
+myelodysplastic syndrome,DAUNORUBICIN,1,"Active, not recruiting",TOP2A,1
+pancreatic carcinoma,ALDOXORUBICIN,1,Recruiting,TOP2A,1
+myelodysplastic syndrome,MITOXANTRONE,2,Recruiting,TOP2A,1
+soft tissue sarcoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+soft tissue sarcoma,ETOPOSIDE,2,Recruiting,TOP2A,1
+squamous cell lung carcinoma,ETOPOSIDE,1,Terminated,TOP2A,1
+squamous cell carcinoma,ALDOXORUBICIN,1,Recruiting,TOP2A,1
+myelodysplastic syndrome,IDARUBICIN,3,Completed,TOP2A,1
+rhabdomyosarcoma,DOXORUBICIN,2,Completed,TOP2A,1
+soft tissue sarcoma,IDARUBICIN,3,Recruiting,TOP2A,1
+peritoneal neoplasm,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+peritoneal neoplasm,DOXORUBICIN,2,Completed,TOP2A,1
+testicular carcinoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+rhabdomyosarcoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+pancreatic ductal adenocarcinoma,ALDOXORUBICIN,2,Completed,TOP2A,1
+soft tissue sarcoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+testicular neoplasm,ETOPOSIDE,2,Completed,TOP2A,1
+myelodysplastic syndrome,IDARUBICIN,1,Completed,TOP2A,1
+peritoneal neoplasm,DOXORUBICIN,2,Terminated,TOP2A,1
+pancreatic carcinoma,ETOPOSIDE,2,Completed,TOP2A,1
+myelodysplastic syndrome,MITOXANTRONE,2,Terminated,TOP2A,1
+myelodysplastic syndrome,ETOPOSIDE,3,Unknown status,TOP2A,1
+myelodysplastic syndrome,IDARUBICIN,4,Completed,TOP2A,1
+soft tissue sarcoma,DOXORUBICIN,4,Recruiting,TOP2A,1
+myelodysplastic syndrome,MITOXANTRONE,1,Completed,TOP2A,1
+myelodysplastic syndrome,ETOPOSIDE,2,Recruiting,TOP2A,1
+peritoneal neoplasm,ETOPOSIDE,1,Completed,TOP2A,1
+peritoneal neoplasm,ETOPOSIDE,1,Terminated,TOP2A,1
+myelodysplastic syndrome,MITOXANTRONE,2,Completed,TOP2A,1
+myelodysplastic syndrome,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+myelodysplastic syndrome,ETOPOSIDE,1,Recruiting,TOP2A,1
+peritoneal neoplasm,ETOPOSIDE PHOSPHATE,1,Unknown status,TOP2A,1
+plasma cell leukemia,DOXORUBICIN,1,Withdrawn,TOP2A,1
+squamous cell lung carcinoma,ETOPOSIDE,3,Completed,TOP2A,1
+pancreatic carcinoma,ALDOXORUBICIN,2,Not yet recruiting,TOP2A,1
+multiple sclerosis,MITOXANTRONE,3,"Active, not recruiting",TOP2A,1
+oligoastrocytoma,ETOPOSIDE,1,Recruiting,TOP2A,1
+multiple sclerosis,MITOXANTRONE,2,Unknown status,TOP2A,1
+multiple myeloma,DOXORUBICIN,1,Recruiting,TOP2A,1
+prostate carcinoma,ETOPOSIDE,3,Completed,TOP2A,1
+multiple myeloma,DOXORUBICIN,1,Withdrawn,TOP2A,1
+prostate carcinoma,ETOPOSIDE,2,Terminated,TOP2A,1
+refractory anemia,DAUNORUBICIN,2,Unknown status,TOP2A,1
+urothelial carcinoma,VALRUBICIN,1,Completed,TOP2A,1
+urethral neoplasm,DOXORUBICIN,3,Completed,TOP2A,1
+refractory anemia,ETOPOSIDE,2,Unknown status,TOP2A,1
+refractory anemia,IDARUBICIN,2,Unknown status,TOP2A,1
+urethral neoplasm,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+ureteral neoplasm,DOXORUBICIN,2,Completed,TOP2A,1
+unspecified peripheral T-cell lymphoma,ETOPOSIDE,4,Recruiting,TOP2A,1
+unspecified peripheral T-cell lymphoma,ETOPOSIDE,2,Recruiting,TOP2A,1
+unspecified peripheral T-cell lymphoma,ETOPOSIDE,2,Completed,TOP2A,1
+relapsing-remitting multiple sclerosis,ETOPOSIDE,2,Completed,TOP2A,1
+unspecified peripheral T-cell lymphoma,ETOPOSIDE,1,Recruiting,TOP2A,1
+uterine leiomyosarcoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+prostate carcinoma,MITOXANTRONE,3,"Active, not recruiting",TOP2A,1
+multiple sclerosis,MITOXANTRONE,2,"Active, not recruiting",TOP2A,1
+uterine neoplasm,DOXORUBICIN,1,Recruiting,TOP2A,1
+medulloblastoma,ETOPOSIDE PHOSPHATE,2,Recruiting,TOP2A,1
+mesothelioma,DOXORUBICIN,2,Completed,TOP2A,1
+prostate carcinoma,MITOXANTRONE,2,"Active, not recruiting",TOP2A,1
+prostate carcinoma,MITOXANTRONE,2,Terminated,TOP2A,1
+mesothelioma,DOXORUBICIN,3,Unknown status,TOP2A,1
+metastasis,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+metastatic colorectal cancer,ALDOXORUBICIN,1,Recruiting,TOP2A,1
+uterine neoplasm,DOXORUBICIN,3,Unknown status,TOP2A,1
+metastatic colorectal cancer,DOXORUBICIN,2,Terminated,TOP2A,1
+metastatic prostate cancer,MITOXANTRONE,2,Terminated,TOP2A,1
+prostate carcinoma,MITOXANTRONE,1,Recruiting,TOP2A,1
+multiple myeloma,AMRUBICIN,1,Completed,TOP2A,1
+prostate carcinoma,MITOXANTRONE,2,Unknown status,TOP2A,1
+multiple myeloma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+prostate carcinoma,MITOXANTRONE,2,Withdrawn,TOP2A,1
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,4,Recruiting,TOP2A,1
+relapsing-remitting multiple sclerosis,MITOXANTRONE,2,Terminated,TOP2A,1
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,4,Completed,TOP2A,1
+renal carcinoma,BECATECARIN,2,Completed,TOP2A,1
+prostate adenocarcinoma,MITOXANTRONE,2,Completed,TOP2A,1
+rhabdomyosarcoma,DOXORUBICIN,4,Unknown status,TOP2A,1
+prostate adenocarcinoma,MITOXANTRONE,1,Completed,TOP2A,1
+renal cell carcinoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+multiple myeloma,ETOPOSIDE,2,Unknown status,TOP2A,1
+multiple myeloma,ETOPOSIDE,2,Withdrawn,TOP2A,1
+multiple myeloma,ETOPOSIDE,3,"Active, not recruiting",TOP2A,1
+prostate adenocarcinoma,DOXORUBICIN,2,Terminated,TOP2A,1
+thyroid carcinoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+prostate adenocarcinoma,DOXORUBICIN,2,Completed,TOP2A,1
+multiple myeloma,ETOPOSIDE,3,Recruiting,TOP2A,1
+multiple myeloma,ETOPOSIDE PHOSPHATE,1,Completed,TOP2A,1
+multiple myeloma,IDARUBICIN,2,Unknown status,TOP2A,1
+multiple myeloma,IDARUBICIN,3,Completed,TOP2A,1
+multiple myeloma,MITOXANTRONE,2,Terminated,TOP2A,1
+multiple myeloma,ETOPOSIDE,2,Not yet recruiting,TOP2A,1
+multiple myeloma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+renal carcinoma,ETOPOSIDE,3,Unknown status,TOP2A,1
+triple-negative breast cancer,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,3,Not yet recruiting,TOP2A,1
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,3,Completed,TOP2A,1
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+unspecified peripheral T-cell lymphoma,DOXORUBICIN,1,Completed,TOP2A,1
+triple-negative breast cancer,DOXORUBICIN,2,Recruiting,TOP2A,1
+multiple myeloma,DOXORUBICIN,4,"Active, not recruiting",TOP2A,1
+transitional cell carcinoma of kidney,DOXORUBICIN,3,Completed,TOP2A,1
+multiple myeloma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+renal carcinoma,DOXORUBICIN,3,Unknown status,TOP2A,1
+prostate carcinoma,DOXORUBICIN,1,Terminated,TOP2A,1
+multiple myeloma,DOXORUBICIN,3,Recruiting,TOP2A,1
+renal carcinoma,ETOPOSIDE,2,Unknown status,TOP2A,1
+soft tissue sarcoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+small intestine carcinoma,BECATECARIN,1,Completed,TOP2A,1
+ovarian neoplasm,DOXORUBICIN,1,Recruiting,TOP2A,1
+sarcoma,ETOPOSIDE,3,Withdrawn,TOP2A,1
+sarcoma,ETOPOSIDE,3,Terminated,TOP2A,1
+neuroblastoma,ETOPOSIDE,2,Unknown status,TOP2A,1
+neuroblastoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+sarcoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+neuroblastoma,ETOPOSIDE PHOSPHATE,2,Completed,TOP2A,1
+neuromyelitis optica,MITOXANTRONE,4,Unknown status,TOP2A,1
+nodular sclerosis Hodgkin lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+nodular sclerosis Hodgkin lymphoma,DOXORUBICIN,2,Completed,TOP2A,1
+nodular sclerosis Hodgkin lymphoma,DOXORUBICIN,3,Unknown status,TOP2A,1
+nodular sclerosis Hodgkin lymphoma,ETOPOSIDE PHOSPHATE,3,Unknown status,TOP2A,1
+non-Hodgkins lymphoma,DAUNORUBICIN,3,Completed,TOP2A,1
+ovarian carcinoma,DOXORUBICIN,1,Not yet recruiting,TOP2A,1
+sarcoma,ETOPOSIDE,3,"Active, not recruiting",TOP2A,1
+sarcoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+non-Hodgkins lymphoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+non-Hodgkins lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+ovarian carcinoma,BECATECARIN,2,Terminated,TOP2A,1
+sarcoma,DOXORUBICIN,2,Withdrawn,TOP2A,1
+neuroblastoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+ovarian neoplasm,DOXORUBICIN,1,Completed,TOP2A,1
+secondary progressive multiple sclerosis,MITOXANTRONE,3,Terminated,TOP2A,1
+sarcoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+sarcoma,DOXORUBICIN,1,Not yet recruiting,TOP2A,1
+sarcoma,DOXORUBICIN,1,Suspended,TOP2A,1
+neuroblastoma,DOXORUBICIN,2,Terminated,TOP2A,1
+small cell lung carcinoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+small cell lung carcinoma,DOXORUBICIN,2,Completed,TOP2A,1
+small cell lung carcinoma,DOXORUBICIN,1,Terminated,TOP2A,1
+small cell lung carcinoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+neuroblastoma,DOXORUBICIN,3,Recruiting,TOP2A,1
+small cell lung carcinoma,BECATECARIN,2,Terminated,TOP2A,1
+small cell lung carcinoma,AMRUBICIN,3,Terminated,TOP2A,1
+small cell lung carcinoma,AMRUBICIN,3,Completed,TOP2A,1
+ovarian carcinoma,DOXORUBICIN,1,Withdrawn,TOP2A,1
+small cell lung carcinoma,AMRUBICIN,2,Terminated,TOP2A,1
+small cell lung carcinoma,ALDOXORUBICIN,2,Withdrawn,TOP2A,1
+small cell lung carcinoma,ALDOXORUBICIN,2,Unknown status,TOP2A,1
+neuroblastoma,ETOPOSIDE,1,Unknown status,TOP2A,1
+non-Hodgkins lymphoma,DOXORUBICIN,2,Unknown status,TOP2A,1
+sarcoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+osteosarcoma,ETOPOSIDE,3,Completed,TOP2A,1
+non-Hodgkins lymphoma,DOXORUBICIN,3,Recruiting,TOP2A,1
+non-small cell lung carcinoma,ALDOXORUBICIN,2,Not yet recruiting,TOP2A,1
+non-small cell lung carcinoma,DOXORUBICIN,1,Unknown status,TOP2A,1
+non-small cell lung carcinoma,DOXORUBICIN,2,Not yet recruiting,TOP2A,1
+sarcoma,DOXORUBICIN,3,Terminated,TOP2A,1
+osteosarcoma,DOXORUBICIN,1,Terminated,TOP2A,1
+non-small cell lung carcinoma,ETOPOSIDE,1,Recruiting,TOP2A,1
+osteosarcoma,DOXORUBICIN,1,Completed,TOP2A,1
+non-small cell lung carcinoma,ETOPOSIDE,1,Unknown status,TOP2A,1
+sarcoma,DOXORUBICIN,3,Withdrawn,TOP2A,1
+optic nerve glioblastoma,ETOPOSIDE,1,Recruiting,TOP2A,1
+optic nerve glioblastoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+oligodendroglioma,ETOPOSIDE,1,Recruiting,TOP2A,1
+non-small cell lung carcinoma,ETOPOSIDE,2,Unknown status,TOP2A,1
+non-small cell lung carcinoma,ETOPOSIDE,2,Withdrawn,TOP2A,1
+oligodendroglioma,DOXORUBICIN,1,Recruiting,TOP2A,1
+non-small cell lung carcinoma,ETOPOSIDE,3,Terminated,TOP2A,1
+non-small cell lung carcinoma,VOSAROXIN,2,Completed,TOP2A,1
+non-Hodgkins lymphoma,MITOXANTRONE,3,Completed,TOP2A,1
+sarcoma,ETOPOSIDE,1,"Active, not recruiting",TOP2A,1
+non-Hodgkins lymphoma,MITOXANTRONE,1,Unknown status,TOP2A,1
+non-Hodgkins lymphoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+non-Hodgkins lymphoma,DOXORUBICIN,3,Terminated,TOP2A,1
+non-Hodgkins lymphoma,DOXORUBICIN,4,Completed,TOP2A,1
+non-Hodgkins lymphoma,DOXORUBICIN,4,Unknown status,TOP2A,1
+osteosarcoma,ETOPOSIDE,3,"Active, not recruiting",TOP2A,1
+osteosarcoma,ETOPOSIDE,1,Terminated,TOP2A,1
+non-Hodgkins lymphoma,ETOPOSIDE,1,Terminated,TOP2A,1
+non-Hodgkins lymphoma,ETOPOSIDE,1,Withdrawn,TOP2A,1
+osteosarcoma,DOXORUBICIN,3,Completed,TOP2A,1
+non-Hodgkins lymphoma,IDARUBICIN,3,Recruiting,TOP2A,1
+osteosarcoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+non-Hodgkins lymphoma,ETOPOSIDE,3,Completed,TOP2A,1
+osteosarcoma,DOXORUBICIN,2,Unknown status,TOP2A,1
+non-Hodgkins lymphoma,ETOPOSIDE,4,Unknown status,TOP2A,1
+non-Hodgkins lymphoma,ETOPOSIDE PHOSPHATE,1,Completed,TOP2A,1
+non-Hodgkins lymphoma,ETOPOSIDE PHOSPHATE,2,Completed,TOP2A,1
+sarcoma,DOXORUBICIN,3,Not yet recruiting,TOP2A,1
+sarcoma,DAUNORUBICIN,3,Completed,TOP2A,1
+small cell lung carcinoma,ETOPOSIDE,2,Suspended,TOP2A,1
+neuroblastoma,BECATECARIN,2,Completed,TOP2A,1
+small cell lung carcinoma,ETOPOSIDE,3,Terminated,TOP2A,1
+neoplasm,AMSACRINE,4,n/a,TOP2A,1
+neoplasm,BECATECARIN,1,Terminated,TOP2A,1
+neoplasm,DAUNORUBICIN,4,n/a,TOP2A,1
+rhabdomyosarcoma,ETOPOSIDE,3,Terminated,TOP2A,1
+rhabdomyosarcoma,ETOPOSIDE PHOSPHATE,2,Recruiting,TOP2A,1
+ovarian carcinoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+neoplasm,DOXORUBICIN,1,Unknown status,TOP2A,1
+neoplasm,DOXORUBICIN,3,Completed,TOP2A,1
+neoplasm,DOXORUBICIN,3,Unknown status,TOP2A,1
+neoplasm,DOXORUBICIN,4,n/a,TOP2A,1
+neoplasm,ETOPOSIDE,0,Terminated,TOP2A,1
+small cell lung carcinoma,VOSAROXIN,2,Completed,TOP2A,1
+neoplasm,ETOPOSIDE,1,Not yet recruiting,TOP2A,1
+ovarian carcinoma,ETOPOSIDE,1,Completed,TOP2A,1
+small cell lung carcinoma,ETOPOSIDE,4,Unknown status,TOP2A,1
+small cell lung carcinoma,ETOPOSIDE,3,Withdrawn,TOP2A,1
+neoplasm,ETOPOSIDE,1,Recruiting,TOP2A,1
+neoplasm,AMRUBICIN,4,n/a,TOP2A,1
+neoplasm,AMRUBICIN,1,Completed,TOP2A,1
+rhabdomyosarcoma,ETOPOSIDE,2,Recruiting,TOP2A,1
+ovarian carcinoma,ETOPOSIDE,2,Not yet recruiting,TOP2A,1
+ovarian carcinoma,MITOXANTRONE,3,Terminated,TOP2A,1
+ovarian carcinoma,MITOXANTRONE,2,Completed,TOP2A,1
+ovarian carcinoma,ETOPOSIDE PHOSPHATE,1,Unknown status,TOP2A,1
+myeloid sarcoma,DAUNORUBICIN,3,"Active, not recruiting",TOP2A,1
+soft tissue sarcoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+myeloid sarcoma,ETOPOSIDE,3,"Active, not recruiting",TOP2A,1
+ovarian carcinoma,ETOPOSIDE,2,Recruiting,TOP2A,1
+soft tissue sarcoma,AMRUBICIN,2,Completed,TOP2A,1
+nasopharyngeal neoplasm,DOXORUBICIN,2,Terminated,TOP2A,1
+myeloid sarcoma,MITOXANTRONE,3,"Active, not recruiting",TOP2A,1
+rhabdomyosarcoma,ETOPOSIDE,2,Completed,TOP2A,1
+small intestine carcinoma,ETOPOSIDE,1,Completed,TOP2A,1
+myeloproliferative disorder,DAUNORUBICIN,3,Completed,TOP2A,1
+myeloproliferative disorder,DOXORUBICIN,1,Completed,TOP2A,1
+myeloproliferative disorder,ETOPOSIDE,1,Completed,TOP2A,1
+oligoastrocytoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+salivary gland neoplasm,DOXORUBICIN,2,Recruiting,TOP2A,1
+neoplasm,ETOPOSIDE,1,Terminated,TOP2A,1
+neoplasm of mature T-cells or NK-cells,ETOPOSIDE,2,Recruiting,TOP2A,1
+small cell lung carcinoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+ovarian carcinoma,DOXORUBICIN,2,Withdrawn,TOP2A,1
+neoplasm of mature B-cells,DOXORUBICIN,2,Unknown status,TOP2A,1
+sarcoma,ALDOXORUBICIN,2,Unknown status,TOP2A,1
+sarcoma,ALDOXORUBICIN,3,Completed,TOP2A,1
+neoplasm of mature B-cells,DOXORUBICIN,3,Completed,TOP2A,1
+neoplasm of mature B-cells,DOXORUBICIN,3,Terminated,TOP2A,1
+neoplasm of mature B-cells,DOXORUBICIN,3,Unknown status,TOP2A,1
+neoplasm of mature B-cells,ETOPOSIDE,1,"Active, not recruiting",TOP2A,1
+neoplasm of mature B-cells,ETOPOSIDE,1,Terminated,TOP2A,1
+neoplasm of mature B-cells,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+neoplasm of mature B-cells,ETOPOSIDE,2,Completed,TOP2A,1
+small cell lung carcinoma,ETOPOSIDE,2,Terminated,TOP2A,1
+neoplasm of mature B-cells,ETOPOSIDE,2,Recruiting,TOP2A,1
+neoplasm of mature B-cells,ETOPOSIDE,3,Recruiting,TOP2A,1
+sarcoma,DAUNORUBICIN,1,Terminated,TOP2A,1
+neoplasm of mature B-cells,MITOXANTRONE,3,Terminated,TOP2A,1
+neoplasm of mature T-cells or NK-cells,ETOPOSIDE,2,Completed,TOP2A,1
+small cell lung carcinoma,ETOPOSIDE,2,Withdrawn,TOP2A,1
+neoplasm of mature B-cells,DOXORUBICIN,2,Not yet recruiting,TOP2A,1
+neoplasm of mature B-cells,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+sarcoma,ALDOXORUBICIN,1,Unknown status,TOP2A,1
+neoplasm,ETOPOSIDE,1,Unknown status,TOP2A,1
+neoplasm,ETOPOSIDE,1,Withdrawn,TOP2A,1
+neoplasm,ETOPOSIDE,2,Recruiting,TOP2A,1
+neoplasm,ETOPOSIDE,2,Terminated,TOP2A,1
+ovarian carcinoma,DOXORUBICIN,3,Terminated,TOP2A,1
+neoplasm,ETOPOSIDE,3,"Active, not recruiting",TOP2A,1
+neoplasm,ETOPOSIDE,3,Completed,TOP2A,1
+neoplasm,ETOPOSIDE PHOSPHATE,4,n/a,TOP2A,1
+neoplasm of mature B-cells,DOXORUBICIN,1,Completed,TOP2A,1
+neoplasm,IDARUBICIN,4,n/a,TOP2A,1
+ovarian carcinoma,DOXORUBICIN,3,Suspended,TOP2A,1
+neoplasm,MITOXANTRONE,4,n/a,TOP2A,1
+neoplasm,TENIPOSIDE,4,n/a,TOP2A,1
+neoplasm,VALRUBICIN,4,n/a,TOP2A,1
+ovarian carcinoma,DOXORUBICIN,3,Recruiting,TOP2A,1
+neoplasm,VOSAROXIN,4,n/a,TOP2A,1
+medulloblastoma,ETOPOSIDE,2,Unknown status,TOP2A,1
+B-cell acute lymphoblastic leukemia,DOXORUBICIN,1,Recruiting,TOP2A,1
+medulloblastoma,ETOPOSIDE,2,Completed,TOP2A,1
+acute myeloid leukemia,IDARUBICIN,3,Terminated,TOP2A,1
+acute myeloid leukemia,DOXORUBICIN,2,Recruiting,TOP2A,1
+acute myeloid leukemia,DOXORUBICIN,2,Terminated,TOP2A,1
+acute myeloid leukemia,ETOPOSIDE,0,Recruiting,TOP2A,1
+acute myeloid leukemia,ETOPOSIDE,2,Withdrawn,TOP2A,1
+acute myeloid leukemia,ETOPOSIDE,3,Recruiting,TOP2A,1
+acute myeloid leukemia,ETOPOSIDE,4,Unknown status,TOP2A,1
+acute myeloid leukemia,ETOPOSIDE PHOSPHATE,1,Completed,TOP2A,1
+acute myeloid leukemia,IDARUBICIN,1,Terminated,TOP2A,1
+acute myeloid leukemia,IDARUBICIN,1,Unknown status,TOP2A,1
+acute myeloid leukemia,IDARUBICIN,2,Not yet recruiting,TOP2A,1
+acute myeloid leukemia,IDARUBICIN,2,Withdrawn,TOP2A,1
+acute myeloid leukemia,IDARUBICIN,3,Recruiting,TOP2A,1
+acute myeloid leukemia,IDARUBICIN,3,Unknown status,TOP2A,1
+acute lymphoblastic leukemia,IDARUBICIN,3,Completed,TOP2A,1
+acute myeloid leukemia,MITOXANTRONE,2,Suspended,TOP2A,1
+acute myeloid leukemia,MITOXANTRONE,2,Unknown status,TOP2A,1
+acute myeloid leukemia,MITOXANTRONE,3,Unknown status,TOP2A,1
+acute myeloid leukemia,MITOXANTRONE,4,"Active, not recruiting",TOP2A,1
+acute myeloid leukemia,MITOXANTRONE,4,Completed,TOP2A,1
+acute myeloid leukemia,VOSAROXIN,1,Completed,TOP2A,1
+acute myeloid leukemia,VOSAROXIN,3,Completed,TOP2A,1
+acute myelomonocytic leukemia,DAUNORUBICIN,3,Completed,TOP2A,1
+acute myelomonocytic leukemia,ETOPOSIDE,3,Completed,TOP2A,1
+acute promyelocytic leukemia,IDARUBICIN,2,Completed,TOP2A,1
+acute promyelocytic leukemia,IDARUBICIN,3,Completed,TOP2A,1
+acute promyelocytic leukemia,IDARUBICIN,4,Recruiting,TOP2A,1
+acute myeloid leukemia,DOXORUBICIN,2,Not yet recruiting,TOP2A,1
+acute myeloid leukemia,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+acute myeloid leukemia,DOXORUBICIN,1,Recruiting,TOP2A,1
+acute myeloid leukemia,DAUNORUBICIN,4,n/a,TOP2A,1
+acute lymphoblastic leukemia,MITOXANTRONE,1,Terminated,TOP2A,1
+acute lymphoblastic leukemia,MITOXANTRONE,2,Completed,TOP2A,1
+acute lymphoblastic leukemia,MITOXANTRONE,2,Not yet recruiting,TOP2A,1
+acute lymphoblastic leukemia,MITOXANTRONE,3,Completed,TOP2A,1
+acute lymphoblastic leukemia,MITOXANTRONE,3,Recruiting,TOP2A,1
+acute lymphoblastic leukemia,MITOXANTRONE,4,Unknown status,TOP2A,1
+acute lymphoblastic leukemia,TENIPOSIDE,3,Completed,TOP2A,1
+acute lymphoblastic leukemia,TENIPOSIDE,4,Unknown status,TOP2A,1
+acute lymphoblastic leukemia,VOSAROXIN,1,Completed,TOP2A,1
+acute megakaryoblastic leukaemia,DAUNORUBICIN,3,Completed,TOP2A,1
+acute megakaryoblastic leukaemia,ETOPOSIDE,3,Completed,TOP2A,1
+acute monocytic leukemia,DAUNORUBICIN,3,Completed,TOP2A,1
+acute monocytic leukemia,ETOPOSIDE,3,Completed,TOP2A,1
+acute monocytic leukemia,IDARUBICIN,1,Withdrawn,TOP2A,1
+acute myeloblastic leukemia without maturation,DAUNORUBICIN,3,Completed,TOP2A,1
+acute myeloblastic leukemia without maturation,ETOPOSIDE,3,Completed,TOP2A,1
+acute myeloid leukemia,AMSACRINE,3,Not yet recruiting,TOP2A,1
+acute myeloid leukemia,AMSACRINE,4,Completed,TOP2A,1
+acute myeloid leukemia,DAUNORUBICIN,0,Recruiting,TOP2A,1
+acute myeloid leukemia,DAUNORUBICIN,1,Not yet recruiting,TOP2A,1
+acute myeloid leukemia,DAUNORUBICIN,2,Unknown status,TOP2A,1
+acute myeloid leukemia,DAUNORUBICIN,3,Enrolling by invitation,TOP2A,1
+acute myeloid leukemia,DAUNORUBICIN,3,Terminated,TOP2A,1
+acute myeloid leukemia,DAUNORUBICIN,4,"Active, not recruiting",TOP2A,1
+acute myeloid leukemia,DAUNORUBICIN,4,Completed,TOP2A,1
+acute promyelocytic leukemia,MITOXANTRONE,3,Completed,TOP2A,1
+acute promyelocytic leukemia,MITOXANTRONE,4,Completed,TOP2A,1
+acute promyelocytic leukemia,MITOXANTRONE,4,Recruiting,TOP2A,1
+biliary tract neoplasm,BECATECARIN,3,Terminated,TOP2A,1
+bladder carcinoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+bladder carcinoma,DOXORUBICIN,3,Recruiting,TOP2A,1
+bladder carcinoma,DOXORUBICIN,3,Terminated,TOP2A,1
+bladder carcinoma,VALRUBICIN,3,Unknown status,TOP2A,1
+bladder transitional cell carcinoma,VALRUBICIN,3,Terminated,TOP2A,1
+brain neoplasm,ETOPOSIDE,0,Recruiting,TOP2A,1
+breast adenocarcinoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+breast adenocarcinoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+breast adenocarcinoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+breast adenocarcinoma,DOXORUBICIN,3,Recruiting,TOP2A,1
+breast carcinoma,ALDOXORUBICIN,1,Recruiting,TOP2A,1
+breast carcinoma,ALDOXORUBICIN,2,Not yet recruiting,TOP2A,1
+breast carcinoma,AMRUBICIN,1,Completed,TOP2A,1
+breast carcinoma,AMRUBICIN,2,Withdrawn,TOP2A,1
+breast carcinoma,DAUNORUBICIN,1,Unknown status,TOP2A,1
+breast carcinoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+breast carcinoma,DOXORUBICIN,3,Suspended,TOP2A,1
+breast carcinoma,ETOPOSIDE,1,Completed,TOP2A,1
+breast carcinoma,ETOPOSIDE,2,Recruiting,TOP2A,1
+breast carcinoma,ETOPOSIDE,3,Completed,TOP2A,1
+breast carcinoma,MITOXANTRONE,2,Recruiting,TOP2A,1
+breast carcinoma,MM-302,1,Unknown status,TOP2A,1
+breast carcinoma,MM-302,2,Terminated,TOP2A,1
+breast neoplasm,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+breast neoplasm,DOXORUBICIN,1,Completed,TOP2A,1
+bladder carcinoma,AMRUBICIN,2,Terminated,TOP2A,1
+autoimmune thrombocytopenic purpura,DOXORUBICIN,2,Unknown status,TOP2A,1
+acute promyelocytic leukemia,MITOXANTRONE,4,Unknown status,TOP2A,1
+autoimmune disease,ETOPOSIDE,2,Recruiting,TOP2A,1
+adenoid cystic carcinoma,DOXORUBICIN,2,Completed,TOP2A,1
+adrenal cortex carcinoma,DOXORUBICIN,1,Completed,TOP2A,1
+adrenal cortex carcinoma,DOXORUBICIN,3,Completed,TOP2A,1
+adrenal cortex carcinoma,ETOPOSIDE,3,Completed,TOP2A,1
+adrenal cortex carcinoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+adult T acute lymphoblastic leukemia,DAUNORUBICIN,3,Suspended,TOP2A,1
+adult T acute lymphoblastic leukemia,DOXORUBICIN,3,Suspended,TOP2A,1
+adult T acute lymphoblastic leukemia,ETOPOSIDE,3,Suspended,TOP2A,1
+adult acute myeloid leukemia,DAUNORUBICIN,2,Recruiting,TOP2A,1
+adult acute myeloid leukemia,IDARUBICIN,2,Recruiting,TOP2A,1
+alveolar rhabdomyosarcoma,DOXORUBICIN,2,Completed,TOP2A,1
+alveolar rhabdomyosarcoma,ETOPOSIDE,2,Completed,TOP2A,1
+anaplastic astrocytoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+anaplastic astrocytoma,ETOPOSIDE,1,Recruiting,TOP2A,1
+anaplastic large cell lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+anaplastic large cell lymphoma,DOXORUBICIN,2,Completed,TOP2A,1
+anaplastic large cell lymphoma,DOXORUBICIN,2,Suspended,TOP2A,1
+anaplastic large cell lymphoma,DOXORUBICIN,2,Terminated,TOP2A,1
+anaplastic large cell lymphoma,ETOPOSIDE,1,Terminated,TOP2A,1
+anaplastic large cell lymphoma,ETOPOSIDE,2,Completed,TOP2A,1
+anaplastic large cell lymphoma,ETOPOSIDE,2,Suspended,TOP2A,1
+angioimmunoblastic T-cell lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+angioimmunoblastic T-cell lymphoma,DOXORUBICIN,2,Completed,TOP2A,1
+angioimmunoblastic T-cell lymphoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+angioimmunoblastic T-cell lymphoma,DOXORUBICIN,3,Unknown status,TOP2A,1
+acute lymphoblastic leukemia,IDARUBICIN,3,Terminated,TOP2A,1
+acute lymphoblastic leukemia,IDARUBICIN,2,Not yet recruiting,TOP2A,1
+malignant pleural mesothelioma,DOXORUBICIN,2,Unknown status,TOP2A,1
+Kaposi's sarcoma,DOXORUBICIN,2,Completed,TOP2A,1
+Hodgkins lymphoma,DOXORUBICIN,3,Withdrawn,TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE,1,Withdrawn,TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE,2,Not yet recruiting,TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE,2,Terminated,TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE,2,Unknown status,TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE,3,"Active, not recruiting",TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE,4,Recruiting,TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE,4,Unknown status,TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE PHOSPHATE,1,Completed,TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE PHOSPHATE,2,Completed,TOP2A,1
+Hodgkins lymphoma,ETOPOSIDE PHOSPHATE,3,Completed,TOP2A,1
+Kaposi's sarcoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+Kaposi's sarcoma,DOXORUBICIN,3,Completed,TOP2A,1
+acute lymphoblastic leukemia,IDARUBICIN,1,Recruiting,TOP2A,1
+Kaposi's sarcoma,ETOPOSIDE,1,Completed,TOP2A,1
+Kidney Medullary Carcinoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+"Lymphoma, AIDS-Related",DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+"Lymphoma, AIDS-Related",DOXORUBICIN,2,Terminated,TOP2A,1
+"Lymphoma, AIDS-Related",ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+Malignant epithelial tumor of ovary,DOXORUBICIN,2,Recruiting,TOP2A,1
+Mantle cell lymphoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+Mantle cell lymphoma,DOXORUBICIN,2,Not yet recruiting,TOP2A,1
+Mantle cell lymphoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+Mantle cell lymphoma,DOXORUBICIN,4,Recruiting,TOP2A,1
+Mantle cell lymphoma,ETOPOSIDE,2,Completed,TOP2A,1
+Mantle cell lymphoma,ETOPOSIDE,3,Unknown status,TOP2A,1
+Hodgkins lymphoma,DOXORUBICIN,3,Unknown status,TOP2A,1
+Hodgkins lymphoma,DOXORUBICIN,2,Not yet recruiting,TOP2A,1
+Hereditary breast and ovarian cancer syndrome,DOXORUBICIN,2,Recruiting,TOP2A,1
+Hepatoblastoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+Burkitts lymphoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+Burkitts lymphoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+Burkitts lymphoma,ETOPOSIDE,2,Completed,TOP2A,1
+Burkitts lymphoma,ETOPOSIDE,3,Completed,TOP2A,1
+Burkitts lymphoma,ETOPOSIDE,3,Suspended,TOP2A,1
+Chordoma,ALDOXORUBICIN,1,Not yet recruiting,TOP2A,1
+Cutaneous T-cell lymphoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+Endometrial Clear Cell Adenocarcinoma,DOXORUBICIN,1,Completed,TOP2A,1
+Endometrial Serous Adenocarcinoma,DOXORUBICIN,1,Completed,TOP2A,1
+Ewing sarcoma,DOXORUBICIN,1,Completed,TOP2A,1
+Ewing sarcoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+Ewing sarcoma,DOXORUBICIN,3,Recruiting,TOP2A,1
+Ewing sarcoma,ETOPOSIDE,2,Recruiting,TOP2A,1
+Ewing sarcoma,ETOPOSIDE,2,Terminated,TOP2A,1
+Ewing sarcoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+Fallopian Tube Carcinoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+Fallopian Tube Carcinoma,DOXORUBICIN,2,Completed,TOP2A,1
+Fallopian Tube Carcinoma,DOXORUBICIN,2,Terminated,TOP2A,1
+Fallopian Tube Carcinoma,DOXORUBICIN,3,Completed,TOP2A,1
+Fallopian Tube Carcinoma,ETOPOSIDE,1,Completed,TOP2A,1
+Fallopian Tube Carcinoma,ETOPOSIDE,1,Terminated,TOP2A,1
+Fallopian Tube Carcinoma,ETOPOSIDE PHOSPHATE,1,Unknown status,TOP2A,1
+Gestational trophoblastic neoplasm,ETOPOSIDE,3,Recruiting,TOP2A,1
+Granulocytic Sarcoma,MITOXANTRONE,2,Recruiting,TOP2A,1
+HIV-1 infection,ETOPOSIDE,3,"Active, not recruiting",TOP2A,1
+Mantle cell lymphoma,ETOPOSIDE,4,Recruiting,TOP2A,1
+Merkel cell skin cancer,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+Nephroblastoma,ETOPOSIDE,3,Completed,TOP2A,1
+acute basophilic leukemia,DAUNORUBICIN,3,Completed,TOP2A,1
+acute erythroblastic leukemia,IDARUBICIN,1,Withdrawn,TOP2A,1
+acute erythroleukemia,DAUNORUBICIN,3,Completed,TOP2A,1
+acute erythroleukemia,ETOPOSIDE,3,Completed,TOP2A,1
+acute graft vs. host disease,ETOPOSIDE,1,Completed,TOP2A,1
+acute lymphoblastic leukemia,DAUNORUBICIN,2,"Active, not recruiting",TOP2A,1
+acute lymphoblastic leukemia,DAUNORUBICIN,2,Not yet recruiting,TOP2A,1
+acute lymphoblastic leukemia,DAUNORUBICIN,2,Recruiting,TOP2A,1
+acute lymphoblastic leukemia,DAUNORUBICIN,3,Completed,TOP2A,1
+acute lymphoblastic leukemia,DAUNORUBICIN,3,Terminated,TOP2A,1
+acute lymphoblastic leukemia,DAUNORUBICIN,3,Unknown status,TOP2A,1
+acute lymphoblastic leukemia,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+acute lymphoblastic leukemia,DOXORUBICIN,1,Not yet recruiting,TOP2A,1
+acute lymphoblastic leukemia,DOXORUBICIN,2,Not yet recruiting,TOP2A,1
+acute lymphoblastic leukemia,DOXORUBICIN,2,Terminated,TOP2A,1
+acute lymphoblastic leukemia,DOXORUBICIN,3,Completed,TOP2A,1
+acute lymphoblastic leukemia,DOXORUBICIN,3,Terminated,TOP2A,1
+acute lymphoblastic leukemia,DOXORUBICIN,3,Unknown status,TOP2A,1
+acute lymphoblastic leukemia,ETOPOSIDE,0,Completed,TOP2A,1
+acute lymphoblastic leukemia,ETOPOSIDE,1,Recruiting,TOP2A,1
+acute lymphoblastic leukemia,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+acute lymphoblastic leukemia,ETOPOSIDE,2,Not yet recruiting,TOP2A,1
+acute lymphoblastic leukemia,ETOPOSIDE,2,Withdrawn,TOP2A,1
+acute lymphoblastic leukemia,ETOPOSIDE,3,Terminated,TOP2A,1
+acute lymphoblastic leukemia,ETOPOSIDE,4,Recruiting,TOP2A,1
+acute lymphoblastic leukemia,ETOPOSIDE PHOSPHATE,2,"Active, not recruiting",TOP2A,1
+acute basophilic leukemia,ETOPOSIDE,3,Completed,TOP2A,1
+abnormality of blood and blood-forming tissues,ETOPOSIDE,2,Terminated,TOP2A,1
+Primary hemophagocytic lymphohistiocytosis,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+Thyroid Gland Undifferentiated (Anaplastic) Carcinoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+Primary hemophagocytic lymphohistiocytosis,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+Primary hemophagocytic lymphohistiocytosis,ETOPOSIDE,2,Completed,TOP2A,1
+Primary hemophagocytic lymphohistiocytosis,ETOPOSIDE,3,Completed,TOP2A,1
+Primary hemophagocytic lymphohistiocytosis,ETOPOSIDE,3,Not yet recruiting,TOP2A,1
+Primary systemic amyloidosis,DOXORUBICIN,1,Terminated,TOP2A,1
+Retinoblastoma,DOXORUBICIN,2,Completed,TOP2A,1
+Retinoblastoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+Retinoblastoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+Retinoblastoma,ETOPOSIDE,1,"Active, not recruiting",TOP2A,1
+Retinoblastoma,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+Retinoblastoma,ETOPOSIDE,3,Completed,TOP2A,1
+Retinoblastoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+Retinoblastoma,ETOPOSIDE,3,Terminated,TOP2A,1
+Retinoblastoma,ETOPOSIDE,3,Unknown status,TOP2A,1
+T-cell acute lymphoblastic leukemia,DOXORUBICIN,1,Completed,TOP2A,1
+T-cell acute lymphoblastic leukemia,DOXORUBICIN,1,Recruiting,TOP2A,1
+T-cell acute lymphoblastic leukemia,DOXORUBICIN,2,Completed,TOP2A,1
+T-cell acute lymphoblastic leukemia,DOXORUBICIN,3,Unknown status,TOP2A,1
+T-cell acute lymphoblastic leukemia,DOXORUBICIN,4,Completed,TOP2A,1
+T-cell acute lymphoblastic leukemia,ETOPOSIDE,1,Completed,TOP2A,1
+Thymic Carcinoma,AMRUBICIN,2,"Active, not recruiting",TOP2A,1
+Thymic Carcinoma,DOXORUBICIN,1,Terminated,TOP2A,1
+Thymoma,AMRUBICIN,2,"Active, not recruiting",TOP2A,1
+Thymoma,DOXORUBICIN,1,Terminated,TOP2A,1
+Thymoma,ETOPOSIDE,2,Completed,TOP2A,1
+breast neoplasm,DOXORUBICIN,1,Recruiting,TOP2A,1
+breast neoplasm,DOXORUBICIN,1,Terminated,TOP2A,1
+breast neoplasm,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+leukemia,ETOPOSIDE PHOSPHATE,2,Unknown status,TOP2A,1
+leukemia,DAUNORUBICIN,1,Unknown status,TOP2A,1
+leukemia,DAUNORUBICIN,2,"Active, not recruiting",TOP2A,1
+leukemia,DAUNORUBICIN,2,Terminated,TOP2A,1
+leukemia,DAUNORUBICIN,3,Recruiting,TOP2A,1
+leukemia,DAUNORUBICIN,3,Withdrawn,TOP2A,1
+leukemia,DOXORUBICIN,1,Recruiting,TOP2A,1
+B-cell acute lymphoblastic leukemia,DOXORUBICIN,2,Completed,TOP2A,1
+leukemia,ETOPOSIDE,1,Terminated,TOP2A,1
+leukemia,ETOPOSIDE,1,Unknown status,TOP2A,1
+leukemia,ETOPOSIDE,3,Terminated,TOP2A,1
+leukemia,ETOPOSIDE PHOSPHATE,1,Completed,TOP2A,1
+leukemia,ETOPOSIDE PHOSPHATE,2,Recruiting,TOP2A,1
+leukemia,IDARUBICIN,1,"Active, not recruiting",TOP2A,1
+breast neoplasm,DOXORUBICIN,2,Recruiting,TOP2A,1
+leukemia,IDARUBICIN,1,Recruiting,TOP2A,1
+leukemia,IDARUBICIN,1,Withdrawn,TOP2A,1
+leukemia,IDARUBICIN,3,"Active, not recruiting",TOP2A,1
+leukemia,MITOXANTRONE,1,"Active, not recruiting",TOP2A,1
+leukemia,MITOXANTRONE,1,Terminated,TOP2A,1
+leukemia,MITOXANTRONE,2,Terminated,TOP2A,1
+leukemia,TENIPOSIDE,2,Unknown status,TOP2A,1
+leukemia,VOSAROXIN,1,"Active, not recruiting",TOP2A,1
+lung adenocarcinoma,ETOPOSIDE,1,Terminated,TOP2A,1
+lung adenocarcinoma,ETOPOSIDE,3,Completed,TOP2A,1
+lung carcinoma,AMRUBICIN,3,"Active, not recruiting",TOP2A,1
+lung carcinoma,BECATECARIN,2,Completed,TOP2A,1
+leukemia,DAUNORUBICIN,1,Terminated,TOP2A,1
+leukemia,AMSACRINE,3,Completed,TOP2A,1
+leukemia,AMSACRINE,2,Recruiting,TOP2A,1
+leukemia,AMSACRINE,1,Completed,TOP2A,1
+head and neck malignant neoplasia,DOXORUBICIN,1,Completed,TOP2A,1
+head and neck malignant neoplasia,DOXORUBICIN,1,Terminated,TOP2A,1
+head and neck malignant neoplasia,DOXORUBICIN,2,Completed,TOP2A,1
+hepatitis B infection,DAUNORUBICIN,3,Recruiting,TOP2A,1
+hepatocellular carcinoma,ALDOXORUBICIN,1,Recruiting,TOP2A,1
+hepatocellular carcinoma,DOXORUBICIN,1,Not yet recruiting,TOP2A,1
+hepatocellular carcinoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+hepatocellular carcinoma,DOXORUBICIN,1,Terminated,TOP2A,1
+hepatocellular carcinoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+hepatocellular carcinoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+hepatocellular carcinoma,DOXORUBICIN,2,Withdrawn,TOP2A,1
+hepatocellular carcinoma,DOXORUBICIN,3,Withdrawn,TOP2A,1
+hepatocellular carcinoma,ETOPOSIDE,2,Terminated,TOP2A,1
+hepatocellular carcinoma,IDARUBICIN,1,Completed,TOP2A,1
+hepatocellular carcinoma,IDARUBICIN,2,Completed,TOP2A,1
+histiocytoma,DOXORUBICIN,3,Unknown status,TOP2A,1
+histiocytoma,ETOPOSIDE,3,Completed,TOP2A,1
+human herpesvirus 8 infection,DOXORUBICIN,2,Recruiting,TOP2A,1
+inflammatory breast carcinoma,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+inflammatory breast carcinoma,DOXORUBICIN,2,Completed,TOP2A,1
+inflammatory breast carcinoma,DOXORUBICIN,3,Terminated,TOP2A,1
+kidney neoplasm,ETOPOSIDE,3,Not yet recruiting,TOP2A,1
+large cell neuroendocrine carcinoma,ETOPOSIDE,2,Unknown status,TOP2A,1
+leiomyosarcoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+leiomyosarcoma,DOXORUBICIN,3,Not yet recruiting,TOP2A,1
+lung carcinoma,DOXORUBICIN,1,Completed,TOP2A,1
+lung carcinoma,DOXORUBICIN,2,Terminated,TOP2A,1
+lung carcinoma,ETOPOSIDE,1,Recruiting,TOP2A,1
+lymphoid leukemia,MITOXANTRONE,2,Enrolling by invitation,TOP2A,1
+lymphoid neoplasm,DAUNORUBICIN,1,Completed,TOP2A,1
+lymphoid neoplasm,ETOPOSIDE,1,Withdrawn,TOP2A,1
+lymphoma,BECATECARIN,1,Completed,TOP2A,1
+lymphoma,DAUNORUBICIN,3,Terminated,TOP2A,1
+lymphoma,DOXORUBICIN,1,Recruiting,TOP2A,1
+lymphoma,DOXORUBICIN,1,Unknown status,TOP2A,1
+lymphoma,DOXORUBICIN,3,Suspended,TOP2A,1
+lymphoma,ETOPOSIDE,0,Terminated,TOP2A,1
+lymphoma,ETOPOSIDE,1,Withdrawn,TOP2A,1
+lymphoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+lymphoma,ETOPOSIDE PHOSPHATE,2,Recruiting,TOP2A,1
+lymphoma,ETOPOSIDE PHOSPHATE,2,Unknown status,TOP2A,1
+lymphoma,IDARUBICIN,1,Completed,TOP2A,1
+lymphoma,IDARUBICIN,2,Terminated,TOP2A,1
+lymphoma,MITOXANTRONE,1,Completed,TOP2A,1
+lymphoma,MITOXANTRONE,2,"Active, not recruiting",TOP2A,1
+lymphoma,MITOXANTRONE,2,Recruiting,TOP2A,1
+lymphoma,MITOXANTRONE,2,Unknown status,TOP2A,1
+lymphoma,MITOXANTRONE,2,Withdrawn,TOP2A,1
+lymphoma,TENIPOSIDE,1,Completed,TOP2A,1
+lymphoma,TENIPOSIDE,2,Completed,TOP2A,1
+male breast carcinoma,BECATECARIN,2,Completed,TOP2A,1
+male breast carcinoma,DOXORUBICIN,1,Terminated,TOP2A,1
+male breast carcinoma,DOXORUBICIN,2,Completed,TOP2A,1
+male breast carcinoma,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+lymphoid leukemia,MITOXANTRONE,2,Suspended,TOP2A,1
+lymphoid leukemia,IDARUBICIN,2,Recruiting,TOP2A,1
+lung carcinoma,ETOPOSIDE,1,Terminated,TOP2A,1
+lymphoid leukemia,ETOPOSIDE PHOSPHATE,2,Completed,TOP2A,1
+lung carcinoma,ETOPOSIDE,2,Recruiting,TOP2A,1
+lung carcinoma,ETOPOSIDE,2,Withdrawn,TOP2A,1
+lung carcinoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+lung carcinoma,ETOPOSIDE PHOSPHATE,1,Withdrawn,TOP2A,1
+lung carcinoma,ETOPOSIDE PHOSPHATE,3,Completed,TOP2A,1
+lung carcinoma,ETOPOSIDE PHOSPHATE,3,Unknown status,TOP2A,1
+lymphoid leukemia,DAUNORUBICIN,2,"Active, not recruiting",TOP2A,1
+lymphoid leukemia,DAUNORUBICIN,2,Completed,TOP2A,1
+lymphoid leukemia,DAUNORUBICIN,2,Enrolling by invitation,TOP2A,1
+lymphoid leukemia,DAUNORUBICIN,2,Recruiting,TOP2A,1
+lymphoid leukemia,DAUNORUBICIN,2,Unknown status,TOP2A,1
+lymphoid leukemia,DAUNORUBICIN,3,Completed,TOP2A,1
+lymphoid leukemia,DAUNORUBICIN,4,Completed,TOP2A,1
+lymphoid leukemia,DOXORUBICIN,1,Recruiting,TOP2A,1
+lymphoid leukemia,DOXORUBICIN,1,Terminated,TOP2A,1
+lymphoid leukemia,DOXORUBICIN,2,"Active, not recruiting",TOP2A,1
+lymphoid leukemia,DOXORUBICIN,2,Unknown status,TOP2A,1
+lymphoid leukemia,DOXORUBICIN,3,Completed,TOP2A,1
+lymphoid leukemia,DOXORUBICIN,4,Completed,TOP2A,1
+lymphoid leukemia,ETOPOSIDE,1,Recruiting,TOP2A,1
+lymphoid leukemia,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+lymphoid leukemia,ETOPOSIDE,2,Enrolling by invitation,TOP2A,1
+lymphoid leukemia,ETOPOSIDE,2,Terminated,TOP2A,1
+lymphoid leukemia,ETOPOSIDE,2,Unknown status,TOP2A,1
+lymphoid leukemia,ETOPOSIDE,4,Completed,TOP2A,1
+gliosarcoma,ETOPOSIDE,2,Completed,TOP2A,1
+gliosarcoma,ETOPOSIDE,1,Recruiting,TOP2A,1
+gliosarcoma,ETOPOSIDE,1,Completed,TOP2A,1
+cervical carcinoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+childhood B acute lymphoblastic leukemia,DAUNORUBICIN,1,Completed,TOP2A,1
+childhood B acute lymphoblastic leukemia,DAUNORUBICIN,2,Suspended,TOP2A,1
+childhood B acute lymphoblastic leukemia,DOXORUBICIN,2,Completed,TOP2A,1
+childhood B acute lymphoblastic leukemia,ETOPOSIDE,2,Terminated,TOP2A,1
+childhood B acute lymphoblastic leukemia,ETOPOSIDE,3,Completed,TOP2A,1
+childhood B acute lymphoblastic leukemia,ETOPOSIDE PHOSPHATE,2,Completed,TOP2A,1
+childhood B acute lymphoblastic leukemia,IDARUBICIN,4,Unknown status,TOP2A,1
+childhood T acute lymphoblastic leukemia,DAUNORUBICIN,1,Completed,TOP2A,1
+childhood T acute lymphoblastic leukemia,DAUNORUBICIN,3,Completed,TOP2A,1
+childhood T acute lymphoblastic leukemia,DAUNORUBICIN,3,Suspended,TOP2A,1
+childhood T acute lymphoblastic leukemia,DOXORUBICIN,2,Completed,TOP2A,1
+childhood T acute lymphoblastic leukemia,DOXORUBICIN,3,Suspended,TOP2A,1
+childhood T acute lymphoblastic leukemia,ETOPOSIDE,3,Completed,TOP2A,1
+childhood T acute lymphoblastic leukemia,ETOPOSIDE,3,Suspended,TOP2A,1
+childhood T acute lymphoblastic leukemia,ETOPOSIDE PHOSPHATE,2,Completed,TOP2A,1
+childhood acute myeloid leukemia,DAUNORUBICIN,1,Completed,TOP2A,1
+childhood acute myeloid leukemia,DAUNORUBICIN,3,Completed,TOP2A,1
+childhood acute myeloid leukemia,ETOPOSIDE,2,Completed,TOP2A,1
+childhood acute myeloid leukemia,ETOPOSIDE,3,Completed,TOP2A,1
+childhood acute myeloid leukemia,IDARUBICIN,3,Completed,TOP2A,1
+childhood acute myeloid leukemia,MITOXANTRONE,3,Completed,TOP2A,1
+childhood acute myeloid leukemia with maturation,DAUNORUBICIN,3,Completed,TOP2A,1
+childhood acute myeloid leukemia with maturation,ETOPOSIDE,3,Completed,TOP2A,1
+childhood supratentorial ependymoma,ETOPOSIDE,3,Recruiting,TOP2A,1
+cholangiocarcinoma,DOXORUBICIN,2,Recruiting,TOP2A,1
+cervical carcinoma,DOXORUBICIN,2,Terminated,TOP2A,1
+central nervous system cancer,MITOXANTRONE,1,Recruiting,TOP2A,1
+choroid plexus cancer,ETOPOSIDE,3,Completed,TOP2A,1
+central nervous system cancer,ETOPOSIDE PHOSPHATE,3,Completed,TOP2A,1
+breast neoplasm,DOXORUBICIN,2,Unknown status,TOP2A,1
+breast neoplasm,DOXORUBICIN,3,"Active, not recruiting",TOP2A,1
+breast neoplasm,DOXORUBICIN,3,Recruiting,TOP2A,1
+breast neoplasm,DOXORUBICIN,4,Completed,TOP2A,1
+cancer,DOXORUBICIN,1,Recruiting,TOP2A,1
+cancer,DOXORUBICIN,1,Terminated,TOP2A,1
+cancer,DOXORUBICIN,1,Withdrawn,TOP2A,1
+cancer,ETOPOSIDE,1,"Active, not recruiting",TOP2A,1
+cancer,ETOPOSIDE,1,Suspended,TOP2A,1
+cancer,ETOPOSIDE,2,Recruiting,TOP2A,1
+carcinoma,BERUBICIN,1,Terminated,TOP2A,1
+carcinoma,DOXORUBICIN,1,Completed,TOP2A,1
+carcinoma,DOXORUBICIN,2,Completed,TOP2A,1
+carcinoma,DOXORUBICIN,2,Unknown status,TOP2A,1
+carcinoma,DOXORUBICIN,3,Completed,TOP2A,1
+carcinoma,DOXORUBICIN,3,Unknown status,TOP2A,1
+carcinoma,ETOPOSIDE,2,Completed,TOP2A,1
+carcinoma,ETOPOSIDE,3,Completed,TOP2A,1
+carcinoma,ETOPOSIDE,3,Unknown status,TOP2A,1
+carcinoma,ETOPOSIDE PHOSPHATE,3,Recruiting,TOP2A,1
+central nervous system cancer,BERUBICIN,1,Completed,TOP2A,1
+central nervous system cancer,DOXORUBICIN,1,Completed,TOP2A,1
+central nervous system cancer,DOXORUBICIN,2,Completed,TOP2A,1
+central nervous system cancer,ETOPOSIDE,3,Completed,TOP2A,1
+central nervous system cancer,ETOPOSIDE PHOSPHATE,2,Recruiting,TOP2A,1
+choroid plexus cancer,DOXORUBICIN,3,Suspended,TOP2A,1
+choroid plexus cancer,ETOPOSIDE,3,Suspended,TOP2A,1
+glioma,ETOPOSIDE,2,Completed,TOP2A,1
+diffuse large B-cell lymphoma,ETOPOSIDE,3,Suspended,TOP2A,1
+diffuse large B-cell lymphoma,ETOPOSIDE,3,Unknown status,TOP2A,1
+diffuse large B-cell lymphoma,ETOPOSIDE PHOSPHATE,3,Recruiting,TOP2A,1
+diffuse large B-cell lymphoma,MITOXANTRONE,2,Terminated,TOP2A,1
+diffuse large B-cell lymphoma,MITOXANTRONE,3,Unknown status,TOP2A,1
+ductal adenocarcinoma,DOXORUBICIN,2,Terminated,TOP2A,1
+embryonal rhabdomyosarcoma,DOXORUBICIN,2,Completed,TOP2A,1
+embryonal rhabdomyosarcoma,ETOPOSIDE,2,Completed,TOP2A,1
+endometrial neoplasm,DOXORUBICIN,2,Terminated,TOP2A,1
+endometrial neoplasm,DOXORUBICIN,2,Unknown status,TOP2A,1
+endometrial neoplasm,DOXORUBICIN,2,Withdrawn,TOP2A,1
+endometrial neoplasm,DOXORUBICIN,3,Recruiting,TOP2A,1
+ependymoma,ETOPOSIDE,1,Recruiting,TOP2A,1
+ependymoma,ETOPOSIDE,2,Recruiting,TOP2A,1
+ependymoma,ETOPOSIDE,2,Terminated,TOP2A,1
+esophageal carcinoma,DOXORUBICIN,2,Unknown status,TOP2A,1
+gastric carcinoma,DOXORUBICIN,2,Unknown status,TOP2A,1
+gastric carcinoma,ETOPOSIDE,2,Not yet recruiting,TOP2A,1
+gastric carcinoma,ETOPOSIDE,3,Unknown status,TOP2A,1
+germ cell tumor,ETOPOSIDE,2,Recruiting,TOP2A,1
+germ cell tumor,ETOPOSIDE,2,Unknown status,TOP2A,1
+germ cell tumor,ETOPOSIDE,3,Recruiting,TOP2A,1
+germ cell tumor,ETOPOSIDE,4,Unknown status,TOP2A,1
+glioblastoma multiforme,ALDOXORUBICIN,2,Completed,TOP2A,1
+glioblastoma multiforme,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+glioblastoma multiforme,DOXORUBICIN,1,Completed,TOP2A,1
+diffuse large B-cell lymphoma,ETOPOSIDE,3,Terminated,TOP2A,1
+diffuse large B-cell lymphoma,ETOPOSIDE,2,Not yet recruiting,TOP2A,1
+chronic lymphocytic leukemia,DOXORUBICIN,2,Completed,TOP2A,1
+diffuse large B-cell lymphoma,ETOPOSIDE,2,Enrolling by invitation,TOP2A,1
+chronic lymphocytic leukemia,DOXORUBICIN,3,Completed,TOP2A,1
+chronic lymphocytic leukemia,MITOXANTRONE,3,Terminated,TOP2A,1
+chronic myelogenous leukemia,DAUNORUBICIN,1,Terminated,TOP2A,1
+chronic myelogenous leukemia,ETOPOSIDE,1,Completed,TOP2A,1
+chronic myelogenous leukemia,IDARUBICIN,2,Completed,TOP2A,1
+chronic myelogenous leukemia,IDARUBICIN,2,Terminated,TOP2A,1
+chronic myelogenous leukemia,MITOXANTRONE,1,Completed,TOP2A,1
+chronic myelogenous leukemia,VOSAROXIN,1,Completed,TOP2A,1
+chronic myeloproliferative disorder,ETOPOSIDE,1,Completed,TOP2A,1
+chronic myeloproliferative disorder,ETOPOSIDE,2,"Active, not recruiting",TOP2A,1
+chronic myeloproliferative disorder,IDARUBICIN,2,Completed,TOP2A,1
+colorectal cancer,ETOPOSIDE,2,Recruiting,TOP2A,1
+colorectal cancer,ETOPOSIDE,3,Recruiting,TOP2A,1
+colorectal carcinoma,BECATECARIN,2,Completed,TOP2A,1
+colorectal carcinoma,DOXORUBICIN,1,Completed,TOP2A,1
+core binding factor acute myeloid leukemia,DAUNORUBICIN,2,"Active, not recruiting",TOP2A,1
+diffuse large B-cell lymphoma,DOXORUBICIN,1,"Active, not recruiting",TOP2A,1
+diffuse large B-cell lymphoma,DOXORUBICIN,1,Not yet recruiting,TOP2A,1
+diffuse large B-cell lymphoma,DOXORUBICIN,1,Suspended,TOP2A,1
+diffuse large B-cell lymphoma,DOXORUBICIN,2,Enrolling by invitation,TOP2A,1
+diffuse large B-cell lymphoma,DOXORUBICIN,2,Not yet recruiting,TOP2A,1
+diffuse large B-cell lymphoma,DOXORUBICIN,2,Withdrawn,TOP2A,1
+diffuse large B-cell lymphoma,DOXORUBICIN,3,Withdrawn,TOP2A,1
+diffuse large B-cell lymphoma,DOXORUBICIN,4,Recruiting,TOP2A,1
+diffuse large B-cell lymphoma,DOXORUBICIN,4,Unknown status,TOP2A,1
+uterine sarcoma,DOXORUBICIN,3,Unknown status,TOP2A,1
