@@ -1,6 +1,3 @@
 disease,efo_id,evidence_strings_aggregated,evidence_strings_all,evidence_strings_api_response,percentage_difference
-pain,EFO_0003843,4091,15151,15151,-72.998
-asthma,EFO_0000270,667,2587,2587,-74.217
-kidney disease,EFO_0003086,4345,7304,7304,-40.512
-multiple sclerosis,EFO_0003885,1369,2431,2431,-43.686
-inflammatory bowel disease,EFO_0003767,681,1437,1437,-52.61
+breast carcinoma,EFO_0000305,5623,19440,19440,-71.075
+diabetes mellitus,EFO_0000400,4942,46053,46053,-89.269
