@@ -1,11 +1,10 @@
-disease,efo_id,evidence_strings_aggregated,evidence_strings_all,evidence_strings_api_response,percentage_difference
-type 2 diabetes mellitus,EFO_0001360,2205,39485,39485,-94.42
-breast carcinoma,EFO_0000305,5623,19440,19440,-71.08
-non small cell lung carcinoma,EFO_0003060,3589,14183,14183,-74.7
-pain,EFO_0003843,4091,15151,15151,-73.0
-neoplasm,EFO_0000616,84817,185235,185235,-54.21
-asthma,EFO_0000270,667,2587,2587,-74.22
-kidney disease,EFO_0003086,4345,7304,7304,-40.51
-multiple sclerosis,EFO_0003885,1369,2431,2431,-43.69
-inflammatory bowel disease,EFO_0003767,681,1437,1437,-52.61
-chronic obstructive pulmonary disease,EFO_0000341,581,1869,1869,-68.91
+disease,efo_id,evidence_strings_aggregated_excluding_targets,evidence_strings_aggregated_including_targets,evidence_strings_all,number_of_drugs
+diabetes mellitus,EFO_0000400,1315,4942,46053,254
+breast carcinoma,EFO_0000305,1528,5623,19440,369
+non small cell lung carcinoma,EFO_0003060,945,3589,14183,283
+pain,EFO_0003843,1218,4091,15151,252
+asthma,EFO_0000270,467,667,2587,148
+kidney disease,EFO_0003086,1411,4345,7304,346
+multiple sclerosis,EFO_0003885,435,1369,2431,133
+inflammatory bowel disease,EFO_0003767,392,681,1437,108
+chronic obstructive pulmonary disease,EFO_0000341,345,581,1869,111
