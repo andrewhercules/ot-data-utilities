@@ -31,7 +31,7 @@ import datetime
 import os
 
 # set variables needed s for script to run
-zenserp_api_key = '4f9da060-c970-11e9-9159-e767a8b965a3'
+zenserp_api_key = 'API-KEY'
 platform_branch = 'efo3.targetvalidation.org'
 number_of_search_results_to_include = 100
 csv_data = []
