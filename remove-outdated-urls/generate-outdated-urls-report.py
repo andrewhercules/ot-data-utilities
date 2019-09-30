@@ -34,6 +34,11 @@ import os
 zenserp_api_key = 'API-KEY'
 platform_branch = 'efo3.targetvalidation.org'
 number_of_search_results_to_include = 100
+search_engine = 'google.co.uk'
+search_location = 'United Kingdom'
+search_gl = 'UK'
+
+# create array to store CSV data
 csv_data = []
 
 # set Zenserp API key
@@ -44,9 +49,9 @@ headers = {
 # set Google search parameters
 params = (
     ('q', 'site:' + platform_branch),
-    ('location', 'United States'),
-    ('search_engine', 'google.com'),
-    ('gl', 'US'),
+    ('location', search_location),
+    ('search_engine', search_engine),
+    ('gl', search_gl),
     ('hl', 'en'),
     ('num', number_of_search_results_to_include)
 )
@@ -62,7 +67,7 @@ for result in search_data['organic']:
 
 # set date and file name and directory
 today_date = datetime.datetime.now().strftime('%Y-%m-%d')
-full_report_filename = os.path.join('reports/', today_date + '_' + platform_branch + '_report.csv')
+full_report_filename = os.path.join('reports/', today_date + '_' + platform_branch + '_' + search_engine + '_report.csv')
 
 # generate and save CSV with URLs to be removed from Google
 with open(full_report_filename, 'w') as myfile:
